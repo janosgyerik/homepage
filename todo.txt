@@ -1,0 +1,64 @@
+poc
+    bootstrap 3
+    about page
+    apps page
+    host on github
+    serve to new.janosgyerik.com
+
+Site layout
+    |-- pages
+        about
+        websites
+        apps
+        writing
+        ? misc
+            x projects
+            x open-source
+            ? tools
+            ? links
+    |-- posts
+    |-- bits?  // maybe later?
+
+Create new pages
+    websites
+    apps
+    writing
+    tools
+
+Import blog posts from wordpress
+    ! keep old urls working
+    archives
+    categories
+    tags
+
+Hook up with disqus
+    ! see _config.yml
+
+Keep Google Analytics going
+    ! see _config.yml
+
+^^^^^^^^^^^^^^^^^^^
+Migrate the domain!
+
+Sharing on twitter, google+, etc
+    ! see _config.yml
+
+Get next/previous post links working
+
+Sitemap
+
+RSS feeds?
+
+? Tags and individual tag pages
+    maybe not important, at all, as the author said it.
+
+Move all images to Amazon CloudFront
+http://paulstamatiou.com/how-to-getting-started-with-amazon-cloudfront
+
+Be able to parse <!--more-->'s used in WP posts and show post up to that tag for previews.
+    use top part of a post until <!--more--> as a summary in listings
+
+jekyll cheat sheet
+    jekyll serve -w
+    # jekyll installation steps
+
