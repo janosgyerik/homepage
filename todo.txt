@@ -60,5 +60,23 @@ Be able to parse <!--more-->'s used in WP posts and show post up to that tag for
 
 jekyll cheat sheet
     jekyll serve -w
-    # jekyll installation steps
+    todo: jekyll installation steps
+
+    # create a post
+    rake post title="Hello World"
+
+    # create a page
+    rake page name="about.md"
+    # create a nested page
+    rake page name="pages/about.md"
+
+    # Create a page with a "pretty" path:
+    rake page name="pages/about"
+    # this will create the file: ./pages/about/index.html
+    
+
+jekyll links
+    http://jekyllbootstrap.com/usage/jekyll-quick-start.html
+    http://jekyllbootstrap.com/lessons/jekyll-introduction.html
+
 
