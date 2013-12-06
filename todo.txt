@@ -1,5 +1,4 @@
 poc
-    bootstrap 3
     about page
     apps page
     host on github
