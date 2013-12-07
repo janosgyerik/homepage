@@ -16,7 +16,7 @@ I can share the others if you're interested.
 <div class="row">
   <div class="col-lg-2 col-md-3 col-sm-3 col-xs-6">
     <div class="thumbnail">
-      <img src="/assets/images/programming-quiz.png" alt="...">
+      <img src="{{ ASSET_PATH }}/images/programming-quiz.png" alt="...">
     </div>
   </div>
   <div class="col-lg-6 col-md-9 col-sm-9 col-xs-6">
