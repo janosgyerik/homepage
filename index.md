@@ -1,9 +1,77 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Janos Gyerik
+tagline: Journal of a coder
 ---
 {% include JB/setup %}
+
+<!--
+<div class="alert alert-block alert-warning">
+I'm in the process of migrating from <a href="http://blog.janosgyerik.com/">my old WordPress blog</a> hosted on <a href="http://www.dreamhost.com/r.cgi?455568">DreamHost</a> to this shiny new Jekyll blog hosted on <a href="http://github.com/janosgyerik/homepage">GitHub</a>.
+</div>
+-->
+
+I like to code and I do it a lot.
+I want to work for green energy or health, eventually.
+I am deeply worried about these fields,
+and I believe that great software could really make a big difference.
+I work on private and open-source projects in my spare time.
+If you want to join forces, drop me a line!
+
+Check out my stuff:
+
+- Blog --- http://blog.janosgyerik.com/
+
+  ```python
+cmd = hello
+if hello:
+    pass
+```
+
+```ruby
+def foo
+  puts 'foo'
+end
+```
+
+  ```bash
+cmd=$(cat hello)
+cmd=$(cat hello)
+```
+
+I keep a journal of “daily hacks”, so I don’t have to research and solve the same problem twice. I also make release announcements here of my personal projects, so it’s an easy way to follow what I’m up to at the moment. Except my secret projects for world domination of course.
+
+Wiki – http://wiki.titan2x.com/
+
+My personal reference of all things related to computers, programming, operating systems (especially GNU/Linux) and databases. A lot of cheat sheets, occasionally in-depth articles and how to guides of broader subjects.
+
+Launchpad – https://launchpad.net/~janos-gyerik
+
+My profile on Launchpad, a Bazaar hosting site. You can find some of my open-source projects there, as well as my contribution to other open-source projects.
+
+GitHub – https://github.com/janosgyerik
+
+My profile on GitHub, a Git hosting site. You can find some of my open-source projects there, as well as my contribution to other open-source projects.
+
+Stack Exchange
+
+profile for janos on Stack Exchange, a network of free, community-driven Q&A sitesI occasionally post questions or answers on Stack Exchange sites. Check out my network profile to see my activities on all the Stack Exchange sites. I am most active on Unix and Linux, Stack Overflow, Programmers and Ask Ubuntu.
+
+Bazaar Version Control
+
+My book on Bazaar, the distributed version control system was published in June 2013. It’s intended for anyone who may be new to version control systems. If you are a programmer or a system administrator, you can benefit greatly from using Bazaar in your projects. If you are already familiar with version control systems, this book should serve as a fast and easy way to understand Bazaar. You can download a sample chapter for free form the publisher’s website.
+
+SSH public keys
+
+http://launchpad.net/~janos-gyerik/+sshkeys
+
+I like to code and I do it a lot. I want to build software to save the planet.
+
+If you use Bazaar, you might be interested in my book Bazaar Version Control, published in June, 2013. It's not free, but you can download a full sample chapter to help you decide if you might like it or not.
+
+I make Android apps, websites like bashoneliners.com, and other open source stuff.
+
+You can find me on Twitter as @janosgyerik or on my blog.
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
