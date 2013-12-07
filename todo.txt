@@ -1,5 +1,12 @@
-poc
-    host on github
+bare minimum
+    domain redirection correctly working
+    old blog posts migrated
+    old links correctly redirecting
+        test well on another domain
+    pages written
+        apps
+        websites
+        writing
 
 Site layout
     |-- pages
