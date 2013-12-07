@@ -41,7 +41,7 @@ I can share the others if you're interested.
   </div>
   <div class="col-lg-2 col-md-3 col-sm-3 col-xs-6">
     <div class="thumbnail">
-      <img src="/assets/images/wine-notes.png" alt="...">
+      <img src="{{ ASSET_PATH }}/images/wine-notes.png" alt="...">
     </div>
   </div>
 </div>
@@ -51,7 +51,7 @@ I can share the others if you're interested.
 <div class="row">
   <div class="col-lg-2 col-md-3 col-sm-3 col-xs-6">
     <div class="thumbnail">
-      <img src="/assets/images/recipe-notes.png" alt="...">
+      <img src="{{ ASSET_PATH }}/images/recipe-notes.png" alt="...">
     </div>
   </div>
   <div class="col-lg-6 col-md-9 col-sm-9 col-xs-6">
@@ -76,7 +76,7 @@ I can share the others if you're interested.
   </div>
   <div class="col-lg-2 col-md-3 col-sm-3 col-xs-6">
     <div class="thumbnail">
-      <img src="/assets/images/bluetooth-viewer.png" alt="...">
+      <img src="{{ ASSET_PATH }}/images/bluetooth-viewer.png" alt="...">
     </div>
   </div>
 </div>
@@ -86,7 +86,7 @@ I can share the others if you're interested.
 <div class="row">
   <div class="col-lg-2 col-md-3 col-sm-3 col-xs-6">
     <div class="thumbnail">
-      <img src="/assets/images/computer-quiz.png" alt="...">
+      <img src="{{ ASSET_PATH }}/images/computer-quiz.png" alt="...">
     </div>
   </div>
   <div class="col-lg-6 col-md-9 col-sm-9 col-xs-6">
@@ -111,7 +111,7 @@ I can share the others if you're interested.
   </div>
   <div class="col-lg-2 col-md-3 col-sm-3 col-xs-6">
     <div class="thumbnail">
-      <img src="/assets/images/ecocitizen.png" alt="...">
+      <img src="{{ ASSET_PATH }}/images/ecocitizen.png" alt="...">
     </div>
   </div>
 </div>
@@ -121,7 +121,7 @@ I can share the others if you're interested.
 <div class="row">
   <div class="col-lg-2 col-md-3 col-sm-3 col-xs-6">
     <div class="thumbnail">
-      <img src="/assets/images/happy-moments.png" alt="...">
+      <img src="{{ ASSET_PATH }}/images/happy-moments.png" alt="...">
     </div>
   </div>
   <div class="col-lg-6 col-md-9 col-sm-9 col-xs-6">
