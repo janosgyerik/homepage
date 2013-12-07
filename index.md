@@ -5,11 +5,9 @@ tagline: Journal of a coder
 ---
 {% include JB/setup %}
 
-<!--
 <div class="alert alert-block alert-warning">
-I'm in the process of migrating from <a href="http://blog.janosgyerik.com/">my old WordPress blog</a> hosted on <a href="http://www.dreamhost.com/r.cgi?455568">DreamHost</a> to this shiny new Jekyll blog hosted on <a href="http://github.com/janosgyerik/homepage">GitHub</a>.
+I'm in the process of migrating from <a href="http://blog.janosgyerik.com/">my old WordPress blog</a> hosted on <a href="http://www.dreamhost.com/r.cgi?455568">DreamHost</a> to this shiny new <a href="http://jekyllbootstrap.com/">Jekyll</a> site <a href="http://github.com/janosgyerik/homepage">hosted on GitHub</a>.
 </div>
--->
 
 I like to code and I do it a lot.
 I want to work for green energy or health, eventually.
@@ -22,28 +20,20 @@ Check out my stuff:
 
 - Blog --- http://blog.janosgyerik.com/
 
-  ```python
-cmd = hello
-if hello:
-    pass
-```
+  Sort of a blog,
+  this is really my *journal of daily hacks*.
+  I don't like to research the same problem twice,
+  so when I figure out something,
+  I try to write it down quickly.
+  I also post new releases of my apps and websites here,
+  so it's a good way to follow what I'm up to.
 
-```ruby
-def foo
-  puts 'foo'
-end
-```
+- Wiki --- http://wiki.titan2x.com/
 
-  ```bash
-cmd=$(cat hello)
-cmd=$(cat hello)
-```
-
-I keep a journal of “daily hacks”, so I don’t have to research and solve the same problem twice. I also make release announcements here of my personal projects, so it’s an easy way to follow what I’m up to at the moment. Except my secret projects for world domination of course.
-
-Wiki – http://wiki.titan2x.com/
-
-My personal reference of all things related to computers, programming, operating systems (especially GNU/Linux) and databases. A lot of cheat sheets, occasionally in-depth articles and how to guides of broader subjects.
+  My personal reference of all things related to computers,
+  programming, operating systems (especially GNU/Linux) and databases.
+  A lot of cheat sheets,
+  some in-depth articles and how to guides of larger topics.
 
 Launchpad – https://launchpad.net/~janos-gyerik
 
