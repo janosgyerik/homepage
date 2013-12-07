@@ -1,6 +1,7 @@
 ---
-layout: page-notitle
+layout: page
 title: Apps
+tagline: simple but practical apps for Android
 group: navigation
 ---
 {% include JB/setup %}
@@ -8,7 +9,7 @@ group: navigation
 <p class="lead">
 Simple but practical apps I make in my spare time.
 All free. Some open source.
-I can share the others if you're interested.
+I can share the code if you're interested.
 </p>
 
 <hr>
