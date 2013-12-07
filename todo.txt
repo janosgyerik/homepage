@@ -1,14 +1,11 @@
 poc
-    about page
-    apps page
     host on github
-    serve to new.janosgyerik.com
 
 Site layout
     |-- pages
-        about
-        websites
+        ? about
         apps
+        websites
         writing
         ? misc
             x projects
