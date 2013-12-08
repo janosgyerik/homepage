@@ -1,7 +1,5 @@
 bare minimum
     test that dns change of parents won't impact the subs
-    fix internal links to stay on janosgyerik.com domain
-    disable comments, temporarily
     pages written
         apps
         websites
@@ -9,7 +7,8 @@ bare minimum
 
 migrate
     setup dns
-    confirm
+    change base url to janosgyerik.com
+    test well
 
 Site layout
     |-- pages
