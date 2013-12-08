@@ -48,6 +48,7 @@
           </div>
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
+              <li {% if page.url == '/blog.html' %}class="active"{% endif %}><a href="{{ BASE_PATH }}/blog.html">Blog</a></li>
               <li {% if page.url == '/apps.html' %}class="active"{% endif %}><a href="{{ BASE_PATH }}/apps.html">Apps</a></li>
               <li {% if page.url == '/websites.html' %}class="active"{% endif %}><a href="{{ BASE_PATH }}/websites.html">Websites</a></li>
               <li {% if page.url == '/writing.html' %}class="active"{% endif %}><a href="{{ BASE_PATH }}/writing.html">Writing</a></li>
