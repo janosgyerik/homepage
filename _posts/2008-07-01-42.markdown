@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: Cloud computing
+author: janos
+author_login: janos
+author_email: info@titan2x.com
+wordpress_id: 42
+wordpress_url: http://titan2x.wordpress.com/2008/07/01/42/
+date: 2008-07-01 04:27:00.000000000 +02:00
+categories:
+- Software
+tags: []
+comments:
+- id: 4
+  author: janos
+  author_email: ''
+  author_url: ''
+  date: '2008-11-24 08:32:00 +0100'
+  date_gmt: '2008-11-24 08:32:00 +0100'
+  content: '...On the other hand, Richard Stallman thinks cloud computing is a terrible
+    thing. The good things about the SaaS model is that it''s super easy for the user,
+    at the price of some freedom.'
+---
+<blockquote>
+<b>bMighty.com<br />
+Cloud Computing's Strengths Play To Smaller Companies' Needs</b><br />
+<i>June 24, 2008</i><br />
+If cloud computing offers significant benefits to IT departments in the enterprise, it's an absolute godsend to small and midsize companies. Instead of making do with a small, under-resourced IT staff trying to emulate the productivity of billion-dollar IT outfits, smaller companies can now access enterprise-class solutions with limited up-front costs and easy scalability.
+
+<p><a href="http://www.bmighty.com/hardware_software/showArticle.jhtml?articleID=208800565">http://www.bmighty.com/hardware_software/showArticle.jhtml?articleID=208800565</a></p>
+</blockquote>

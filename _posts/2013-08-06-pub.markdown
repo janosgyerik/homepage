@@ -1,0 +1,26 @@
+---
+layout: page
+status: publish
+published: true
+title: Writing
+author: janos
+author_login: janos
+author_email: info@titan2x.com
+wordpress_id: 1061
+wordpress_url: http://www.janosgyerik.com/?page_id=1061
+date: 2013-08-06 22:21:57.000000000 +02:00
+categories: []
+tags: []
+comments: []
+---
+<h2>Bazaar Version Control</h2>
+My book on <a href="http://bazaar.canonical.com/en/">Bazaar, the distributed version control system</a> was published in June, 2013 by <a href="http://www.packtpub.com/bazaar-version-control/book">Packt Publishing</a>.<a href="https://www.packtpub.com/bazaar-version-control/book">
+</a>
+
+The book is a step-by-step tutorial for beginner to intermediate software developers who want to get started with Bazaar quickly.
+
+The book walks you through the principles, basic and advanced operations of version control. It takes a step-by-step approach, covering increasingly complex topics and situations of collaboration. Packed with examples, the book aims to give you a thorough understanding of version control with Bazaar, and get you fully comfortable using this powerful, highly intuitive and consistent tool, in any project and workflow thrown at you.
+
+The sample chapter (Chapter 2: Diving into Bazaar) is a FREE download on the <a href="http://www.packtpub.com/bazaar-version-control/book">publisher's website</a>. It includes the preface, which is a nice, short and sweet introduction of the book. The chapter reveals quite a lot: it explains all the basic operations of Bazaar using both the command line client and Bazaar Explorer. It is a good sample of the overall writing style in the book, and you should definitely read this first before buying.
+
+<em>If you find the cover familiar, it is based on <a href="https://code.google.com/p/gource/">Gource</a>, a truly awesome VCS visualization tool that works transparently with Bazaar.</em>

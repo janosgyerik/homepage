@@ -1,0 +1,96 @@
+---
+layout: page
+status: publish
+published: true
+title: Links
+author: janos
+author_login: janos
+author_email: info@titan2x.com
+wordpress_id: 487
+wordpress_url: http://blog.janosgyerik.com/?page_id=487
+date: 2012-01-08 18:02:45.000000000 +01:00
+categories: []
+tags: []
+comments: []
+---
+<h3>News</h3>
+<div>
+<ul>
+	<li><a href="http://stallman.org/archives/polnotes.html">Richard Stallman's political notes</a></li>
+	<li><a href="http://slashdot.org/">Slashdot</a> - Interesting tech news, sometimes insightful and funny comments.</li>
+	<li><a href="http://www.economist.com/">The Economist</a> - Not impartial, but probably better than many.</li>
+</ul>
+<h3>My very favorite TED talks</h3>
+<ul>
+	<li><a href="http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity.html">http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity.html</a></li>
+	<li><a href="http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs.html">http://www.ted.com/talks/andrew_mcafee_are_droids_taking_our_jobs.html</a></li>
+	<li><a href="http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity.html">http://www.ted.com/talks/colin_stokes_how_movies_teach_manhood.html</a></li>
+	<li><a href="http://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are.html">http://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are.html</a></li>
+	<li><a href="http://www.ted.com/talks/esther_perel_the_secret_to_desire_in_a_long_term_relationship.html">http://www.ted.com/talks/esther_perel_the_secret_to_desire_in_a_long_term_relationship.html</a></li>
+	<li><a href="http://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family.html">http://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family.html</a></li>
+	<li><a href="http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud.html"><span style="line-height: 1.714285714; font-size: 1rem;">http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud.html</span></a></li>
+	<li><a href="http://www.ted.com/talks/jeff_hancock_3_types_of_digital_lies.html">http://www.ted.com/talks/jeff_hancock_3_types_of_digital_lies.html</a></li>
+	<li><a href="http://www.ted.com/talks/allan_savory_how_to_green_the_world_s_deserts_and_reverse_climate_change.html">http://www.ted.com/talks/allan_savory_how_to_green_the_world_s_deserts_and_reverse_climate_change.html</a></li>
+	<li><a href="http://www.ted.com/talks/ron_finley_a_guerilla_gardener_in_south_central_la.html">http://www.ted.com/talks/ron_finley_a_guerilla_gardener_in_south_central_la.html</a></li>
+	<li><a href="http://www.ted.com/talks/ken_jennings_watson_jeopardy_and_me_the_obsolete_know_it_all.html">http://www.ted.com/talks/ken_jennings_watson_jeopardy_and_me_the_obsolete_know_it_all.html</a></li>
+	<li><a href="http://www.ted.com/talks/lawrence_lessig_we_the_people_and_the_republic_we_must_reclaim.html">http://www.ted.com/talks/lawrence_lessig_we_the_people_and_the_republic_we_must_reclaim.html</a></li>
+</ul>
+<h3>Other TED talks I liked a lot</h3>
+<ul>
+	<li><a href="http://www.ted.com/talks/tim_leberecht_3_ways_to_usefully_lose_control_of_your_reputation.html">http://www.ted.com/talks/tim_leberecht_3_ways_to_usefully_lose_control_of_your_reputation.html</a></li>
+	<li><a href="http://www.ted.com/talks/tyler_dewitt_hey_science_teachers_make_it_fun.html">http://www.ted.com/talks/tyler_dewitt_hey_science_teachers_make_it_fun.html</a></li>
+	<li><a href="http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code.html">http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code.html</a></li>
+	<li><a href="http://www.ted.com/talks/edi_rama_take_back_your_city_with_paint.html">http://www.ted.com/talks/edi_rama_take_back_your_city_with_paint.html</a></li>
+	<li><a href="http://www.ted.com/talks/erik_schlangen_a_self_healing_asphalt.html">http://www.ted.com/talks/erik_schlangen_a_self_healing_asphalt.html</a></li>
+	<li><a href="http://www.ted.com/talks/james_b_glattfelder_who_controls_the_world.html">http://www.ted.com/talks/james_b_glattfelder_who_controls_the_world.html</a></li>
+	<li><a href="http://www.ted.com/talks/tristram_stuart_the_global_food_waste_scandal.html">http://www.ted.com/talks/tristram_stuart_the_global_food_waste_scandal.html</a></li>
+	<li><a href="http://www.ted.com/talks/keith_chen_could_your_language_affect_your_ability_to_save_money.html">http://www.ted.com/talks/keith_chen_could_your_language_affect_your_ability_to_save_money.html</a></li>
+	<li><a href="http://www.ted.com/talks/afra_raymond_three_myths_about_corruption.html">http://www.ted.com/talks/afra_raymond_three_myths_about_corruption.html</a></li>
+	<li><a href="http://www.ted.com/talks/amanda_palmer_the_art_of_asking.html">http://www.ted.com/talks/amanda_palmer_the_art_of_asking.html</a></li>
+	<li><a href="http://www.ted.com/talks/edith_widder_how_we_found_the_giant_squid.html">http://www.ted.com/talks/edith_widder_how_we_found_the_giant_squid.html</a></li>
+	<li><a href="http://blog.ted.com/2012/06/27/using-data-to-build-better-education-systems-andreas-schleicher-at-tedglobal-2012/">http://blog.ted.com/2012/06/27/using-data-to-build-better-education-systems-andreas-schleicher-at-tedglobal-2012/</a></li>
+	<li><a href="http://www.ted.com/talks/wade_davis_gorgeous_photos_of_a_backyard_wilderness_worth_saving.html">http://www.ted.com/talks/wade_davis_gorgeous_photos_of_a_backyard_wilderness_worth_saving.html</a></li>
+	<li><a href="http://www.ted.com/talks/keller_rinaudo_a_mini_robot_powered_by_your_phone.html">http://www.ted.com/talks/keller_rinaudo_a_mini_robot_powered_by_your_phone.html</a></li>
+	<li><a href="http://www.ted.com/talks/sanjay_dastoor_a_skateboard_with_a_boost.html">http://www.ted.com/talks/sanjay_dastoor_a_skateboard_with_a_boost.html</a></li>
+</ul>
+</div>
+<h3>Project hosting, project management</h3>
+<div>
+<ul>
+	<li><a href="http://launchpad.net/">Launchpad</a></li>
+	<li><a href="https://github.com/">GitHub</a></li>
+	<li><a href="http://code.google.com/">Google Code</a></li>
+	<li><a href="http://trello.com">Trello</a></li>
+</ul>
+</div>
+<h3>GNU/Linux</h3>
+<div>
+<ul>
+	<li><a href="http://distrowatch.com/">DistroWatch</a> - Popularity ranking of GNU/Linux distros, feed of new release.</li>
+	<li><a href="http://www.lugradio.org/">Lug Radio</a> - Talks on GNU/Linux, distros, software and trends. Informative and funny.</li>
+</ul>
+</div>
+<h3>Funny</h3>
+<div>
+<ul>
+	<li><a href="http://bash.org/?top">bash.org</a> - Quotes from IRC conversations. Also <a href="http://bash.hu/top100">Hungarian</a> version.</li>
+	<li><a href="http://www.warningsigngenerator.com/">Warning Sign Generator</a> - Create cool warning sign images. From the same page, Street Sign Generator, Tombstone Generator are also fun.</li>
+	<li><a href="http://www.mommajoke.com/Default.htm">Who's yo momma?</a> - <em>"Yo momma's so fat she entered a fat contest and won first, second and third."</em></li>
+	<li><a href="http://www.chucknorrisfacts.com/">Chuck Norris Facts</a> - <em>"Guns don't kill people. Chuck Norris kills People."</em></li>
+</ul>
+</div>
+<h3>YouTube</h3>
+<div>
+<ul>
+	<li><a href="http://www.youtube.com/watch?v=0b75cl4-qRE">The Japanese Tradition - Sushi</a> - See also: <a href="http://www.youtube.com/watch?v=CJZuQvmSR2k">Onigiri</a>, <a href="http://www.youtube.com/watch?v=x88Ya2J3QKw">Business dinner, part 1</a>, <a href="http://www.youtube.com/watch?v=rwT2s4lavvU">Business dinner, part 2</a></li>
+	<li><a href="http://www.youtube.com/watch?v=w0ffwDYo00Q">Simon's Cat (Wake Up!)</a></li>
+</ul>
+</div>
+<h3>Magyar</h3>
+<div>
+<ul>
+	<li><a href="http://bash.hu/top100">bash.hu</a> - Vicces dumák IRC-n.</li>
+	<li><a href="http://youtube.com/watch?v=Qir9s1dpN6g">Terézanya csapjad</a> - A Himmel indulo, es <a href="http://himmel.hu/">himmel.hu</a></li>
+	<li><a href="http://www.youtube.com/watch?v=Y25IbBdFTLM">Hajós András: Õszödi mesebeszéd</a></li>
+</ul>
+</div>

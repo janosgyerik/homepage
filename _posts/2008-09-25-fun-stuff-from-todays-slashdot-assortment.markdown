@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: Fun stuff from today's slashdot assortment
+author: janos
+author_login: janos
+author_email: info@titan2x.com
+wordpress_id: 49
+wordpress_url: http://titan2x.wordpress.com/2008/09/25/fun-stuff-from-todays-slashdot-assortment/
+date: 2008-09-25 01:46:00.000000000 +02:00
+categories:
+- Musings
+tags: []
+comments: []
+---
+<blockquote>cd /usr/src/linux &amp;&amp; grep -Eri 'fuck|shit'</blockquote>
+
+<p><a href="http://bp2.blogger.com/__Uxk2OOQle8/SITkVuyeKPI/AAAAAAAAAEU/0w9sZ1fyVus/s1600-h/error.jpg">404 error page.</a> I'm going to change the http error pages to this on my websites.</p>

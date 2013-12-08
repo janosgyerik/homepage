@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: How to reset mediawiki password in mysql
+author: janos
+author_login: janos
+author_email: info@titan2x.com
+wordpress_id: 54
+wordpress_url: http://titan2x.wordpress.com/2008/10/12/howto-reset-mediawiki-password-in-mysql/
+date: 2008-10-12 01:29:00.000000000 +02:00
+categories:
+- Hacks
+tags: []
+comments: []
+---
+<blockquote>
+<pre>update user set user_password = md5(concat(user_id, '-', md5('kiew7eiT'))) where user_name = 'WikiSysop';</pre>
+</blockquote>

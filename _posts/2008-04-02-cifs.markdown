@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: cifs
+author: janos
+author_login: janos
+author_email: info@titan2x.com
+wordpress_id: 26
+wordpress_url: http://titan2x.wordpress.com/2008/04/02/cifs/
+date: 2008-04-02 04:39:00.000000000 +02:00
+categories:
+- Hacks
+tags: []
+comments: []
+---
+Recently we installed a network drive. I mounted it as <tt>smbfs</tt> from a Linux system, but strangely after about an hour the mount fell apart and started to give me IO errors. An umount/mount temporarily fixed the problem but only for another hour.
+
+Then I got this tip to mount it as <tt>cifs</tt>. Worked fantastic hurray!

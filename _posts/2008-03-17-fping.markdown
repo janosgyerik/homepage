@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: How to ping many machines at once
+author: janos
+author_login: janos
+author_email: info@titan2x.com
+wordpress_id: 21
+wordpress_url: http://titan2x.wordpress.com/2008/03/17/fping/
+date: 2008-03-17 00:59:00.000000000 +01:00
+categories:
+- Hacks
+- Software
+tags: []
+comments: []
+---
+Flood ping. You specify the list of addresses on the command line. To generate the list of IP adresses you can use the <code>-g</code> flag and targets with netmask or significant bits like this.
+<blockquote>fping -g 192.168.11.0/24</blockquote>

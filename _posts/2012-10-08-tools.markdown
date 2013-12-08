@@ -1,0 +1,22 @@
+---
+layout: page
+status: publish
+published: true
+title: Tools
+author: janos
+author_login: janos
+author_email: info@titan2x.com
+wordpress_id: 783
+wordpress_url: http://www.janosgyerik.com/?page_id=783
+date: 2012-10-08 19:06:02.000000000 +02:00
+categories: []
+tags: []
+comments: []
+---
+Simple web based tools that are ready to use in your browser.
+<h2>gmaptools @ <a href="http://janosgyerik.github.com/gmaptools/">http://janosgyerik.github.com/gmaptools/</a></h2>
+Google Map Tools - coordinate finder, geocoding, local search and other goodies.
+<h2>highlighter @ <a href="http://janosgyerik.github.com/highlighter/">http://janosgyerik.github.com/highlighter/</a></h2>
+A simple little tool to search and highlight multiple keywords in any copy &amp; pasted text.
+<h2>English-English @ <a href="http://english.janosgyerik.com/">http://english.janosgyerik.com/</a></h2>
+Just an English-English dictionary, with a simplistic but user-friendly user interface.

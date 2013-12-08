@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: How to make CapsLock an additional Ctrl in KDE4
+author: janos
+author_login: janos
+author_email: info@titan2x.com
+wordpress_id: 166
+wordpress_url: http://titan2x.wordpress.com/?p=166
+date: 2009-11-17 21:13:41.000000000 +01:00
+categories:
+- Hacks
+tags: []
+comments: []
+---
+On most keyboards the CapsLock is at the perfect location for a Control key, something I use much more often, so the first thing I do after installing a new system is remap CapsLock to be a Control key instead.
+
+I had a hard time finding this option in KDE4.
+
+It's in <em>System Settings / Regional &amp; Language</em>
+
+It would have been more intuitive in <em>Keyboard &amp; Mouse</em> ...

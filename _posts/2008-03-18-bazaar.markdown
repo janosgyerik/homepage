@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: bazaar
+author: janos
+author_login: janos
+author_email: info@titan2x.com
+wordpress_id: 22
+wordpress_url: http://titan2x.wordpress.com/2008/03/18/bazaar/
+date: 2008-03-18 13:30:00.000000000 +01:00
+categories:
+- Hacks
+- Musings
+- Software
+tags: []
+comments: []
+---
+What is Bazaar? <blockquote>Bazaar is a distributed version control system that Just Works and adapts to the workflows you want to use.</blockquote>
+
+I read about this a few months back, but I quickly dismissed the idea. I simply didn't think it was feasible. Or useful to me. Until I read this on the Bazaar homepage:
+
+<blockquote>The purpose of decentralized revision control systems is to break the chain between the developer and the server. This is done by moving the RCS data from the central server down to the developer. This is done by making a Bzr branch something that is like both a repository and a working tree.
+
+Logically combining the RCS data with the working tree means that when you branch from somebody else, you end up with a repository of your own. That means you can commit in your branch without needing to ask for permission from the person you branched from. It's almost as if you copied their SVN repository and made a SVN repository of your own.</blockquote>
+
+Now I get it. It's really cool. I remember the days when I used to do a lot of work offline (on the train). It was always difficult to group my changes into separate commits. Based on the VCS I was using at the time, I would develop tools to make changesets so that I can perform distinct commits when getting back online. 
+
+With Bazaar the problem simply doesn't exist. When you check out a 'branch', your local copy becomes a repository by itself. You can commit to this local repository while offline. Then when you want to merge into your online project, you can push out your local commits. It's brilliant.
+
+<a href="http://bazaar-vcs.org/">http://bazaar-vcs.org/</a>

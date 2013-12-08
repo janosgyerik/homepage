@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: Desktop cube in Compiz-Fusion on Ubuntu
+author: janos
+author_login: janos
+author_email: info@titan2x.com
+wordpress_id: 419
+wordpress_url: http://titan2x.wordpress.com/2008/02/02/desktop-cube-in-compiz-fusion-on-ubuntu/
+date: 2008-02-02 16:11:00.000000000 +01:00
+categories:
+- Hacks
+- Software
+tags: []
+comments: []
+---
+<p>I've been using Beryl for some time now, until Feisty, to be exact. To my surprise Gutsy no longer had packages for Beryl. Luckily it has Compiz. </p>
+
+<p>To access advanced settings such as the wonderful desktop cube, apt-get install <a href="compizconfig-settings-manager">compizconfig-settings-manager</a>. This will enable the menu option: System | Preferences | Advanced Desktop Effects Settings. </p>
+
+<p>Also notable that after enabling the desktop cube I was not able to switch between workspaces... For that I also needed to enable the rotate cube option. Spin away!</p>

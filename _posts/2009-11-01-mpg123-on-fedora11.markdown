@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: How to install mpg123 on Fedora 11
+author: janos
+author_login: janos
+author_email: info@titan2x.com
+wordpress_id: 163
+wordpress_url: http://titan2x.wordpress.com/?p=163
+date: 2009-11-01 11:12:37.000000000 +01:00
+categories:
+- Hacks
+- Musings
+tags: []
+comments: []
+---
+I needed mpg123 to burn an audio CD with cdrecord on my Fedora 11 system at home. Since it's not in Fedora's standard repos, googled for it, and found this.
+
+http://www.atrpms.net/dist/f11/mpg123/
+
+So far so good, I just needed a few more libraries as dependencies, however, the package names were not really intuitive.
+<ul>
+	<li>libartsc - arts</li>
+	<li>libaudio - nas-libs</li>
+	<li>libportaudio - portaudio</li>
+</ul>
+It was mere luck that first I looked for libportaudio, and tried simply "portaudio" for little logical reason. Following the same package naming logic I could find "arts". Finally found "nas-libs" with google.

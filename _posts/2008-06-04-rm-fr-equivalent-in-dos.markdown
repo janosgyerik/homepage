@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: How to delete directories recursively in DOS
+author: janos
+author_login: janos
+author_email: info@titan2x.com
+wordpress_id: 36
+wordpress_url: http://titan2x.wordpress.com/2008/06/04/rm-fr-equivalent-in-dos/
+date: 2008-06-04 08:02:00.000000000 +02:00
+categories:
+- Hacks
+tags: []
+comments: []
+---
+That is, the equivalent of rm -fr in Linux/UNIX.
+<pre>rmdir /s/q</pre>
+Recently I have to work quite a lot in Windows so I put together a cheat sheet of these on my wiki.
+
+<a href="http://wiki.titan2x.com/index.php?title=DOS_cheat_sheet">http://wiki.titan2x.com/index.php?title=DOS_cheat_sheet</a>

@@ -1,12 +1,16 @@
 bare minimum
-    domain redirection correctly working
-    old blog posts migrated
-    old links correctly redirecting
-        test well on another domain
+    test that dns change of parents won't impact the subs
+    fix internal links to stay on janosgyerik.com domain
+    disable comments, temporarily
+    navbar
     pages written
-        + apps
+        apps
         websites
         writing
+
+migrate
+    setup dns
+    confirm
 
 Site layout
     |-- pages
@@ -21,6 +25,20 @@ Site layout
             ? links
     |-- posts
     |-- bits?  // maybe later?
+
+ultimate goals -- http://paulstamatiou.com/how-to-wordpress-to-jekyll
+    fix post formats
+    fix tags on posts
+    move all images to amazon cloudfront
+    fix the search on 404 page
+    split posts with <!--more--> to preview and full versions
+    "create layout with Typekit" ??
+    tag pages -- might be difficult with tags with spaces but who cares
+    sitemap
+    feeds
+    get comments working with disqus
+    next/previous posts working?
+
 
 Create new pages
     websites
