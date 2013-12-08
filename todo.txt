@@ -25,6 +25,10 @@ Site layout
     |-- bits?  // maybe later?
 
 ultimate goals -- http://paulstamatiou.com/how-to-wordpress-to-jekyll
+    change the fonts and colors
+        match the wordpress theme?
+        coderwall theme?
+        medium theme?
     fix post formats
     fix tags on posts
     move all images to amazon cloudfront
