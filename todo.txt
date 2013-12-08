@@ -2,7 +2,6 @@ bare minimum
     test that dns change of parents won't impact the subs
     fix internal links to stay on janosgyerik.com domain
     disable comments, temporarily
-    navbar
     pages written
         apps
         websites
