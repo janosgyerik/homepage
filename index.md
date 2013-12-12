@@ -5,10 +5,6 @@ tagline: Journal of a coder
 ---
 {% include JB/setup %}
 
-<div class="alert alert-block alert-warning">
-I'm in the process of migrating from <a href="http://blog.janosgyerik.com/">my old WordPress blog</a> hosted on <a href="http://www.dreamhost.com/r.cgi?455568">DreamHost</a> to this shiny new <a href="http://jekyllbootstrap.com/">Jekyll</a> site <a href="http://github.com/janosgyerik/homepage">hosted on GitHub</a>.
-</div>
-
 I like to code and I do it a lot.
 I want to work for green energy or health, eventually.
 I'm deeply worried about these fields,

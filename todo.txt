@@ -1,14 +1,15 @@
-bare minimum
-    test that dns change of parents won't impact the subs
-    pages written
-        apps
-        websites
-        writing
-
 migrate
+    google analytics setup
     setup dns
     change base url to janosgyerik.com
     test well
+
+write pages
+    apps
+    websites
+    writing
+
+wp theme
 
 Site layout
     |-- pages
