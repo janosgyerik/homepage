@@ -1,5 +1,4 @@
 migrate
-    google analytics setup
     setup dns
     change base url to janosgyerik.com
     test well
