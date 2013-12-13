@@ -121,28 +121,10 @@ much like the <code>hexdump -C</code> command in UNIX.
     <p>
 A simple quiz for computer fans, professionals and geeks.
 Questions are spread out over multiple categories and difficulty levels.
-You can exclude question categories you don't like.
+You can select the question categories to include or exclude.
     </p>
     <a class="btn btn-success" href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite">Free</a>
     <a class="btn btn-danger" href="https://github.com/janosgyerik/manyquiz/issues">Bugs</a>
-  </div>
-</div>
-
-<hr>
-
-<div class="row">
-  <div class="col-lg-6 col-md-9 col-sm-9 col-xs-6">
-    <h3>EcoCitizen</h3>
-    <p>
-    </p>
-    <a class="btn btn-success" href="https://play.google.com/store/apps/details?id=com.ecocitizen.app">Free</a>
-    <a class="btn btn-warning" href="https://launchpad.net/ecocitizenapp">Source</a>
-    <a class="btn btn-danger" href="https://bugs.launchpad.net/ecocitizenapp">Bugs</a>
-  </div>
-  <div class="col-lg-2 col-md-3 col-sm-3 col-xs-6">
-    <div class="thumbnail">
-      <img src="{{ ASSET_PATH }}/images/ecocitizen.png" alt="...">
-    </div>
   </div>
 </div>
 
@@ -157,6 +139,8 @@ You can exclude question categories you don't like.
   <div class="col-lg-6 col-md-9 col-sm-9 col-xs-6">
     <h3>Happy Moments</h3>
     <p>
+Record happy events, high moments into a "digital jar".
+Later you can pick a random note from the jar and re-live the happy moment.
     </p>
     <a class="btn btn-success" href="https://play.google.com/store/apps/details?id=com.happymoments.lite">Free</a>
     <a class="btn btn-danger" href="https://github.com/janosgyerik/happymoments/issues">Bugs</a>
