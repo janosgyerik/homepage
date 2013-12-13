@@ -1,7 +1,21 @@
-write pages
+make sure critical pages work
+    webmaster tools -> top searches work?
+    google analytics -> top ranking pages work?
+    search: janos gyerik
+
+basic pages
     apps
     websites
     writing
+
+improved pages
+    re-read "on writing well"
+    re-read some @codinghorror posts
+    re-write
+        index
+        apps
+        websites
+        writing
 
 wp theme
 
