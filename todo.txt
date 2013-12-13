@@ -1,12 +1,17 @@
-make sure critical pages work
-    webmaster tools -> top searches work?
-    google analytics -> top ranking pages work?
-    search: janos gyerik
-
 basic pages
     apps
+        write descriptions
+        copy back to google play
+            while at it, add donation message for ALL
+        drop the left-right alternation
+        improve layout for larger screens
     websites
     writing
+    fix the search
+
+quickies
+    move app images to images/apps
+    favicon from bashoneliners
 
 improved pages
     re-read "on writing well"
@@ -16,6 +21,10 @@ improved pages
         apps
         websites
         writing
+    review all pages one by one
+        top hits on webmaster tools
+        top hits on google analytics
+            Behavior | Site Content | Landing Pages
 
 wp theme
 
