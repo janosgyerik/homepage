@@ -1,6 +1,6 @@
 basic pages
     apps
-        write descriptions
+        + write descriptions
         copy back to google play
             while at it, add donation message for ALL
         drop the left-right alternation

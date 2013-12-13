@@ -12,15 +12,13 @@ All free. Some open source.
 I can share the code if you're interested.
 </p>
 
-<hr>
-
 <div class="row">
-  <div class="col-lg-2 col-md-3 col-sm-3 col-xs-6">
+  <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
     <div class="thumbnail">
       <img src="{{ ASSET_PATH }}/images/programming-quiz.png" alt="...">
     </div>
   </div>
-  <div class="col-lg-6 col-md-9 col-sm-9 col-xs-6">
+  <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
     <h3>Programming Quiz</h3>
     <p>
 Put your programming skills to test with this simple quiz app.
@@ -34,12 +32,13 @@ not for casual computer enthusiasts.
     <a class="btn btn-success" href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite">Free</a>
     <a class="btn btn-danger" href="https://github.com/janosgyerik/manyquiz/issues">Bugs</a>
   </div>
-</div>
 
-<hr>
-
-<div class="row">
-  <div class="col-lg-6 col-md-9 col-sm-9 col-xs-6">
+  <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+    <div class="thumbnail">
+      <img src="{{ ASSET_PATH }}/images/wine-notes.png" alt="...">
+    </div>
+  </div>
+  <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
     <h3>Wine Notes</h3>
     <p>
 Take wine notes quickly and easily.
@@ -53,22 +52,15 @@ Keep track of your wine cellar or shopping list with ease.
     <a class="btn btn-warning" href="https://github.com/janosgyerik/winenotes">Source</a>
     <a class="btn btn-danger" href="https://github.com/janosgyerik/winenotes/issues">Bugs</a>
   </div>
-  <div class="col-lg-2 col-md-3 col-sm-3 col-xs-6">
-    <div class="thumbnail">
-      <img src="{{ ASSET_PATH }}/images/wine-notes.png" alt="...">
-    </div>
-  </div>
 </div>
 
-<hr>
-
 <div class="row">
-  <div class="col-lg-2 col-md-3 col-sm-3 col-xs-6">
+  <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
     <div class="thumbnail">
       <img src="{{ ASSET_PATH }}/images/recipe-notes.png" alt="...">
     </div>
   </div>
-  <div class="col-lg-6 col-md-9 col-sm-9 col-xs-6">
+  <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
     <h3>Recipe Notes</h3>
     <p>
 Take recipe notes quickly and easily.
@@ -81,12 +73,13 @@ You can tag recipes and take photos using the built-in camera of your phone.
     <a class="btn btn-primary" href="https://play.google.com/store/apps/details?id=com.recipenotes">Donate</a>
     <a class="btn btn-danger" href="https://github.com/janosgyerik/recipenotes/issues">Bugs</a>
   </div>
-</div>
 
-<hr>
-
-<div class="row">
-  <div class="col-lg-6 col-md-9 col-sm-9 col-xs-6">
+  <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+    <div class="thumbnail">
+      <img src="{{ ASSET_PATH }}/images/bluetooth-viewer.png" alt="...">
+    </div>
+  </div>
+  <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
     <h3>Bluetooth Viewer</h3>
     <p>
 This app is for programmers,
@@ -101,22 +94,15 @@ much like the <code>hexdump -C</code> command in UNIX.
     <a class="btn btn-warning" href="https://github.com/janosgyerik/bluetoothviewer">Source</a>
     <a class="btn btn-danger" href="https://github.com/janosgyerik/bluetoothviewer/issues">Bugs</a>
   </div>
-  <div class="col-lg-2 col-md-3 col-sm-3 col-xs-6">
-    <div class="thumbnail">
-      <img src="{{ ASSET_PATH }}/images/bluetooth-viewer.png" alt="...">
-    </div>
-  </div>
 </div>
 
-<hr>
-
 <div class="row">
-  <div class="col-lg-2 col-md-3 col-sm-3 col-xs-6">
+  <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
     <div class="thumbnail">
       <img src="{{ ASSET_PATH }}/images/computer-quiz.png" alt="...">
     </div>
   </div>
-  <div class="col-lg-6 col-md-9 col-sm-9 col-xs-6">
+  <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
     <h3>Computer Quiz</h3>
     <p>
 A simple quiz for computer fans, professionals and geeks.
@@ -126,17 +112,13 @@ You can select the question categories to include or exclude.
     <a class="btn btn-success" href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite">Free</a>
     <a class="btn btn-danger" href="https://github.com/janosgyerik/manyquiz/issues">Bugs</a>
   </div>
-</div>
 
-<hr>
-
-<div class="row">
-  <div class="col-lg-2 col-md-3 col-sm-3 col-xs-6">
+  <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
     <div class="thumbnail">
       <img src="{{ ASSET_PATH }}/images/happy-moments.png" alt="...">
     </div>
   </div>
-  <div class="col-lg-6 col-md-9 col-sm-9 col-xs-6">
+  <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
     <h3>Happy Moments</h3>
     <p>
 Record happy events, high moments into a "digital jar".
@@ -146,6 +128,4 @@ Later you can pick a random note from the jar and re-live the happy moment.
     <a class="btn btn-danger" href="https://github.com/janosgyerik/happymoments/issues">Bugs</a>
   </div>
 </div>
-
-<hr>
 
