@@ -4,7 +4,6 @@ basic pages
     fix the search
 
 quickies
-    move app images to images/apps
     favicon from bashoneliners
     donations
         https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JMG95JHR9DLQU

@@ -15,7 +15,7 @@ I can share the code if you're interested.
 <div class="row">
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
     <div class="thumbnail">
-      <img src="{{ ASSET_PATH }}/images/programming-quiz.png" alt="...">
+      <img src="{{ ASSET_PATH }}/images/apps/programming-quiz.png" alt="...">
     </div>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
@@ -35,7 +35,7 @@ not for casual computer enthusiasts.
 
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
     <div class="thumbnail">
-      <img src="{{ ASSET_PATH }}/images/wine-notes.png" alt="...">
+      <img src="{{ ASSET_PATH }}/images/apps/wine-notes.png" alt="...">
     </div>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
@@ -57,7 +57,7 @@ Keep track of your wine cellar or shopping list with ease.
 <div class="row">
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
     <div class="thumbnail">
-      <img src="{{ ASSET_PATH }}/images/recipe-notes.png" alt="...">
+      <img src="{{ ASSET_PATH }}/images/apps/recipe-notes.png" alt="...">
     </div>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
@@ -76,7 +76,7 @@ You can tag recipes and take photos using the built-in camera of your phone.
 
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
     <div class="thumbnail">
-      <img src="{{ ASSET_PATH }}/images/bluetooth-viewer.png" alt="...">
+      <img src="{{ ASSET_PATH }}/images/apps/bluetooth-viewer.png" alt="...">
     </div>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
@@ -99,7 +99,7 @@ much like the <code>hexdump -C</code> command in UNIX.
 <div class="row">
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
     <div class="thumbnail">
-      <img src="{{ ASSET_PATH }}/images/computer-quiz.png" alt="...">
+      <img src="{{ ASSET_PATH }}/images/apps/computer-quiz.png" alt="...">
     </div>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
@@ -115,7 +115,7 @@ You can select the question categories to include or exclude.
 
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
     <div class="thumbnail">
-      <img src="{{ ASSET_PATH }}/images/happy-moments.png" alt="...">
+      <img src="{{ ASSET_PATH }}/images/apps/happy-moments.png" alt="...">
     </div>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
