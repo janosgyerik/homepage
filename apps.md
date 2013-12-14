@@ -12,6 +12,8 @@ All free. Some open source.
 I can share the code if you're interested.
 </p>
 
+<hr/>
+
 <div class="row">
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
     <a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite"><img src="{{ ASSET_PATH }}/images/apps/programming-quiz.png" alt="..."></a>

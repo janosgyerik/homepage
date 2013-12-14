@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Websites
-tagline: simple but practical websites
 group: navigation
 ---
 {% include JB/setup %}
