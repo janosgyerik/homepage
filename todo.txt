@@ -1,5 +1,4 @@
 basic pages
-    writing
     tools
         gmaptools
         jquery-upvote
