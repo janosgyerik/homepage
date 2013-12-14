@@ -64,7 +64,7 @@ in any project and workflow thrown at you.
 <div class="row">
   <div class="col-lg-9 col-md-9 col-sm-9 col-xs-7">
   <p>
-  A few practical tips that should make you lightning fast on the command line.
+  A few simple but very effective tips that will make you lightning fast on the command line.
   I use these literally every minute I spend in the shell.
   All the tips should work in GNU/Linux, UNIX, BSD and similar.
   </p>
