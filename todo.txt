@@ -7,7 +7,6 @@ basic pages
     fix the search
 
 quickies
-    favicon from bashoneliners
     donations
         https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JMG95JHR9DLQU
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
