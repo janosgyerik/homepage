@@ -1,6 +1,9 @@
 basic pages
-    websites
     writing
+    tools
+        gmaptools
+        jquery-upvote
+        english
     fix the search
 
 quickies
