@@ -44,3 +44,8 @@ code {
   font-size: 80%;
 }
 
+/* overriding bootstrap */
+
+body {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
