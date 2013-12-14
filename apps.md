@@ -14,9 +14,7 @@ I can share the code if you're interested.
 
 <div class="row">
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
-    <div class="thumbnail">
-      <img src="{{ ASSET_PATH }}/images/apps/programming-quiz.png" alt="...">
-    </div>
+    <a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite"><img src="{{ ASSET_PATH }}/images/apps/programming-quiz.png" alt="..."></a>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
     <h3>Programming Quiz</h3>
@@ -34,9 +32,7 @@ not for casual computer enthusiasts.
   </div>
 
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
-    <div class="thumbnail">
-      <img src="{{ ASSET_PATH }}/images/apps/wine-notes.png" alt="...">
-    </div>
+    <a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.winenotes.lite"><img src="{{ ASSET_PATH }}/images/apps/wine-notes.png" alt="..."></a>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
     <h3>Wine Notes</h3>
@@ -56,9 +52,7 @@ Keep track of your wine cellar or shopping list with ease.
 
 <div class="row">
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
-    <div class="thumbnail">
-      <img src="{{ ASSET_PATH }}/images/apps/recipe-notes.png" alt="...">
-    </div>
+    <a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.recipenotes.lite"><img src="{{ ASSET_PATH }}/images/apps/recipe-notes.png" alt="..."></a>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
     <h3>Recipe Notes</h3>
@@ -75,9 +69,7 @@ You can tag recipes and take photos using the built-in camera of your phone.
   </div>
 
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
-    <div class="thumbnail">
-      <img src="{{ ASSET_PATH }}/images/apps/bluetooth-viewer.png" alt="...">
-    </div>
+    <a class="thumbnail" href="https://play.google.com/store/apps/details?id=net.bluetoothviewer"><img src="{{ ASSET_PATH }}/images/apps/bluetooth-viewer.png" alt="..."></a>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
     <h3>Bluetooth Viewer</h3>
@@ -98,9 +90,7 @@ much like the <code>hexdump -C</code> command in UNIX.
 
 <div class="row">
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
-    <div class="thumbnail">
-      <img src="{{ ASSET_PATH }}/images/apps/computer-quiz.png" alt="...">
-    </div>
+    <a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite"><img src="{{ ASSET_PATH }}/images/apps/computer-quiz.png" alt="..."></a>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
     <h3>Computer Quiz</h3>
@@ -114,9 +104,7 @@ You can select the question categories to include or exclude.
   </div>
 
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
-    <div class="thumbnail">
-      <img src="{{ ASSET_PATH }}/images/apps/happy-moments.png" alt="...">
-    </div>
+    <a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.happymoments.lite"><img src="{{ ASSET_PATH }}/images/apps/happy-moments.png" alt="..."></a>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
     <h3>Happy Moments</h3>
