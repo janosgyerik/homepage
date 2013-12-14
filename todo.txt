@@ -1,8 +1,4 @@
 basic pages
-    tools
-        gmaptools
-        jquery-upvote
-        english
     fix the search
 
 quickies
