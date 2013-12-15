@@ -27,10 +27,10 @@ Typically it is not a good idea to run periodic scripts as regular users, becaus
 In the example below we export the relevant registry record of the current user that we tested and confirmed, and insert a step into the batch script to import it right before calling putty, so that this way we circumvent the prompt with the remote server server certificate.
 <ol>
 	<li>Run regedit</li>
-	<li>Go to <code>HKEY_CURRENT_USERSoftwareSimonTathamPuTTY</code></li>
-	<li>Right click on the entry of  the remote server, it should look something like <code>rsa2@22:the_hostname</code></li>
+	<li>Go to `HKEY_CURRENT_USERSoftwareSimonTathamPuTTY`</li>
+	<li>Right click on the entry of  the remote server, it should look something like `rsa2@22:the_hostname`</li>
 	<li>Export it to a file (cert_hostname.reg)</li>
-	<li>In your script, import the registry file before calling putty <code>regedit /S cert_hostname.reg</code></li>
+	<li>In your script, import the registry file before calling putty `regedit /S cert_hostname.reg`</li>
 </ol>
 
 

@@ -37,12 +37,12 @@ I hit by a strange issue with Django. If I try to use a local configuration with
 <pre>./manage.py shell --settings=myproject.local_settings</pre>
 I got the error:
 <pre>ImproperlyConfigured: The SECRET_KEY setting must not be empty</pre>
-Strange because <code>SECRET_KEY</code> is certainly set. No stack trace, just a single line of error.
+Strange because `SECRET_KEY` is certainly set. No stack trace, just a single line of error.
 
-The cause turned out to be that in the main <code>settings.py</code> file I imported a method from one of my apps like this:
+The cause turned out to be that in the main `settings.py` file I imported a method from one of my apps like this:
 <pre>from accounts.views import render_failure
 OPENID_RENDER_FAILURE = render_failure</pre>
-I don't understand why exactly this is a problem, but removing the import solved the issue. On the other hand, I needed that import as the <code>OPENID_RENDER_FAILURE</code> setting of the <code>django-openid-auth</code> package takes a callable, giving it the absolute function name <code>accounts.views.render_failure</code> as a string doesn't cut it. I worked around that like this:
+I don't understand why exactly this is a problem, but removing the import solved the issue. On the other hand, I needed that import as the `OPENID_RENDER_FAILURE` setting of the `django-openid-auth` package takes a callable, giving it the absolute function name `accounts.views.render_failure` as a string doesn't cut it. I worked around that like this:
 <pre>def render_failure(*args, **kwargs):
     from accounts.views import render_failure
     return render_failure(*args, **kwargs)

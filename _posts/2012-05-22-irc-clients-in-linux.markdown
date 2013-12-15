@@ -15,4 +15,4 @@ categories:
 tags: []
 comments: []
 ---
-Empathy can connect to IRC, the required package in debian is <code>telepathy-idle</code>. This was not obvious (to me), because <code>apt-cache search empathy irc</code> returned no results.
+Empathy can connect to IRC, the required package in debian is `telepathy-idle`. This was not obvious (to me), because `apt-cache search empathy irc` returned no results.

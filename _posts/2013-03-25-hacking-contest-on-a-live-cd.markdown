@@ -31,9 +31,9 @@ The CD contains a very light Linux system (based on <a href="http://www.tinycore
 
 The easiest way to use the Live CD is with a software like VirtualBox: create a virtual machine with no hard disk and 256MB memory and point the CD device to the ISO file and that's it, start the VM! The Live CD uses US qwerty keyboard by default, you can change that by passing a boot parameter at the boot prompt, for example:
 <pre>boot: kmap=azerty/fr</pre>
-Alternatively you can use the shortcuts <code>fr</code>, <code>jp</code> or <code>hu</code> for French, Japanese or Hungarian keymap, respectively.
+Alternatively you can use the shortcuts `fr`, `jp` or `hu` for French, Japanese or Hungarian keymap, respectively.
 
-When the system starts you are logged in as user <code>level00</code>. You will be presented with a hint that should help you gain access to the password of user <code>level01</code>. Your mission, should you choose to accept it, is to find and exploit the vulnerabilities presented at each increasingly difficult level, advancing forward until you reach <code>level06</code> (and celebrate!)
+When the system starts you are logged in as user `level00`. You will be presented with a hint that should help you gain access to the password of user `level01`. Your mission, should you choose to accept it, is to find and exploit the vulnerabilities presented at each increasingly difficult level, advancing forward until you reach `level06` (and celebrate!)
 
 By completing this challenge you will become a better programmer:
 <ul>

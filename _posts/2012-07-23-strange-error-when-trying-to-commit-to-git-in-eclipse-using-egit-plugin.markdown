@@ -40,7 +40,7 @@ Caused by: java.io.EOFException: Input did not match supplied length. 6774 bytes
     ... 8 more
 </pre>
 
-<p>This bug report suggested setting <code>core.autocrlf=false</code>. 
+<p>This bug report suggested setting `core.autocrlf=false`. 
 <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=369780">https://bugs.eclipse.org/bugs/show_bug.cgi?id=369780</a></p>
 
-It worked, now I can commit. My setting before was <code>core.autocrlf=true</code>.
+It worked, now I can commit. My setting before was `core.autocrlf=true`.

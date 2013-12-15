@@ -15,16 +15,16 @@ categories:
 tags: []
 comments: []
 ---
-By default <code>screen</code> does not start as a login shell, and therefore <code>.bash_profile</code> is not sourced. (Wonder what is the rationale behind this decision, considering that 99% of the time I use it as login shell...)
+By default `screen` does not start as a login shell, and therefore `.bash_profile` is not sourced. (Wonder what is the rationale behind this decision, considering that 99% of the time I use it as login shell...)
 
-A simple remedy is to create a custom script that will be used as <code>screen</code>'s shell, and edit <code>.screenrc</code> to tell <code>screen</code> to use the custom script. The custom script: (I put in <code>~/.screen.shell</code>)
+A simple remedy is to create a custom script that will be used as `screen`'s shell, and edit `.screenrc` to tell `screen` to use the custom script. The custom script: (I put in `~/.screen.shell`)
 
-<pre><code>bash --login
-</code></pre>
+<pre>`bash --login
+`</pre>
 
 Note: remember to make the script file executable.
 
-The line in <code>.screenrc</code>:
+The line in `.screenrc`:
 
-<pre><code>shell $HOME/.screen.shell
-</code></pre>
+<pre>`shell $HOME/.screen.shell
+`</pre>

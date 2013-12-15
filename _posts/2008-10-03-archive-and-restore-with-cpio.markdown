@@ -16,10 +16,10 @@ comments: []
 ---
 Create archive:
 1. cd to the directory that you want to archive
-2. <code>find . -xdev -print0 | cpio -oa0V | gzip &gt; path_to_save.cpio.gz</code>
+2. `find . -xdev -print0 | cpio -oa0V | gzip &gt; path_to_save.cpio.gz`
 
 Restore from archive:
 1. cd to the directory into which you want to restore the files
-2. <code>gzip -cd path_to_save.cpio.gz | cpio -imV</code>
+2. `gzip -cd path_to_save.cpio.gz | cpio -imV`
 
 See? Easy as abc ;-)

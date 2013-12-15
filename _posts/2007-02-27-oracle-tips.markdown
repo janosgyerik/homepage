@@ -19,28 +19,28 @@ comments: []
 <ul>
     <li>Essential
       <ul>
-          <li><code>ORACLE_HOME</code></li>
-          <li><code>ORACLE_SID</code></li>
+          <li>`ORACLE_HOME`</li>
+          <li>`ORACLE_SID`</li>
       </ul>
     </li>
     <li>How to set them?
       <ul>
-          <li>If you don't know what these are supposed to be, take a look at <code>/etc/oratab</code>. A line like this: <code>orcl:/opt/oracle/product/10.2.0/db_1:N</code> means
+          <li>If you don't know what these are supposed to be, take a look at `/etc/oratab`. A line like this: `orcl:/opt/oracle/product/10.2.0/db_1:N` means
             <ul>
-                <li><code>ORACLE_SID=orcl</code></li>
-                <li><code>ORACLE_HOME=/opt/oracle/product/10.2.0/db_1</code></li>
+                <li>`ORACLE_SID=orcl`</li>
+                <li>`ORACLE_HOME=/opt/oracle/product/10.2.0/db_1`</li>
             </ul>
           </li>
-          <li>Alternatively, if you know ORACLE_SID, you can set ORACLE_HOME by this command: <code>. oraenv</code></li>
+          <li>Alternatively, if you know ORACLE_SID, you can set ORACLE_HOME by this command: `. oraenv`</li>
       </ul>
     </li>
     <li>Other variables<ul>
-          <li><code>NLS_LANG=JAPANESE_JAPAN.JA16EUC</code></li>
-          <li><code>NLS_LANG=JAPANESE_JAPAN.UTF8</code></li>
-          <li><code>NLS_LANG=AMERICAN_AMERICA.UTF8</code></li>
+          <li>`NLS_LANG=JAPANESE_JAPAN.JA16EUC`</li>
+          <li>`NLS_LANG=JAPANESE_JAPAN.UTF8`</li>
+          <li>`NLS_LANG=AMERICAN_AMERICA.UTF8`</li>
     </ul></li>
     <li>My custom tips<ul>
-          <li>Create a file <code>~/ORACLE.env</code> like this:
+          <li>Create a file `~/ORACLE.env` like this:
           <pre>
 #!/bin/sh
 
@@ -58,8 +58,8 @@ PATH=$PATH:$ORACLE_HOME/bin
 
 <h3>Starting the database (with the oracle user)</h3>
 <ol>
-   <li><code>lsnrctl start</code> If you do this multiple times, not a problem, it just gives you an error.</li>
-   <li><code>dbstart</code> If this does not work, you can try this alternative method:
+   <li>`lsnrctl start` If you do this multiple times, not a problem, it just gives you an error.</li>
+   <li>`dbstart` If this does not work, you can try this alternative method:
 <pre>
       $ sqlplus
 
@@ -83,15 +83,15 @@ PATH=$PATH:$ORACLE_HOME/bin
 
       SQL&gt; exit
 </pre></li>
-   <li>optional: <code>isqlplusctl start</code> This can take a bit long. When finished, you can check if the port 5560 used by iSQL*Plus was successfully opened using the command <code>netstat -ntl | grep :5560</code> 
-If successful, you can start using the following URLs: iSQL*Plus: <code>http://localhost:5560/isqlplus</code> (even normal users can login here) iSQL*Plus DBA: <code>http://localhost:5560/isqlplus/dba</code> TODO: how to login here?</li>
+   <li>optional: `isqlplusctl start` This can take a bit long. When finished, you can check if the port 5560 used by iSQL*Plus was successfully opened using the command `netstat -ntl | grep :5560` 
+If successful, you can start using the following URLs: iSQL*Plus: `http://localhost:5560/isqlplus` (even normal users can login here) iSQL*Plus DBA: `http://localhost:5560/isqlplus/dba` TODO: how to login here?</li>
 
-   <li>optional: <code>emctl start dbconsole</code> This can take a bit long. When finished, you can check if the port 1158 used by the Enterprise Management Console was successfully opened using the command <code>netstat -ntl | grep :1158</code> If successful, you can start using the following URL: <code>http://localhost:1158/em</code> Don't know the precise rules, but users with dba granted can login here connecting as "normal". The user sys can login connecting as "sysdba" or "sysoper". </li>
+   <li>optional: `emctl start dbconsole` This can take a bit long. When finished, you can check if the port 1158 used by the Enterprise Management Console was successfully opened using the command `netstat -ntl | grep :1158` If successful, you can start using the following URL: `http://localhost:1158/em` Don't know the precise rules, but users with dba granted can login here connecting as "normal". The user sys can login connecting as "sysdba" or "sysoper". </li>
 </ol>
 
 <h3>Stopping the database (with the oracle user)</h3>
 <ol>
-<li><code>dbshut</code> If the above does not work, you can try to shutdown manually:
+<li>`dbshut` If the above does not work, you can try to shutdown manually:
 <pre>
       $ sqlplus
 
@@ -112,25 +112,25 @@ If successful, you can start using the following URLs: iSQL*Plus: <code>http://l
 
       SQL&gt; exit
 </pre>
-<li><code>isqlplusctl stop</code></li>
-<li><code>emctl stop dbconsole</code></li>
-<li><code>lsnrctl stop</code></li>
+<li>`isqlplusctl stop`</li>
+<li>`emctl stop dbconsole`</li>
+<li>`lsnrctl stop`</li>
 </ol>
 
 <h3>Quickies</h3>
 <ul>
-<li><code>connect / as sysdba</code></li>
-<li><code>connect sys/password as sysdba</code></li>
+<li>`connect / as sysdba`</li>
+<li>`connect sys/password as sysdba`</li>
 <li>How to create new password file:<ul>
   <li>stop database</li>
-  <li><code>orapwd file=$ORACLE_HOME/dbs/orapw$ORACLE_SID password=mypasswd</code></li>
+  <li>`orapwd file=$ORACLE_HOME/dbs/orapw$ORACLE_SID password=mypasswd`</li>
   <li>start database </li>
   <li><pre>
       ALTER USER scott ACCOUNT LOCK    -- lock a user account
       ALTER USER scott ACCOUNT UNLOCK; -- unlocks a locked users account
       ALTER USER scott PASSWORD EXPIRE;  -- Force user to choose a new password
   </pre></li>
-  <li><code>ALTER USER scott IDENTIFIED BY newtiger;</code></li>
+  <li>`ALTER USER scott IDENTIFIED BY newtiger;`</li>
   <li><pre>
       CREATE USER scott
       IDENTIFIED BY tiger  -- Assign password
@@ -153,8 +153,8 @@ If successful, you can start using the following URLs: iSQL*Plus: <code>http://l
   </ul>
 </li>
 <li>Logical backup and recovery<ul>
-  <li><code>exp file=/tmp/exp.dmp log=/tmp/exp.log</code></li>
-  <li><code>imp file=/tmp/exp.dmp log=/tmp/imp.log</code></li>
+  <li>`exp file=/tmp/exp.dmp log=/tmp/exp.log`</li>
+  <li>`imp file=/tmp/exp.dmp log=/tmp/imp.log`</li>
   </ul>
 </li>
 </ul>

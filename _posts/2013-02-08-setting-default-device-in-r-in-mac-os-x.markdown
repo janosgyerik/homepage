@@ -15,16 +15,16 @@ categories:
 tags: []
 comments: []
 ---
-On Mac OS X, for some reason the default device for displaying plots is Quartz. This can be inconvenient, since for example the <code>savePlot</code> function works only with X11 devices with Cairo support.
+On Mac OS X, for some reason the default device for displaying plots is Quartz. This can be inconvenient, since for example the `savePlot` function works only with X11 devices with Cairo support.
 
-To change the default device, I created <code>~/.Rprofile</code> like this:
+To change the default device, I created `~/.Rprofile` like this:
 
-<pre><code>setHook(packageEvent("grDevices", "onLoad"),
+<pre>`setHook(packageEvent("grDevices", "onLoad"),
     function(...) grDevices::X11.options(type='cairo'))
 options(device='x11')
-</code></pre>
+`</pre>
 
-The <code>setHook</code> creates a hook so that when the <code>grDevices</code> module is loaded, it sets the default type of X11 devices to <code>cairo</code>.
+The `setHook` creates a hook so that when the `grDevices` module is loaded, it sets the default type of X11 devices to `cairo`.
 
 The second line sets the default device to X11.
 

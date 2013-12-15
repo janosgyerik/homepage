@@ -25,4 +25,4 @@ Connect to a Bluetooth device using the MAC address like this:
 A screen should pop up asking you to enter the PIN for pairing. (With many devices the PIN is as simple is 1111 or 0000 or 1234). If pairing was successful, you should see a message like this in the terminal.
 <pre>Connected /dev/rfcomm0 to 00:07:80:93:54:1C on channel 1
 Press CTRL-C for hangup</pre>
-You can use a graphical client such as <code>cutecom</code> to connect to <code>/dev/rfcomm0</code> and communicate with the Bluetooth device, see incoming data and save it to a log file.
+You can use a graphical client such as `cutecom` to connect to `/dev/rfcomm0` and communicate with the Bluetooth device, see incoming data and save it to a log file.

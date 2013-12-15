@@ -19,10 +19,10 @@ Recently I needed to do something in a post-commit Subversion hook that can take
 
 The solution:
 <ol>
-	<li>Create a separate script to perform the time-consuming task, the way you always create a script. The hook script (<code>hooks/post-commit</code>) will be like a wrapper, calling the main script.</li>
-	<li>In <code>hooks/post-commit</code>, start the main script in the background, and redirect all its output to <code>/dev/null</code></li>
+	<li>Create a separate script to perform the time-consuming task, the way you always create a script. The hook script (`hooks/post-commit`) will be like a wrapper, calling the main script.</li>
+	<li>In `hooks/post-commit`, start the main script in the background, and redirect all its output to `/dev/null`</li>
 </ol>
-For example <code>hooks/post-commit</code> will look like this:
+For example `hooks/post-commit` will look like this:
 <pre>./time-consuming-script.sh $* &gt;/dev/null 2&gt;/dev/null &amp;</pre>
-The catch here was redirecting error output (<code>2&gt;/dev/null</code>). Without that, the process was not fully in the background.
-By the another (small) catch is that the post-commit template file (<code>hooks/post-commit.tmpl</code>) should not exist, or have size 0, otherwise the real hook script is ignored.
+The catch here was redirecting error output (`2&gt;/dev/null`). Without that, the process was not fully in the background.
+By the another (small) catch is that the post-commit template file (`hooks/post-commit.tmpl`) should not exist, or have size 0, otherwise the real hook script is ignored.

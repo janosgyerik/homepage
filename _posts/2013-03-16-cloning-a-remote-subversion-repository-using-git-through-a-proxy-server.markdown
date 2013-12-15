@@ -15,18 +15,18 @@ categories:
 tags: []
 comments: []
 ---
-To clone a remote Subversion repository using Git through a proxy server, edit the <code>~/.subversion/servers</code> file appropriately:
+To clone a remote Subversion repository using Git through a proxy server, edit the `~/.subversion/servers` file appropriately:
 
-<pre><code>[global]
+<pre>`[global]
 # http-proxy-exceptions = *.exception.com, www.internal-site.org
 # http-proxy-host = defaultproxy.whatever.com
 # http-proxy-port = 7000
 # http-proxy-username = defaultusername
 # http-proxy-password = defaultpassword
-</code></pre>
+`</pre>
 
-Note that even in Windows, the correct path is actually <code>~/.subversion/servers</code> when using <code>git-svn</code>, even though this is NOT the normal configuration directory for the native <code>svn.exe</code>. For example in Windows 7 <code>svn.exe</code> typically uses the path <code>C:\Users\YOURUSER\AppData\Roaming\Subversion</code>.
+Note that even in Windows, the correct path is actually `~/.subversion/servers` when using `git-svn`, even though this is NOT the normal configuration directory for the native `svn.exe`. For example in Windows 7 `svn.exe` typically uses the path `C:\Users\YOURUSER\AppData\Roaming\Subversion`.
 
-This was quite confusing to me at first, because after I got <code>svn checkout</code> working well by editing <code>C:\Users\YOURUSER\AppData\Roaming\Subversion\servers</code> I was surprised to find that <code>git clone svn</code> still had the proxy issue.
+This was quite confusing to me at first, because after I got `svn checkout` working well by editing `C:\Users\YOURUSER\AppData\Roaming\Subversion\servers` I was surprised to find that `git clone svn` still had the proxy issue.
 
-In case you were wondering, the <code>http_proxy</code> and <code>https_proxy</code> environment variables are ignored by both Git and Subversion.
+In case you were wondering, the `http_proxy` and `https_proxy` environment variables are ignored by both Git and Subversion.

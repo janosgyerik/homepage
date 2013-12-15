@@ -14,4 +14,4 @@ categories:
 tags: []
 comments: []
 ---
-Recently Gmail shows up in Japanese. (Because I'm in Japan.) To force English language append to the URL <code>&amp;hl=en</code>
+Recently Gmail shows up in Japanese. (Because I'm in Japan.) To force English language append to the URL `&amp;hl=en`

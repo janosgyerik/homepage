@@ -68,31 +68,31 @@ Provided you have git-svn installed, clone the trunk with:
 <pre>git svn clone http://example.com/path/to/project-x/trunk project-x</pre>
 Do not clone the entire repository. Online tutorials will tell you that you can track branches and tags by parameterizing the initial clone. Unfortunately, most probably that won't work out very well with a large repository.
 
-If the repository is sufficiently large, the cloning may be interrupted. You will have a <code>project-x</code> directory with only a <code>.git</code> subdirectory in it. Not to worry, go inside the <code>project-x</code> directory and resume with:
+If the repository is sufficiently large, the cloning may be interrupted. You will have a `project-x` directory with only a `.git` subdirectory in it. Not to worry, go inside the `project-x` directory and resume with:
 <pre>git svn fetch</pre>
 Depending on the size of the repository, you may have to repeat this a couple of times. Eventually it should work.
 
 By the way, git svn fetch is not very chatty at first. Usually for many minutes or even hours it may seem like nothing is happening, but actually it's working, so don't interrupt.
 
-Once the clone is finally completed, you probably want to generate a <code>.gitignore</code> file based on Subversion's meta data:
+Once the clone is finally completed, you probably want to generate a `.gitignore` file based on Subversion's meta data:
 <pre>git svn show-ignore &gt;&gt; .gitignore</pre>
 <h2>Working with Git</h2>
 Once you have the clone from Subversion, you have a Git repository, use it as usual...
 
-However! To keep things clean, and to avoid impacting your coworkers, it might be a good idea to keep <code>master</code> "pristine". That is, never do any work on <code>master</code>, use it only for interacting with the remote Subversion repository such as pull updates and pushing local commits. Do all your work on branches, stay off the <code>master</code>.
+However! To keep things clean, and to avoid impacting your coworkers, it might be a good idea to keep `master` "pristine". That is, never do any work on `master`, use it only for interacting with the remote Subversion repository such as pull updates and pushing local commits. Do all your work on branches, stay off the `master`.
 <h2>Getting updates from Subversion</h2>
 You might think that the right way to get new revisions from Subversion will involve a pull command. No. The right way is to rebase:
 <pre>git checkout master
 git svn rebase</pre>
-I checkout <code>master</code> just to highlight that ideally you should be working on other branches, not the <code>master</code>. The rebase works as usual, and if you haven't touched the <code>master</code> than this is like a fast-forward merge with no possibility of conflicts.
+I checkout `master` just to highlight that ideally you should be working on other branches, not the `master`. The rebase works as usual, and if you haven't touched the `master` than this is like a fast-forward merge with no possibility of conflicts.
 <h2>Committing to Subversion</h2>
-Let's assume you fixed a bug on a branch called <code>bug123</code> and never touched <code>master</code>. You have two main options:
+Let's assume you fixed a bug on a branch called `bug123` and never touched `master`. You have two main options:
 <ol>
-	<li>Preserve your individual commits in <code>bug123</code></li>
-	<li>Squash your individual commits in <code>bug123</code> and apply the changes in a single commit</li>
+	<li>Preserve your individual commits in `bug123`</li>
+	<li>Squash your individual commits in `bug123` and apply the changes in a single commit</li>
 </ol>
 <h3>Preserving individual commits</h3>
-Since Subversion doesn't have the notion of branches as Git, the easiest way to preserve your individual commits is to rebase your branch on top of the Subversion <code>trunk</code> (= <code>master</code>) and then push your commits to Subversion:
+Since Subversion doesn't have the notion of branches as Git, the easiest way to preserve your individual commits is to rebase your branch on top of the Subversion `trunk` (= `master`) and then push your commits to Subversion:
 <pre>git checkout master  # first, update from the remote trunk
 git svn rebase
 git checkout bug123  # next, rebase bug123 on top of master
@@ -101,19 +101,19 @@ git checkout master
 git merge bug123     # this should be a fast-forward
 git svn dcommit</pre>
 <h3>Squashing individual commits</h3>
-Nothing special is needed here. In the rare case that the Subversion repository has not changed since our last rebase and the <code>bug123</code> branch was based on that revision, then the merge operation will be a fast-forward by default, preserving individual commits. Normally this is not the case, and the merged revisions will be committed to Subversion as a single change.
+Nothing special is needed here. In the rare case that the Subversion repository has not changed since our last rebase and the `bug123` branch was based on that revision, then the merge operation will be a fast-forward by default, preserving individual commits. Normally this is not the case, and the merged revisions will be committed to Subversion as a single change.
 <pre>git checkout master  # first, update from the remote trunk
 git svn rebase
 git merge bug123     # possibly but not likely a fast-forward
 git svn dcommit</pre>
 <h2>Getting other Subversion branches</h2>
-To get other branches not only the trunk, we have to tell Git the urls of the branches and how to label them in Git commands. At the moment <code>.git/config</code> should look something like this:
+To get other branches not only the trunk, we have to tell Git the urls of the branches and how to label them in Git commands. At the moment `.git/config` should look something like this:
 <pre>[svn-remote "svn"]
         url = http://example.com/path/to/project-x/trunk
         fetch = :refs/remotes/git-svn</pre>
-The trick is to add multiple fetch configurations. The general format of a fetch configuration value is <code>RELPATH:refs/remotes/LABEL</code> where <code>RELPATH</code> is the relative path of the branch from the url configuration, and <code>LABEL</code> can be anything you want. At the moment <code>RELPATH</code> is blank, because url already corresponds to the url of the branch.
+The trick is to add multiple fetch configurations. The general format of a fetch configuration value is `RELPATH:refs/remotes/LABEL` where `RELPATH` is the relative path of the branch from the url configuration, and `LABEL` can be anything you want. At the moment `RELPATH` is blank, because url already corresponds to the url of the branch.
 
-Let's say we want to get <code>branch1</code>, whose url is <code>http://example.com/path/to/project-x/branches/branch1</code>. Let's change <code>.git/config</code> to be like this:
+Let's say we want to get `branch1`, whose url is `http://example.com/path/to/project-x/branches/branch1`. Let's change `.git/config` to be like this:
 <pre>[svn-remote "svn"]
         url = http://example.com/path/to/project-x
         fetch = trunk:refs/remotes/git-svn
@@ -130,11 +130,11 @@ After the fetch is completed, you can confirm the new branch was correctly fetch
 <pre>git branch -r</pre>
 You can create a local branch based on the remote and switch to it with:
 <pre>git checkout -b local-branch1 remotes/branch1</pre>
-You can add more fetch lines easily using <code>git config</code>:
+You can add more fetch lines easily using `git config`:
 <pre>git config --add svn-remote.svn.fetch branches/branch2:refs/remotes/branch2</pre>
 By the way, the documentation mentions this alternative configuration:
 <pre>[svn-remote "svn"]
         url = http://example.com/path/to/project-x
         fetch = trunk:refs/remotes/git-svn
         branches = branches/{red,green}:refs/remotes/*</pre>
-It's a great idea, except that as of version 1.7.10 this does not work well: it works only once!!! You create the settings, you do <code>git svn fetch</code>, it looks all good, but if you add another branch later and try to do <code>git svn fetch</code> again, it will do nothing. It's not the end of the world though, as you can just fall back to the technique of adding multiple fetch lines...
+It's a great idea, except that as of version 1.7.10 this does not work well: it works only once!!! You create the settings, you do `git svn fetch`, it looks all good, but if you add another branch later and try to do `git svn fetch` again, it will do nothing. It's not the end of the world though, as you can just fall back to the technique of adding multiple fetch lines...

@@ -26,7 +26,7 @@ I'm not using it yet for my movie collection, because I have some issues with it
 	<li>Adjusting the volume is not easy enough: in VLC I can just use the mouse scroll</li>
 	<li>Adjusting the aspect ratio is not easy enough</li>
 </ul>
-Finally I figured out how to use an external player. I created a configuration file in <code>~/.xbmc/userdata/playercorefactory.xml</code> like this:
+Finally I figured out how to use an external player. I created a configuration file in `~/.xbmc/userdata/playercorefactory.xml` like this:
 
 [gist id=5648461 bump=1]
 

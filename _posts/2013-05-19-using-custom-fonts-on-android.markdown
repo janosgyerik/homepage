@@ -28,7 +28,7 @@ And I found some pretty nice fonts on this site suitable for the concept of my a
 
 Here's the gist:
 
-Step 1: Find a nice font and put it in your <code>assets/</code> folder
+Step 1: Find a nice font and put it in your `assets/` folder
 
 Step 2: Set the custom font in code (which is the only way to do it), like this:
 <pre>TextView message = (TextView) findViewById(R.id.message); 

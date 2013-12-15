@@ -17,14 +17,14 @@ comments: []
 ---
 Suppose you have exposed some mbeans using JMX. You can connect to the JMX service like this:
 <pre>java -jar jmxterm.jar --url $service_url</pre>
-where <code>service_url</code> is the URL of the JMX service, which you can usually find out in the logs when starting up your service. In my case, working in a Camel container, it looks like this:
+where `service_url` is the URL of the JMX service, which you can usually find out in the logs when starting up your service. In my case, working in a Camel container, it looks like this:
 <pre>service:jmx:rmi:///jndi/rmi://localhost:1188/jmxrmi/camel</pre>
-Next you need to find the bean you want to manipulate, you can search for available beans with the <code>beans</code> command. To narrow down the list, it is helpful to specify the domain of the bean, for example:
+Next you need to find the bean you want to manipulate, you can search for available beans with the `beans` command. To narrow down the list, it is helpful to specify the domain of the bean, for example:
 <pre>beans -d net.sf.ehcache</pre>
-Next, to do something with the bean you need to select it with the <code>bean</code> command, for example:
+Next, to do something with the bean you need to select it with the `bean` command, for example:
 <pre>bean -d net.sf.ehcache $bean
 run someMethodOfTheBean</pre>
-where <code>bean</code> is the full name of the bean as you found previously with the <code>beans</code> command. It's pretty long, so you definitely want to copy &amp; paste rather than typing.
+where `bean` is the full name of the bean as you found previously with the `beans` command. It's pretty long, so you definitely want to copy &amp; paste rather than typing.
 
 You can put this commands in text file and run them non-interactively like this:
 <pre>java -jar jmxterm.jar --url $service_url -i /path/to/my-jmx.script</pre>

@@ -28,6 +28,6 @@ For this you need to know the proxy server. Usually it is not difficult to figur
 <pre>ping wpad
 ipconfig /all
 netstat -ban</pre>
-<code>ping wpad</code> is the easiest to read but the least likely to work in your system, <code>netstat -ban</code> is the most difficult to read but it <em>has to</em> work always.
+`ping wpad` is the easiest to read but the least likely to work in your system, `netstat -ban` is the most difficult to read but it <em>has to</em> work always.
 
-Finally, sometimes it may still not work despite setting <code>http_proxy</code> correctly, resulting in proxy authentication errors for some reason. When that happens, try to access the URL in the browser first, and then try it again on the command line.
+Finally, sometimes it may still not work despite setting `http_proxy` correctly, resulting in proxy authentication errors for some reason. When that happens, try to access the URL in the browser first, and then try it again on the command line.

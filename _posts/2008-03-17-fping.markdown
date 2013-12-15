@@ -15,5 +15,5 @@ categories:
 tags: []
 comments: []
 ---
-Flood ping. You specify the list of addresses on the command line. To generate the list of IP adresses you can use the <code>-g</code> flag and targets with netmask or significant bits like this.
+Flood ping. You specify the list of addresses on the command line. To generate the list of IP adresses you can use the `-g` flag and targets with netmask or significant bits like this.
 <blockquote>fping -g 192.168.11.0/24</blockquote>

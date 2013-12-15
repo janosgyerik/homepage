@@ -25,7 +25,7 @@ comments: []
 
 <p>The second obstacle was finding the right way to specify the path to plink.exe</p>
 
-<p>I added the environmental variable: <code>SVN_SSH</code>
-With value: <code>"c:/program files/putty/plink.exe"</code>
+<p>I added the environmental variable: `SVN_SSH`
+With value: `"c:/program files/putty/plink.exe"`
 Yes, the path is unix style and NOT windows style.
 And yes, the path is enclosed in double quotes (because of the space in it).</p>

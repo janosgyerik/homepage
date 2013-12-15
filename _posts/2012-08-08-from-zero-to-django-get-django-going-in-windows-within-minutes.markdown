@@ -30,11 +30,11 @@ My 5-step banana ice cream recipe got more reaction in one hour than my usual ge
 <ul>
 <li><a href="http://www.python.org/ftp/python/2.7.3/python-2.7.3.msi">http://www.python.org/ftp/python/2.7.3/python-2.7.3.msi</a></li>
 </ul></li>
-<li>latest stable <code>setuptools</code>:
+<li>latest stable `setuptools`:
 
 <ul>
 <li><a href="http://pypi.python.org/packages/2.7/s/setuptools/setuptools-0.6c11.win32-py2.7.exe">http://pypi.python.org/packages/2.7/s/setuptools/setuptools-0.6c11.win32-py2.7.exe</a></li>
-<li>... just to <code>easy_install pip</code></li>
+<li>... just to `easy_install pip`</li>
 </ul></li>
 <li>(optional) latest stable Bazaar:
 
@@ -43,7 +43,7 @@ My 5-step banana ice cream recipe got more reaction in one hour than my usual ge
 <li>Because the django project is in Bazaar</li>
 <li>... and it is my choice of VCS anyway</li>
 </ul></li>
-<li>(optional) latest stable <code>git</code>:
+<li>(optional) latest stable `git`:
 
 <ul>
 <li><a href="http://code.google.com/p/msysgit/downloads/detail?name=Git-1.7.11-preview20120710.exe">http://code.google.com/p/msysgit/downloads/detail?name=Git-1.7.11-preview20120710.exe</a></li>
@@ -60,21 +60,21 @@ My 5-step banana ice cream recipe got more reaction in one hour than my usual ge
 <h3>Preparation</h3>
 
 <ol>
-<li><p>(optional) Install <code>putty</code>, create ssh key with <code>puttygen</code>, save private and public keys, add to <code>authorized_keys</code> on repository server, start <code>pagent</code>, add the key to it.</p></li>
-<li><p>Install <code>python</code>, install <code>setuptools</code></p></li>
+<li><p>(optional) Install `putty`, create ssh key with `puttygen`, save private and public keys, add to `authorized_keys` on repository server, start `pagent`, add the key to it.</p></li>
+<li><p>Install `python`, install `setuptools`</p></li>
 <li>Edit environmental variables:
 
 <ol>
-<li>Append to <code>PATH</code>: <code>c:\python27;c:\python27\scripts</code></li>
-<li>Set <code>BZR_SSH=c:\program files\putty\plink.exe</code></li>
+<li>Append to `PATH`: `c:\python27;c:\python27\scripts`</li>
+<li>Set `BZR_SSH=c:\program files\putty\plink.exe`</li>
 </ol></li>
-<li><p>(optional) Install <code>git</code></p></li>
+<li><p>(optional) Install `git`</p></li>
 <li><p>Fire up the bash terminal (git bash or DOS command prompt)</p></li>
-<li><p><code>easy_install pip</code></p></li>
-<li><p>(optional) Install Bazaar, <code>bzr co bzr+ssh://myserver/~/repos/project</code></p></li>
-<li><p>Install Django using pip: <code>pip install django==1.4</code> (use the version you need!)</p></li>
-<li><p>Install dependencies of the Django project, typically listed in a file: <code>pip install -r requirements.txt</code></p></li>
-<li><p>Run in Django's local server: <code>python manage.py runserver</code></p></li>
+<li><p>`easy_install pip`</p></li>
+<li><p>(optional) Install Bazaar, `bzr co bzr+ssh://myserver/~/repos/project`</p></li>
+<li><p>Install Django using pip: `pip install django==1.4` (use the version you need!)</p></li>
+<li><p>Install dependencies of the Django project, typically listed in a file: `pip install -r requirements.txt`</p></li>
+<li><p>Run in Django's local server: `python manage.py runserver`</p></li>
 </ol>
 
 Best served in a modern browser like Chrome at <a href="http://localhost:7000/">http://localhost:7000/</a> Enjoy!
@@ -82,6 +82,6 @@ Best served in a modern browser like Chrome at <a href="http://localhost:7000/">
 <h3>Variations for the more adventurous</h3>
 
 <ul>
-<li>Screw <code>putty</code>, use the <code>openssh</code> that comes with <code>git bash</code></li>
-<li><code>pip install virtualenv</code>, create a virtual env and run Django inside it.</li>
+<li>Screw `putty`, use the `openssh` that comes with `git bash`</li>
+<li>`pip install virtualenv`, create a virtual env and run Django inside it.</li>
 </ul>

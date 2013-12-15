@@ -19,7 +19,7 @@ comments: []
 
 <pre>easy_install --user pip</pre>
 <h3>Update PATH</h3>
-Unless you have already done it, add <code>~/.local/bin</code> to <code>PATH</code>, because <code>pip</code> will install binaries there.
+Unless you have already done it, add `~/.local/bin` to `PATH`, because `pip` will install binaries there.
 <pre>PATH=~/.local/bin:$PATH</pre>
 <h3>Install Bazaar and recommended python modules using pip</h3>
 <a href="http://wiki.bazaar.canonical.com/InstallationFaq" rel="nofollow">http://wiki.bazaar.canonical.com/InstallationFaq</a>

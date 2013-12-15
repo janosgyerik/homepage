@@ -16,8 +16,8 @@ comments: []
 ---
 I started using my old-ish Debian server again and realized the system date is off by 20 minutes...
 
-The solution is to install <code>ntpdate</code>, which automatically synchronizes the clock at certain system events, for example when the network interface comes up.
+The solution is to install `ntpdate`, which automatically synchronizes the clock at certain system events, for example when the network interface comes up.
 
-To force synchronizing <em>now</em>, you can run <code>ntpdate</code> manually, but you must specify the NTP servers to use as reference on the command line, otherwise it will give you an error like this:
+To force synchronizing <em>now</em>, you can run `ntpdate` manually, but you must specify the NTP servers to use as reference on the command line, otherwise it will give you an error like this:
 <pre>14 May 06:53:06 ntpdate[6505]: no servers can be used, exiting</pre>
-An easier way is to run <code>ntpdate-debian</code> without arguments, which will use the NTP servers configured in <code>/etc/default/ntpdate</code>, which is a Debian-specific setup.
+An easier way is to run `ntpdate-debian` without arguments, which will use the NTP servers configured in `/etc/default/ntpdate`, which is a Debian-specific setup.

@@ -16,11 +16,11 @@ comments: []
 ---
 Install Java 6 like this: (Note: the package is in <em>multiverse</em>)
 <blockquote>sudo apt-get install sun-java6-jdk</blockquote>
-Edit <code>/etc/jvm</code>, add this line to the top of the list: <code>/usr/lib/jvm/java-6-sun</code>
+Edit `/etc/jvm`, add this line to the top of the list: `/usr/lib/jvm/java-6-sun`
 
-Thanks to the above step, the <code>java</code> executable will find the <em>right</em> version of java. You can confirm this with <code>java -version</code>. However, setting <code>JAVA_HOME</code> is a completely different matter.
+Thanks to the above step, the `java` executable will find the <em>right</em> version of java. You can confirm this with `java -version`. However, setting `JAVA_HOME` is a completely different matter.
 
-These commands will detect set and verify <code>JAVA_HOME</code>:
+These commands will detect set and verify `JAVA_HOME`:
 <blockquote>. /usr/share/java-common/java-common.sh
 eval $(jvm_config)
 export JAVA_HOME

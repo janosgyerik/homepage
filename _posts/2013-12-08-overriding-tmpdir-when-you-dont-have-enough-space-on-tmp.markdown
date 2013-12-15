@@ -16,7 +16,7 @@ categories:
 tags: []
 comments: []
 ---
-Sometimes you might not have enough disk space on the <code>/tmp</code> directory but need it badly. For example when creating a <code>deb</code> package from a Java tarball in Debian using <code>make-jpkg</code>, there's no command line parameter or any other apparent means to specify an alternative working directory for temporary files.
+Sometimes you might not have enough disk space on the `/tmp` directory but need it badly. For example when creating a `deb` package from a Java tarball in Debian using `make-jpkg`, there's no command line parameter or any other apparent means to specify an alternative working directory for temporary files.
 
-Check-mate? Luckily, no! I could force a different directory using the <code>TMPDIR</code> environment variable like this:
+Check-mate? Luckily, no! I could force a different directory using the `TMPDIR` environment variable like this:
 <pre>TMPDIR=/some/where make-jpkg  jdk-7u45-linux-x64.tar.gz</pre>

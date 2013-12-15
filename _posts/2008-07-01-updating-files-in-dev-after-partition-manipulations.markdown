@@ -15,8 +15,8 @@ tags: []
 comments: []
 ---
 <ul>
-	<li>After editing the partition table, to have the proper device files created under <code>/dev</code>, run: <code>partprobe</code>. (It is in <code>parted</code> package.)</li>
-	<li>After creating filesystems, to have the proper files created under <code>/dev/disk/by-uuid</code>, run: <code>/etc/init.d/udev restart</code>.</li>
-	<li>To find the uuid of filesystems, run: <code>blkid</code>.</li>
+	<li>After editing the partition table, to have the proper device files created under `/dev`, run: `partprobe`. (It is in `parted` package.)</li>
+	<li>After creating filesystems, to have the proper files created under `/dev/disk/by-uuid`, run: `/etc/init.d/udev restart`.</li>
+	<li>To find the uuid of filesystems, run: `blkid`.</li>
 </ul>
 This is in Ubuntu or Debian.

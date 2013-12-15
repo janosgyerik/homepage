@@ -16,6 +16,6 @@ comments: []
 ---
 <p>I needed a newer version of the xmloutput plugin for the Eclipse Bazaar plugin. I installed Bazaar 1.6 with the standalone installer, which has a bug and the bzr.exe in it doesn't include some required files. There are two workarounds.</p>
 
-<p>1. Re-install Bazaar with the python installer, that is, download the source, untar, and <code>python setup.py install</code></p>
+<p>1. Re-install Bazaar with the python installer, that is, download the source, untar, and `python setup.py install`</p>
 
-<p>2. Copy <code>[python]/lib/SimpleXMLRPCServer.py</code> to the <code>xmloutput</code> plugin's directory</p>
+<p>2. Copy `[python]/lib/SimpleXMLRPCServer.py` to the `xmloutput` plugin's directory</p>

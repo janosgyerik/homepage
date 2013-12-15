@@ -31,14 +31,14 @@ Of course, all the projects you host there will be public. Write operations are 
 
 Setup steps:
 <ol>
-<li>Login to Launchpad, go to the <code>Code</code> tab. <a href="https://code.launchpad.net/~janos-gyerik">This is mine</a></li>
-<li>Click on <code>Register a branch</code> button.</li>
-<li>There are different hosting options. I chose <code>Hosted</code> to make Launchpad the primary location of my project. Projects of this type are updated with <code>bzr push</code> command.</li>
+<li>Login to Launchpad, go to the `Code` tab. <a href="https://code.launchpad.net/~janos-gyerik">This is mine</a></li>
+<li>Click on `Register a branch` button.</li>
+<li>There are different hosting options. I chose `Hosted` to make Launchpad the primary location of my project. Projects of this type are updated with `bzr push` command.</li>
 <li>Before you can push to Launchpad you need two things. 
 <ol><li>Add your SSH public key. (Launchpad | Overview | Update SSH keys)</li>
 <li>Login to Launchpad with Bazaar, for example: 
 <blockquote>bzr lp-login janos-gyerik</blockquote></li></ol>
-Go to the Bazaar project directory and do <code>bzr push</code> like this: 
+Go to the Bazaar project directory and do `bzr push` like this: 
 <blockquote>bzr push lp:~janos-gyerik/+junk/software-cache</blockquote></ol>
 
 After this, anybody will be able to checkout the project with 

@@ -22,7 +22,7 @@ comments:
   content: Thanks so much for these posts, I managed to get RapidSvn up and running
     with them.
 ---
-<p>Oh well, <code>SVN_SSH="c:/program files/putty/plink.exe"</code> didn't work very well for me for two reasons:</p>
+<p>Oh well, `SVN_SSH="c:/program files/putty/plink.exe"` didn't work very well for me for two reasons:</p>
 
 <ul>
 <li>Every time a console window would pop up, that's kind of ugly.</li>

@@ -24,9 +24,9 @@ comments:
   content: you have no idea how many hours i spend trying to figure out why the form
     wouldn't validate, thanks for mentioning the gotchas
 ---
-If you initialize as <code>AuthentictionForm(request.POST)</code> like probably many of your forms, no validation will take place at all.
+If you initialize as `AuthentictionForm(request.POST)` like probably many of your forms, no validation will take place at all.
 
-In my case I needed to initialize as <code>AuthenticationForm(None, request.POST)</code>
+In my case I needed to initialize as `AuthenticationForm(None, request.POST)`
 
 The gotcha here is that the first argument must be a request object if you want to validate cookie support in the browser (that is, check if the user has cookies enabled in the browser). I didn't want cookie validation, but I did want field and user account validation.
 

@@ -17,18 +17,18 @@ comments: []
 ---
 Didn't know you can do this until now, and it's so awesome!
 
-Add this in <code>.vimrc</code>:
+Add this in `.vimrc`:
 
-<pre><code>set cursorline
+<pre>`set cursorline
 highlight CursorLine guibg=#F1F5FA
-</code></pre>
+`</pre>
 
 To highlight the current line only in the active window, throw these in too:
 
-<pre><code>autocmd WinEnter * setlocal cursorline
+<pre>`autocmd WinEnter * setlocal cursorline
 autocmd WinLeave * setlocal nocursorline
-</code></pre>
+`</pre>
 
 <p>More info:
-- <code>:help :highlight</code>
+- `:help :highlight`
 - <a href="http://vim.wikia.com/wiki/Highlight_current_line">http://vim.wikia.com/wiki/Highlight_current_line</a></p>

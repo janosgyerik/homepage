@@ -22,6 +22,6 @@ comments: []
 <dd>the acrobat updater...</dd>
 
 <dt>Resolution</dt>
-<dd>cd to acrobat plug-in directory (<code>c:program filesadobeacrobat 8.0acrobatplug_ins</code>) and rename updater.api to something else.
+<dd>cd to acrobat plug-in directory (`c:program filesadobeacrobat 8.0acrobatplug_ins`) and rename updater.api to something else.
 </dd>
 </dl>

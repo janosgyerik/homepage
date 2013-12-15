@@ -23,4 +23,4 @@ Finally this has been resolved in Bazaar 2.5.1 (you do need 2.5.1, the problem s
 <pre>export https_proxy=http://proxyuser:proxypass@proxyserver:port/path</pre>
 Notice the "s" in "https_proxy", this is different from "http_proxy", and required for Launchpad urls such as "lp:someproject".
 
-With this in place now I can checkout with <code>bzr co lp:theproject</code> as usual.
+With this in place now I can checkout with `bzr co lp:theproject` as usual.

@@ -17,18 +17,18 @@ comments: []
 ---
 Adding all unknown files in a working tree is usually very simple in other version control systems, for example:
 
-<pre><code>git add .
+<pre>`git add .
 bzr add
-</code></pre>
+`</pre>
 Not so simple in Subversion:
-<pre><code>$ svn add .
+<pre>`$ svn add .
 svn: warning: '.' is already under version control
-</code></pre>
-But if you add the <code>--force</code> flag, that will do!
+`</pre>
+But if you add the `--force` flag, that will do!
 
 Keep in mind that this is <strong>not</strong> the same as:
-<pre><code>svn add * --force
-</code></pre>
-That would add not only unknown files, but ignored files too, which is usually not you want. Make sure to specify directories explicitly, avoid using <code>*</code> with this command.
+<pre>`svn add * --force
+`</pre>
+That would add not only unknown files, but ignored files too, which is usually not you want. Make sure to specify directories explicitly, avoid using `*` with this command.
 
 

@@ -20,5 +20,5 @@ When coding in python, I've been hit by the following error every once in a whil
 Today I finally figured why:
 <pre>$ python -c 'import sys; print sys.stdout.encoding'
 $ US-ASCII</pre>
-Although my terminal application is capable of outputting unicode characters, python (2.6) somehow does not know it, and tries to output everything in <code>ascii</code>, hence the error. The solution is to set <code>PYTHONIOENCODING</code> in my ~/.bashrc:
+Although my terminal application is capable of outputting unicode characters, python (2.6) somehow does not know it, and tries to output everything in `ascii`, hence the error. The solution is to set `PYTHONIOENCODING` in my ~/.bashrc:
 <pre>export PYTHONIOENCODING=utf-8</pre>

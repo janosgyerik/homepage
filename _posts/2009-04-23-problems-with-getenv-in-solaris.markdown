@@ -14,6 +14,6 @@ categories:
 tags: []
 comments: []
 ---
-Had a strange issue just now. Although the value returned by <code>getenv</code> was not <code>NULL</code>, any attempts to access the memory pointed to by it resulted in segmentation fault.
+Had a strange issue just now. Although the value returned by `getenv` was not `NULL`, any attempts to access the memory pointed to by it resulted in segmentation fault.
 
-The cause was the missing <code>#include &lt;stdio.h&gt;</code> line, which is pretty easy to spot if you look at the build output.
+The cause was the missing `#include &lt;stdio.h&gt;` line, which is pretty easy to spot if you look at the build output.

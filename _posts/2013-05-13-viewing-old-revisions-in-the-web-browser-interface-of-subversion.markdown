@@ -19,6 +19,6 @@ If Apache is configured to browse a Subversion repository, its files and directo
 
 <a href="http://svn.apache.org/repos/asf/subversion/trunk/">http://svn.apache.org/repos/asf/subversion/trunk/</a>
 
-If you want to browse the content of older revisions, there is a non-trivial way by inserting <code>/!svn/bc/REVNO</code> between the base URL of the repository and the path component of the target directory inside the repository, for example you can browse the contents as of revision 1234123 like this:
+If you want to browse the content of older revisions, there is a non-trivial way by inserting `/!svn/bc/REVNO` between the base URL of the repository and the path component of the target directory inside the repository, for example you can browse the contents as of revision 1234123 like this:
 
 <a href="http://svn.apache.org/repos/asf/!svn/bc/1234123/subversion/trunk/">http://svn.apache.org/repos/asf/!svn/bc/1234123/subversion/trunk/</a>

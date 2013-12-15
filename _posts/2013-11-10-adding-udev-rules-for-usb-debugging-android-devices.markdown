@@ -22,7 +22,7 @@ USB debugging of my Google Nexus 4 phone used to work just fine from my Debian d
 $ adb devices
 List of devices attached 
 ???????????? no permissions</pre>
-That is, <code>adb logcat</code> was just waiting forever even though my phone was connected, and <code>adb devices</code> was giving permission errors. There was no easy answer on stackoverflow, but lots of clumsy ones, suggesting to make the <code>adb</code> binary setuid, or adding udev rules with <code>0666</code> permissions. I really had to get to the bottom of this myself.
+That is, `adb logcat` was just waiting forever even though my phone was connected, and `adb devices` was giving permission errors. There was no easy answer on stackoverflow, but lots of clumsy ones, suggesting to make the `adb` binary setuid, or adding udev rules with `0666` permissions. I really had to get to the bottom of this myself.
 
 These are the steps to properly debug, understand and resolve the issue.
 
@@ -41,14 +41,14 @@ I bought my device from Google, so it's probably the last one.
 2. Check the permissions of the device file
 <pre>$ ls -l /dev/bus/usb/001/008
 crw-rw-r-T 1 root root 189, 8 Nov 10 18:34 /dev/bus/usb/001/008</pre>
-The path comes from the output of <code>lsusb</code>: <code>001</code> is the <em>Bus</em>, and <code>008</code> is the <em>Device</em>.
+The path comes from the output of `lsusb`: `001` is the <em>Bus</em>, and `008` is the <em>Device</em>.
 
-The problem is clear: the file is owned by user root and group root, which I am neither. The elegant solution is to add a udev rule so that the device will belong to a reasonable group, like <code>plugdev</code>, of which I'm a member.
+The problem is clear: the file is owned by user root and group root, which I am neither. The elegant solution is to add a udev rule so that the device will belong to a reasonable group, like `plugdev`, of which I'm a member.
 
-3. Create a udev rules file, let's say: <code>/etc/udev/rules.d/51-android.rules</code>
+3. Create a udev rules file, let's say: `/etc/udev/rules.d/51-android.rules`
 <pre>SUBSYSTEM=="usb", ATTR{idVendor}=="18d1", ATTR{idProduct}=="d002", MODE="0660", 
 GROUP="plugdev", SYMLINK+="android%n"</pre>
-Here, <code>idVendor</code> and <code>idProduct</code> come from the output of <code>lsusb</code>: <code>18d1:d002</code>. Do similarly for your own device. The rule specifies that a matching USB device should be created with permissions <code>0660</code>, with group <code>plugdev</code>, and a symlink conveniently pointing to it.
+Here, `idVendor` and `idProduct` come from the output of `lsusb`: `18d1:d002`. Do similarly for your own device. The rule specifies that a matching USB device should be created with permissions `0660`, with group `plugdev`, and a symlink conveniently pointing to it.
 
 Now that everything is ready, simply plug the device out and back in to confirm the result:
 <pre>$ lsusb | grep oogle

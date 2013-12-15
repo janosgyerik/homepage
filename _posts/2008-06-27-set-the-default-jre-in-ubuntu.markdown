@@ -15,4 +15,4 @@ tags: []
 comments: []
 ---
 <blockquote>sudo update-alternatives --config java</blockquote>
-(And in case you forgot, java packages are called like <code>sun-java6-jdk</code>.)
+(And in case you forgot, java packages are called like `sun-java6-jdk`.)
