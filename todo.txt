@@ -1,5 +1,4 @@
 next
-    fix formatting
     get site search working on 404 page
     add site search to navbar
 
