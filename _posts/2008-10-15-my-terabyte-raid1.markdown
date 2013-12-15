@@ -14,9 +14,9 @@ categories:
 tags: []
 comments: []
 ---
-<p>My raid1 array with two 120G disks was getting filled up lately, so when usage reached 90% I decided it's time to upgrade. To my great surprise prices have gone much lower than I expected: I got two 1T disks for the same price as the old 120G disks -- $100 apiece.</p>
+My raid1 array with two 120G disks was getting filled up lately, so when usage reached 90% I decided it's time to upgrade. To my great surprise prices have gone much lower than I expected: I got two 1T disks for the same price as the old 120G disks -- $100 apiece.
 
-<p>It's been a long time since I setup my raid1 array so I had to read up on `man mdadm` and `mdadm --help`.</p>
+It's been a long time since I setup my raid1 array so I had to read up on `man mdadm` and `mdadm --help`.
 
 <ul>
 <li>Created a full backup of the old disks: <br />`cd /storage; tar cvpf disk200/raid1.tar raid1`</li>

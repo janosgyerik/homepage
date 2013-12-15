@@ -60,21 +60,21 @@ My 5-step banana ice cream recipe got more reaction in one hour than my usual ge
 <h3>Preparation</h3>
 
 <ol>
-<li><p>(optional) Install `putty`, create ssh key with `puttygen`, save private and public keys, add to `authorized_keys` on repository server, start `pagent`, add the key to it.</p></li>
-<li><p>Install `python`, install `setuptools`</p></li>
+<li>(optional) Install `putty`, create ssh key with `puttygen`, save private and public keys, add to `authorized_keys` on repository server, start `pagent`, add the key to it.</li>
+<li>Install `python`, install `setuptools`</li>
 <li>Edit environmental variables:
 
 <ol>
 <li>Append to `PATH`: `c:\python27;c:\python27\scripts`</li>
 <li>Set `BZR_SSH=c:\program files\putty\plink.exe`</li>
 </ol></li>
-<li><p>(optional) Install `git`</p></li>
-<li><p>Fire up the bash terminal (git bash or DOS command prompt)</p></li>
-<li><p>`easy_install pip`</p></li>
-<li><p>(optional) Install Bazaar, `bzr co bzr+ssh://myserver/~/repos/project`</p></li>
-<li><p>Install Django using pip: `pip install django==1.4` (use the version you need!)</p></li>
-<li><p>Install dependencies of the Django project, typically listed in a file: `pip install -r requirements.txt`</p></li>
-<li><p>Run in Django's local server: `python manage.py runserver`</p></li>
+<li>(optional) Install `git`</li>
+<li>Fire up the bash terminal (git bash or DOS command prompt)</li>
+<li>`easy_install pip`</li>
+<li>(optional) Install Bazaar, `bzr co bzr+ssh://myserver/~/repos/project`</li>
+<li>Install Django using pip: `pip install django==1.4` (use the version you need!)</li>
+<li>Install dependencies of the Django project, typically listed in a file: `pip install -r requirements.txt`</li>
+<li>Run in Django's local server: `python manage.py runserver`</li>
 </ol>
 
 Best served in a modern browser like Chrome at <a href="http://localhost:7000/">http://localhost:7000/</a> Enjoy!

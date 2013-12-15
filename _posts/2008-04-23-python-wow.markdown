@@ -17,6 +17,6 @@ comments: []
 ---
 I'm learning Python now. Beautiful syntax. Powerfully expressive, and that in an intuitive way. Being a seasoned programmer well-versed in a score of languages I looked down at the idea of reading tutorials, but the Python tutorial turned out to be a very interesting reading, and definitely the best starting point. Check it out!
 
-<p><a href="http://www.python.org/doc/current/tut/tut.html">Python Tutorial</a></p>
+<a href="http://www.python.org/doc/current/tut/tut.html">Python Tutorial</a>
 
-<p><a href="https://wiki.titan2x.com/index.php/Python:notes">Python:notes in my wiki</a></p>
+<a href="https://wiki.titan2x.com/index.php/Python:notes">Python:notes in my wiki</a>

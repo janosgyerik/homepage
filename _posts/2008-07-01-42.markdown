@@ -29,5 +29,5 @@ Cloud Computing's Strengths Play To Smaller Companies' Needs</b><br />
 <i>June 24, 2008</i><br />
 If cloud computing offers significant benefits to IT departments in the enterprise, it's an absolute godsend to small and midsize companies. Instead of making do with a small, under-resourced IT staff trying to emulate the productivity of billion-dollar IT outfits, smaller companies can now access enterprise-class solutions with limited up-front costs and easy scalability.
 
-<p><a href="http://www.bmighty.com/hardware_software/showArticle.jhtml?articleID=208800565">http://www.bmighty.com/hardware_software/showArticle.jhtml?articleID=208800565</a></p>
+<a href="http://www.bmighty.com/hardware_software/showArticle.jhtml?articleID=208800565">http://www.bmighty.com/hardware_software/showArticle.jhtml?articleID=208800565</a>
 </blockquote>

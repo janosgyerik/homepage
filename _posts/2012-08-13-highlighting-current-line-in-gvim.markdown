@@ -29,6 +29,6 @@ To highlight the current line only in the active window, throw these in too:
 autocmd WinLeave * setlocal nocursorline
 `</pre>
 
-<p>More info:
+More info:
 - `:help :highlight`
-- <a href="http://vim.wikia.com/wiki/Highlight_current_line">http://vim.wikia.com/wiki/Highlight_current_line</a></p>
+- <a href="http://vim.wikia.com/wiki/Highlight_current_line">http://vim.wikia.com/wiki/Highlight_current_line</a>

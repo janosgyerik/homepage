@@ -21,13 +21,13 @@ Of course you need the usual requirements:
 <li>`gcc` and `g++` and `inetd` or `xinetd`</li>
 <li>On 64-bit platforms `ia32-libs` too, as this version of VMware is a 32-bit app.</li></ul>
 
-<p>With the above and the vmware server tarball you *usually* would be able to build the vmware modules. Unfortunately that's not always the case given that you are on an unsupported platform etc etc etc. To make it work there is a `vmware-any-any-update` tarball developed by a Czech dude called Petr. His FTP site is here:<br />
+With the above and the vmware server tarball you *usually* would be able to build the vmware modules. Unfortunately that's not always the case given that you are on an unsupported platform etc etc etc. To make it work there is a `vmware-any-any-update` tarball developed by a Czech dude called Petr. His FTP site is here:<br />
 <a href="http://platan.vc.cvut.cz/ftp/pub/vmware/">http://platan.vc.cvut.cz/ftp/pub/vmware/</a>
-</p>
 
-<p>There is a `runme.pl` script inside that you are supposed to run as the super-user... Scary stuff. But it worked for a lot of people, including me.</p>
 
-<p>Oh and one more thing. Even though `vmware-config.pl` completed successfully, vmware still didn't run due to the following library issue:</p>
+There is a `runme.pl` script inside that you are supposed to run as the super-user... Scary stuff. But it worked for a lot of people, including me.
+
+Oh and one more thing. Even though `vmware-config.pl` completed successfully, vmware still didn't run due to the following library issue:
 <blockquote>/usr/lib/vmware/bin/vmware: /usr/lib/vmware/lib/libgcc_s.so.1/libgcc_s.so.1: version `GCC_4.2.0' not found (required by /usr/lib32/libstdc++.so.6)</blockquote>
 
-<p>I made a backup of `usr/lib/vmware/lib/libgcc_s.so.1/libgcc_s.so.1` and replaced with `/lib/libgcc_s.so.1`</p>
+I made a backup of `usr/lib/vmware/lib/libgcc_s.so.1/libgcc_s.so.1` and replaced with `/lib/libgcc_s.so.1`

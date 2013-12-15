@@ -17,8 +17,8 @@ comments: []
 ---
 In Debian, the arrow keys do not work in the `sqlite3` shell by default. For example arrow up-down doesn't work to browse the command history, and arrow left-right doesn't work to edit the current command line.
 
-<p>This is intentional, according to this conversation:
-<a href="http://www.mail-archive.com/sqlite-users@sqlite.org/msg68970.html">http://www.mail-archive.com/sqlite-users@sqlite.org/msg68970.html</a></p>
+This is intentional, according to this conversation:
+<a href="http://www.mail-archive.com/sqlite-users@sqlite.org/msg68970.html">http://www.mail-archive.com/sqlite-users@sqlite.org/msg68970.html</a>
 
 The reason: the command line editing features are an external dependency, and so the maintainers of the `sqlite3` binary package have decided not to make assumptions about the available external libraries, and by default do not make references to them, otherwise the binary could be unusable.
 

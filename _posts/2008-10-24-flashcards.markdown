@@ -14,10 +14,10 @@ categories:
 tags: []
 comments: []
 ---
-<p>Finally I released my flashcards project. Here it is:</p>
+Finally I released my flashcards project. Here it is:
 
-<p><a href="http://flashcards.titan2x.com/">http://flashcards.titan2x.com/</a></p>
+<a href="http://flashcards.titan2x.com/">http://flashcards.titan2x.com/</a>
 
-<p>The signup function is the only missing piece. By the time google finds the site, it should be ready. After that, I will optimize and enhance it gradually, and based on user growth.</p>
+The signup function is the only missing piece. By the time google finds the site, it should be ready. After that, I will optimize and enhance it gradually, and based on user growth.
 
-<p>Get up your ass and go build your vocabulary!</p>
+Get up your ass and go build your vocabulary!
