@@ -2,4 +2,4 @@
 
 cd $(dirname "$0")
 
-jekyll serve -w
+jekyll serve -w $*
