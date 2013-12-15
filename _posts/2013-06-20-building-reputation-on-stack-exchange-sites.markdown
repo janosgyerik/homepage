@@ -33,7 +33,7 @@ comments:
   content: Thanks for the tip, I did not know that! I will try this out, see how it
     goes, and improve the post later.
 ---
-Gamification... is ADDICTIVE! I got hooked on basically "collecting meaningless points" on the <a href="http://stackexchange.com/sites">Stack Exchange sites</a>. As I was building up a "know-how" of doing this, I started drafting this post. Then I gave up actually posting it, thinking <em>"what the hell do I know about this stuff anyway with my puny reputation"</em>?
+Gamification... is ADDICTIVE! I got hooked on basically "collecting meaningless points" on the <a href="http://stackexchange.com/sites">Stack Exchange sites</a>. As I was building up a "know-how" of doing this, I started drafting this post. Then I gave up actually posting it, thinking *"what the hell do I know about this stuff anyway with my puny reputation"*?
 
 But then, what do you know, <a href="http://twitter.com/DuncanLock">@DuncanLock</a> who has similar reputation as me has posted his own take on the subject, and guess what, he got literally hundreds of good reactions, including high-profile Stack Exchange users, moderators, and even <a href="http://twitter.com/codinghorror">@codinghorror</a> himself:
 
@@ -55,7 +55,7 @@ I commented on his blog a few extra tips of my own, but later I realized I still
 
 3. Devise question hunting strategies and combine them efficiently. I use the following basic strategies:
 <ul>
-	<li>Fast-read the <em>newest</em> tab (click on <em>Questions</em> if you don't see it), fishing for easy questions and try to be the first to answer. New questions are very visible because they are on the front page. That also means you don't have much time to research to give a good answer.</li>
+	<li>Fast-read the *newest* tab (click on *Questions* if you don't see it), fishing for easy questions and try to be the first to answer. New questions are very visible because they are on the front page. That also means you don't have much time to research to give a good answer.</li>
 	<li>Search by tags to find questions in your strongest subjects. Sometimes there are easy questions that dropped off the front page of newest questions. This can be very lucrative, as you are looking at questions in your strong area, and you have more time to research and give a good answer.</li>
 	<li>Only open questions with 0 or 1 answer. Often the first answer is not that great, and it's quite possible that you can do better. When there are 2 or more answers it becomes less and less likely that you can give a better answer.</li>
 	<li>If you are tired of one site, or while waiting for a new set of questions to accumulate, switch to another site.</li>

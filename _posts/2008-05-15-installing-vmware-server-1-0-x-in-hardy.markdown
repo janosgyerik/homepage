@@ -21,7 +21,7 @@ Of course you need the usual requirements:
 <li>`gcc` and `g++` and `inetd` or `xinetd`</li>
 <li>On 64-bit platforms `ia32-libs` too, as this version of VMware is a 32-bit app.</li></ul>
 
-<p>With the above and the vmware server tarball you <em>usually</em> would be able to build the vmware modules. Unfortunately that's not always the case given that you are on an unsupported platform etc etc etc. To make it work there is a `vmware-any-any-update` tarball developed by a Czech dude called Petr. His FTP site is here:<br />
+<p>With the above and the vmware server tarball you *usually* would be able to build the vmware modules. Unfortunately that's not always the case given that you are on an unsupported platform etc etc etc. To make it work there is a `vmware-any-any-update` tarball developed by a Czech dude called Petr. His FTP site is here:<br />
 <a href="http://platan.vc.cvut.cz/ftp/pub/vmware/">http://platan.vc.cvut.cz/ftp/pub/vmware/</a>
 </p>
 

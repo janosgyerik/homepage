@@ -23,8 +23,8 @@ Obviously everybody has a different approach to this. Mine involves these main e
 <h2>How to find a project you are interested in?</h2>
 Ask yourself:
 <ul>
-	<li>Is there a particular open-source software that you just <em>love</em> so much?</li>
-	<li>Is there an open-source software that is almost what you want but just <em>almost</em>?</li>
+	<li>Is there a particular open-source software that you just *love* so much?</li>
+	<li>Is there an open-source software that is almost what you want but just *almost*?</li>
 	<li>Is there an open-source software where somebody you admire is involved in?</li>
 </ul>
 <h2>How to find a suitable project that needs you?</h2>
@@ -38,7 +38,7 @@ How you evaluate these factors is entire up to you. Personally I prefer small-is
 <h2>How to get involved?</h2>
 Please, please suppress your inexplicable desire of sending an introductory mail saying "hey I'm here I want to work on X". Do NOT send such rubbish. Also do NOT brag about your past projects either.
 
-The only meaningful introduction is contributing code, period! Just pick something you can improve in the project. Anything! Preferably something small, and indisputably an improvement. Your first commits should not be about showing off your genius. Your first commits should NOT be a big refactoring that makes more sense to <em>you</em>. Your first commits should be small, rock solid and easy to accept. In the beginning keep doing small things, gradually bigger and bigger.
+The only meaningful introduction is contributing code, period! Just pick something you can improve in the project. Anything! Preferably something small, and indisputably an improvement. Your first commits should not be about showing off your genius. Your first commits should NOT be a big refactoring that makes more sense to *you*. Your first commits should be small, rock solid and easy to accept. In the beginning keep doing small things, gradually bigger and bigger.
 
 Coding style: in the beginning you just have to adopt the coding style used by the others. Make sure to spend some time on observing the coding style of the core contributors, and adopt the same style in your own contributions. If you disagree with it you can propose an alternative later after you are already a recognized member.
 <h2>Caution!!!</h2>

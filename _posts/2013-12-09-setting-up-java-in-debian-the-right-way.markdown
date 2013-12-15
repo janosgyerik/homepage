@@ -19,4 +19,4 @@ I've been using the OpenJDK, but I had some problems with it: Android Studio and
 
 <a href="https://wiki.debian.org/JavaPackage">https://wiki.debian.org/JavaPackage</a>
 
-Following the explanations, I was able to convert Oracle's tarball to a `deb` package using `make-jpkg`, and with the `update-alternatives` examples I could set the default version to use correctly. (Before this I was setting `JAVA_HOME` and `PATH` by hand, which is <em>dirty</em>, don't do it.)
+Following the explanations, I was able to convert Oracle's tarball to a `deb` package using `make-jpkg`, and with the `update-alternatives` examples I could set the default version to use correctly. (Before this I was setting `JAVA_HOME` and `PATH` by hand, which is *dirty*, don't do it.)

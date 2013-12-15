@@ -15,7 +15,7 @@ categories:
 tags: []
 comments: []
 ---
-Shocker. Installing Gutsy 64-bit now to replace Windows 2003 Server. The installer looked pretty good. I was impressed by the option to create software raid partitions <em>and</em> encrypted partitions. I thought to myself: it can't be this easy.
+Shocker. Installing Gutsy 64-bit now to replace Windows 2003 Server. The installer looked pretty good. I was impressed by the option to create software raid partitions *and* encrypted partitions. I thought to myself: it can't be this easy.
 
 Yeap, sadly, it wasn't. Upon first boot, gutsy crapped out on me and dumped me into the rescue shell. The issue:
 <blockquote>fsck.ext3: No such file or directory while trying to open /dev/mapper/md0_crypt

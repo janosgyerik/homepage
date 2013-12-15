@@ -28,4 +28,4 @@ I'm playing with the idea of hosting some of my repositories on Google, but then
 
 Do not commit to the target repository. Always commit to the source, and after that run `svnsync sync` on the target, whenever needed.
 
-If you want to <em>mirror</em> a Subversion repository to a complete different remote server, you can use a distributed version control software like Bazaar or Git. <a href="http://titan2x.wordpress.com/2011/03/10/mirroring-a-subversion-repository-using-bazaar/">Here's an article how I do this with Bazaar.</a>
+If you want to *mirror* a Subversion repository to a complete different remote server, you can use a distributed version control software like Bazaar or Git. <a href="http://titan2x.wordpress.com/2011/03/10/mirroring-a-subversion-repository-using-bazaar/">Here's an article how I do this with Bazaar.</a>

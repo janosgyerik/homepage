@@ -16,7 +16,7 @@ comments: []
 ---
 Here's a little tip for the not-so-tech-savvy, because it's important.
 
-Facebook tracks the websites you visit even if you don't click on Like buttons. When a Like button is loaded, it executes code on facebook.com, sending your IP address, the website you are on, among other things. There is a way to switch this off effectively, by telling your computer the wrong address of facebook.com, so that your browser and any other processes will never find Facebook, and thus will never send any information to Facebook. You can do this by overriding the address of facebook.com in the so-called <em>hosts file</em> on your computer.
+Facebook tracks the websites you visit even if you don't click on Like buttons. When a Like button is loaded, it executes code on facebook.com, sending your IP address, the website you are on, among other things. There is a way to switch this off effectively, by telling your computer the wrong address of facebook.com, so that your browser and any other processes will never find Facebook, and thus will never send any information to Facebook. You can do this by overriding the address of facebook.com in the so-called *hosts file* on your computer.
 
 Press the windows key + r to run this command:
 <pre>notepad %systemroot%\system32\drivers\etc\hosts</pre>

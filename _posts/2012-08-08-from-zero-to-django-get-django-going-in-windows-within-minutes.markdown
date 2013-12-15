@@ -16,11 +16,11 @@ categories:
 tags: []
 comments: []
 ---
-My 5-step banana ice cream recipe got more reaction in one hour than my usual geeky posts in years. Maybe I should combine the two concepts! Or maybe not. Heck, I already like this title so here's the geeky recipe: a <em>decidedly imperfect</em> recipe for getting my django project up and running on a fresh new install of windows.
+My 5-step banana ice cream recipe got more reaction in one hour than my usual geeky posts in years. Maybe I should combine the two concepts! Or maybe not. Heck, I already like this title so here's the geeky recipe: a *decidedly imperfect* recipe for getting my django project up and running on a fresh new install of windows.
 
 <h3>Preparation time</h3>
 
-<em>minutes!</em>
+*minutes!*
 
 <h3>Ingredients</h3>
 

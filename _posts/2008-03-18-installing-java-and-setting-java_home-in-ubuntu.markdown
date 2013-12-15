@@ -14,11 +14,11 @@ categories:
 tags: []
 comments: []
 ---
-Install Java 6 like this: (Note: the package is in <em>multiverse</em>)
+Install Java 6 like this: (Note: the package is in *multiverse*)
 <blockquote>sudo apt-get install sun-java6-jdk</blockquote>
 Edit `/etc/jvm`, add this line to the top of the list: `/usr/lib/jvm/java-6-sun`
 
-Thanks to the above step, the `java` executable will find the <em>right</em> version of java. You can confirm this with `java -version`. However, setting `JAVA_HOME` is a completely different matter.
+Thanks to the above step, the `java` executable will find the *right* version of java. You can confirm this with `java -version`. However, setting `JAVA_HOME` is a completely different matter.
 
 These commands will detect set and verify `JAVA_HOME`:
 <blockquote>. /usr/share/java-common/java-common.sh

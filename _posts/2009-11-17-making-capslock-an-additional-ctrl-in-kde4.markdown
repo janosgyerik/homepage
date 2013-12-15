@@ -18,6 +18,6 @@ On most keyboards the CapsLock is at the perfect location for a Control key, som
 
 I had a hard time finding this option in KDE4.
 
-It's in <em>System Settings / Regional &amp; Language</em>
+It's in *System Settings / Regional &amp; Language*
 
-It would have been more intuitive in <em>Keyboard &amp; Mouse</em> ...
+It would have been more intuitive in *Keyboard &amp; Mouse* ...

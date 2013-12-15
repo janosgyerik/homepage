@@ -14,7 +14,7 @@ categories:
 tags: []
 comments: []
 ---
-Finally, I started using this technique I read about in <em>The producive programmer</em> by <em>Neal Ford</em> called Test Driven Development (TDD). Basically, you write up all the test cases before writing actual code.
+Finally, I started using this technique I read about in *The producive programmer* by *Neal Ford* called Test Driven Development (TDD). Basically, you write up all the test cases before writing actual code.
 
 The technique naturally (and inevitably!) forces you to reduce cyclomatic complexity, as it is a lot easier to write unit tests for simple methods that do just one thing. At first it really felt like a tedious thing to do, but after about an hour I already see the process is guiding me to simpler, more robust coding. This is seriously good stuff.
 

@@ -17,7 +17,7 @@ comments: []
 ---
 Django has built-in facility for detecting the preferred language of clients, but it is not enabled by default.
 
-First of all, you need to enable the `django.middleware.locale.LocaleMiddleware` in the `MIDDLEWARE_CLASSES` configuration in `settings.py`. The ordering of the middleware classes is relevant, in particular `LocaleMiddleware` must come <em>after</em> `SessionMiddleware` and <em>before</em> `CommonMiddleware`. A bit of a "gotcha" there is that in the default `settings.py` file the `CommonMiddleware` comes before `SessionMiddleware`. Make sure their order is correct, and insert `LocaleMiddleware` somewhere in between, like this:
+First of all, you need to enable the `django.middleware.locale.LocaleMiddleware` in the `MIDDLEWARE_CLASSES` configuration in `settings.py`. The ordering of the middleware classes is relevant, in particular `LocaleMiddleware` must come *after* `SessionMiddleware` and *before* `CommonMiddleware`. A bit of a "gotcha" there is that in the default `settings.py` file the `CommonMiddleware` comes before `SessionMiddleware`. Make sure their order is correct, and insert `LocaleMiddleware` somewhere in between, like this:
 <pre>MIDDLEWARE_CLASSES = (
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.locale.LocaleMiddleware',

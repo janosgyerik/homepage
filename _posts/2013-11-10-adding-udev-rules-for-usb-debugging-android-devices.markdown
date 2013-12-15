@@ -41,7 +41,7 @@ I bought my device from Google, so it's probably the last one.
 2. Check the permissions of the device file
 <pre>$ ls -l /dev/bus/usb/001/008
 crw-rw-r-T 1 root root 189, 8 Nov 10 18:34 /dev/bus/usb/001/008</pre>
-The path comes from the output of `lsusb`: `001` is the <em>Bus</em>, and `008` is the <em>Device</em>.
+The path comes from the output of `lsusb`: `001` is the *Bus*, and `008` is the *Device*.
 
 The problem is clear: the file is owned by user root and group root, which I am neither. The elegant solution is to add a udev rule so that the device will belong to a reasonable group, like `plugdev`, of which I'm a member.
 
