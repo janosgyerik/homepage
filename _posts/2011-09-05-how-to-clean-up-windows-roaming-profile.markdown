@@ -20,5 +20,5 @@ I hate it when it takes a long time to log in/out of Windows XP. Very often the 
 	<li>3rd party software. Some software may store large data here too, for example Maven stores its repositories here by default.</li>
 	<li>Application Data (hidden folder) - if too large it might be suspicious, but in general you should not mess with this folder.</li>
 </ul>
-<div>Exception: the Local Settings (hidden folder) is not counted in your roaming profile, so you can ignore even if it's huge, in fact don't mess with this folder.</div>
-<div>After some cleaning up, check the result again in My Computers properties. Happy cleaning!</div>
+Exception: the Local Settings (hidden folder) is not counted in your roaming profile, so you can ignore even if it's huge, in fact don't mess with this folder.
+After some cleaning up, check the result again in My Computers properties. Happy cleaning!

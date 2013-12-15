@@ -39,5 +39,5 @@ My profile on GitHub, a Git hosting site. You can find some of my open-source pr
 <h3>Bazaar Version Control</h3>
 My book on <a href="http://bazaar.canonical.com/">Bazaar</a>, the distributed version control system was published in June 2013. It's intended for anyone who may be new to version control systems. If you are a programmer or a system administrator, you can benefit greatly from using Bazaar in your projects. If you are already familiar with version control systems, this book should serve as a fast and easy way to understand Bazaar. You can download a sample chapter for free form the <a href="http://www.packtpub.com/bazaar-version-control/book">publisher's website</a>.
 <h3>SSH public keys</h3>
-<div><a href="http://launchpad.net/~janos-gyerik/+sshkeys">http://launchpad.net/~janos-gyerik/+sshkeys</a></div>
+<a href="http://launchpad.net/~janos-gyerik/+sshkeys">http://launchpad.net/~janos-gyerik/+sshkeys</a>
 &nbsp;

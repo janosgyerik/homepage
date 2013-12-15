@@ -237,10 +237,10 @@ Render the content variable wherever you want your main content to be injected i
 
 {% capture text %}...
 <body>
-  <div id="sidebar"> ... </div>
-  <div id="main">
+   ... 
+  
     |.{content}.|
-  </div>
+  
 </body>
 ...{% endcapture %}
 {% include JB/liquid_raw %}

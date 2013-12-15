@@ -15,7 +15,7 @@ categories:
 tags: []
 comments: []
 ---
-<div id="comment_body_30208494">
+
 
 An insightful post on Slashdot about Chrome OS and the fragmented product lines google is creating recently:
 
@@ -37,4 +37,4 @@ In short, while Google has been lobbing all this juicy-looking stuff out onto th
 <strong>This looks to me more like a minefield than a fruited plain! </strong>
 
 Come on, Google! If you want me, a developer, to "jump on board" with your stuff, you'd better get it all talking to each other, because <strong>your deeply fragmented product lines are causing me to shun your products.</strong></blockquote>
-</div>
+

@@ -16,7 +16,7 @@ tags: []
 comments: []
 ---
 Adding all unknown files in a working tree is usually very simple in other version control systems, for example:
-<div>
+
 <pre><code>git add .
 bzr add
 </code></pre>
@@ -31,4 +31,4 @@ Keep in mind that this is <strong>not</strong> the same as:
 </code></pre>
 That would add not only unknown files, but ignored files too, which is usually not you want. Make sure to specify directories explicitly, avoid using <code>*</code> with this command.
 
-</div>
+

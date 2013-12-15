@@ -46,11 +46,11 @@ I made something. A very simple map tool, built with <a href="http://documentclo
 	<li>What is the current zoom level?</li>
 </ul>
 These (and a bit more) are the current features of the tool. More will come, for example:
-<div>
+
 <ul>
 	<li>Show places based on a Google Docs spreadsheet</li>
 	<li>Save place coordinates and address into a Google Docs spreadsheet</li>
 	<li>"Pin" selected search results, so they are not removed when doing a new search</li>
 </ul>
-<div><a href="http://janosgyerik.github.com/gmaptools/">http://janosgyerik.github.com/gmaptools/</a></div>
-</div>
+<a href="http://janosgyerik.github.com/gmaptools/">http://janosgyerik.github.com/gmaptools/</a>
+

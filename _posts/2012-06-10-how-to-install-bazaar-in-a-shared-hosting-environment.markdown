@@ -16,7 +16,7 @@ tags: []
 comments: []
 ---
 <h3 id="firstHeading">Install pip with easy_install</h3>
-<div id="bodyContent">
+
 <pre>easy_install --user pip</pre>
 <h3>Update PATH</h3>
 Unless you have already done it, add <code>~/.local/bin</code> to <code>PATH</code>, because <code>pip</code> will install binaries there.
@@ -34,4 +34,4 @@ pip install --user bzr-rebase
 pip install --user bzr-fastimport</pre>
 Or find more interesting plugins:
 <pre>pip search bzr</pre>
-</div>
+

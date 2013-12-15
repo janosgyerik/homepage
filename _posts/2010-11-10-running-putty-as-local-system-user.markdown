@@ -15,8 +15,8 @@ categories:
 tags: []
 comments: []
 ---
-<div>
-<div id="code1637046788_1">
+
+
 
 Scenario: you want to run a periodic job, a batch script that will use putty to run something on a remote server. You have created public/private keys so that the script can login to the remote server without having to enter a password and you have tested well that it works.
 
@@ -32,10 +32,10 @@ In the example below we export the relevant registry record of the current user 
 	<li>Export it to a file (cert_hostname.reg)</li>
 	<li>In your script, import the registry file before calling putty <code>regedit /S cert_hostname.reg</code></li>
 </ol>
-<div>
+
 
 Note: there may be another alternative, using a putty build that reads such registry settings from files instead of Windows registry.
 
-</div>
-</div>
-</div>
+
+
+

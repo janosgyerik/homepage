@@ -64,16 +64,16 @@ A simple quiz app to test your programming skills. It aims to be interesting, fu
 <h3>Monbusho.org -- <a href="http://www.monbusho.org/">http://www.monbusho.org/</a></h3>
 An alumni website for past and present scholars of the Monbukagakusho Scholarship Programme. Although membership is restricted to Monbukagakusho alumni, there is growing public content that may be useful for anybody visiting or living in Japan.
 <h3>CityBazaar -- <a href="http://tsukubazaar.com/">http://tsukubazaar.com/</a></h3>
-<div>
+
 
 A simple online sale page with a shopping cart to sell used items. The idea is to have a much more simple process compared to  eBay or Yahoo auctions, and to sell items to people living nearby instead of complete strangers. For the sake of simplicity, there are no auction rules and handling of payment and shipping.
 
-</div>
+
 <h3>Super Simple Flash Cards -- <a href="http://flashcards.titan2x.com/">http://flashcards.titan2x.com/</a></h3>
-<div>
+
 
 A common problem with existing flash cards tools is that creating the deck of cards is a lot of work. This tool makes that easy, because you only have to enter one side of the cards, the tool takes care of the other side using dictionaries on the internet. Even creating large decks is easy, you can copy and paste a list of words to create many cards in bulk. On the other hand, the tool uses a very simple algorithm for drawing random cards, and has no intelligence.
 
 If you just visit the site without an account, it shows random words from the official GRE word list, which is a good instant practice of English even for native speakers, whenever you feel like it.
 
-</div>
+

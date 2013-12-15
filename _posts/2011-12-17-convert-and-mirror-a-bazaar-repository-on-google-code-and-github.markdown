@@ -39,4 +39,4 @@ git push origin master</pre>
 <pre>cd /path/to/git/pusher
 git svn rebase &amp;&amp; git push origin master</pre>
 As usual with mirrors, if you ever commit to the GitHub repository with anything else other than the above script, the mirroring will stop working because your branches have diverged. If you ever do that by mistake it's not the end of the world, since with Git you can rewrite history ;-)
-<div></div>
+

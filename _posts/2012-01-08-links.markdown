@@ -14,7 +14,7 @@ tags: []
 comments: []
 ---
 <h3>News</h3>
-<div>
+
 <ul>
 	<li><a href="http://stallman.org/archives/polnotes.html">Richard Stallman's political notes</a></li>
 	<li><a href="http://slashdot.org/">Slashdot</a> - Interesting tech news, sometimes insightful and funny comments.</li>
@@ -53,44 +53,44 @@ comments: []
 	<li><a href="http://www.ted.com/talks/keller_rinaudo_a_mini_robot_powered_by_your_phone.html">http://www.ted.com/talks/keller_rinaudo_a_mini_robot_powered_by_your_phone.html</a></li>
 	<li><a href="http://www.ted.com/talks/sanjay_dastoor_a_skateboard_with_a_boost.html">http://www.ted.com/talks/sanjay_dastoor_a_skateboard_with_a_boost.html</a></li>
 </ul>
-</div>
+
 <h3>Project hosting, project management</h3>
-<div>
+
 <ul>
 	<li><a href="http://launchpad.net/">Launchpad</a></li>
 	<li><a href="https://github.com/">GitHub</a></li>
 	<li><a href="http://code.google.com/">Google Code</a></li>
 	<li><a href="http://trello.com">Trello</a></li>
 </ul>
-</div>
+
 <h3>GNU/Linux</h3>
-<div>
+
 <ul>
 	<li><a href="http://distrowatch.com/">DistroWatch</a> - Popularity ranking of GNU/Linux distros, feed of new release.</li>
 	<li><a href="http://www.lugradio.org/">Lug Radio</a> - Talks on GNU/Linux, distros, software and trends. Informative and funny.</li>
 </ul>
-</div>
+
 <h3>Funny</h3>
-<div>
+
 <ul>
 	<li><a href="http://bash.org/?top">bash.org</a> - Quotes from IRC conversations. Also <a href="http://bash.hu/top100">Hungarian</a> version.</li>
 	<li><a href="http://www.warningsigngenerator.com/">Warning Sign Generator</a> - Create cool warning sign images. From the same page, Street Sign Generator, Tombstone Generator are also fun.</li>
 	<li><a href="http://www.mommajoke.com/Default.htm">Who's yo momma?</a> - <em>"Yo momma's so fat she entered a fat contest and won first, second and third."</em></li>
 	<li><a href="http://www.chucknorrisfacts.com/">Chuck Norris Facts</a> - <em>"Guns don't kill people. Chuck Norris kills People."</em></li>
 </ul>
-</div>
+
 <h3>YouTube</h3>
-<div>
+
 <ul>
 	<li><a href="http://www.youtube.com/watch?v=0b75cl4-qRE">The Japanese Tradition - Sushi</a> - See also: <a href="http://www.youtube.com/watch?v=CJZuQvmSR2k">Onigiri</a>, <a href="http://www.youtube.com/watch?v=x88Ya2J3QKw">Business dinner, part 1</a>, <a href="http://www.youtube.com/watch?v=rwT2s4lavvU">Business dinner, part 2</a></li>
 	<li><a href="http://www.youtube.com/watch?v=w0ffwDYo00Q">Simon's Cat (Wake Up!)</a></li>
 </ul>
-</div>
+
 <h3>Magyar</h3>
-<div>
+
 <ul>
 	<li><a href="http://bash.hu/top100">bash.hu</a> - Vicces dumák IRC-n.</li>
 	<li><a href="http://youtube.com/watch?v=Qir9s1dpN6g">Terézanya csapjad</a> - A Himmel indulo, es <a href="http://himmel.hu/">himmel.hu</a></li>
 	<li><a href="http://www.youtube.com/watch?v=Y25IbBdFTLM">Hajós András: Õszödi mesebeszéd</a></li>
 </ul>
-</div>
+

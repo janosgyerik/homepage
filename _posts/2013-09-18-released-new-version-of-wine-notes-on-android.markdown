@@ -18,7 +18,7 @@ comments: []
 The new version (1.1) of Wine Notes is now on <a href="https://play.google.com/store/apps/details?id=com.winenotes.lite">Google Play</a>.<a href="https://play.google.com/store/apps/details?id=com.winenotes.lite"><img class="alignright size-thumbnail wp-image-827" alt="android" src="http://www.janosgyerik.com/wp-content/uploads/2012/11/android-150x150.png" width="150" height="150" /></a>
 
 What's new?
-<div>
+
 <ul>
 	<li>Fixed the broken EURO sign</li>
 	<li>Now you can select the currency</li>
@@ -35,4 +35,4 @@ Feel free to tell me about problems and feature requests on GitHub: <a href="ht
 
 <strong>This app is still a work in progress, with many more features planned but not implemented yet. If a missing feature is important to you, feel free to drop me a line, and I'll try to make it happen.</strong>
 
-</div>
+

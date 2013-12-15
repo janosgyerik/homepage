@@ -19,4 +19,4 @@ comments: []
 	<li>After creating filesystems, to have the proper files created under <code>/dev/disk/by-uuid</code>, run: <code>/etc/init.d/udev restart</code>.</li>
 	<li>To find the uuid of filesystems, run: <code>blkid</code>.</li>
 </ul>
-<div>This is in Ubuntu or Debian.</div>
+This is in Ubuntu or Debian.
