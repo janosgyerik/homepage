@@ -14,7 +14,7 @@ categories:
 tags: []
 comments: []
 ---
-<div><span style="font-family:monospace;">In Ubuntu or Debian:</span></div>
+<div>In Ubuntu or Debian:</div>
 <ul>
 	<li><code>sudo apt-get install dvd+rw-tools</code></li>
 	<li><code>growisofs -dvd-compat -Z /dev/scd0 -R -J -pad path_to_dir</code></li>

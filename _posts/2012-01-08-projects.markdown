@@ -46,7 +46,7 @@ Source code: <a href="https://github.com/janosgyerik/mediabox">https://github.c
 <h2>Closed-source projects</h2>
 In some of these projects I'm looking for partners to help turn them into something profitable. Comment on this page if you are interested.
 <h3>Recipe Notes</h3>
-<span style="line-height: 1.714285714; font-size: 1rem;">An Android app that makes it easy to enter recipe notes by reducing typing as much as possible. This is achieved mostly by extensive use of autocompletion backed by a built-in database of common ingredients which evolves with your entries. You can add pictures of your dishes using Android's camera. With a simple and clean layout and user interface.</span>
+An Android app that makes it easy to enter recipe notes by reducing typing as much as possible. This is achieved mostly by extensive use of autocompletion backed by a built-in database of common ingredients which evolves with your entries. You can add pictures of your dishes using Android's camera. With a simple and clean layout and user interface.
 
 Project homepage: <a href="http://www.janosgyerik.com/projects/recipe-notes/">http://www.janosgyerik.com/projects/recipe-notes/</a>
 

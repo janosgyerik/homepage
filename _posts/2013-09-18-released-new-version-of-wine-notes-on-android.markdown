@@ -25,8 +25,8 @@ What's new?
 	<li>The last used currency becomes the default currency</li>
 	<li>Wine names you enter are now automatically "title-ized"</li>
 	<li>Changed to a bright theme in most dialog screens</li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Replaced the text buttons with image buttons in tag editor dialogs</span></li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Removed the pointless Quit menu option</span></li>
+	<li>Replaced the text buttons with image buttons in tag editor dialogs</li>
+	<li>Removed the pointless Quit menu option</li>
 	<li>Many minor usability and ergonomic improvements</li>
 </ul>
 Check it out, and I hope you'll enjoy!

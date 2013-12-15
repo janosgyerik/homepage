@@ -20,7 +20,7 @@ Looking through my old drafts in this blog, posts I never published, I found thi
 
 <hr />
 
-<span style="line-height: 1.714285714; font-size: 1rem;">I recently installed the new OpenSolaris, version 5.11, released in 2008 December, I think. From the live CD. On my laptop. Earlier versions used to be quite painful, and I would definitely not consider putting on a laptop. (Ah, that's a lie. I did actually install 5.10 on my ThinkPad X31...)</span>
+I recently installed the new OpenSolaris, version 5.11, released in 2008 December, I think. From the live CD. On my laptop. Earlier versions used to be quite painful, and I would definitely not consider putting on a laptop. (Ah, that's a lie. I did actually install 5.10 on my ThinkPad X31...)
 
 5.10 used to require a LOT of disk space. I remember failed installations on a virtual machine with a 10G virtual disk, running out of space. The new 5.11 system installed from the Live CD is only 2.4G now, much better!
 

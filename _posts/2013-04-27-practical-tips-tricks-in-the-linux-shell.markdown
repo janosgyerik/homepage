@@ -19,10 +19,10 @@ I put together this simple presentation about a few simple but very effective p
 
 https://speakerdeck.com/janosgyerik/time-saving-tricks-on-the-command-line
 <ul>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">I used many tips from </span><a style="line-height: 1.714285714; font-size: 1rem;" href="http://zachholman.com/posts/slide-design-for-developers/">Zach Holman's blog</a><span style="line-height: 1.714285714; font-size: 1rem;"> to "design" the slides.</span></li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">I created the presentation using Google Docs, but it was not really a great experience:</span>
+	<li>I used many tips from <a style="line-height: 1.714285714; font-size: 1rem;" href="http://zachholman.com/posts/slide-design-for-developers/">Zach Holman's blog</a> to "design" the slides.</li>
+	<li>I created the presentation using Google Docs, but it was not really a great experience:
 <ul>
-	<li><span style="font-size: 1rem;">The dotted green line you see under headings is not intentional, it appears only after exporting to PDF. I don't know why. I would prefer it without the line as shown correctly in </span><a style="font-size: 1rem;" href="https://docs.google.com/presentation/d/13N06QfsemvTFiQLF5nC-eatlktmj5DMFAzxexwJ8TgA/pub?start=false&amp;loop=false&amp;delayms=3000">Google's viewer</a><span style="font-size: 1rem;">, but I want to use Speaker Deck as it is not blocked at my workplace and has a better WordPress plugin.</span></li>
+	<li>The dotted green line you see under headings is not intentional, it appears only after exporting to PDF. I don't know why. I would prefer it without the line as shown correctly in <a style="font-size: 1rem;" href="https://docs.google.com/presentation/d/13N06QfsemvTFiQLF5nC-eatlktmj5DMFAzxexwJ8TgA/pub?start=false&amp;loop=false&amp;delayms=3000">Google's viewer</a>, but I want to use Speaker Deck as it is not blocked at my workplace and has a better WordPress plugin.</li>
 	<li>The JavaScript seems to go crazy in the presentation editor. The longer I use it, the heavier it gets, until I do a clean fresh reload.</li>
 </ul>
 </li>

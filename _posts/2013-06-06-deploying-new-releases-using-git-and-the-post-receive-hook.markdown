@@ -25,13 +25,13 @@ comments:
 ---
 I used to deploy new versions of my websites like this:
 <ol>
-	<li><span style="line-height: 14px;">ssh to the server</span></li>
+	<li>ssh to the server</li>
 	<li>cd to the website project directory (under version control)</li>
 	<li>Update from VCS to the latest version</li>
 </ol>
 Doing this a few times is ok, but if you want to release frequently it's better to automate these steps. One way to do that is using the <code>post-receive</code> hook of Git like this:
 <ol>
-	<li><span style="line-height: 14px;">Setup a mirror repository on the server called "releases", with a branch called "beta"</span></li>
+	<li>Setup a mirror repository on the server called "releases", with a branch called "beta"</li>
 	<li>Make the deployment directory track the "beta" branch of the "releases" repository</li>
 	<li>Setup a <code>post-receive</code> hook in the "releases" repository to trigger a script that updates the deployment directory (perform a <code>git pull</code> or <code>git checkout -f</code>)</li>
 </ol>
@@ -55,7 +55,7 @@ Writing an upgrade script depends on your project. Here's an example from one of
 
 The script is written in a way to be reusable in multiple of my Django sites, but you may need to adjust to match your typical deployment. The unset <code>GIT_DIR</code> is necessary, because it seems the variable is automatically set when the hook is executed, otherwise the <code>git pull</code> operation would result in the error:
 <pre>remote: fatal: Not a git repository: '.'</pre>
-<span style="line-height: 1.714285714; font-size: 1rem;">Finally, I setup the releases remote in my local Git project:</span>
+Finally, I setup the releases remote in my local Git project:
 <pre id="file-convert-deployment-to-release-mirror-sh-LC1"># go to the directory of my local project
 cd ~/project/dir
 

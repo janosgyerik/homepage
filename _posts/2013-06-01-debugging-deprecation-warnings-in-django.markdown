@@ -14,7 +14,7 @@ categories:
 tags: []
 comments: []
 ---
-<span style="line-height: 1.714285714; color: #444444; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: 1rem;">Ever since switching to Django 1.5, I've been annoyed by this:</span>
+Ever since switching to Django 1.5, I've been annoyed by this:
 <pre>DeprecationWarning: django.conf.urls.defaults is deprecated; use django.conf.urls instead</pre>
 I've been annoyed because I duly made the necessary changes in my project and verified that I'm not using the old module anymore:
 <pre>grep -rl django.conf.urls.defaults .</pre>

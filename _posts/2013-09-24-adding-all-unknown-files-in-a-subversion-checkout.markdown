@@ -15,7 +15,7 @@ categories:
 tags: []
 comments: []
 ---
-<span style="line-height: 1.714285714; color: #444444; font-size: 1rem;">Adding all unknown files in a working tree is usually very simple in other version control systems, for example:</span>
+Adding all unknown files in a working tree is usually very simple in other version control systems, for example:
 <div>
 <pre><code>git add .
 bzr add

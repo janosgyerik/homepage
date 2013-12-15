@@ -19,9 +19,9 @@ Have you ever read the full <code>man bash</code>? Me: nah-uh... It's way too mu
 
 In any tool, I tend to focus on a small set of tricks with very high practical value. For example these bash features:
 <ul>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Backward search command history with <code>C-r</code></span></li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Delete words backwards with <code>C-w</code> or forward with <code>ESC-d</code> and paste them later with <code>C-y</code></span></li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Jump around on the command line with <code>C-a</code>, <code>C-e</code>, <code>ESC-b</code>, <code>ESC-f</code>, or actually use <code>C-w</code> as a form of jumping back fast, or <code>C-c</code> to cancel and re-type</span></li>
+	<li>Backward search command history with <code>C-r</code></li>
+	<li>Delete words backwards with <code>C-w</code> or forward with <code>ESC-d</code> and paste them later with <code>C-y</code></li>
+	<li>Jump around on the command line with <code>C-a</code>, <code>C-e</code>, <code>ESC-b</code>, <code>ESC-f</code>, or actually use <code>C-w</code> as a form of jumping back fast, or <code>C-c</code> to cancel and re-type</li>
 </ul>
 And so on. I use these in literally every single minute I spend in the shell, so they were really well worth memorizing! (See my slides on these and similar time-saving tricks on <a href="https://speakerdeck.com/janosgyerik/time-saving-tricks-on-the-command-line">SpeakerDeck</a>.)
 
@@ -42,4 +42,4 @@ Doing this and similar actions involves a bit too many key strokes: <code>up</c
 rm !$</pre>
 A similar feature is <code>ESC-.</code> which pastes the last argument while editing, so you can make changes before running the next command.
 
-<span style="line-height: 1.714285714; font-size: 1rem;">You can read more about these and similar tricks in </span><code style="line-height: 1.714285714;">man bash</code><span style="line-height: 1.714285714; font-size: 1rem;">, under "HISTORY EXPANSION".</span>
+You can read more about these and similar tricks in <code style="line-height: 1.714285714;">man bash</code>, under "HISTORY EXPANSION".

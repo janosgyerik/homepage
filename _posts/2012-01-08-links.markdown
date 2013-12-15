@@ -28,7 +28,7 @@ comments: []
 	<li><a href="http://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are.html">http://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are.html</a></li>
 	<li><a href="http://www.ted.com/talks/esther_perel_the_secret_to_desire_in_a_long_term_relationship.html">http://www.ted.com/talks/esther_perel_the_secret_to_desire_in_a_long_term_relationship.html</a></li>
 	<li><a href="http://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family.html">http://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family.html</a></li>
-	<li><a href="http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud.html"><span style="line-height: 1.714285714; font-size: 1rem;">http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud.html</span></a></li>
+	<li><a href="http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud.html">http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud.html</a></li>
 	<li><a href="http://www.ted.com/talks/jeff_hancock_3_types_of_digital_lies.html">http://www.ted.com/talks/jeff_hancock_3_types_of_digital_lies.html</a></li>
 	<li><a href="http://www.ted.com/talks/allan_savory_how_to_green_the_world_s_deserts_and_reverse_climate_change.html">http://www.ted.com/talks/allan_savory_how_to_green_the_world_s_deserts_and_reverse_climate_change.html</a></li>
 	<li><a href="http://www.ted.com/talks/ron_finley_a_guerilla_gardener_in_south_central_la.html">http://www.ted.com/talks/ron_finley_a_guerilla_gardener_in_south_central_la.html</a></li>

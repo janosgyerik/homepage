@@ -40,7 +40,7 @@ Published my first ever jQuery plugin just now: jQuery Upvote
 
 The plugin simply generates a voting widget like the one used on Stack Exchange sites:
 <ul>
-	<li><span style="line-height: 14px;">You can either upvote or downvote, not both at the same time</span></li>
+	<li>You can either upvote or downvote, not both at the same time</li>
 	<li>You can cancel an upvote or downvote by clicking again</li>
 	<li>The count is update accordingly</li>
 	<li>You can star (= favorite) and unstar</li>

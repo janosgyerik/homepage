@@ -28,6 +28,6 @@ The app doesn't require any permissions at all, doesn't use internet, doesn't co
 
 At the same time I also upgraded the <a href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite">Programming Quiz</a>. Both apps have exactly the same features, but different database of questions, with some inevitable overlap. The questions in the <a href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite">Programming Quiz</a> are designed specifically for professional and aspiring programmers, while the <a href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite">Computer Quiz</a> can be interesting for casual computer fans too.
 
-<span style="font-size: 1rem; line-height: 1.714285714;">If you like these apps, please remember to rate, +1, tweet, or review them, and spread the word. Thank you!</span>
+If you like these apps, please remember to rate, +1, tweet, or review them, and spread the word. Thank you!
 
 You can report problems and feature requests on this page: <a href="https://www.google.com/url?q=https://github.com/janosgyerik/manyquiz/issues&amp;sa=D&amp;usg=AFQjCNHWyBeTkhIy7jmgX16-5-dp5FLl_w" target="_blank">https://github.com/janosgyerik/manyquiz/issues</a>

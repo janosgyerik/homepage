@@ -55,14 +55,14 @@ What is large? Let's define large as: cloning the trunk takes more than 4 hours.
 
 Before you embark on this road and start using Git as your Subversion client, here are some warnings up front:
 <ul>
-	<li><span style="line-height: 14px;">Tracking all Subversion branches and tags will NOT be practical. If you are ok with tracking only the trunk and a bunch of selected branches, that's fine.</span></li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">The initial clone will take a long time, it may be interrupted, and you may need to resume manually several times.</span></li>
+	<li>Tracking all Subversion branches and tags will NOT be practical. If you are ok with tracking only the trunk and a bunch of selected branches, that's fine.</li>
+	<li>The initial clone will take a long time, it may be interrupted, and you may need to resume manually several times.</li>
 	<li>The initial clone of the trunk may crash completely and doesn't work at all. This doesn't happen often. But if it does, then game over, you're stuck with Subversion.</li>
 	<li>You may have issues with line ending characters if LF and CR-LF are mixed in the project. The potential issues are not negligible, for example you may not be able to view the blame annotations. However this is something that can and should be fixed in the project.</li>
 	<li>At the time of this writing you cannot push your commits back to Subversion from Eclipse. You have to use the command line for that.</li>
 	<li>Do read the <strong>CAVEATS</strong> section in <a href="http://www.kernel.org/pub/software/scm/git/docs/git-svn.html">http://www.kernel.org/pub/software/scm/git/docs/git-svn.html</a></li>
 </ul>
-<span style="line-height: 1.714285714; font-size: 1rem;">Scared? No? Ok let's do it then!</span>
+Scared? No? Ok let's do it then!
 <h2>Clone the trunk from Subversion</h2>
 Provided you have git-svn installed, clone the trunk with:
 <pre>git svn clone http://example.com/path/to/project-x/trunk project-x</pre>
@@ -74,13 +74,13 @@ Depending on the size of the repository, you may have to repeat this a couple of
 
 By the way, git svn fetch is not very chatty at first. Usually for many minutes or even hours it may seem like nothing is happening, but actually it's working, so don't interrupt.
 
-<span style="line-height: 1.714285714; font-size: 1rem;">Once the clone is finally completed, you probably want to generate a <code>.gitignore</code> file based on Subversion's meta data:</span>
+Once the clone is finally completed, you probably want to generate a <code>.gitignore</code> file based on Subversion's meta data:
 <pre>git svn show-ignore &gt;&gt; .gitignore</pre>
 <h2>Working with Git</h2>
 Once you have the clone from Subversion, you have a Git repository, use it as usual...
 
 However! To keep things clean, and to avoid impacting your coworkers, it might be a good idea to keep <code>master</code> "pristine". That is, never do any work on <code>master</code>, use it only for interacting with the remote Subversion repository such as pull updates and pushing local commits. Do all your work on branches, stay off the <code>master</code>.
-<h2><span style="font-size: 1.285714286rem; line-height: 1.6;">Getting updates from Subversion</span></h2>
+<h2>Getting updates from Subversion</h2>
 You might think that the right way to get new revisions from Subversion will involve a pull command. No. The right way is to rebase:
 <pre>git checkout master
 git svn rebase</pre>
@@ -88,7 +88,7 @@ I checkout <code>master</code> just to highlight that ideally you should be work
 <h2>Committing to Subversion</h2>
 Let's assume you fixed a bug on a branch called <code>bug123</code> and never touched <code>master</code>. You have two main options:
 <ol>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Preserve your individual commits in <code>bug123</code></span></li>
+	<li>Preserve your individual commits in <code>bug123</code></li>
 	<li>Squash your individual commits in <code>bug123</code> and apply the changes in a single commit</li>
 </ol>
 <h3>Preserving individual commits</h3>
@@ -130,7 +130,7 @@ After the fetch is completed, you can confirm the new branch was correctly fetch
 <pre>git branch -r</pre>
 You can create a local branch based on the remote and switch to it with:
 <pre>git checkout -b local-branch1 remotes/branch1</pre>
-<span style="line-height: 1.714285714; font-size: 1rem;">You can add more fetch lines easily using <code>git config</code>:</span>
+You can add more fetch lines easily using <code>git config</code>:
 <pre>git config --add svn-remote.svn.fetch branches/branch2:refs/remotes/branch2</pre>
 By the way, the documentation mentions this alternative configuration:
 <pre>[svn-remote "svn"]

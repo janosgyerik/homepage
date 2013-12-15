@@ -24,7 +24,7 @@ comments:
   content: "Cool, as for now got into level02 :)\r\nGona try next one soon, great
     contest"
 ---
-<span style="line-height: 1.714285714; font-size: 1rem;">I built a remastered Linux Live CD that should be interesting, educational, and highly entertaining for any self-respecting programmer: a security challenge with 6 levels based on the online contest created by <a href="https://stripe.com/blog/capture-the-flag">Stripe</a> in early 2012.</span>
+I built a remastered Linux Live CD that should be interesting, educational, and highly entertaining for any self-respecting programmer: a security challenge with 6 levels based on the online contest created by <a href="https://stripe.com/blog/capture-the-flag">Stripe</a> in early 2012.
 
 The CD contains a very light Linux system (based on <a href="http://www.tinycorelinux.net/">Tiny Core</a>), the ISO image is less than 30 megabytes. You can download it from here:
 <a href="https://sourceforge.net/projects/ctfomatic/files/">https://sourceforge.net/projects/ctfomatic/files/</a>
@@ -37,7 +37,7 @@ When the system starts you are logged in as user <code>level00</code>. You will 
 
 By completing this challenge you will become a better programmer:
 <ul>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">You will increase your awareness of the importance of security, and probably write more secure, more robust code in the future.</span></li>
+	<li>You will increase your awareness of the importance of security, and probably write more secure, more robust code in the future.</li>
 	<li>You will improve your skill of finding problems and weaknesses, which is the critical first step in optimization tasks.</li>
 	<li>You will have a wonderful time, and come out enlightened!</li>
 </ul>

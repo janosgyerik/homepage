@@ -24,9 +24,9 @@ It's a simple multiple-choice quiz to test your programming skills. It aims to b
 
 Questions are spread out across multiple categories and difficulty levels:
 <ul>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Hobbyist level: 51 questions</span></li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Professional level: 116 questions</span></li>
-	<li><span style="line-height: 1.714285714; font-size: 1rem;">Expert level: 61 questions</span></li>
+	<li>Hobbyist level: 51 questions</li>
+	<li>Professional level: 116 questions</li>
+	<li>Expert level: 61 questions</li>
 </ul>
 Question categories are designed along the lines of the "programmer competency matrix" <a href="https://www.google.com/url?q=http://sijinjoseph.com/programmer-competency-matrix/&amp;sa=D&amp;usg=AFQjCNHSenfFjbIKrI-H6I7R3JjHlaHt0g" target="_blank">http://sijinjoseph.com/programmer-competency-matrix/</a> There are 228 questions in total for now, I plan to more soon, making it at least 100 on all levels. The questions are 100% original I create them together with my programmer friends.
 

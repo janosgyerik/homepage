@@ -23,7 +23,7 @@ I'm using XBMC mainly to watch my favorite internet streams, such as <a href="ht
 
 I'm not using it yet for my movie collection, because I have some issues with its built-in player:
 <ul>
-	<li><span style="line-height: 14px;">Adjusting the volume is not easy enough: in VLC I can just use the mouse scroll</span></li>
+	<li>Adjusting the volume is not easy enough: in VLC I can just use the mouse scroll</li>
 	<li>Adjusting the aspect ratio is not easy enough</li>
 </ul>
 Finally I figured out how to use an external player. I created a configuration file in <code>~/.xbmc/userdata/playercorefactory.xml</code> like this:
