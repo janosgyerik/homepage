@@ -24,17 +24,17 @@ comments:
     in the initial research!
 ---
 I used to deploy new versions of my websites like this:
-<ol>
-	<li>ssh to the server</li>
-	<li>cd to the website project directory (under version control)</li>
-	<li>Update from VCS to the latest version</li>
-</ol>
+
+- `ssh` to the server
+- `cd` to the website project directory (under version control)
+- Update from VCS to the latest version
+
 Doing this a few times is ok, but if you want to release frequently it's better to automate these steps. One way to do that is using the `post-receive` hook of Git like this:
-<ol>
-	<li>Setup a mirror repository on the server called "releases", with a branch called "beta"</li>
-	<li>Make the deployment directory track the "beta" branch of the "releases" repository</li>
-	<li>Setup a `post-receive` hook in the "releases" repository to trigger a script that updates the deployment directory (perform a `git pull` or `git checkout -f`)</li>
-</ol>
+
+1. Setup a mirror repository on the server called "releases", with a branch called "beta"</li>
+2. Make the deployment directory track the "beta" branch of the "releases" repository</li>
+3. Setup a `post-receive` hook in the "releases" repository to trigger a script that updates the deployment directory (perform a `git pull` or `git checkout -f`)
+
 The goal of this setup is to simplify the deployment steps to a single `git push` command from my local development/test environment to the releases repository. Then thanks to the `post-receive` hook, the pushed changes will be automatically propagated to the deployment directory, without manually logging in to the server.
 
 First I created the releases repository from my deployment directory:
@@ -54,13 +54,16 @@ Writing an upgrade script depends on your project. Here's an example from one of
 <script src="https://gist.github.com/janosgyerik/5745578.js"></script>
 
 The script is written in a way to be reusable in multiple of my Django sites, but you may need to adjust to match your typical deployment. The unset `GIT_DIR` is necessary, because it seems the variable is automatically set when the hook is executed, otherwise the `git pull` operation would result in the error:
-<pre>remote: fatal: Not a git repository: '.'</pre>
+
+```
+remote: fatal: Not a git repository: '.'
+```
+
 Finally, I setup the releases remote in my local Git project:
 
 ```
 # go to the directory of my local project
 cd ~/project/dir
-
 # add the "releases" remote
 git remote add releases ssh://user@example.com/home/user/path/to/project.git
 ```
