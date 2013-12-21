@@ -39,11 +39,11 @@ The goal of this setup is to simplify the deployment steps to a single `git push
 
 First I created the releases repository from my deployment directory:
 
-[gist id=5724915]
+<script src="https://gist.github.com/janosgyerik/5724915.js"></script>
 
 Next I created the `post-commit` hook:
 
-[gist id=5725039]
+<script src="https://gist.github.com/janosgyerik/5725039.js"></script>
 
 (Hook scripts are in the `hooks/` directory of a Git repository, and must be executable.)
 
@@ -51,18 +51,26 @@ I typically use two branches: "beta" and "prod", and reuse the same "releases" r
 
 Writing an upgrade script depends on your project. Here's an example from one of my Django sites:
 
-[gist id=5745578]
+<script src="https://gist.github.com/janosgyerik/5745578.js"></script>
 
 The script is written in a way to be reusable in multiple of my Django sites, but you may need to adjust to match your typical deployment. The unset `GIT_DIR` is necessary, because it seems the variable is automatically set when the hook is executed, otherwise the `git pull` operation would result in the error:
 <pre>remote: fatal: Not a git repository: '.'</pre>
 Finally, I setup the releases remote in my local Git project:
-<pre id="file-convert-deployment-to-release-mirror-sh-LC1"># go to the directory of my local project
+
+```
+# go to the directory of my local project
 cd ~/project/dir
 
 # add the "releases" remote
-git remote add releases ssh://user@example.com/home/user/path/to/project.git</pre>
+git remote add releases ssh://user@example.com/home/user/path/to/project.git
+```
+
 With this setup in place, deploying a new version is as simple as:
-<pre>git push releases master:beta</pre>
+```
+git push releases master:beta
+```
 To make it even easier, I created aliases in my `.gitconfig`:
-<pre>deploy-beta = push releases master:beta
-deploy-prod = push releases master:prod</pre>
+```
+deploy-beta = push releases master:beta
+deploy-prod = push releases master:prod
+```
