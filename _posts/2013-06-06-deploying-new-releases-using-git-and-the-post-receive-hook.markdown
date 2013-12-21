@@ -23,6 +23,7 @@ comments:
   content: I was thinking of doing something like this, thanks for saving my time
     in the initial research!
 ---
+
 I used to deploy new versions of my websites like this:
 
 - `ssh` to the server
@@ -31,8 +32,8 @@ I used to deploy new versions of my websites like this:
 
 Doing this a few times is ok, but if you want to release frequently it's better to automate these steps. One way to do that is using the `post-receive` hook of Git like this:
 
-1. Setup a mirror repository on the server called "releases", with a branch called "beta"</li>
-2. Make the deployment directory track the "beta" branch of the "releases" repository</li>
+1. Setup a mirror repository on the server called "releases", with a branch called "beta"
+2. Make the deployment directory track the "beta" branch of the "releases" repository
 3. Setup a `post-receive` hook in the "releases" repository to trigger a script that updates the deployment directory (perform a `git pull` or `git checkout -f`)
 
 The goal of this setup is to simplify the deployment steps to a single `git push` command from my local development/test environment to the releases repository. Then thanks to the `post-receive` hook, the pushed changes will be automatically propagated to the deployment directory, without manually logging in to the server.
@@ -72,7 +73,9 @@ With this setup in place, deploying a new version is as simple as:
 ```
 git push releases master:beta
 ```
-To make it even easier, I created aliases in my `.gitconfig`:
+
+To make it even easier, I created aliases in my `.gitconfig`:
+
 ```
 deploy-beta = push releases master:beta
 deploy-prod = push releases master:prod
