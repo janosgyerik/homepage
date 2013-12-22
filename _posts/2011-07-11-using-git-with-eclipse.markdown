@@ -40,7 +40,9 @@ These would be the typical steps I reckon. My setup is hardly typical, so I had 
 </ul>
 	<li>Copy uncommitted changes from svn checkout: svn export path/to/svn/checkout path/to/git/repo</li>
 </ul>
-<h3>Quick tips</h3>
+
+### Quick tips
+
 <ul>
 	<li>To get changes from Subversion upstream: git svn rebase</li>
 	<li>To commit back to Subversion: git svn dcommit</li>
@@ -54,13 +56,17 @@ These would be the typical steps I reckon. My setup is hardly typical, so I had 
 	<li>To switch to a branch: git checkout name_of_branch</li>
 	<li>To see the list of branches: git branch</li>
 </ul>
-<h3>First impressions?</h3>
+
+### First impressions?
+
 <ul>
 	<li>Unlike the Subversion plugin in Eclipse, I like that the changes are shown only on the parent project, not on sub-projects.</li>
 	<li>Unlike Bazaar and Subversion, git doesn't seem to like shortcuts like "st" or "ci", you have to spell out "status" and "commit". (Probably you can configure aliases though, but that's not the same.)</li>
 	<li>Unlike Bazaar or Subversion, the command line client is very colorful, which could be nice, except in windows it can get corrupted quite easily (Sometimes a git command alters the cursor color). It also beeps the PC speaker when you do something invalid.</li>
 </ul>
-<h3>References</h3>
+
+### References
+
 <ul>
 	<li><a href="http://git-scm.com/course/svn.html">http://git-scm.com/course/svn.html</a></li>
 	<li><a href="http://www.vogella.de/articles/EGit/article.html">http://www.vogella.de/articles/EGit/article.html</a></li>

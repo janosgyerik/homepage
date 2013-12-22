@@ -12,11 +12,15 @@ tags: []
 ---
 My 5-step banana ice cream recipe got more reaction in one hour than my usual geeky posts in years. Maybe I should combine the two concepts! Or maybe not. Heck, I already like this title so here's the geeky recipe: a *decidedly imperfect* recipe for getting my django project up and running on a fresh new install of windows.
 
-<h3>Preparation time</h3>
+
+### Preparation time
+
 
 *minutes!*
 
-<h3>Ingredients</h3>
+
+### Ingredients
+
 
 <ul>
 <li>latest stable python2.x:
@@ -51,7 +55,9 @@ My 5-step banana ice cream recipe got more reaction in one hour than my usual ge
 </ul></li>
 </ul>
 
-<h3>Preparation</h3>
+
+### Preparation
+
 
 <ol>
 <li>(optional) Install `putty`, create ssh key with `puttygen`, save private and public keys, add to `authorized_keys` on repository server, start `pagent`, add the key to it.</li>
@@ -73,7 +79,9 @@ My 5-step banana ice cream recipe got more reaction in one hour than my usual ge
 
 Best served in a modern browser like Chrome at <a href="http://localhost:7000/">http://localhost:7000/</a> Enjoy!
 
-<h3>Variations for the more adventurous</h3>
+
+### Variations for the more adventurous
+
 
 <ul>
 <li>Screw `putty`, use the `openssh` that comes with `git bash`</li>

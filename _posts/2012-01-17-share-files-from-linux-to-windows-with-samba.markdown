@@ -35,13 +35,17 @@ Btw the "testparm -s" command shows settings that override the default values, w
 ```
 chkconfig smb on```
 
-<h3>Useful links to debug Samba (if you are in a hurry)</h3>
+
+### Useful links to debug Samba (if you are in a hurry)
+
 <a href="http://www.hackorama.com/network/samba.shtml">http://www.hackorama.com/network/samba.shtml</a>
 
 <a href="http://www.oregontechsupport.com/samba/samba.php">http://www.oregontechsupport.com/samba/samba.php</a>
 
 <a href="http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch12_:_Samba_Security_and_Troubleshooting">http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch12_:_Samba_Security_and_Troubleshooting</a>
-<h3>A nice series of articles for doing a more sophisticated setup the right way</h3>
+
+### A nice series of articles for doing a more sophisticated setup the right way
+
 <a href="http://www.linuxjournal.com/magazine/paranoid-penguin-samba-security-part-i">http://www.linuxjournal.com/magazine/paranoid-penguin-samba-security-part-i</a>
 
 <a href="http://www.linuxjournal.com/magazine/paranoid-penguin-samba-security-part-ii">http://www.linuxjournal.com/magazine/paranoid-penguin-samba-security-part-ii</a>

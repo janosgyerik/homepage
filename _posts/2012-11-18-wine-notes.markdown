@@ -19,5 +19,7 @@ Do you have a comment on the app? Is there a feature you really-really-really wa
 
 Google Play page: <a href="https://play.google.com/store/apps/details?id=com.winenotes.lite">https://play.google.com/store/apps/details?id=com.winenotes.lite</a>
 <a href="https://play.google.com/store/apps/details?id=com.winenotes.lite"><img src="http://www.android.com/images/brand/android_app_on_play_logo_large.png" alt="Android app on Google Play" /></a>
-<h3>Screenshots of version 1.0</h3>
+
+### Screenshots of version 1.0
+
 [nggallery id=4]

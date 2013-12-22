@@ -67,7 +67,9 @@ Let's assume you fixed a bug on a branch called `bug123` and never touched `mast
 	<li>Preserve your individual commits in `bug123`</li>
 	<li>Squash your individual commits in `bug123` and apply the changes in a single commit</li>
 </ol>
-<h3>Preserving individual commits</h3>
+
+### Preserving individual commits
+
 Since Subversion doesn't have the notion of branches as Git, the easiest way to preserve your individual commits is to rebase your branch on top of the Subversion `trunk` (= `master`) and then push your commits to Subversion:
 
 ```
@@ -80,7 +82,9 @@ git merge bug123     # this should be a fast-forward
 git svn dcommit
 ```
 
-<h3>Squashing individual commits</h3>
+
+### Squashing individual commits
+
 Nothing special is needed here. In the rare case that the Subversion repository has not changed since our last rebase and the `bug123` branch was based on that revision, then the merge operation will be a fast-forward by default, preserving individual commits. Normally this is not the case, and the merged revisions will be committed to Subversion as a single change.
 
 ```

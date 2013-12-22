@@ -10,7 +10,9 @@ categories:
 tags: []
 ---
 It's been a while since I've done this, and the tools have evolved since then. Follow these steps to configure, test first, and in the end activate the hook.
-<h3>Get the sample mailer script</h3>
+
+### Get the sample mailer script
+
 This may depend on your distro/OS, usually there is a package called `subversion-tools`.
 
 ```
@@ -19,7 +21,9 @@ cp /path/to/subversion-tools/hook-scripts/mailer/mailer.py hooks
 cp /path/to/subversion-tools/hook-scripts/mailer/mailer.conf.example mailer.conf
 ```
 
-<h3>Edit `mailer.conf`</h3>
+
+### Edit `mailer.conf`
+
 In my case I only needed to override/uncomment these settings:
 
 ```
@@ -29,7 +33,9 @@ from_addr = noreply@mydomain.com
 to_addr = commits-myproject@mydomain.com  # this is a mailing list
 ```
 
-<h3>Pick a revision number for testing</h3>
+
+### Pick a revision number for testing
+
 You can pick any revision, just make sure it exists. You can find the latest revision like this:
 
 ```
@@ -37,7 +43,9 @@ svnlook info $REPOROOT
 svnlook youngest $REPOROOT
 ```
 
-<h3>Test the hook script</h3>
+
+### Test the hook script
+
 Confirm that the last line of the hook script template (`$REPOROOT/hooks/post-commit.tmpl`) is the same as this:
 
 ```
@@ -53,7 +61,9 @@ sh $REPOROOT/hooks/post-commit.tmpl $REPOROOT $REVNO
 ```
 
 where `$REVNO` is some revision number (for example the one returned by `svnlook youngest`). After this you should receive an email with the details of the commit, or some error message should appear in the terminal that you can debug.
-<h3>Activate the hook</h3>
+
+### Activate the hook
+
 
 ```
 cd $REPOROOT

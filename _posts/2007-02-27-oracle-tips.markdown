@@ -8,7 +8,9 @@ categories:
 - Hacks
 tags: []
 ---
-<h3>Environmental variables</h3>
+
+### Environmental variables
+
 
 <ul>
     <li>Essential
@@ -53,7 +55,9 @@ PATH=$PATH:$ORACLE_HOME/bin
      </ul></li>
 </ul>
 
-<h3>Starting the database (with the oracle user)</h3>
+
+### Starting the database (with the oracle user)
+
 <ol>
    <li>`lsnrctl start` If you do this multiple times, not a problem, it just gives you an error.</li>
    <li>`dbstart` If this does not work, you can try this alternative method:
@@ -89,7 +93,9 @@ If successful, you can start using the following URLs: iSQL*Plus: `http://localh
    <li>optional: `emctl start dbconsole` This can take a bit long. When finished, you can check if the port 1158 used by the Enterprise Management Console was successfully opened using the command `netstat -ntl | grep :1158` If successful, you can start using the following URL: `http://localhost:1158/em` Don't know the precise rules, but users with dba granted can login here connecting as "normal". The user sys can login connecting as "sysdba" or "sysoper". </li>
 </ol>
 
-<h3>Stopping the database (with the oracle user)</h3>
+
+### Stopping the database (with the oracle user)
+
 <ol>
 <li>`dbshut` If the above does not work, you can try to shutdown manually:
 
@@ -119,7 +125,9 @@ If successful, you can start using the following URLs: iSQL*Plus: `http://localh
 <li>`lsnrctl stop`</li>
 </ol>
 
-<h3>Quickies</h3>
+
+### Quickies
+
 <ul>
 <li>`connect / as sysdba`</li>
 <li>`connect sys/password as sysdba`</li>

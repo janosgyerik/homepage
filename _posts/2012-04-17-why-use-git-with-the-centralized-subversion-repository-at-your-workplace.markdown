@@ -19,13 +19,17 @@ Let me give you some real practical reasons why you absolutely <strong>should</
 	<li>Subversion litters all sub-directories of the project with `.svn` directories. Git works differently, there is a single `.git` directory in the project's root directory. Among other things, a nice side effect of this is that you can easily do things like `grep -r`.</li>
 </ol>
 In short: if you are using a Subversion client instead of git, you are really missing out on a lot of benefits git could bring to you.
-<h3>Btw...</h3>
+
+### Btw...
+
 <ul>
 	<li>Git is cross-platform (works on Linux, Windows, Mac)</li>
 	<li>There is a nice plugin for Eclipse, and probably most other major IDEs as well</li>
 	<li>On Windows it comes with a superb bash terminal and other core unix tools, which is a lot leaner than a cygwin beast when all you need is bash, awk, sed and perl...</li>
 </ul>
-<h3>What's the catch?</h3>
+
+### What's the catch?
+
 <ul>
 	<li>Eclipse integration does not work as well as Subversion:
 <ul>
@@ -36,7 +40,9 @@ In short: if you are using a Subversion client instead of git, you are really mi
 	<li>You really have to spend some time to learn it properly. Git has a unique way of thinking which is different from Subversion. You will need to understand git before you can use it effectively.</li>
 	<li>The first checkout takes a lot longer compared to Subversion, because git gets the entire repository history. But this is something you only need to do only once. As a nice side effect, you will have a backup of the central repository. Should the central repository die a horrible death, it could be rebuilt from a git checkout.</li>
 </ul>
-<h3>Links</h3>
+
+### Links
+
 <ul>
 	<li><a href="http://git-scm.com/book">http://git-scm.com/book</a> - The official git book, completely free PDF and ebook versions</li>
 	<li>git --help</li>

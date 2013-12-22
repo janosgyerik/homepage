@@ -11,7 +11,9 @@ categories:
 tags: []
 ---
 Once you get comfortable with distributed version control, this probably becomes a habit: whenever you start hacking on something new you create a local repository right away, and only later on you push it to a server (for backup). With Bazaar you can even switch to a centralized workflow (the server becomes a master) at any time (and switch back).
-<h3>With Bazaar</h3>
+
+### With Bazaar
+
 To push a local repository to a server, the bzr command must be installed and on the $PATH of the user.
 
 ```
@@ -27,7 +29,9 @@ Extra tips:
 	<li>If the parent directories don't exist on the  server, then use --create-prefix to create all parents</li>
 	<li>To switch to a centralized workflow where your local commits will be automatically pushed to the server do "bzr bind", and to switch back do "bzr unbind"</li>
 </ul>
-<h3>With Git</h3>
+
+### With Git
+
 To push a local repository to a server, the git command must be installed and on the $PATH of the user.
 
 ```

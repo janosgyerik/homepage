@@ -20,7 +20,9 @@ In any tool, I tend to focus on a small set of tricks with very high practical v
 And so on. I use these in literally every single minute I spend in the shell, so they were really well worth memorizing! (See my slides on these and similar time-saving tricks on <a href="https://speakerdeck.com/janosgyerik/time-saving-tricks-on-the-command-line">SpeakerDeck</a>.)
 
 I rarely memorize new tricks. There's a sweet spot on the effort-benefit curve, beyond which the benefits are not that great. But from time to time I discover something new that might be worth learning and adding to my arsenal. Right now some history expansion tricks look pretty damn handy.
-<h3>The event designator `!!`</h3>
+
+### The event designator `!!`
+
 `!!` is a type of so-called event designator: it refers to the previous command. I use this to save complex commands for later use, for example this operation on an Apache log file (get the number of requests per user agent):
 
 ```
@@ -29,7 +31,9 @@ echo "!!" &gt;&gt; later.sh
 ```
 
 This is not a perfect solution in this case, because the backslash there will disappear in the output, and in general it won't work if there are unescaped double quotes in the command. However, there are many use cases when it can simplify my typing.
-<h3>The word designators `!$` and `!^`</h3>
+
+### The word designators `!$` and `!^`
+
 As the man page says: Word designators are used to select desired words from the event. These two are expanded to the last argument and the first argument, respectively. They are relatively easy to remember if you consider the meaning of `$` and `^` in regular expressions.
 
 A typical example situation:
