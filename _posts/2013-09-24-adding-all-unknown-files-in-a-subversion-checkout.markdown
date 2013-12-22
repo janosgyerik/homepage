@@ -14,17 +14,15 @@ Adding all unknown files in a working tree is usually very simple in other versi
 
 
 ```
-`git add .
+git add .
 bzr add
-`
 ```
 
 Not so simple in Subversion:
 
 ```
-`$ svn add .
+$ svn add .
 svn: warning: '.' is already under version control
-`
 ```
 
 But if you add the `--force` flag, that will do!
@@ -32,8 +30,7 @@ But if you add the `--force` flag, that will do!
 Keep in mind that this is <strong>not</strong> the same as:
 
 ```
-`svn add * --force
-`
+svn add * --force
 ```
 
 That would add not only unknown files, but ignored files too, which is usually not you want. Make sure to specify directories explicitly, avoid using `*` with this command.
