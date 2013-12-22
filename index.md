@@ -23,6 +23,8 @@ Check out my stuff:
 - [Writing](writing.html) ---
   Various writings published here and there.
 
+- Twitter --- I tweet as [@janosgyerik](https://twitter.com/janosgyerik) and [@bashoneliners](https://twitter.com/bashoneliners).
+
 - Blog --- http://blog.janosgyerik.com/
 
   Sort of a blog,
@@ -59,4 +61,6 @@ Check out my stuff:
   and [Programmers](http://programmers.stackexchange.com/users/52610/janos).
 
   ![http://stackexchange.com/users/322516](http://stackexchange.com/users/flair/322516.png)
+
+- Careers 2.0 --- [http://careers.stackoverflow.com/janosgyerik](http://careers.stackoverflow.com/janosgyerik)
 
