@@ -36,7 +36,8 @@ comments: []
     </ul></li>
     <li>My custom tips<ul>
           <li>Create a file `~/ORACLE.env` like this:
-          <pre>
+          
+<pre>
 #!/bin/sh
 
 #export NLS_LANG=JAPANESE_JAPAN.JA16EUC
@@ -120,14 +121,16 @@ If successful, you can start using the following URLs: iSQL*Plus: `http://localh
   <li>stop database</li>
   <li>`orapwd file=$ORACLE_HOME/dbs/orapw$ORACLE_SID password=mypasswd`</li>
   <li>start database </li>
-  <li><pre>
+  <li>
+<pre>
       ALTER USER scott ACCOUNT LOCK    -- lock a user account
       ALTER USER scott ACCOUNT UNLOCK; -- unlocks a locked users account
       ALTER USER scott PASSWORD EXPIRE;  -- Force user to choose a new password
   
 </pre></li>
   <li>`ALTER USER scott IDENTIFIED BY newtiger;`</li>
-  <li><pre>
+  <li>
+<pre>
       CREATE USER scott
       IDENTIFIED BY tiger  -- Assign password
       DEFAULT TABLESACE  tools -- Assign space for table and index segments

@@ -76,13 +76,15 @@ comments:
   content: |-
     That's strange. Try to change line 971 like this:
 
-    <pre>
+    
+<pre>
 class DifflibDiffContent(object):
 </pre>
 
     or this:
 
-    <pre>
+    
+<pre>
 class DifflibDiffContent:
 </pre>
 

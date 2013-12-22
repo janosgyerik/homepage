@@ -10,7 +10,8 @@ tags: []
 comments: []
 ---
 <ol>
-	<li>Open a cmd window as Administrator <pre>
+	<li>Open a cmd window as Administrator 
+<pre>
 runas /u:administrator cmd
 </pre></li>
 	<li>Keep a cmd window running as your non-Administrator user too</li>
