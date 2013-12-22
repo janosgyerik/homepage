@@ -78,7 +78,8 @@ PATH=$PATH:$ORACLE_HOME/bin
       Database opened.
 
       SQL&gt; exit
-</pre></li>
+</pre>
+</li>
    <li>optional: `isqlplusctl start` This can take a bit long. When finished, you can check if the port 5560 used by iSQL*Plus was successfully opened using the command `netstat -ntl | grep :5560` 
 If successful, you can start using the following URLs: iSQL*Plus: `http://localhost:5560/isqlplus` (even normal users can login here) iSQL*Plus DBA: `http://localhost:5560/isqlplus/dba` TODO: how to login here?</li>
 
@@ -127,7 +128,8 @@ If successful, you can start using the following URLs: iSQL*Plus: `http://localh
       ALTER USER scott ACCOUNT UNLOCK; -- unlocks a locked users account
       ALTER USER scott PASSWORD EXPIRE;  -- Force user to choose a new password
   
-</pre></li>
+</pre>
+</li>
   <li>`ALTER USER scott IDENTIFIED BY newtiger;`</li>
   <li>
 <pre>

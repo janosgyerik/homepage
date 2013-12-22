@@ -13,7 +13,8 @@ comments: []
 	<li>Open a cmd window as Administrator 
 <pre>
 runas /u:administrator cmd
-</pre></li>
+</pre>
+</li>
 	<li>Keep a cmd window running as your non-Administrator user too</li>
 	<li>Open task manager (Ctrl-Esc or with taskmgr command) and kill explorer.exe</li>
 	<li>Run the command "control" in the Administrator cmd window</li>
