@@ -9,7 +9,7 @@ categories:
 - Software
 tags: []
 ---
-<a href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite"><img class="alignright size-thumbnail wp-image-1087" alt="android" src="http://www.janosgyerik.com/wp-content/uploads/2013/08/android-150x150.png" width="150" height="150" /></a>I just released the first version of <a href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite">Computer Quiz</a>. It's a simple multiple choice quiz app for computer fans, professionals and geeks.
+<a href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite"><img class="alignright size-thumbnail wp-image-1087" alt="android" src="http://www.janosgyerik.com/wp-content/uploads/2013/08/android.png" width="150" height="150" /></a>I just released the first version of <a href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite">Computer Quiz</a>. It's a simple multiple choice quiz app for computer fans, professionals and geeks.
 
 Questions are spread out over multiple categories and difficulty levels:
 <ul>
