@@ -9,15 +9,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments:
-- id: 11
-  author: glfafn
-  author_email: asdasdasd@google.com
-  author_url: ''
-  date: '2011-12-11 07:37:21 +0100'
-  date_gmt: '2011-12-10 22:37:21 +0100'
-  content: you have no idea how many hours i spend trying to figure out why the form
-    wouldn't validate, thanks for mentioning the gotchas
 ---
 If you initialize as `AuthentictionForm(request.POST)` like probably many of your forms, no validation will take place at all.
 

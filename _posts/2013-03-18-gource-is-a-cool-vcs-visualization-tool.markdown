@@ -8,32 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments:
-- id: 2210
-  author: trident_job
-  author_email: trident_job@hotmail.com
-  author_url: http://tridentjob.blogspot.com
-  date: '2013-04-12 09:30:44 +0200'
-  date_gmt: '2013-04-12 09:30:44 +0200'
-  content: "That's quite fun :)\r\n\r\nThx for sharing this, I'm just discovering
-    this software."
-- id: 2355
-  author: sam
-  author_email: iwonderwhy5@hotmail.com
-  author_url: https://github.com/whitewhidow/live-git-for-gource
-  date: '2013-05-08 09:23:37 +0200'
-  date_gmt: '2013-05-08 09:23:37 +0200'
-  content: "hi, check out https://github.com/whitewhidow/live-git-for-gource\r\n\r\nYou
-    can use it to display LIVE updates of a git repo, nice to have on a screen in
-    your company's common area"
-- id: 2358
-  author: janos
-  author_email: info@titan2x.com
-  author_url: ''
-  date: '2013-05-08 18:58:50 +0200'
-  date_gmt: '2013-05-08 18:58:50 +0200'
-  content: Wow. That sounds pretty awesome. Yup, will definitely try to get this going
-    at work.
 ---
 Gource is a really cool open-source software to visualize the revision history of your projects, whether you're using Git, Bazaar, Mercurial or Subversion.
 

@@ -8,14 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments:
-- id: 12
-  author: Raoul Duke
-  author_email: raould@gmail.com
-  author_url: ''
-  date: '2011-07-20 03:16:56 +0200'
-  date_gmt: '2011-07-19 18:16:56 +0200'
-  content: thank you. much easier than all the b.s. i saw on stack overflow.
 ---
 PIL is an image processing library for python. It is required by Django if you use ImageField.
 

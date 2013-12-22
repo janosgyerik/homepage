@@ -7,15 +7,6 @@ date: 2007-06-07 01:40:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments:
-- id: 3
-  author: Leslie
-  author_email: ''
-  author_url: ''
-  date: '2007-08-15 12:20:00 +0200'
-  date_gmt: '2007-08-15 12:20:00 +0200'
-  content: Thanks so much for these posts, I managed to get RapidSvn up and running
-    with them.
 ---
 Oh well, `SVN_SSH="c:/program files/putty/plink.exe"` didn't work very well for me for two reasons:
 

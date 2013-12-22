@@ -9,24 +9,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments:
-- id: 3163
-  author: Glenn Jackman
-  author_email: glenn.jackman@gmail.com
-  author_url: ''
-  date: '2013-06-22 18:17:00 +0200'
-  date_gmt: '2013-06-22 18:17:00 +0200'
-  content: In my experience, the best way to stay on top of questions you're interested
-    in is to create a stack exchange filter (http://stackexchange.com/filters) and
-    subscribe to it's RSS feed.
-- id: 3164
-  author: Janos Gyerik
-  author_email: janos.gyerik@gmail.com
-  author_url: ''
-  date: '2013-06-22 18:41:00 +0200'
-  date_gmt: '2013-06-22 18:41:00 +0200'
-  content: Thanks for the tip, I did not know that! I will try this out, see how it
-    goes, and improve the post later.
 ---
 Gamification... is ADDICTIVE! I got hooked on basically "collecting meaningless points" on the <a href="http://stackexchange.com/sites">Stack Exchange sites</a>. As I was building up a "know-how" of doing this, I started drafting this post. Then I gave up actually posting it, thinking *"what the hell do I know about this stuff anyway with my puny reputation"*?
 

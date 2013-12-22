@@ -7,16 +7,6 @@ date: 2008-07-01 04:27:00.000000000 +02:00
 categories:
 - Software
 tags: []
-comments:
-- id: 4
-  author: janos
-  author_email: ''
-  author_url: ''
-  date: '2008-11-24 08:32:00 +0100'
-  date_gmt: '2008-11-24 08:32:00 +0100'
-  content: '...On the other hand, Richard Stallman thinks cloud computing is a terrible
-    thing. The good things about the SaaS model is that it''s super easy for the user,
-    at the price of some freedom.'
 ---
 <blockquote>
 <b>bMighty.com<br />

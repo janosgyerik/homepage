@@ -8,16 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments:
-- id: 3191
-  author: Jason Chuang
-  author_email: jchuang11@gmail.com
-  author_url: ''
-  date: '2013-10-16 21:10:00 +0200'
-  date_gmt: '2013-10-16 21:10:00 +0200'
-  content: Hey Janos. Been using HabitRPG and Workflowy separately and been trying
-    to integrate them somehow. Can you give me a quick rundown of how this works via
-    the Chrome extension?
 ---
 I started using <a href="https://habitrpg.com/">HabitRPG</a> last weekend. At first it was just fun, but after one week I'm actually seeing some positive effects already:
 <ul>

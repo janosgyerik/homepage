@@ -8,15 +8,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments:
-- id: 3189
-  author: Janos Gyerik
-  author_email: janos.gyerik@gmail.com
-  author_url: ''
-  date: '2013-10-05 05:00:00 +0200'
-  date_gmt: '2013-10-05 05:00:00 +0200'
-  content: 'This app seems to help, or maybe even do what I wanted but I haven''t
-    tried it yet: https://play.google.com/store/apps/details?id=com.schurich.android.tools.appopsstarter'
 ---
 As far as I know, I cannot. When you install an Android application you get a list of "permissions" <strong>the app wants to use</strong>, but you have only two choices, all or nothing: allow all permissions and install the app, or don't install at all.
 

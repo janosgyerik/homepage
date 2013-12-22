@@ -8,14 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments:
-- id: 3192
-  author: professional web design
-  author_email: marc.smith12345@gmail.com
-  author_url: http://www.incion.com/
-  date: '2013-10-28 05:52:00 +0100'
-  date_gmt: '2013-10-28 05:52:00 +0100'
-  content: This is a great reading. Thanking you.
 ---
 I've seen a couple of blogs using <a href="https://disqus.com/">Disqus</a> to show comments, but never really cared enough to check it out. Until now, and it looks like a pretty good idea!
 <ul>

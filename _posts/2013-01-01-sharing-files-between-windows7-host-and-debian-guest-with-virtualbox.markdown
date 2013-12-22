@@ -8,14 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments:
-- id: 839
-  author: Gergely Nagy
-  author_email: nagy.gergely@gnanet.net
-  author_url: ''
-  date: '2013-01-01 09:32:06 +0100'
-  date_gmt: '2013-01-01 09:32:06 +0100'
-  content: I am more excited about the new drag and drop between host and guest
 ---
 With VirtualBox it is very easy to share files between the host and guest systems by using shared folders. In a Windows7 host and a freshly installed Debian guest I only needed a few steps:
 <ol>

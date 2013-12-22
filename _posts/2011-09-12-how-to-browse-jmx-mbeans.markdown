@@ -8,14 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments:
-- id: 13
-  author: jmxterm is a nice command line JMX client | Janos Gyerik
-  author_email: ''
-  author_url: http://www.janosgyerik.com/jmxterm-is-a-nice-command-line-jmx-client/
-  date: '2012-05-17 20:33:28 +0200'
-  date_gmt: '2012-05-17 19:33:28 +0200'
-  content: '[...] http://www.janosgyerik.com/how-to-browse-jmx-mbeans/ [...]'
 ---
 Sun has a free tool for this called VisualVM. Simply download and run it. In the Applications tab you should see the various Java virtual machines currently running.
 

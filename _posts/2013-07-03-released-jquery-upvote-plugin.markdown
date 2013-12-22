@@ -9,25 +9,6 @@ categories:
 - News
 - Software
 tags: []
-comments:
-- id: 3183
-  author: kanakiyajay
-  author_email: kanakiyajay@yahoo.com
-  author_url: ''
-  date: '2013-09-02 06:42:00 +0200'
-  date_gmt: '2013-09-02 06:42:00 +0200'
-  content: |-
-    Seems like the link to http://janosgyerik.github.io/jquery-upvote/ is broken.
-    Might be a problem with gh-pages.
-- id: 3184
-  author: Janos Gyerik
-  author_email: janos.gyerik@gmail.com
-  author_url: ''
-  date: '2013-09-02 16:00:00 +0200'
-  date_gmt: '2013-09-02 16:00:00 +0200'
-  content: Ouch, so I broke it... It's more or less back now, except some styling
-    issues that got broken with the upgrade of bootstrap upstream. Thanks for pointing
-    out!
 ---
 Published my first ever jQuery plugin just now: jQuery Upvote
 

@@ -8,15 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments:
-- id: 2938
-  author: Gabriel Patiño
-  author_email: gepatino@gmail.com
-  author_url: ''
-  date: '2013-06-07 12:55:44 +0200'
-  date_gmt: '2013-06-07 12:55:44 +0200'
-  content: I was thinking of doing something like this, thanks for saving my time
-    in the initial research!
 ---
 
 I used to deploy new versions of my websites like this:

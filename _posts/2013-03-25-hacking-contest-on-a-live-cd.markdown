@@ -9,15 +9,6 @@ categories:
 - News
 - Software
 tags: []
-comments:
-- id: 2267
-  author: frytaz1
-  author_email: frytaz@gmail.com
-  author_url: ''
-  date: '2013-04-15 19:14:31 +0200'
-  date_gmt: '2013-04-15 19:14:31 +0200'
-  content: "Cool, as for now got into level02 :)\r\nGona try next one soon, great
-    contest"
 ---
 I built a remastered Linux Live CD that should be interesting, educational, and highly entertaining for any self-respecting programmer: a security challenge with 6 levels based on the online contest created by <a href="https://stripe.com/blog/capture-the-flag">Stripe</a> in early 2012.
 
