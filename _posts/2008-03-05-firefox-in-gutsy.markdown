@@ -10,6 +10,10 @@ tags: []
 comments: []
 ---
 In previous Ubuntu releases you could open different Firefox profiles with
-<pre>firefox -P your_other_profile_name</pre>
+<pre>
+firefox -P your_other_profile_name
+</pre>
 As of Gutsy Gibbon, you accomplish the same by
-<pre>firefox -P your_other_profile_name -no-remote</pre>
+<pre>
+firefox -P your_other_profile_name -no-remote
+</pre>

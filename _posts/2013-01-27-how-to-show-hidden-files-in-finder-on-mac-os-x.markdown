@@ -11,5 +11,7 @@ tags: []
 comments: []
 ---
 Step 1: run this in a terminal:
-<pre>defaults write com.apple.Finder AppleShowAllFiles YES</pre>
+<pre>
+defaults write com.apple.Finder AppleShowAllFiles YES
+</pre>
 Step 2: restart Finder: hold down the alt key, right click on Finder's icon and select Relaunch.

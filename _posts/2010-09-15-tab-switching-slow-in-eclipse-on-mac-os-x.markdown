@@ -14,7 +14,9 @@ The fix:
 1. Find eclipse.ini file in the Eclipse installation.
 
 2. Edit/add the following values:
-<pre>-Xms256m
+<pre>
+-Xms256m
 -Xmx1024m
--Dosgi.requiredJavaVersion=1.6</pre>
+-Dosgi.requiredJavaVersion=1.6
+</pre>
 The requiredJavaVersion=1.6 is the key, but adjusting the heap settings is probably also a good idea.

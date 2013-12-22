@@ -50,5 +50,7 @@ http://www.youtube.com/watch?v=9kLhZIlKDyM
 http://www.youtube.com/watch?v=tHq51klN42Y
 
 To generate these videos I used the following commands on Mac OS X:
-<pre>gource --file-idle-time 0 --seconds-per-day .3 -640x480 -o gource.ppm
-ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i gource.ppm -vcodec libvpx -b 10000K gource.webm</pre>
+<pre>
+gource --file-idle-time 0 --seconds-per-day .3 -640x480 -o gource.ppm
+ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i gource.ppm -vcodec libvpx -b 10000K gource.webm
+</pre>

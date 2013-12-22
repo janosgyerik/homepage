@@ -11,5 +11,7 @@ tags: []
 comments: []
 ---
 Using ResourceBundles works fine on Android, but it might not be obvious where to put the properties files to get them into the application bundle (the APK file). The best way seems to be to put the file somewhere under the source code directory. For example, you can load the file src/path/to/file/props.properties like this:
-<pre>ResourceBundle props = ResourceBundle.getBundle("path.to.file.props");</pre>
+<pre>
+ResourceBundle props = ResourceBundle.getBundle("path.to.file.props");
+</pre>
 &nbsp;

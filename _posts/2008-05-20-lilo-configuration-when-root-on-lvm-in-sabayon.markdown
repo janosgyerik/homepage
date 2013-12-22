@@ -9,7 +9,8 @@ categories:
 tags: []
 comments: []
 ---
-<pre>image=/boot/kernel-genkernel-x86-2.6.22-sabayon
+<pre>
+image=/boot/kernel-genkernel-x86-2.6.22-sabayon
         label=gentoo
         read-only
         root=/dev/ram0

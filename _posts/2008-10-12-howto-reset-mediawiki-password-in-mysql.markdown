@@ -10,5 +10,7 @@ tags: []
 comments: []
 ---
 <blockquote>
-<pre>update user set user_password = md5(concat(user_id, '-', md5('kiew7eiT'))) where user_name = 'WikiSysop';</pre>
+<pre>
+update user set user_password = md5(concat(user_id, '-', md5('kiew7eiT'))) where user_name = 'WikiSysop';
+</pre>
 </blockquote>

@@ -14,7 +14,9 @@ When you watch a flash video like youtube in a browser, the video file is saved 
 On Linux, the file is usually saved in /tmp/FlashXXXXX where the XXXXX is some random string.
 
 On Mac, the file is somewhere under /private, you can find it with the command:
-<pre>find /private/ 2&gt;/dev/null | grep /Flash</pre>
+<pre>
+find /private/ 2&gt;/dev/null | grep /Flash
+</pre>
 To save the video, simply copy the file. Make sure you wait until the video is fully downloaded in the browser.
 
 Btw, sometimes you can make the volume louder when playing the file with a video player instead of youtube.

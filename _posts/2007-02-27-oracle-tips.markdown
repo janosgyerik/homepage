@@ -124,7 +124,8 @@ If successful, you can start using the following URLs: iSQL*Plus: `http://localh
       ALTER USER scott ACCOUNT LOCK    -- lock a user account
       ALTER USER scott ACCOUNT UNLOCK; -- unlocks a locked users account
       ALTER USER scott PASSWORD EXPIRE;  -- Force user to choose a new password
-  </pre></li>
+  
+</pre></li>
   <li>`ALTER USER scott IDENTIFIED BY newtiger;`</li>
   <li><pre>
       CREATE USER scott

@@ -23,18 +23,24 @@ And so on. I use these in literally every single minute I spend in the shell, so
 I rarely memorize new tricks. There's a sweet spot on the effort-benefit curve, beyond which the benefits are not that great. But from time to time I discover something new that might be worth learning and adding to my arsenal. Right now some history expansion tricks look pretty damn handy.
 <h3>The event designator `!!`</h3>
 `!!` is a type of so-called event designator: it refers to the previous command. I use this to save complex commands for later use, for example this operation on an Apache log file (get the number of requests per user agent):
-<pre>cat access.log | cut -d\" -f6 | sort | uniq -c | sort -n
-echo "!!" &gt;&gt; later.sh</pre>
+<pre>
+cat access.log | cut -d\" -f6 | sort | uniq -c | sort -n
+echo "!!" &gt;&gt; later.sh
+</pre>
 This is not a perfect solution in this case, because the backslash there will disappear in the output, and in general it won't work if there are unescaped double quotes in the command. However, there are many use cases when it can simplify my typing.
 <h3>The word designators `!$` and `!^`</h3>
 As the man page says: Word designators are used to select desired words from the event. These two are expanded to the last argument and the first argument, respectively. They are relatively easy to remember if you consider the meaning of `$` and `^` in regular expressions.
 
 A typical example situation:
-<pre>less /path/to/some/file
-rm /path/to/some/file</pre>
+<pre>
+less /path/to/some/file
+rm /path/to/some/file
+</pre>
 Doing this and similar actions involves a bit too many key strokes: `up` + `C-a` + `ESC-d` + [type "rm"]. Easier to do like this:
-<pre>less /path/to/some/file
-rm !$</pre>
+<pre>
+less /path/to/some/file
+rm !$
+</pre>
 A similar feature is `ESC-.` which pastes the last argument while editing, so you can make changes before running the next command.
 
 You can read more about these and similar tricks in `man bash`, under "HISTORY EXPANSION".

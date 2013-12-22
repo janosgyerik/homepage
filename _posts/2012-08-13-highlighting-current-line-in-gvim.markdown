@@ -14,15 +14,19 @@ Didn't know you can do this until now, and it's so awesome!
 
 Add this in `.vimrc`:
 
-<pre>`set cursorline
+<pre>
+`set cursorline
 highlight CursorLine guibg=#F1F5FA
-`</pre>
+`
+</pre>
 
 To highlight the current line only in the active window, throw these in too:
 
-<pre>`autocmd WinEnter * setlocal cursorline
+<pre>
+`autocmd WinEnter * setlocal cursorline
 autocmd WinLeave * setlocal nocursorline
-`</pre>
+`
+</pre>
 
 More info:
 - `:help :highlight`

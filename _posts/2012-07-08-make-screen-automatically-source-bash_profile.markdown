@@ -14,12 +14,16 @@ By default `screen` does not start as a login shell, and therefore `.bash_profil
 
 A simple remedy is to create a custom script that will be used as `screen`'s shell, and edit `.screenrc` to tell `screen` to use the custom script. The custom script: (I put in `~/.screen.shell`)
 
-<pre>`bash --login
-`</pre>
+<pre>
+`bash --login
+`
+</pre>
 
 Note: remember to make the script file executable.
 
 The line in `.screenrc`:
 
-<pre>`shell $HOME/.screen.shell
-`</pre>
+<pre>
+`shell $HOME/.screen.shell
+`
+</pre>

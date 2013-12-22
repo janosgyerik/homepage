@@ -11,9 +11,15 @@ tags: []
 comments: []
 ---
 When coding in python, I've been hit by the following error every once in a while:
-<pre>UnicodeEncodeError: 'ascii' codec can't encode characters in position 25-28: ordinal not in range(128)</pre>
+<pre>
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 25-28: ordinal not in range(128)
+</pre>
 Today I finally figured why:
-<pre>$ python -c 'import sys; print sys.stdout.encoding'
-$ US-ASCII</pre>
+<pre>
+$ python -c 'import sys; print sys.stdout.encoding'
+$ US-ASCII
+</pre>
 Although my terminal application is capable of outputting unicode characters, python (2.6) somehow does not know it, and tries to output everything in `ascii`, hence the error. The solution is to set `PYTHONIOENCODING` in my ~/.bashrc:
-<pre>export PYTHONIOENCODING=utf-8</pre>
+<pre>
+export PYTHONIOENCODING=utf-8
+</pre>

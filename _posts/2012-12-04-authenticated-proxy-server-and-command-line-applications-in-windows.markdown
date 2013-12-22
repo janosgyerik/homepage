@@ -14,13 +14,16 @@ I tend to forget a couple of "gotchas" when working in an environment with a pro
 Let's assume an environment where you have a browser correctly configured to use a proxy server and it is working well.
 
 The environment variables to set for command line applications, if needed:
-<pre>http_proxy=http://proxyuser:proxypass@proxyserver:port/path
+<pre>
+http_proxy=http://proxyuser:proxypass@proxyserver:port/path
 https_proxy=http://proxyuser:proxypass@proxyserver:port/path
-ftp_proxy=http://proxyuser:proxypass@proxyserver:port/path</pre>
+ftp_proxy=http://proxyuser:proxypass@proxyserver:port/path
+</pre>
 (enough to set only the ones you actually need)
 
 For this you need to know the proxy server. Usually it is not difficult to figure out from the proxy settings in the browser or the network settings in the control panel, but in some Windows systems the setting may not be visible. In that case, you can try to find it from one of these:
-<pre>ping wpad
+<pre>
+ping wpad
 ipconfig /all
 netstat -ban</pre>
 `ping wpad` is the easiest to read but the least likely to work in your system, `netstat -ban` is the most difficult to read but it *has to* work always.

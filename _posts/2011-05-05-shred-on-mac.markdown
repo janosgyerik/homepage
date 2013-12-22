@@ -12,4 +12,6 @@ comments: []
 Melt your harddisk. Melt the whole computer. Drop in a volcano, or hot magma.
 
 I was actually looking for something like the shred tool in Linux, but for Mac. There is something similar on Mac OS X and it's called `srm`. To shred a directory recursively:
-<pre>srm -r path_to_dir</pre>
+<pre>
+srm -r path_to_dir
+</pre>
