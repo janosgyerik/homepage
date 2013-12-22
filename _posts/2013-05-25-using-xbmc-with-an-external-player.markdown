@@ -11,7 +11,28 @@ tags: []
 ---
 First of all, [XBMC](http://xbmc.org/) looks really awesome:
 
-[nggallery id=5]
+<div class="row">
+  <div class="col-lg-3">
+    <a class="thumbnail" href="/assets/themes/images/screenshots/xbmc/screenshot000.png">
+      <img alt="..." src="/assets/themes/images/screenshots/xbmc/screenshot000.png">
+    </a>
+  </div>
+  <div class="col-lg-3">
+    <a class="thumbnail" href="/assets/themes/images/screenshots/xbmc/screenshot001.png">
+      <img alt="..." src="/assets/themes/images/screenshots/xbmc/screenshot001.png">
+    </a>
+  </div>
+  <div class="col-lg-3">
+    <a class="thumbnail" href="/assets/themes/images/screenshots/xbmc/screenshot002.png">
+      <img alt="..." src="/assets/themes/images/screenshots/xbmc/screenshot002.png">
+    </a>
+  </div>
+  <div class="col-lg-3">
+    <a class="thumbnail" href="/assets/themes/images/screenshots/xbmc/screenshot003.png">
+      <img alt="..." src="/assets/themes/images/screenshots/xbmc/screenshot003.png">
+    </a>
+  </div>
+</div>
 
 I'm using XBMC mainly to watch my favorite internet streams, such as [TED](http://www.ted.com/) and [vimcasts](http://vimcasts.org/).
 
