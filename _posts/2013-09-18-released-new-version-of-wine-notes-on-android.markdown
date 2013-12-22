@@ -10,24 +10,26 @@ categories:
 tags: []
 comments: []
 ---
-The new version (1.1) of Wine Notes is now on <a href="https://play.google.com/store/apps/details?id=com.winenotes.lite">Google Play</a>.<a href="https://play.google.com/store/apps/details?id=com.winenotes.lite"><img class="alignright size-thumbnail wp-image-827" alt="android" src="http://www.janosgyerik.com/wp-content/uploads/2012/11/android-150x150.png" width="150" height="150" /></a>
+<span class="pull-right col-lg-2 col-md-2 col-sm-3"><a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.winenotes.lite"><img alt="android" src="/assets/themes/images/apps/wine-notes.png" /></a></span>
 
-What's new?
+The new version (1.1) of Wine Notes is now on [Google Play](https://play.google.com/store/apps/details?id=com.winenotes.lite).
 
-<ul>
-	<li>Fixed the broken EURO sign</li>
-	<li>Now you can select the currency</li>
-	<li>The last used currency becomes the default currency</li>
-	<li>Wine names you enter are now automatically "title-ized"</li>
-	<li>Changed to a bright theme in most dialog screens</li>
-	<li>Replaced the text buttons with image buttons in tag editor dialogs</li>
-	<li>Removed the pointless Quit menu option</li>
-	<li>Many minor usability and ergonomic improvements</li>
-</ul>
-Check it out, and I hope you'll enjoy!
+The new features:
 
-Feel free to tell me about problems and feature requests on GitHub: <a href="https://www.google.com/url?q=https://github.com/janosgyerik/WineNotes/issues&amp;sa=D&amp;usg=AFQjCNH3XP051sEY7RSdhmwq7RJqOV-8kQ" target="_blank">https://github.com/janosgyerik/WineNotes/issues</a>
+- Fixed the broken EURO sign
+- Now you can select the currency
+- The last used currency becomes the default currency
+- Wine names you enter are now automatically "title-ized"
+- Changed to a bright theme in most dialog screens
+- Replaced the text buttons with image buttons in tag editor dialogs
+- Removed the pointless Quit menu option
+- Many minor usability and ergonomic improvements
 
-<strong>This app is still a work in progress, with many more features planned but not implemented yet. If a missing feature is important to you, feel free to drop me a line, and I'll try to make it happen.</strong>
+Check it out, I hope you'll enjoy!
+
+Please tell me about problems and feature requests on GitHub:
+https://github.com/janosgyerik/WineNotes/issues
+
+**This app is still a work in progress, with many more features planned but not implemented yet. If a missing feature is important to you, drop me a line, and I'll try to make it happen.**
 
 
