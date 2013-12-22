@@ -14,7 +14,9 @@ An open source project should be as open as possible, for that reason I decided 
 ### Bazaar to Subversion
 
 Thanks to the bzr-svn plugin which comes bundled with the latest versions of Bazaar this is really easy and straightforward.
-<h4>Initial setup: import full history from Bazaar to Google Code</h4>
+
+### Initial setup: import full history from Bazaar to Google Code
+
 
 ```
 bzr co /path/to/bzr/repo /path/to/svn/pusher
@@ -22,7 +24,9 @@ cd /path/to/svn/pusher
 bzr push https://PROJECT.googlecode.com/svn/trunk
 ```
 
-<h4>Mirroring periodically</h4>
+
+### Mirroring periodically
+
 
 ```
 cd /path/to/svn/pusher
@@ -36,7 +40,9 @@ As usual with mirrors, if you ever commit to the Google Code repository with any
 ### Bazaar to Git
 
 There is a nice plugin for this too, but since I could not get it working easily on my Mac, I chose an alternative path that's less pretty but very easy to get going, by using the Subversion mirror on Google Code as a stepping stone from Bazaar to Git.
-<h4>Initial setup: import full history from Google Code to GitHub</h4>
+
+### Initial setup: import full history from Google Code to GitHub
+
 
 ```
 git svn clone https://PROJECT.googlecode.com/svn/trunk /path/to/git/pusher
@@ -45,7 +51,9 @@ git remote add origin git@github.com:repo-url
 git push origin master
 ```
 
-<h4>Mirroring periodically</h4>
+
+### Mirroring periodically
+
 
 ```
 cd /path/to/git/pusher

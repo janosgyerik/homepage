@@ -8,13 +8,16 @@ categories:
 - Hacks
 tags: []
 ---
-Note: If you get stuck at any point, see bottom for troubleshooting tips!
+If you get stuck at any point, see bottom for troubleshooting tips!
 
-1. `up2date xorg-x11-deprecated-libs` : libXp.so.6 is required by the installer
-2. `up2date gcc gcc-c++ libaio libstdc++-devel compat-libstdc++-33 sysstat` : required by Oracle
+### Install requirements
 
-Create the oracle groups and user account:
+```
+up2date xorg-x11-deprecated-libs
+up2date gcc gcc-c++ libaio libstdc++-devel compat-libstdc++-33 sysstat
+```
 
+### Create the oracle groups and user account
 
 ```
 groupadd oinstall
@@ -25,33 +28,31 @@ chown oracle.oinstall /opt/oracle
 chmod 775 /opt/oracle
 ```
 
-
-Set shell limits for the oracle user:
+### Set shell limits for the oracle user
 
 1. In `/etc/security/limits.conf` add these lines:
 
-```
-oracle soft nproc 2047
-oracle hard nproc 16384
-oracle soft nofile 1024
-oracle hard nofile 63536
-```
+    ```
+    oracle soft nproc 2047
+    oracle hard nproc 16384
+    oracle soft nofile 1024
+    oracle hard nofile 63536
+    ```
 
 2. In `/etc/pam.d/login` add this line: `session required /lib/security/pam_limits.so`
-Note: In RHEL4 with SELinux enabled, a comment says that "pam_selinux.so open" should be the last session rule. So i added the line right before that. 
+
+  Note: In RHEL4 with SELinux enabled, a comment says that `pam_selinux.so open` should be the last session rule. So i added the line right before that. 
 
 3. Add to `/etc/profile` these lines:
 
-```
-if [ $USER = oracle ]; then
-    ulimit -u 16384 -n 63536
-    umask 0022
-fi
-```
+    ```
+    if [ $USER = oracle ]; then
+        ulimit -u 16384 -n 63536
+        umask 0022
+    fi
+    ```
 
-
-Starting the installer... 
-
+### Start the installer
 
 ```
 su - oracle
@@ -59,7 +60,6 @@ unzip 10201_database_linux32.zip
 cd database
 ./runInstaller
 ```
-
 
 It's probably a good idea to make notes of the relevant screens that appear. I simply take screenshots with Alt + PrintScreen, twice per screen: first with the original values, then again after i made my changes. 
 
@@ -86,7 +86,6 @@ Checking for wmem_default=262144; found wmem_default=110592.    Failed &lt;&lt;&
 Checking for wmem_max=262144; found wmem_max=110592.    Failed &lt;&lt;&lt;&lt;
 ```
 
-
 ...which i fixed by adding these lines to `/etc/sysctl.conf`
 (The commented lines indicate the orginal values. These definitions were not originally in the file, i added them myself for future reference.)
 
@@ -110,8 +109,7 @@ net.core.wmem_default = 262144
 net.core.wmem_max = 262144
 ```
 
-
-Note that to add the right definitions, you need to know the fully qualified sysctl variable names, but Oracle's error message isn't detailed enough. For example, Oracle says wmem_max is not enough, but the fully qualified name of the variable is net.core.wmem_max. You can figure out the proper names by grep-ing through the output of `sysctl -a`, like `sysctl -a | grep wmem`.
+Note that to add the right definitions, you need to know the fully qualified sysctl variable names, but Oracle's error message isn't detailed enough. For example, Oracle says `wmem_max` is not enough, but the fully qualified name of the variable is `net.core.wmem_max`. You can figure out the proper names by grep-ing through the output of `sysctl -a`, like `sysctl -a | grep wmem`.
 
 To make these changes take effect do `sysctl -p`. This will reload the default sysctl config file and apply the settings. If you want you can confirm the changed values like `sysctl -a | grep wmem`.
 
@@ -129,21 +127,23 @@ In the following steps the installer went on to create the database. Finally a s
 
 In the end you will get a screen with urls to Oracle Enterprise Manager (port 1158) and isqlplus (port 5560). I suggest you take a screenshot of this screen too.
 
-Troubleshooting
+### Troubleshooting
 
-<dl>
-<dt>How to install without X windows on target machine?</dt>
-<dd>From X windows on remote machine, ssh to target machine with -X flag on (`ForwardX11` ssh config option or `-X` on command line). For this to work you also need to install `xorg-x11-xauth` package.</dd>
-<dt>Installation in CentOS</dt>
-<dd>1. Start the installer with `./runInstaller -ignoreSysPrereqs`
-2. There is no `xorg-x11-deprecated-libs` in CentOS, instead the following packages are required: `libXp`, `libXtst`, ``, ``
-</dd>
-<dt>Installer of Oracle Net Configuration fails with JVM crash, when getting DNS domain name.</dt>
-<dd>Checked the output of `hostname` and `domainname`, since there was no domain name set I set it to something, and also added the hostname and hostname.domainname to the 127.0.0.1 line in `/etc/hosts`.</dd>
-</dl>
+**How to install without X windows on target machine**
 
-Sources:
-<ul>
-<li>[Installing Oracle Database 10g Release 2 on Linux x86](http://www.oracle.com/technology/pub/articles/smiley_10gdb_install.html)</li>
-<li>[Optimizing Oracle 10g on Linux: Non-RAC ASM vs. LVM](http://www.linuxjournal.com/article/8539)</li>
-</ul>
+From X windows on remote machine, ssh to target machine with -X flag on (`ForwardX11` ssh config option or `-X` on command line). For this to work you also need to install `xorg-x11-xauth` package.
+
+**Installation in CentOS**
+
+1. Start the installer with `./runInstaller -ignoreSysPrereqs`
+2. There is no `xorg-x11-deprecated-libs` in CentOS, instead the following packages are required: `libXp`, `libXtst`
+
+**Installer of Oracle Net Configuration fails with JVM crash, when getting DNS domain name.**
+
+Checked the output of `hostname` and `domainname`, since there was no domain name set I set it to something, and also added the hostname and hostname.domainname to the `127.0.0.1` line in `/etc/hosts`.
+
+### Sources
+
+- [Installing Oracle Database 10g Release 2 on Linux x86](http://www.oracle.com/technology/pub/articles/smiley_10gdb_install.html)
+- [Optimizing Oracle 10g on Linux: Non-RAC ASM vs. LVM](http://www.linuxjournal.com/article/8539)
+

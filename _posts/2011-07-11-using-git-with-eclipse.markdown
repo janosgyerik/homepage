@@ -24,51 +24,48 @@ So this is what I did for using Eclipse+git with a Subversion repository.
 
 1. Install the plugin, follow the steps here: [http://www.vogella.de/articles/EGit/article.html](http://www.vogella.de/articles/EGit/article.html)
 
-2. Clone the Subversion trunk: git svn clone REPO_URL
+2. Clone the Subversion trunk: `git svn clone REPO_URL`
 
-3. Import / Existing Projectin to Workspace
+3. **Import / Existing Project into Workspace**
 
-4. Tell Eclipse about the git repo: right-click on the project / Team / Share Project... / Use or create Repository in parent folder of project
+4. Tell Eclipse about the git repo: right-click on the project, and select **Team / Share Project... / Use or create Repository** in the parent folder of the project
 
 These would be the typical steps I reckon. My setup is hardly typical, so I had a few additional steps here and there:
-<ul>
-	<li>Ignoring files in git:</li>
-<ul>
-	<li>Add patterns to .gitignore and add .gitignore to the repo to share with your team</li>
-	<li>...or, add patterns to .git/info/exclude to keep them local (not shared with the team)</li>
-	<li>If you are in windows, be careful with line endings, for example "echo pattern &gt;&gt; .gitignore" will add a pattern that will never match</li>
-</ul>
-	<li>Copy uncommitted changes from svn checkout: svn export path/to/svn/checkout path/to/git/repo</li>
-</ul>
+
+- Ignoring files in git:
+
+	- Add patterns to `.gitignore` and add `.gitignore` to the repo to share with your team
+	- ...or, add patterns to `.git/info/exclude` to keep them local (not shared with the team)
+	- If you are in windows, be careful with line endings, for example `echo pattern >> .gitignore` will add a pattern that will never match
+
+- Copy uncommitted changes from svn checkout:
+
+    ```
+    svn export path/to/svn/checkout path/to/git/repo
+    ```
+
 
 ### Quick tips
 
-<ul>
-	<li>To get changes from Subversion upstream: git svn rebase</li>
-	<li>To commit back to Subversion: git svn dcommit</li>
-<ul>
-	<li>This will replay each of the local commits, NOT one big chunk in one</li>
-<ul>
-	<li>And like all git commands, it has tons of options to fine tune</li>
-</ul>
-</ul>
-	<li>To create a branch, simply: git branch name_of_branch</li>
-	<li>To switch to a branch: git checkout name_of_branch</li>
-	<li>To see the list of branches: git branch</li>
-</ul>
+- To get changes from Subversion upstream: `git svn rebase`
+- To commit back to Subversion: `git svn dcommit`
+
+	- This will replay each of the local commits, NOT one big chunk in one
+	- And like all git commands, it has tons of options to fine tune
+
+- Create a branch: `git branch name_of_branch`
+- Switch to a branch: `git checkout name_of_branch`
+- View the list of branches: `git branch`
 
 ### First impressions?
 
-<ul>
-	<li>Unlike the Subversion plugin in Eclipse, I like that the changes are shown only on the parent project, not on sub-projects.</li>
-	<li>Unlike Bazaar and Subversion, git doesn't seem to like shortcuts like "st" or "ci", you have to spell out "status" and "commit". (Probably you can configure aliases though, but that's not the same.)</li>
-	<li>Unlike Bazaar or Subversion, the command line client is very colorful, which could be nice, except in windows it can get corrupted quite easily (Sometimes a git command alters the cursor color). It also beeps the PC speaker when you do something invalid.</li>
-</ul>
+- Unlike the Subversion plugin in Eclipse, I like that the changes are shown only on the parent project, not on sub-projects.
+- Unlike Bazaar and Subversion, git doesn't seem to like shortcuts like "st" or "ci", you have to spell out "status" and "commit". (Probably you can configure aliases though, but that's not the same.)
+- Unlike Bazaar or Subversion, the command line client is very colorful, which could be nice, except in windows it can get corrupted quite easily (Sometimes a git command alters the cursor color). It also beeps the PC speaker when you do something invalid.
 
 ### References
 
-<ul>
-	<li>[http://git-scm.com/course/svn.html](http://git-scm.com/course/svn.html)</li>
-	<li>[http://www.vogella.de/articles/EGit/article.html](http://www.vogella.de/articles/EGit/article.html)</li>
-	<li>[http://wiki.titan2x.com/index.php?title=Git_cheat_sheet](http://wiki.titan2x.com/index.php?title=Git_cheat_sheet)</li>
-</ul>
+- http://git-scm.com/course/svn.html
+- http://www.vogella.de/articles/EGit/article.html
+- http://wiki.titan2x.com/index.php?title=Git_cheat_sheet
+

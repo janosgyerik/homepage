@@ -24,18 +24,18 @@ Keeping the mirror up to date is simple:
 
 ```
 cd proj1
-bzr up &amp;&amp; bzr push
+bzr up && bzr push
 ```
 
 Keep in mind that you should NEVER commit to the mirror except with the bzr mirror script. It's best if you setup access controls to prevent regular developer accounts to commit to the mirror. Typically you want to branch from the mirror and work on the branch. You can even push your branch back to the source repository (to a new branch, not the original project). And when you do that, bazaar will replay only the changes in your branch, not the full history.
 
 If you want to schedule the mirroring script in a Windows environment there may be some gotchas. I've seen error message dialogs popping up when bzr is trying to access Subversion repositories, for example:
-<ul>
-	<li>"the procedure entry point could not be located in the dynamic link library libsvn_subr-1.dll"</li>
-	<li>"the ordinal 4540 could not be located in the dynamic link library libeay32.dll"</li>
-</ul>
+
+- "the procedure entry point could not be located in the dynamic link library `libsvn_subr-1.dll`"
+- "the ordinal 4540 could not be located in the dynamic link library `libeay32.dll`"
+
 Even if the script works just fine after you dismiss these popups, it won't work in non-interactive mode (when running as a scheduled batch).
 
-In my case the cause was the wrong libsvn_subr-1.dll library was found. Probably this can be solved by fixing library path settings. I simply uninstalled the Subversion client on the machine to remove the duplicate (and apparently incompatible) libraries.
+In my case the cause was the wrong `libsvn_subr-1.dll` library was found. Probably this can be solved by fixing library path settings. I simply uninstalled the Subversion client on the machine to remove the duplicate (and apparently incompatible) libraries.
 
-Another gotcha you may have is with repository authentication. You can make it work with a correct authentication.conf file. The directory to put this file is in the output of the "bzr version" command, look for the line "Bazaar configuration".
+Another gotcha you may have is with repository authentication. You can make it work with a correct `authentication.conf` file. The directory to put this file is in the output of the `bzr version` command, look for the line "Bazaar configuration".

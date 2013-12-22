@@ -20,9 +20,9 @@ I recently installed the new OpenSolaris, version 5.11, released in 2008 Decembe
 
 But enough talking, let's get to technical stuff. What compelled me to post this entry is the ease at which I could do things that used to be difficult, such as:
 
-- Setup sudo. In the past I had to install sudo and visudo myself. Now, they are included in the system by default.</li>
-- Install vim. This used to be tricky too, now it's installed by default, with all the modern features such as syntax highlighting. Oh joy.</li>
-- Setup sudoers. In the default configuration users in group "wheel" can execute all commands. Solaris doesn't have a group called "wheel", but it has a group called "staff" with GID 10, which is the usual GID for "wheel". After making this change I was going to add my user to this group, but then, I found it was already member of this group, which makes perfect sense, as this is the first user I created during installation.</li>
+- Setup sudo. In the past I had to install sudo and visudo myself. Now, they are included in the system by default.
+- Install vim. This used to be tricky too, now it's installed by default, with all the modern features such as syntax highlighting. Oh joy.
+- Setup sudoers. In the default configuration users in group "wheel" can execute all commands. Solaris doesn't have a group called "wheel", but it has a group called "staff" with GID 10, which is the usual GID for "wheel". After making this change I was going to add my user to this group, but then, I found it was already member of this group, which makes perfect sense, as this is the first user I created during installation.
 
 And so on and so on. These are little things, but it's great to see real UNIX systems becoming free and so much more usable than in the past.
 

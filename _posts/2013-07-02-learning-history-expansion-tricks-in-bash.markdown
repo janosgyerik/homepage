@@ -12,11 +12,11 @@ tags: []
 Have you ever read the full `man bash`? Me: nah-uh... It's way too much! Deep deep deep stuff.
 
 In any tool, I tend to focus on a small set of tricks with very high practical value. For example these bash features:
-<ul>
-	<li>Backward search command history with `C-r`</li>
-	<li>Delete words backwards with `C-w` or forward with `ESC-d` and paste them later with `C-y`</li>
-	<li>Jump around on the command line with `C-a`, `C-e`, `ESC-b`, `ESC-f`, or actually use `C-w` as a form of jumping back fast, or `C-c` to cancel and re-type</li>
-</ul>
+
+- Backward search command history with `C-r`
+- Delete words backwards with `C-w` or forward with `ESC-d` and paste them later with `C-y`
+- Jump around on the command line with `C-a`, `C-e`, `ESC-b`, `ESC-f`, or actually use `C-w` as a form of jumping back fast, or `C-c` to cancel and re-type
+
 And so on. I use these in literally every single minute I spend in the shell, so they were really well worth memorizing! (See my slides on these and similar time-saving tricks on [SpeakerDeck](https://speakerdeck.com/janosgyerik/time-saving-tricks-on-the-command-line).)
 
 I rarely memorize new tricks. There's a sweet spot on the effort-benefit curve, beyond which the benefits are not that great. But from time to time I discover something new that might be worth learning and adding to my arsenal. Right now some history expansion tricks look pretty damn handy.
@@ -52,4 +52,4 @@ rm !$
 
 A similar feature is `ESC-.` which pastes the last argument while editing, so you can make changes before running the next command.
 
-You can read more about these and similar tricks in `man bash`, under "HISTORY EXPANSION".
+You can read more about these and similar tricks in `man bash`, under **HISTORY EXPANSION**.

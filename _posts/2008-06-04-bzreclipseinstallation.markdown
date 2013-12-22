@@ -8,9 +8,11 @@ categories:
 - Hacks
 tags: []
 ---
-The instructions on Launchpad are excellent, of course.
+The instructions on Launchpad are excellent:
 [http://bazaar-vcs.org/BzrEclipse/Installation](http://bazaar-vcs.org/BzrEclipse/Installation)
 
 To check out a Bazaar project and make an Eclipse project from it:
 
-<ol><li>In Eclipse create a blank Java project</li><li>Checkout the Bazaar project in the Eclipse project directory</li><li>In Eclipse refresh the project tree display with F5</li></ol>
+1. In Eclipse create a blank Java project
+1. Checkout the Bazaar project in the Eclipse project directory
+1. In Eclipse refresh the project tree display with F5

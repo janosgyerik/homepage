@@ -9,14 +9,14 @@ categories:
 tags: []
 ---
 <img class="alignright" title="RecipeNotes" alt="" src="https://lh5.ggpht.com/2uWBuuaZn5UJnCwTDhk2CZVZQVtev_gH55heQAqLw7yh-96lAO-YqZq_UX9qh3f_oQhC=w124" width="124" height="124" />The new version of Recipe Notes (v1.3) is now available on Google Play. New in this version:
-<ul>
-	<li>New screen with photos from all recipes. Tap on a photo to jump to recipe details</li>
-	<li>You can now add custom notes to recipes. Useful for example for extra tips for the recipe</li>
-	<li>Bugfix: restore database was not working</li>
-	<li>Bugfix: on some phones, in some cases, photo taking was not working</li>
-	<li>Cleaner interface by hiding unnecessary elements</li>
-	<li>Automatically delete blank recipes, for example after creating new but not entering anything</li>
-</ul>
+
+- New screen with photos from all recipes. Tap on a photo to jump to recipe details
+- You can now add custom notes to recipes. Useful for example for extra tips for the recipe
+- Bugfix: restore database was not working
+- Bugfix: on some phones, in some cases, photo taking was not working
+- Cleaner interface by hiding unnecessary elements
+- Automatically delete blank recipes, for example after creating new but not entering anything
+
 Project homepage: [http://www.janosgyerik.com/projects/recipe-notes/](http://www.janosgyerik.com/projects/recipe-notes/)
 
 Google Play page: [https://play.google.com/store/apps/details?id=com.recipenotes](https://play.google.com/store/apps/details?id=com.recipenotes)

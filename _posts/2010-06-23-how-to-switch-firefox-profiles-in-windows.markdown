@@ -8,8 +8,8 @@ categories:
 - Hacks
 tags: []
 ---
-<ol>
-	<li>Exit Firefox if it's running. (Yes this means you cannot run multiple profiles at the same time.)</li>
-	<li>Run Firefox.exe -P</li>
-</ol>
+
+1. Exit Firefox if it's running. (Yes this means you cannot run multiple profiles at the same time.)
+1. Run `Firefox.exe -P`
+
 You can create multiple profiles in the window that pops up.

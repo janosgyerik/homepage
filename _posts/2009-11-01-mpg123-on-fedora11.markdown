@@ -9,14 +9,14 @@ categories:
 - Musings
 tags: []
 ---
-I needed mpg123 to burn an audio CD with cdrecord on my Fedora 11 system at home. Since it's not in Fedora's standard repos, googled for it, and found this.
+I needed `mpg123` to burn an audio CD with cdrecord on my Fedora 11 system at home. Since it's not in Fedora's standard repos, googled for it, and found this.
 
 http://www.atrpms.net/dist/f11/mpg123/
 
 So far so good, I just needed a few more libraries as dependencies, however, the package names were not really intuitive.
-<ul>
-	<li>libartsc - arts</li>
-	<li>libaudio - nas-libs</li>
-	<li>libportaudio - portaudio</li>
-</ul>
-It was mere luck that first I looked for libportaudio, and tried simply "portaudio" for little logical reason. Following the same package naming logic I could find "arts". Finally found "nas-libs" with google.
+
+- libartsc - arts
+- libaudio - nas-libs
+- libportaudio - portaudio
+
+It was mere luck that first I looked for `libportaudio`, and tried simply "portaudio" for little logical reason. Following the same package naming logic I could find "arts". Finally found "nas-libs" with google.

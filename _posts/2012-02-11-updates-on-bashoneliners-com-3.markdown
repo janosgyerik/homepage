@@ -9,10 +9,10 @@ categories:
 - Software
 tags: []
 ---
-<ul>
-	<li>Now you can post comments on one-liners</li>
-	<li>Comments are shown collapsed by default</li>
-	<li>Dangerous operations (delete one-liner, question) have more prominent (red) buttons</li>
-	<li>Show more of the user interface even when not logged in, as a demo</li>
-	<li>Clarified, adjusted, simplified the texts here and there, posting tips</li>
-</ul>
+
+- Now you can post comments on one-liners
+- Comments are shown collapsed by default
+- Dangerous operations (delete one-liner, question) have more prominent (red) buttons
+- Show more of the user interface even when not logged in, as a demo
+- Clarified, adjusted, simplified the texts here and there, posting tips
+

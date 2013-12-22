@@ -8,12 +8,11 @@ categories:
 - News
 tags: []
 ---
-<ul>
-	<li>New look (using <a href="http://twitter.github.com/bootstrap/" target="_blank">http://twitter.github.com/<wbr>bootstrap/</wbr></a>)</li>
-	<li>You can edit your profile (display name, twitter, blog url, homepage)</li>
-	<li>You can ask questions (to be answered by one or more one-liners)</li>
-	<li>Valid html5</li>
-	<li>Explanation and Limitations fields are shown expanded</li>
-	<li>Explanation and Limitations fields are formatted using [markdown](http://daringfireball.net/projects/markdown/syntax)</li>
-</ul>
-&nbsp;
+
+- New look (using [bootstrap from Twitter](http://twitter.github.com/bootstrap))
+- You can edit your profile (display name, twitter, blog url, homepage)
+- You can ask questions (to be answered by one or more one-liners)
+- Valid html5
+- Explanation and Limitations fields are shown expanded
+- Explanation and Limitations fields are formatted using [markdown](http://daringfireball.net/projects/markdown/syntax)
+

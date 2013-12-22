@@ -10,8 +10,8 @@ categories:
 tags: []
 ---
 The solution is to restart Explorer.
-<ol>
-	<li>Open a command window, you will need this to start Explorer after you killed it.</li>
-	<li>Open task manager (Ctrl-Shift-Esc) and kill explorer.exe</li>
-	<li>In the command window type explorer to start Explorer again.</li>
-</ol>
+
+1. Open a command window, you will need this to start Explorer after you killed it.
+1. Open task manager (Ctrl-Shift-Esc) and kill explorer.exe
+1. In the command window type explorer to start Explorer again.
+

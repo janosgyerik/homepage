@@ -12,10 +12,10 @@ tags: []
 <a href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite"><img class="alignright size-thumbnail wp-image-1087" alt="android" src="/assets/themes/images/screenshots/2013-08-android.png" width="150" height="150" /></a>I just released the first version of [Computer Quiz](https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite). It's a simple multiple choice quiz app for computer fans, professionals and geeks.
 
 Questions are spread out over multiple categories and difficulty levels:
-<ul>
-	<li>Hobbyist level: 100 questions</li>
-	<li>Professional level: 106 questions</li>
-</ul>
+
+- Hobbyist level: 100 questions
+- Professional level: 106 questions
+
 There are different "game" modes, such as "score as you go", "sudden death" and "score in the end". You can change the number of questions per game in the settings menu.
 
 The app doesn't require any permissions at all, doesn't use internet, doesn't collect data about you and has no advertisements. I intend to keep it that way.

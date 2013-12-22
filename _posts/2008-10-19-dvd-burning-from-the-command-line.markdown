@@ -9,7 +9,9 @@ categories:
 tags: []
 ---
 In Ubuntu or Debian:
-<ul>
-	<li>`sudo apt-get install dvd+rw-tools`</li>
-	<li>`growisofs -dvd-compat -Z /dev/scd0 -R -J -pad path_to_dir`</li>
-</ul>
+
+```
+sudo apt-get install dvd+rw-tools
+growisofs -dvd-compat -Z /dev/scd0 -R -J -pad path_to_dir
+```
+

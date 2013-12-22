@@ -14,8 +14,8 @@ Mac OS X 10.5 (Leopard) comes preinstalled with Apache 2 and PHP 5, you just hav
 To enable Apache, open System Preferences, go to Sharing and put a check in Web Sharing.
 
 To enable PHP:
-<ol>
-	<li>Edit /private/etc/apache2/httpd.conf, uncomment the line LoadModule php5_module</li>
-	<li>Copy /private/etc/php.ini.default to /private/etc/php.ini</li>
-	<li>Restart Apache (uncheck and check again the Web Sharing box in System Preferences / Sharing)</li>
-</ol>
+
+1. Edit `/private/etc/apache2/httpd.conf`, uncomment the line `LoadModule php5_module`
+1. Copy `/private/etc/php.ini.default` to `/private/etc/php.ini`
+1. Restart Apache (uncheck and check again the **Web Sharing** box in **System Preferences / Sharing**)
+

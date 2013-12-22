@@ -12,28 +12,37 @@ tags: []
 ---
 What is [Launchpad](https://launchpad.net/)?
 
-<blockquote>Launchpad is a free software hosting and development website. We make it easy to collaborate across multiple projects.</blockquote>
-<br />
+> Launchpad is a free software hosting and development website. We make it easy to collaborate across multiple projects.
 
-You can use it to 
-<ol>
-<li>Develop your custom Ubuntu packages.</li>
-<li>Host your projects in the [Bazaar VCS](http://bazaar-vcs.org/).</li>
-</ol>
+You can use it to:
 
-Of course, all the projects you host there will be public. Write operations are accomplished using SSH public keys. 
+- Develop your custom Ubuntu packages.
+- Host your projects in the [Bazaar VCS](http://bazaar-vcs.org/).
+
+All the projects you host on Launchpad will be public.
+Write operations are authorized using SSH public keys. 
 
 Setup steps:
-<ol>
-<li>Login to Launchpad, go to the `Code` tab. [This is mine](https://code.launchpad.net/~janos-gyerik)</li>
-<li>Click on `Register a branch` button.</li>
-<li>There are different hosting options. I chose `Hosted` to make Launchpad the primary location of my project. Projects of this type are updated with `bzr push` command.</li>
-<li>Before you can push to Launchpad you need two things. 
-<ol><li>Add your SSH public key. (Launchpad | Overview | Update SSH keys)</li>
-<li>Login to Launchpad with Bazaar, for example: 
-<blockquote>bzr lp-login janos-gyerik</blockquote></li></ol>
-Go to the Bazaar project directory and do `bzr push` like this: 
-<blockquote>bzr push lp:~janos-gyerik/+junk/software-cache</blockquote></ol>
 
-After this, anybody will be able to checkout the project with 
-<blockquote>bzr co lp:~janos-gyerik/+junk/software-cache</blockquote> and authenticated users will be able to do write operations.
+1. Login to Launchpad, go to the `Code` tab. [This is mine](https://code.launchpad.net/~janos-gyerik)
+1. Click on `Register a branch` button.
+1. There are different hosting options. I chose `Hosted` to make Launchpad the primary location of my project. Projects of this type are updated with `bzr push` command.
+1. Before you can push to Launchpad you need two things. 
+1. Add your SSH public key. (Launchpad | Overview | Update SSH keys)
+1. Login to Launchpad with Bazaar, for example: 
+
+    ```
+    bzr lp-login janos-gyerik
+    ```
+
+1. Go to the Bazaar project directory and do `bzr push` like this: 
+
+    ```
+    bzr push lp:~janos-gyerik/+junk/software-cache
+    ```
+
+After this, anybody will be able to checkout the project with :
+```
+bzr co lp:~janos-gyerik/+junk/software-cache
+```
+and authenticated users will be able to push or commit to it.

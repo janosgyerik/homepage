@@ -14,16 +14,18 @@ So you want to use Git with Subversion? That's a great idea! If the Subversion r
 What is large? Let's define large as: cloning the trunk takes more than 4 hours.
 
 Before you embark on this road and start using Git as your Subversion client, here are some warnings up front:
-<ul>
-	<li>Tracking all Subversion branches and tags will NOT be practical. If you are ok with tracking only the trunk and a bunch of selected branches, that's fine.</li>
-	<li>The initial clone will take a long time, it may be interrupted, and you may need to resume manually several times.</li>
-	<li>The initial clone of the trunk may crash completely and doesn't work at all. This doesn't happen often. But if it does, then game over, you're stuck with Subversion.</li>
-	<li>You may have issues with line ending characters if LF and CR-LF are mixed in the project. The potential issues are not negligible, for example you may not be able to view the blame annotations. However this is something that can and should be fixed in the project.</li>
-	<li>At the time of this writing you cannot push your commits back to Subversion from Eclipse. You have to use the command line for that.</li>
-	<li>Do read the <strong>CAVEATS</strong> section in [http://www.kernel.org/pub/software/scm/git/docs/git-svn.html](http://www.kernel.org/pub/software/scm/git/docs/git-svn.html)</li>
-</ul>
+
+- Tracking all Subversion branches and tags will NOT be practical. If you are ok with tracking only the trunk and a bunch of selected branches, that's fine.
+- The initial clone will take a long time, it may be interrupted, and you may need to resume manually several times.
+- The initial clone of the trunk may crash completely and doesn't work at all. This doesn't happen often. But if it does, then game over, you're stuck with Subversion.
+- You may have issues with line ending characters if LF and CR-LF are mixed in the project. The potential issues are not negligible, for example you may not be able to view the blame annotations. However this is something that can and should be fixed in the project.
+- At the time of this writing you cannot push your commits back to Subversion from Eclipse. You have to use the command line for that.
+- Do read the **CAVEATS** section in http://www.kernel.org/pub/software/scm/git/docs/git-svn.html
+
 Scared? No? Ok let's do it then!
-<h2>Clone the trunk from Subversion</h2>
+
+### Clone the trunk from Subversion
+
 Provided you have git-svn installed, clone the trunk with:
 
 ```
@@ -45,14 +47,18 @@ By the way, git svn fetch is not very chatty at first. Usually for many minutes 
 Once the clone is finally completed, you probably want to generate a `.gitignore` file based on Subversion's meta data:
 
 ```
-git svn show-ignore &gt;&gt; .gitignore
+git svn show-ignore >> .gitignore
 ```
 
-<h2>Working with Git</h2>
+
+### Working with Git
+
 Once you have the clone from Subversion, you have a Git repository, use it as usual...
 
 However! To keep things clean, and to avoid impacting your coworkers, it might be a good idea to keep `master` "pristine". That is, never do any work on `master`, use it only for interacting with the remote Subversion repository such as pull updates and pushing local commits. Do all your work on branches, stay off the `master`.
-<h2>Getting updates from Subversion</h2>
+
+### Getting updates from Subversion
+
 You might think that the right way to get new revisions from Subversion will involve a pull command. No. The right way is to rebase:
 
 ```
@@ -61,12 +67,14 @@ git svn rebase
 ```
 
 I checkout `master` just to highlight that ideally you should be working on other branches, not the `master`. The rebase works as usual, and if you haven't touched the `master` than this is like a fast-forward merge with no possibility of conflicts.
-<h2>Committing to Subversion</h2>
+
+### Committing to Subversion
+
 Let's assume you fixed a bug on a branch called `bug123` and never touched `master`. You have two main options:
-<ol>
-	<li>Preserve your individual commits in `bug123`</li>
-	<li>Squash your individual commits in `bug123` and apply the changes in a single commit</li>
-</ol>
+
+- Preserve your individual commits in `bug123`
+- Squash your individual commits in `bug123` and apply the changes in a single commit
+
 
 ### Preserving individual commits
 
@@ -94,13 +102,16 @@ git merge bug123     # possibly but not likely a fast-forward
 git svn dcommit
 ```
 
-<h2>Getting other Subversion branches</h2>
+
+### Getting other Subversion branches
+
 To get other branches not only the trunk, we have to tell Git the urls of the branches and how to label them in Git commands. At the moment `.git/config` should look something like this:
 
 ```
 [svn-remote "svn"]
         url = http://example.com/path/to/project-x/trunk
-        fetch = :refs/remotes/git-svn```
+        fetch = :refs/remotes/git-svn
+```
 
 The trick is to add multiple fetch configurations. The general format of a fetch configuration value is `RELPATH:refs/remotes/LABEL` where `RELPATH` is the relative path of the branch from the url configuration, and `LABEL` can be anything you want. At the moment `RELPATH` is blank, because url already corresponds to the url of the branch.
 

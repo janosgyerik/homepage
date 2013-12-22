@@ -9,8 +9,12 @@ categories:
 - Software
 tags: []
 ---
-My hard disk started showing signs of slow and painful death, so after I backed up all my data I confirmed with smartctl that yes, it's dying.
-<blockquote>smartctl -t long /dev/sda smartctl -a /dev/sda</blockquote>
+My hard disk started showing signs of slow and painful death, so after I backed up all my data I confirmed with smartctl that yes, it's dying:
+
+```
+smartctl -t long /dev/sda smartctl -a /dev/sda
+```
+
 This looked like a good opportunity to try something new, at least Kubuntu instead of Ubuntu. So I went for the much celebrated Fedora 11.
 
 ### The live CD
@@ -19,13 +23,13 @@ My half-broken hard disk was still in the computer when I started the Live CD an
 
 ### dmraid
 
-I was very disappointed by this `dmraid` thing. Why does the installer try to be so damn smart and do something I don't want without asking me? And then why is it so damn hard to turn it off? I passed `nodmraid`kernel param to the installer as suggested by google sensei, but no dice. Finally I managed to turn the bloody thing off with:
-<ol>
-	<li>Rest both partition tables</li>
-	<li>Start the installer, and if you're lucky it will ask you to reinitialize the partitions, go for it and exit the installer</li>
-	<li>Run `dmraid -an` and `dmraid -x`, or something like that, I don't remember exactly</li>
-	<li>Just to be safe, I created my partitions in `cfdisk` before going back to the installer.</li>
-</ol>
+I was very disappointed by this `dmraid` thing. Why does the installer try to be so damn smart and do something I don't want without asking me? And then why is it so damn hard to turn it off? I passed `nodmraid` kernel param to the installer as suggested by google sensei, but no dice. Finally I managed to turn the bloody thing off with:
+
+1. Restore both partition tables
+1. Start the installer, and if you're lucky it will ask you to reinitialize the partitions, go for it and exit the installer
+1. Run `dmraid -an` and `dmraid -x`, or something like that, I don't remember exactly
+1. Just to be safe, I created my partitions in `cfdisk` before going back to the installer.
+
 Finally the installer showed the disks as they really were and I could get on with the installation.
 
 ### After installation

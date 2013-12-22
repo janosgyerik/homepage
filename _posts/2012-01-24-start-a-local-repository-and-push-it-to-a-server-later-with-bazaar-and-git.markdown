@@ -25,10 +25,10 @@ bzr push bzr+ssh://username@server/home/username/path/to/repos/bzr/project
 ```
 
 Extra tips:
-<ul>
-	<li>If the parent directories don't exist on the  server, then use --create-prefix to create all parents</li>
-	<li>To switch to a centralized workflow where your local commits will be automatically pushed to the server do "bzr bind", and to switch back do "bzr unbind"</li>
-</ul>
+
+- If the parent directories don't exist on the  server, then use --create-prefix to create all parents
+- To switch to a centralized workflow where your local commits will be automatically pushed to the server do "bzr bind", and to switch back do "bzr unbind"
+
 
 ### With Git
 
