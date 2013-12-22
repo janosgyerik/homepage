@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Tab switching slow in Eclipse on Mac OS X
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 215
-wordpress_url: http://titan2x.wordpress.com/?p=215
 date: 2010-09-15 20:56:14.000000000 +02:00
 categories:
 - Hacks

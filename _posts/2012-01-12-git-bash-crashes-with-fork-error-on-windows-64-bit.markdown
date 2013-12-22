@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Git bash crashes with fork error on windows 64 bit
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 502
-wordpress_url: http://www.janosgyerik.com/?p=502
 date: 2012-01-12 21:02:02.000000000 +01:00
 categories:
 - Hacks

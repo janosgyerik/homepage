@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to keep wifi alive on Android when the screen is off
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 244
-wordpress_url: http://titan2x.wordpress.com/?p=244
 date: 2010-12-26 23:02:17.000000000 +01:00
 categories:
 - Hacks

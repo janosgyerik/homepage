@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: ssh connection multiplexing
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 402
-wordpress_url: http://titan2x.wordpress.com/?p=402
 date: 2011-09-24 00:14:44.000000000 +02:00
 categories:
 - Hacks

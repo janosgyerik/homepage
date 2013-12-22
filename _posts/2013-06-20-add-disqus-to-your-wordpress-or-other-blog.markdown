@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Add Disqus to your WordPress or other blog
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 1001
-wordpress_url: http://www.janosgyerik.com/?p=1001
 date: 2013-06-20 03:32:01.000000000 +02:00
 categories:
 - Hacks

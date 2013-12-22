@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Installing libgtk1.2 on recent versions of Ubuntu
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 211
-wordpress_url: http://titan2x.wordpress.com/?p=211
 date: 2010-07-18 08:13:09.000000000 +02:00
 categories:
 - Hacks

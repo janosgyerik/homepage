@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to switch Firefox profiles in Ubuntu Gutsy Gibbon
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 19
-wordpress_url: http://titan2x.wordpress.com/2008/03/05/firefox-in-gutsy/
 date: 2008-03-05 01:20:00.000000000 +01:00
 categories:
 - Hacks

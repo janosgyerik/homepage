@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Detect language preference in Django and confirm it works
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 659
-wordpress_url: http://www.janosgyerik.com/?p=659
 date: 2012-09-25 12:44:07.000000000 +02:00
 categories:
 - Hacks

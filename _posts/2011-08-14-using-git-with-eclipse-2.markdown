@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Using git with Eclipse 2
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 384
-wordpress_url: http://titan2x.wordpress.com/?p=384
 date: 2011-08-14 18:58:37.000000000 +02:00
 categories:
 - Musings

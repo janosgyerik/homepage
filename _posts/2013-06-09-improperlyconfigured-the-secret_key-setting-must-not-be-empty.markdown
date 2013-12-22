@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: 'ImproperlyConfigured: The SECRET_KEY setting must not be empty'
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 986
-wordpress_url: http://www.janosgyerik.com/?p=986
 date: 2013-06-09 08:45:13.000000000 +02:00
 categories:
 - Hacks

@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Remedy to my ASUS Eee PC 1000 issue
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 160
-wordpress_url: http://titan2x.wordpress.com/?p=160
 date: 2009-10-03 10:48:59.000000000 +02:00
 categories:
 - Hacks

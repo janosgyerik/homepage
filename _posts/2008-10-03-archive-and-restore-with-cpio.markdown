@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to archive and restore with cpio
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 51
-wordpress_url: http://titan2x.wordpress.com/2008/10/03/archive-and-restore-with-cpio/
 date: 2008-10-03 15:25:00.000000000 +02:00
 categories:
 - Hacks

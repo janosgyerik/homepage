@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: jmxterm is a nice command line JMX client
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 623
-wordpress_url: http://www.janosgyerik.com/?p=623
 date: 2012-05-17 20:33:21.000000000 +02:00
 categories:
 - Hacks

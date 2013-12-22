@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to set up Japanese input method in Fedora 11
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 144
-wordpress_url: http://titan2x.wordpress.com/?p=144
 date: 2009-06-28 16:18:42.000000000 +02:00
 categories:
 - Hacks

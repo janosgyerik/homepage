@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Ubuntu crapping out on me (crypt on raid)
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 24
-wordpress_url: http://titan2x.wordpress.com/2008/03/19/ubuntu-crapping-out-on-me-crypt-on-raid/
 date: 2008-03-19 04:23:00.000000000 +01:00
 categories:
 - Hacks

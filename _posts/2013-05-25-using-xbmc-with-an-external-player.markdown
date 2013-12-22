@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Using XBMC with an external player
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 966
-wordpress_url: http://www.janosgyerik.com/?p=966
 date: 2013-05-25 09:09:34.000000000 +02:00
 categories:
 - Hacks

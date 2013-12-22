@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Hosting Bazaar projects on Launchpad 2
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 39
-wordpress_url: http://titan2x.wordpress.com/2008/06/15/hosting-bazaar-projects-on-launchpad-2/
 date: 2008-06-15 08:23:00.000000000 +02:00
 categories:
 - Hacks

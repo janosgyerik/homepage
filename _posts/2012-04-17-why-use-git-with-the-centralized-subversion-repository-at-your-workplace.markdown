@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Why use git with the centralized Subversion repository at your workplace
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 595
-wordpress_url: http://www.janosgyerik.com/?p=595
 date: 2012-04-17 07:41:20.000000000 +02:00
 categories:
 - Musings

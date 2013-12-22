@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to wget in a different language
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 35
-wordpress_url: http://titan2x.wordpress.com/2008/05/21/how-to-wget-in-the-right-language/
 date: 2008-05-21 02:27:00.000000000 +02:00
 categories:
 - Hacks

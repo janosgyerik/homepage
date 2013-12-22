@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Problems using Launchpad through proxy finally resolved
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 697
-wordpress_url: http://www.janosgyerik.com/?p=697
 date: 2012-08-21 20:48:09.000000000 +02:00
 categories:
 - Hacks

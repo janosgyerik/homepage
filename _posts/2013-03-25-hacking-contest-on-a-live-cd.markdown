@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Hacking contest on a Live CD
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 916
-wordpress_url: http://www.janosgyerik.com/?p=916
 date: 2013-03-25 18:48:27.000000000 +01:00
 categories:
 - Hacks

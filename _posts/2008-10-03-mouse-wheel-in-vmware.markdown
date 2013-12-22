@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to get the mouse wheel working in vmware
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 50
-wordpress_url: http://titan2x.wordpress.com/2008/10/03/mouse-wheel-in-vmware/
 date: 2008-10-03 07:07:00.000000000 +02:00
 categories:
 - Hacks

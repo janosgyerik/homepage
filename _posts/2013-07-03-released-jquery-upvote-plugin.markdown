@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Released jQuery Upvote plugin
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 1036
-wordpress_url: http://www.janosgyerik.com/?p=1036
 date: 2013-07-03 22:33:36.000000000 +02:00
 categories:
 - Hacks

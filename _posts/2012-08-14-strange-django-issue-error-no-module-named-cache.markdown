@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: 'Strange Django issue: Error: No module named cache'
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 712
-wordpress_url: http://www.janosgyerik.com/?p=712
 date: 2012-08-14 18:27:05.000000000 +02:00
 categories:
 - Hacks

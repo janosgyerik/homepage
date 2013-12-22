@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Simple map tools I always wished Google Maps would offer by default
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 776
-wordpress_url: http://www.janosgyerik.com/?p=776
 date: 2012-10-02 17:26:45.000000000 +02:00
 categories:
 - News

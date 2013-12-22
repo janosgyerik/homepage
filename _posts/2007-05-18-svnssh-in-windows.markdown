@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: svn+ssh:// in windows
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 14
-wordpress_url: http://titan2x.wordpress.com/2007/05/18/svnssh-in-windows/
 date: 2007-05-18 08:31:00.000000000 +02:00
 categories:
 - Hacks

@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Start a local repository and push it to a server later with Bazaar and Git
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 528
-wordpress_url: http://www.janosgyerik.com/?p=528
 date: 2012-01-24 22:52:35.000000000 +01:00
 categories:
 - Hacks

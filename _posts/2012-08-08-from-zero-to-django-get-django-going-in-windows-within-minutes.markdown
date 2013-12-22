@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: 'From zero to Django: get Django going in windows within minutes'
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 686
-wordpress_url: http://www.janosgyerik.com/?p=686
 date: 2012-08-08 21:47:59.000000000 +02:00
 categories:
 - Hacks

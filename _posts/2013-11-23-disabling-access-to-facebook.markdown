@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Disabling access to Facebook
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 1137
-wordpress_url: http://www.janosgyerik.com/?p=1137
 date: 2013-11-23 19:16:18.000000000 +01:00
 categories:
 - Hacks

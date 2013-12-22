@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Enable the advanced context menu in Notepad++
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 791
-wordpress_url: http://www.janosgyerik.com/?p=791
 date: 2012-10-23 19:39:53.000000000 +02:00
 categories:
 - Software

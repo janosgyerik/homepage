@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Installing Subversion plugin in Eclipse
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 610
-wordpress_url: http://www.janosgyerik.com/?p=610
 date: 2012-05-14 11:08:30.000000000 +02:00
 categories:
 - Musings

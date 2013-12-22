@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Released Computer Quiz on Android
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 1086
-wordpress_url: http://www.janosgyerik.com/?p=1086
 date: 2013-08-18 12:13:58.000000000 +02:00
 categories:
 - News

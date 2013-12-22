@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to generate UML diagrams from java source code
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 296
-wordpress_url: http://titan2x.wordpress.com/?p=296
 date: 2011-05-08 00:58:35.000000000 +02:00
 categories:
 - Hacks

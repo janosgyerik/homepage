@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Convert and mirror a Bazaar repository on Google Code and GitHub
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 442
-wordpress_url: http://titan2x.wordpress.com/?p=442
 date: 2011-12-17 07:36:03.000000000 +01:00
 categories:
 - Hacks

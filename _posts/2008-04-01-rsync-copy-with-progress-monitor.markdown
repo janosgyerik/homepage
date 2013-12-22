@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: rsync - copy with progress monitor
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 25
-wordpress_url: http://titan2x.wordpress.com/2008/04/01/rsync-copy-with-progress-monitor/
 date: 2008-04-01 06:21:00.000000000 +02:00
 categories:
 - Hacks

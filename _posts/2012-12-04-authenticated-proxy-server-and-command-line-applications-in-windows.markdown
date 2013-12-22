@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Authenticated proxy server and command line applications in Windows
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 835
-wordpress_url: http://www.janosgyerik.com/?p=835
 date: 2012-12-04 21:17:24.000000000 +01:00
 categories:
 - Hacks

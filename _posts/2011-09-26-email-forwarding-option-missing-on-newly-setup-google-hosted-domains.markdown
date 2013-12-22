@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Email forwarding option missing on newly setup google hosted domains
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 409
-wordpress_url: http://titan2x.wordpress.com/?p=409
 date: 2011-09-26 01:42:48.000000000 +02:00
 categories:
 - Hacks

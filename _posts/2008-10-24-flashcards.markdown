@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: flashcards
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 58
-wordpress_url: http://titan2x.wordpress.com/2008/10/24/flashcards/
 date: 2008-10-24 14:33:00.000000000 +02:00
 categories:
 - Musings

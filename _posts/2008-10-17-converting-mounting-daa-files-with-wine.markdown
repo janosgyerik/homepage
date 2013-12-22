@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to convert and mount daa format files with wine
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 56
-wordpress_url: http://titan2x.wordpress.com/2008/10/17/converting-mounting-daa-files-with-wine/
 date: 2008-10-17 09:28:00.000000000 +02:00
 categories:
 - Hacks

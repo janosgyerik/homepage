@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Cloning a remote Subversion repository using Git through a proxy server
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 897
-wordpress_url: http://www.janosgyerik.com/?p=897
 date: 2013-03-16 12:37:36.000000000 +01:00
 categories:
 - Hacks

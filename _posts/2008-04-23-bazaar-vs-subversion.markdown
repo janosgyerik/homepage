@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Bazaar VS Subversion
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 28
-wordpress_url: http://titan2x.wordpress.com/2008/04/23/bazaar-vs-subversion/
 date: 2008-04-23 02:11:00.000000000 +02:00
 categories:
 - Musings

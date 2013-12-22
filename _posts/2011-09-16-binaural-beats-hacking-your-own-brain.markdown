@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Binaural Beats - hacking your own brain
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 397
-wordpress_url: http://titan2x.wordpress.com/?p=397
 date: 2011-09-16 05:07:31.000000000 +02:00
 categories:
 - Hacks

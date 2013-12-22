@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Debugging deprecation warnings in Django
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 972
-wordpress_url: http://www.janosgyerik.com/?p=972
 date: 2013-06-01 15:59:14.000000000 +02:00
 categories:
 - Uncategorized

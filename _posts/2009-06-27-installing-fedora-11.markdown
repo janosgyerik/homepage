@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Installing Fedora 11
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 135
-wordpress_url: http://titan2x.wordpress.com/?p=135
 date: 2009-06-27 14:04:37.000000000 +02:00
 categories:
 - Musings

@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to mirror a Subversion repository using Bazaar
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 268
-wordpress_url: http://titan2x.wordpress.com/?p=268
 date: 2011-03-10 11:36:12.000000000 +01:00
 categories:
 - Hacks

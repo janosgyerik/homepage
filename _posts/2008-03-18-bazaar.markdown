@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: bazaar
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 22
-wordpress_url: http://titan2x.wordpress.com/2008/03/18/bazaar/
 date: 2008-03-18 13:30:00.000000000 +01:00
 categories:
 - Hacks

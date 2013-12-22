@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Weird errors in Windows
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 62
-wordpress_url: http://titan2x.wordpress.com/2009/02/02/weird-errors-in-windows/
 date: 2009-02-02 01:50:00.000000000 +01:00
 categories:
 - Hacks

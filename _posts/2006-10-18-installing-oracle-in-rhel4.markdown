@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Installing Oracle in RHEL4
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 11
-wordpress_url: http://titan2x.wordpress.com/2006/10/18/installing-oracle-in-rhel4/
 date: 2006-10-18 15:27:00.000000000 +02:00
 categories:
 - Hacks

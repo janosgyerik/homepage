@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: 'Sqlite3 shell and arrow keys in Debian '
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 671
-wordpress_url: http://www.janosgyerik.com/?p=671
 date: 2012-06-30 11:40:21.000000000 +02:00
 categories:
 - Hacks

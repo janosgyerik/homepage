@@ -4,11 +4,6 @@ status: publish
 published: true
 title: My first Android app, a very simple tool to debug Bluetooth sensors, is now
   available on Android Market
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 427
-wordpress_url: http://titan2x.wordpress.com/?p=427
 date: 2011-11-07 02:41:52.000000000 +01:00
 categories:
 - Software

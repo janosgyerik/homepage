@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to enable developer options on Android Nexus 4
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 1056
-wordpress_url: http://www.janosgyerik.com/?p=1056
 date: 2013-08-04 10:32:02.000000000 +02:00
 categories:
 - Hacks

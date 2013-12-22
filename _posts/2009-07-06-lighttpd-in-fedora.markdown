@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to enable public_html user homepages in lighttpd in Fedora
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 148
-wordpress_url: http://titan2x.wordpress.com/?p=148
 date: 2009-07-06 21:17:30.000000000 +02:00
 categories:
 - Hacks

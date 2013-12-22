@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to read properties files with Android
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 387
-wordpress_url: http://titan2x.wordpress.com/?p=387
 date: 2011-08-21 15:51:16.000000000 +02:00
 categories:
 - Hacks

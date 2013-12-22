@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Gource is a cool VCS visualization tool
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 909
-wordpress_url: http://www.janosgyerik.com/?p=909
 date: 2013-03-18 18:36:32.000000000 +01:00
 categories:
 - Hacks

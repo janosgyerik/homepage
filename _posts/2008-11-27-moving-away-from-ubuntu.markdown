@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Moving away from Ubuntu
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 60
-wordpress_url: http://titan2x.wordpress.com/2008/11/27/moving-away-from-ubuntu/
 date: 2008-11-27 20:25:00.000000000 +01:00
 categories:
 - Musings

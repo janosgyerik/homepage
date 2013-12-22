@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Highlighting current line in gvim
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 705
-wordpress_url: http://www.janosgyerik.com/?p=705
 date: 2012-08-13 16:34:05.000000000 +02:00
 categories:
 - Hacks

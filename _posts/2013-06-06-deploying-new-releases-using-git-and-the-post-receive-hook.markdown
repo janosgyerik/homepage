@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Deploying new releases using Git and the post-receive hook
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 976
-wordpress_url: http://www.janosgyerik.com/?p=976
 date: 2013-06-06 21:39:30.000000000 +02:00
 categories:
 - Hacks

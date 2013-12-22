@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to handle git svn rebase with conflicts
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 438
-wordpress_url: http://titan2x.wordpress.com/?p=438
 date: 2011-12-01 07:09:13.000000000 +01:00
 categories:
 - Hacks

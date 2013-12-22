@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Wine Notes
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 830
-wordpress_url: http://www.janosgyerik.com/?p=830
 date: 2012-11-20 22:42:53.000000000 +01:00
 categories:
 - Uncategorized

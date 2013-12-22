@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to get involved in an open-source project?
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 717
-wordpress_url: http://www.janosgyerik.com/?p=717
 date: 2012-08-20 10:28:33.000000000 +02:00
 categories:
 - Musings

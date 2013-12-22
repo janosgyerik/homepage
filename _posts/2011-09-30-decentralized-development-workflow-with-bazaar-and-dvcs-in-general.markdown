@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Decentralized development workflow with Bazaar and DVCS in general
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 411
-wordpress_url: http://titan2x.wordpress.com/?p=411
 date: 2011-09-30 02:33:04.000000000 +02:00
 categories:
 - Hacks

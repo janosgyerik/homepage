@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Postfix+Amavis+ClamAV+SpamAssassin setup in FreeBSD
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 17
-wordpress_url: http://titan2x.wordpress.com/2007/11/12/postfixamavisclamavspamassassin-setup-in-freebsd/
 date: 2007-11-12 01:16:00.000000000 +01:00
 categories:
 - Hacks

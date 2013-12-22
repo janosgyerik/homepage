@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: A quite painful MySQL server migration with Japanese characters and utf-8
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 423
-wordpress_url: http://titan2x.wordpress.com/?p=423
 date: 2011-11-18 05:27:04.000000000 +01:00
 categories:
 - Hacks

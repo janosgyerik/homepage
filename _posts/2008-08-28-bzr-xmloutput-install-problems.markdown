@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: bzr-xmloutput install problems
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 47
-wordpress_url: http://titan2x.wordpress.com/2008/08/28/bzr-xmloutput-install-problems/
 date: 2008-08-28 08:00:00.000000000 +02:00
 categories:
 - Hacks

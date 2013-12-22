@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Adding udev rules for USB debugging Android devices
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 1134
-wordpress_url: http://www.janosgyerik.com/?p=1134
 date: 2013-11-10 18:15:15.000000000 +01:00
 categories:
 - Hacks

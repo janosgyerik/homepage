@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Setup and test svn post-commit hook to send commit log
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 652
-wordpress_url: http://www.janosgyerik.com/?p=652
 date: 2012-06-05 07:08:40.000000000 +02:00
 categories:
 - Hacks

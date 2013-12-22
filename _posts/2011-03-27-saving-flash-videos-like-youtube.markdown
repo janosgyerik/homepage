@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Saving flash videos like youtube
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 284
-wordpress_url: http://titan2x.wordpress.com/?p=284
 date: 2011-03-27 01:14:45.000000000 +01:00
 categories:
 - Hacks

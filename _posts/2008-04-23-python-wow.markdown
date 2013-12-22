@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: python, wow
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 29
-wordpress_url: http://titan2x.wordpress.com/2008/04/23/python-wow/
 date: 2008-04-23 05:13:00.000000000 +02:00
 categories:
 - Musings

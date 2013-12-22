@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Cool features of GitHub
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 995
-wordpress_url: http://www.janosgyerik.com/?p=995
 date: 2013-06-16 17:31:27.000000000 +02:00
 categories:
 - Uncategorized

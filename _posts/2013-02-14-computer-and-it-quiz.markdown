@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Computer and IT Quiz
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 885
-wordpress_url: http://www.janosgyerik.com/?p=885
 date: 2013-02-14 18:53:14.000000000 +01:00
 categories:
 - Musings

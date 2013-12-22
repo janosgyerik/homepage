@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Adding all unknown files in a Subversion checkout
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 1114
-wordpress_url: http://www.janosgyerik.com/?p=1114
 date: 2013-09-24 06:08:16.000000000 +02:00
 categories:
 - Hacks

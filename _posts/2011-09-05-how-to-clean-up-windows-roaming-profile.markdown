@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to clean up Windows roaming profile
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 390
-wordpress_url: http://titan2x.wordpress.com/?p=390
 date: 2011-09-05 18:03:41.000000000 +02:00
 categories:
 - Hacks

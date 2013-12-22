@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Recipe notes 1.3
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 822
-wordpress_url: http://www.janosgyerik.com/?p=822
 date: 2012-12-17 22:13:53.000000000 +01:00
 categories:
 - Uncategorized

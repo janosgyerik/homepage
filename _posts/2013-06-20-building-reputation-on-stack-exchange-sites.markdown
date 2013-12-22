@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Building reputation on Stack Exchange sites
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 889
-wordpress_url: http://www.janosgyerik.com/?p=889
 date: 2013-06-20 06:57:34.000000000 +02:00
 categories:
 - Hacks

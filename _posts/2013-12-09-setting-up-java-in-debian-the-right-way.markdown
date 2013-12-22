@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Setting up Java in Debian the right way
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 1165
-wordpress_url: http://www.janosgyerik.com/?p=1165
 date: 2013-12-09 19:56:55.000000000 +01:00
 categories:
 - Hacks

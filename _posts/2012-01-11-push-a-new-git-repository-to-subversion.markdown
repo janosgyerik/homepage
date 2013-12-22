@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to push a new git repository to Subversion
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 499
-wordpress_url: http://www.janosgyerik.com/?p=499
 date: 2012-01-11 23:32:16.000000000 +01:00
 categories:
 - Hacks

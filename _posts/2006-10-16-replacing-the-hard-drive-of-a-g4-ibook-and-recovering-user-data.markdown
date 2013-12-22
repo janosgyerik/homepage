@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Replacing the hard drive of a G4 iBook and recovering user data
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 9
-wordpress_url: http://titan2x.wordpress.com/2006/10/16/replacing-the-hard-drive-of-a-g4-ibook-and-recovering-user-data/
 date: 2006-10-16 17:01:00.000000000 +02:00
 categories:
 - Hacks

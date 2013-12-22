@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: 'UnicodeEncodeError: ''ascii'' codec can''t encode characters'
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 649
-wordpress_url: http://www.janosgyerik.com/?p=649
 date: 2012-06-03 17:21:50.000000000 +02:00
 categories:
 - Hacks

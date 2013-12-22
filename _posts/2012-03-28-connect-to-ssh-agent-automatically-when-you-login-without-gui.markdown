@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Connect to ssh-agent automatically when you login without GUI
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 565
-wordpress_url: http://www.janosgyerik.com/?p=565
 date: 2012-03-28 06:55:20.000000000 +02:00
 categories:
 - Hacks

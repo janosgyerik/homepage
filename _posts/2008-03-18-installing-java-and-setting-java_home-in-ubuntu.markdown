@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to install java and set JAVA_HOME correctly in Ubuntu
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 23
-wordpress_url: http://titan2x.wordpress.com/2008/03/18/installing-java-and-setting-java_home-in-ubuntu/
 date: 2008-03-18 13:46:00.000000000 +01:00
 categories:
 - Hacks

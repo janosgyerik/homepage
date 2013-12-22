@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Learning history expansion tricks in bash
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 1028
-wordpress_url: http://www.janosgyerik.com/?p=1028
 date: 2013-07-02 21:41:00.000000000 +02:00
 categories:
 - Hacks

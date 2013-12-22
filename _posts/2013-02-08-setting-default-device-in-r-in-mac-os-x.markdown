@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Setting default device in R in Mac OS X
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 876
-wordpress_url: http://www.janosgyerik.com/?p=876
 date: 2013-02-08 10:01:19.000000000 +01:00
 categories:
 - Hacks

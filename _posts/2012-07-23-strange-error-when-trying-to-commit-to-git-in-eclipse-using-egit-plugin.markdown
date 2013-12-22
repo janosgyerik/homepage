@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Strange error when trying to commit to git in Eclipse using egit plugin
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 681
-wordpress_url: http://www.janosgyerik.com/?p=681
 date: 2012-07-23 08:48:37.000000000 +02:00
 categories:
 - Hacks

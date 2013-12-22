@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Installing RHEL4 in vmware
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 10
-wordpress_url: http://titan2x.wordpress.com/2006/10/16/installing-rhel4-in-vmware/
 date: 2006-10-16 22:56:00.000000000 +02:00
 categories:
 - Hacks

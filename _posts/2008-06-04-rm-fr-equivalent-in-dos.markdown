@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to delete directories recursively in DOS
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 36
-wordpress_url: http://titan2x.wordpress.com/2008/06/04/rm-fr-equivalent-in-dos/
 date: 2008-06-04 08:02:00.000000000 +02:00
 categories:
 - Hacks

@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Testing applets without a browser
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 293
-wordpress_url: http://titan2x.wordpress.com/?p=293
 date: 2011-05-07 20:58:19.000000000 +02:00
 categories:
 - Hacks

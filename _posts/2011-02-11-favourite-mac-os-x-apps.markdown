@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Favourite Mac OS X apps
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 260
-wordpress_url: http://titan2x.wordpress.com/?p=260
 date: 2011-02-11 12:39:13.000000000 +01:00
 categories:
 - Musings

@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to open Control Panel as Administrator with runas
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 250
-wordpress_url: http://titan2x.wordpress.com/?p=250
 date: 2010-12-27 17:34:14.000000000 +01:00
 categories:
 - Hacks

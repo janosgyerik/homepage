@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Solaris got goood (version 5.11)
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 65
-wordpress_url: http://titan2x.wordpress.com/?p=65
 date: 2013-12-01 11:32:33.000000000 +01:00
 categories:
 - Uncategorized

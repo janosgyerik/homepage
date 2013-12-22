@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to convert html entity characters to normal text with jquery
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 299
-wordpress_url: http://titan2x.wordpress.com/?p=299
 date: 2011-05-08 02:04:18.000000000 +02:00
 categories:
 - Hacks

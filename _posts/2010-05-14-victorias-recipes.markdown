@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Victoria's recipes
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 193
-wordpress_url: http://titan2x.wordpress.com/?p=193
 date: 2010-05-14 22:10:15.000000000 +02:00
 categories:
 - Musings

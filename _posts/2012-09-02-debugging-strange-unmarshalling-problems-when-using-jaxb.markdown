@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Debugging strange unmarshalling problems when using jaxb
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 699
-wordpress_url: http://www.janosgyerik.com/?p=699
 date: 2012-09-02 10:31:37.000000000 +02:00
 categories:
 - Hacks

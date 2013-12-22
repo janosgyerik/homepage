@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Django AuthenticationForm gotchas
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 237
-wordpress_url: http://titan2x.wordpress.com/?p=237
 date: 2010-12-03 20:17:44.000000000 +01:00
 categories:
 - Hacks

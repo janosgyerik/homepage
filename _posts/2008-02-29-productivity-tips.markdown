@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Productivity tips...
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 18
-wordpress_url: http://titan2x.wordpress.com/2008/02/29/productivity-tips/
 date: 2008-02-29 04:39:00.000000000 +01:00
 categories:
 - Hacks

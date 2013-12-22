@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Sharing files between Windows7 host and Debian guest with VirtualBox
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 848
-wordpress_url: http://www.janosgyerik.com/?p=848
 date: 2013-01-01 09:27:38.000000000 +01:00
 categories:
 - Hacks

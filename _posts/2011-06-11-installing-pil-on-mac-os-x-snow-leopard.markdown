@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Installing PIL on Mac OS X Snow Leopard
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 301
-wordpress_url: http://titan2x.wordpress.com/?p=301
 date: 2011-06-11 23:23:55.000000000 +02:00
 categories:
 - Hacks

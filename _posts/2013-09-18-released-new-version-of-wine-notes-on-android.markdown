@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Released new version of Wine Notes on Android
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 1111
-wordpress_url: http://www.janosgyerik.com/?p=1111
 date: 2013-09-18 16:53:51.000000000 +02:00
 categories:
 - News

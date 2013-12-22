@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to communicate with Bluetooth devices in Linux
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 584
-wordpress_url: http://www.janosgyerik.com/?p=584
 date: 2012-04-08 14:06:40.000000000 +02:00
 categories:
 - Hacks

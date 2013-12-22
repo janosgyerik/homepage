@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: My book Bazaar Version Control is now published
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 993
-wordpress_url: http://www.janosgyerik.com/?p=993
 date: 2013-06-14 05:34:11.000000000 +02:00
 categories:
 - News

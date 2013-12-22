@@ -3,11 +3,6 @@ layout: page
 status: publish
 published: true
 title: Open-source
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 447
-wordpress_url: http://blog.janosgyerik.com/?page_id=447
 date: 2012-01-08 06:33:18.000000000 +01:00
 categories: []
 tags: []

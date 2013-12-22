@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: IE Tab Multi extension for Chrome
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 794
-wordpress_url: http://www.janosgyerik.com/?p=794
 date: 2012-10-25 12:08:08.000000000 +02:00
 categories:
 - Software

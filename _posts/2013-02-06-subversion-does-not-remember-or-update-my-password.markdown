@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Subversion does not remember or update my password
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 869
-wordpress_url: http://www.janosgyerik.com/?p=869
 date: 2013-02-06 14:50:35.000000000 +01:00
 categories:
 - Hacks

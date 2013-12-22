@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: StatSVN is a fine tool for Subversion history statistics
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 508
-wordpress_url: http://www.janosgyerik.com/?p=508
 date: 2012-01-15 21:38:12.000000000 +01:00
 categories:
 - Musings

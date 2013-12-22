@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Practical tips for using Git with large Subversion repositories
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 844
-wordpress_url: http://www.janosgyerik.com/?p=844
 date: 2013-01-26 15:00:51.000000000 +01:00
 categories:
 - Hacks

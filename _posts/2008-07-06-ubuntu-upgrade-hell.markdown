@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Ubuntu upgrade hell
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 45
-wordpress_url: http://titan2x.wordpress.com/2008/07/06/ubuntu-upgrade-hell/
 date: 2008-07-06 03:35:00.000000000 +02:00
 categories:
 - Hacks

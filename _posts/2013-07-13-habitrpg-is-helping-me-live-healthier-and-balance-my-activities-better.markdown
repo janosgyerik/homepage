@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: HabitRPG is helping me live healthier and balance my activities better
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 1041
-wordpress_url: http://www.janosgyerik.com/?p=1041
 date: 2013-07-13 14:00:51.000000000 +02:00
 categories:
 - Hacks

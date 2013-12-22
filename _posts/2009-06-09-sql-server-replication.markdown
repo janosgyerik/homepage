@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to setup Microsoft SQL Server replication
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 131
-wordpress_url: http://titan2x.wordpress.com/?p=131
 date: 2009-06-09 16:50:22.000000000 +02:00
 categories:
 - Hacks

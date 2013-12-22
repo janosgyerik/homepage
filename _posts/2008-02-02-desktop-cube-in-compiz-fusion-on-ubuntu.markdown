@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Desktop cube in Compiz-Fusion on Ubuntu
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 419
-wordpress_url: http://titan2x.wordpress.com/2008/02/02/desktop-cube-in-compiz-fusion-on-ubuntu/
 date: 2008-02-02 16:11:00.000000000 +01:00
 categories:
 - Hacks

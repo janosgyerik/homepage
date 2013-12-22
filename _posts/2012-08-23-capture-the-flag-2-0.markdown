@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Capture the Flag 2.0
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 729
-wordpress_url: http://www.janosgyerik.com/?p=729
 date: 2012-08-23 07:13:42.000000000 +02:00
 categories:
 - Musings

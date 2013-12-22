@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Fixing system date out of sync in Debian
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 958
-wordpress_url: http://www.janosgyerik.com/?p=958
 date: 2013-05-14 05:22:21.000000000 +02:00
 categories:
 - Hacks

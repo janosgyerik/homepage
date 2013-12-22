@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: GitHub pages especially useful for simple web tool projects
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 781
-wordpress_url: http://www.janosgyerik.com/?p=781
 date: 2012-10-08 19:01:25.000000000 +02:00
 categories:
 - Hacks

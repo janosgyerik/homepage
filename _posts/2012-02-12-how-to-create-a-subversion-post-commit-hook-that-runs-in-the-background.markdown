@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to create a Subversion post-commit hook that runs in the background
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 546
-wordpress_url: http://www.janosgyerik.com/?p=546
 date: 2012-02-12 13:29:13.000000000 +01:00
 categories:
 - Hacks

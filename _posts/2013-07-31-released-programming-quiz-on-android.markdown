@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Released Programming Quiz on Android
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 1053
-wordpress_url: http://www.janosgyerik.com/?p=1053
 date: 2013-07-31 05:41:56.000000000 +02:00
 categories:
 - Hacks

@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to do grep in windows
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 31
-wordpress_url: http://titan2x.wordpress.com/2008/05/08/grep-in-windows/
 date: 2008-05-08 04:30:00.000000000 +02:00
 categories:
 - Hacks

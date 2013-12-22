@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Updates on bashoneliners.com
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 539
-wordpress_url: http://www.janosgyerik.com/?p=539
 date: 2012-02-05 15:56:36.000000000 +01:00
 categories:
 - News

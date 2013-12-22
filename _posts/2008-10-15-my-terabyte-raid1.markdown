@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: My terabyte raid1
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 55
-wordpress_url: http://titan2x.wordpress.com/2008/10/15/my-terabyte-raid1/
 date: 2008-10-15 09:41:00.000000000 +02:00
 categories:
 - Hacks

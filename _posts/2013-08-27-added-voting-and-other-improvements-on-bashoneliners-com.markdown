@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Added voting and other improvements on bashoneliners.com
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 1099
-wordpress_url: http://www.janosgyerik.com/?p=1099
 date: 2013-08-27 17:23:34.000000000 +02:00
 categories:
 - News

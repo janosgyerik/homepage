@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Severed Fifth is totally awesome hard pounding metal, and that for free
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 416
-wordpress_url: http://titan2x.wordpress.com/?p=416
 date: 2011-11-03 06:34:57.000000000 +01:00
 categories:
 - Musings

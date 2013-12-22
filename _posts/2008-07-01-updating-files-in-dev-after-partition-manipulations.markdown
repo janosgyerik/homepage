@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to update files in /dev after editing disk partitions
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 43
-wordpress_url: http://titan2x.wordpress.com/2008/07/01/updating-files-in-dev-after-partition-manipulations/
 date: 2008-07-01 09:04:00.000000000 +02:00
 categories:
 - Hacks

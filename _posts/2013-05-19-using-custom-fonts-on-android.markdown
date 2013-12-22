@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Using custom fonts on Android
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 926
-wordpress_url: http://www.janosgyerik.com/?p=926
 date: 2013-05-19 07:47:03.000000000 +02:00
 categories:
 - Hacks

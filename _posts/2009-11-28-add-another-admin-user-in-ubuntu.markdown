@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to add another admin user in ubuntu
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 173
-wordpress_url: http://titan2x.wordpress.com/?p=173
 date: 2009-11-28 18:35:35.000000000 +01:00
 categories:
 - Hacks

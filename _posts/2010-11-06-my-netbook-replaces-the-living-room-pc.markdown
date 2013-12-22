@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: My netbook replaces the living room PC
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 223
-wordpress_url: http://titan2x.wordpress.com/?p=223
 date: 2010-11-06 08:36:19.000000000 +01:00
 categories:
 - Hacks

@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Practical tips & tricks in the Linux shell
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 933
-wordpress_url: http://www.janosgyerik.com/?p=933
 date: 2013-04-27 12:33:48.000000000 +02:00
 categories:
 - Musings

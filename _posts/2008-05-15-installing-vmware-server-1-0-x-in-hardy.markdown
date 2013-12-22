@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Installing VMware Server 1.0.x in hardy
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 33
-wordpress_url: http://titan2x.wordpress.com/2008/05/15/installing-vmware-server-1-0-x-in-hardy/
 date: 2008-05-15 08:52:00.000000000 +02:00
 categories:
 - Hacks

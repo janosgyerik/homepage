@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Interesting uses for a USB LED screen
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 61
-wordpress_url: http://titan2x.wordpress.com/2008/12/25/interesting-uses-for-a-usb-led-screen/
 date: 2008-12-25 00:46:00.000000000 +01:00
 categories:
 - Musings

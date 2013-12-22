@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Share a folder read-only from Linux to Windows with Samba
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 516
-wordpress_url: http://www.janosgyerik.com/?p=516
 date: 2012-01-17 11:12:58.000000000 +01:00
 categories:
 - Hacks

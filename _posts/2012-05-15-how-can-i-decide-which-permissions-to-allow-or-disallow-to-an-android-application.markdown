@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How can I decide which permissions to allow or disallow to an Android application?
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 616
-wordpress_url: http://www.janosgyerik.com/?p=616
 date: 2012-05-15 07:22:39.000000000 +02:00
 categories:
 - Musings

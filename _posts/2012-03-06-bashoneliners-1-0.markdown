@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: bashoneliners 1.0
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 555
-wordpress_url: http://www.janosgyerik.com/?p=555
 date: 2012-03-06 18:34:22.000000000 +01:00
 categories:
 - News

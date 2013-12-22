@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Moving to Opera from Firefox
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 187
-wordpress_url: http://titan2x.wordpress.com/?p=187
 date: 2010-05-12 14:18:31.000000000 +02:00
 categories:
 - Musings

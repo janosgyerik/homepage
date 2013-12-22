@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Acrobat crashes a few seconds after opening a PDF...
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 16
-wordpress_url: http://titan2x.wordpress.com/2007/06/14/acrobat-crashes-a-few-seconds-after-opening-a-pdf/
 date: 2007-06-14 00:52:00.000000000 +02:00
 categories:
 - Hacks

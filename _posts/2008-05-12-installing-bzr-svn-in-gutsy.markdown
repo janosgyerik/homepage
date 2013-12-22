@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Installing bzr-svn in gutsy
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 32
-wordpress_url: http://titan2x.wordpress.com/2008/05/12/installing-bzr-svn-in-gutsy/
 date: 2008-05-12 05:09:00.000000000 +02:00
 categories:
 - Hacks

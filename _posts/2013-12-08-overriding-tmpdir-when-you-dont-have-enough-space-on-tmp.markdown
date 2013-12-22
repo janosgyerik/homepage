@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Overriding TMPDIR when you don't have enough space on /tmp
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 254
-wordpress_url: http://titan2x.wordpress.com/?p=254
 date: 2013-12-08 16:37:55.000000000 +01:00
 categories:
 - Hacks

@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: Chrome Fullscreen
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 169
-wordpress_url: http://titan2x.wordpress.com/?p=169
 date: 2009-11-24 11:26:53.000000000 +01:00
 categories:
 - Musings

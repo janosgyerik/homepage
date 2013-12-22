@@ -3,11 +3,6 @@ layout: post
 status: publish
 published: true
 title: How to increase JVM heap size for Maven
-author: janos
-author_login: janos
-author_email: info@titan2x.com
-wordpress_id: 620
-wordpress_url: http://www.janosgyerik.com/?p=620
 date: 2012-05-15 16:20:08.000000000 +02:00
 categories:
 - Hacks
