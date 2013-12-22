@@ -7,7 +7,7 @@ date: 2012-11-18 07:37:55.000000000 +01:00
 categories: []
 tags: []
 ---
-This simple app helps you make wine notes fast and easy.<a href="http://www.janosgyerik.com/wp-content/uploads/2012/11/android.png"><img class="alignright size-thumbnail wp-image-827" title="android" src="http://www.janosgyerik.com/wp-content/uploads/2012/11/android.png" alt="" width="150" height="150" /></a>
+This simple app helps you make wine notes fast and easy.<a href="/assets/themes/images/screenshots/2012-11-android.png"><img class="alignright size-thumbnail wp-image-827" title="android" src="/assets/themes/images/screenshots/2012-11-android.png" alt="" width="150" height="150" /></a>
 
 After you've tasted a couple of wines it becomes difficult to remember which ones were good and why. Keeping notes is not easy, writing down all the details that interest you may take a lot of typing, time and effort to do.
 

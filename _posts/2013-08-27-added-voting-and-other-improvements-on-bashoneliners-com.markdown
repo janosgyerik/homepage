@@ -13,15 +13,15 @@ I took my time, but finally here are a bunch of improvements I just released on 
 
 Now you can upvote or downvote one-liners using the familiar interface of <a href="http://stackoverflow.com">stackoverflow.com</a>:
 
-<a href="http://www.bashoneliners.com/oneliners/oneliner/142/"><img class="aligncenter size-full wp-image-1102" alt="voting" src="http://www.janosgyerik.com/wp-content/uploads/2013/08/voting1.png" width="649" height="242" /></a>
+<a href="http://www.bashoneliners.com/oneliners/oneliner/142/"><img class="aligncenter size-full wp-image-1102" alt="voting" src="/assets/themes/images/screenshots/2013-08-voting1.png" width="649" height="242" /></a>
 
 And since now that there are votes, it's natural to sort one-liners not only by date, but by votes too. So I changed the one-liner listing pages to switch between different ordering using a tabbed user interface:
 
-<a href="http://www.bashoneliners.com/oneliners/oneliner/130/"><img class="aligncenter size-full wp-image-1105" alt="tabbed-oneliners2" src="http://www.janosgyerik.com/wp-content/uploads/2013/08/tabbed-oneliners21.png" width="654" height="252" /></a>
+<a href="http://www.bashoneliners.com/oneliners/oneliner/130/"><img class="aligncenter size-full wp-image-1105" alt="tabbed-oneliners2" src="/assets/themes/images/screenshots/2013-08-tabbed-oneliners21.png" width="654" height="252" /></a>
 
 Speaking of tabs, the profile page was quite awful, with too much information cluttered on a single page. So I broke that into multiple pages, again using a tabbed user interface:
 
-<a href="http://www.bashoneliners.com/oneliners/oneliner/122/"><img class="aligncenter size-full wp-image-1104" alt="tabbed-profile" src="http://www.janosgyerik.com/wp-content/uploads/2013/08/tabbed-profile.png" width="654" height="257" /></a>
+<a href="http://www.bashoneliners.com/oneliners/oneliner/122/"><img class="aligncenter size-full wp-image-1104" alt="tabbed-profile" src="/assets/themes/images/screenshots/2013-08-tabbed-profile.png" width="654" height="257" /></a>
 
 There are many other, smaller improvements since the last time. I'll let you discover those by yourselves.
 

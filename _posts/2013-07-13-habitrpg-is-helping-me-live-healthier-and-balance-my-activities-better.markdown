@@ -38,7 +38,7 @@ I find that the following elements of <a href="http://en.wikipedia.org/wiki/Gami
 </ul>
 Sounds interesting? Check out <a href="http://www.youtube.com/watch?v=cT5ghzZFfao">the tutorial</a> to see how it works. This is a screenshot from my page just to give you an idea:
 
-<a href="http://www.janosgyerik.com/wp-content/uploads/2013/07/habitrpg1.png"><img class="alignright size-full wp-image-1043" alt="habitrpg1" src="http://www.janosgyerik.com/wp-content/uploads/2013/07/habitrpg1.png" width="664" height="593" /></a>
+<a href="/assets/themes/images/screenshots/2013-07-habitrpg1.png"><img class="alignright size-full wp-image-1043" alt="habitrpg1" src="/assets/themes/images/screenshots/2013-07-habitrpg1.png" width="664" height="593" /></a>
 
 A surprising effect of the dailies was that now I spend much less time on answering questions on Stack Overflow compared to before. Recently it's been kind of an addiction/obsession for me to collect reputation points on <a href="http://stackoverflow.com/">stackoverflow.com</a>. I was aware that I was spending more time than I should, but it was hard to resist. There, a simple daily task on HabitRPG seems to have cured that addiction. The task says: "Answer 1 question on Stack Overflow". As a result, after I already answered one question on a given day, I have no more incentive to do more. In fact that would risk missing my other dailies.
 

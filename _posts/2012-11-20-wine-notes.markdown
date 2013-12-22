@@ -8,7 +8,7 @@ categories:
 - Uncategorized
 tags: []
 ---
-<a href="http://www.janosgyerik.com/wp-content/uploads/2012/11/android.png"><img class="alignright size-thumbnail wp-image-827" title="android" src="http://www.janosgyerik.com/wp-content/uploads/2012/11/android.png" alt="" width="150" height="150" /></a>I made something. A simple Android app. If you like taking notes of the wines you taste, this app is for you. After you've tasted a couple of wines it becomes difficult to remember which ones were good and why. Hopefully this app will help you keep track!
+<a href="/assets/themes/images/screenshots/2012-11-android.png"><img class="alignright size-thumbnail wp-image-827" title="android" src="/assets/themes/images/screenshots/2012-11-android.png" alt="" width="150" height="150" /></a>I made something. A simple Android app. If you like taking notes of the wines you taste, this app is for you. After you've tasted a couple of wines it becomes difficult to remember which ones were good and why. Hopefully this app will help you keep track!
 
 If you live near Paris don't miss the fantastic annual wine tasting event this week!
 

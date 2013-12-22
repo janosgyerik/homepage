@@ -18,7 +18,7 @@ But then, what do you know, <a href="http://twitter.com/DuncanLock">@DuncanLock<
 
 I commented on his blog a few extra tips of my own, but later I realized I still have some more to say. So here we go, my follow-up tips for building reputation on the Stack Exchange sites, on top of what Duncan already covered nicely.
 <h2>Get the basics down first</h2>
-<a href="http://stackoverflow.com/help/badges/2600/informed"><img class="alignright size-full wp-image-1005" alt="informed" src="http://www.janosgyerik.com/wp-content/uploads/2013/06/informed.png" width="92" height="36" /></a>1. Do read the entire <a href="http://stackoverflow.com/about">About page</a>. Carefully. It's really important to understand the site. Plus you get the <a href="http://stackoverflow.com/help/badges/2600/informed">Informed</a> badge as a reward! This page is also important to understand the counting of reputation: <a href="http://stackoverflow.com/help/whats-reputation">http://stackoverflow.com/help/whats-reputation</a> (especially the daily max 200 limit!)
+<a href="http://stackoverflow.com/help/badges/2600/informed"><img class="alignright size-full wp-image-1005" alt="informed" src="/assets/themes/images/screenshots/2013-06-informed.png" width="92" height="36" /></a>1. Do read the entire <a href="http://stackoverflow.com/about">About page</a>. Carefully. It's really important to understand the site. Plus you get the <a href="http://stackoverflow.com/help/badges/2600/informed">Informed</a> badge as a reward! This page is also important to understand the counting of reputation: <a href="http://stackoverflow.com/help/whats-reputation">http://stackoverflow.com/help/whats-reputation</a> (especially the daily max 200 limit!)
 
 2. Be patient. It takes time to build reputation. If this was easy within a matter of days the system would be meaningless.
 
@@ -52,9 +52,9 @@ Sometimes your otherwise great answer might not be getting the attention it dese
 <h2>Collecting badges</h2>
 Badges are cool goodies, but they don't get you any reputation. They sure look good in your profile though :-)
 
-<a href="http://stackoverflow.com/help/badges/32/civic-duty"><img class="alignright size-full wp-image-1007" alt="civic-duty" src="http://www.janosgyerik.com/wp-content/uploads/2013/06/civic-duty.png" width="98" height="34" /></a>1. Personally I don't hunt badges. I think you can just let them come to you naturally. For example, you get the <a href="http://stackoverflow.com/help/badges/32/civic-duty">Civic Duty</a> badge if you voted 300 times. That's so cool, I didn't even know it existed, and one day I just got this in my Inbox, yeay!
+<a href="http://stackoverflow.com/help/badges/32/civic-duty"><img class="alignright size-full wp-image-1007" alt="civic-duty" src="/assets/themes/images/screenshots/2013-06-civic-duty.png" width="98" height="34" /></a>1. Personally I don't hunt badges. I think you can just let them come to you naturally. For example, you get the <a href="http://stackoverflow.com/help/badges/32/civic-duty">Civic Duty</a> badge if you voted 300 times. That's so cool, I didn't even know it existed, and one day I just got this in my Inbox, yeay!
 
-<a href="http://stackoverflow.com/help/badges/155/electorate"><img class="alignright size-full wp-image-1008" alt="electorate" src="http://www.janosgyerik.com/wp-content/uploads/2013/06/electorate.png" width="100" height="34" /></a>2. Some badges reward you for using the site in a sort of "balanced" way. For example, you get the <a href="http://stackoverflow.com/help/badges/155/electorate">Electorate</a> badge if you voted on 600 questions and 25% or more of total votes are on questions. The site also warns you if you vote mostly on answers only, saying that questions need loving too :)
+<a href="http://stackoverflow.com/help/badges/155/electorate"><img class="alignright size-full wp-image-1008" alt="electorate" src="/assets/themes/images/screenshots/2013-06-electorate.png" width="100" height="34" /></a>2. Some badges reward you for using the site in a sort of "balanced" way. For example, you get the <a href="http://stackoverflow.com/help/badges/155/electorate">Electorate</a> badge if you voted on 600 questions and 25% or more of total votes are on questions. The site also warns you if you vote mostly on answers only, saying that questions need loving too :)
 <h2>Becoming a seasoned veteran</h2>
 <a href="http://stackexchange.com/users/322516"><img class="alignright" title="profile for janos on Stack Exchange, a network of free, community-driven Q&amp;A sites" alt="profile for janos on Stack Exchange, a network of free, community-driven Q&amp;A sites" src="http://stackexchange.com/users/flair/322516.png" width="208" height="58" /></a>
 
@@ -70,7 +70,7 @@ Another interesting thing on your profile page on <a href="stackexchange.com">st
 
 By the way, on your Stack Overflow profile homepage (not Stack Exchange), in the Reputation section you can see a link to the leagues, in a format like "top 3% this quarter". The value shown can be about the quarter, week, month or year, depending on whichever is highest for you, and it takes you right to your position in the leagues.
 
-<img class="wp-image-1010 aligncenter" alt="rep-top-info" src="http://www.janosgyerik.com/wp-content/uploads/2013/06/rep-top-info.png" />
+<img class="wp-image-1010 aligncenter" alt="rep-top-info" src="/assets/themes/images/screenshots/2013-06-rep-top-info.png" />
 
 3. See what privileges you can unlock by earning higher reputation:
 <a href="http://stackoverflow.com/privileges">http://stackoverflow.com/privileges</a>. It's really cool how more and more interesting features of the site start opening up gradually. In a way it's like going deeper down in the rabbit hole. For example, after about 2000 you can start moderating various types of posts (new users, low quality, etc), which reward you with new badges.
