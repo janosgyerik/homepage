@@ -12,7 +12,9 @@ comments: []
 <a href="https://help.ubuntu.com/community/RestrictedFormats">https://help.ubuntu.com/community/RestrictedFormats</a>
 
 For the lazy or impatient, this is the gist:
-<pre>
+
+```
 sudo /usr/share/doc/libdvdread4/install-css.sh
 sudo apt-get install ubuntu-restricted-extras
-</pre>
+```
+

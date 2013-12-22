@@ -16,43 +16,51 @@ Note: If you get stuck at any point, see bottom for troubleshooting tips!
 
 Create the oracle groups and user account:
 
-<pre>
+
+```
 groupadd oinstall
 groupadd dba
 useradd -m -g oinstall -G dba oracle
 mkdir /opt/oracle
 chown oracle.oinstall /opt/oracle
 chmod 775 /opt/oracle
-</pre>
+```
+
 
 Set shell limits for the oracle user:
 
 1. In `/etc/security/limits.conf` add these lines:
-<pre>
+
+```
 oracle soft nproc 2047
 oracle hard nproc 16384
 oracle soft nofile 1024
 oracle hard nofile 63536
-</pre>
+```
+
 2. In `/etc/pam.d/login` add this line: `session required /lib/security/pam_limits.so`
 Note: In RHEL4 with SELinux enabled, a comment says that "pam_selinux.so open" should be the last session rule. So i added the line right before that. 
 
 3. Add to `/etc/profile` these lines:
-<pre>
+
+```
 if [ $USER = oracle ]; then
     ulimit -u 16384 -n 63536
     umask 0022
 fi
-</pre>
+```
+
 
 Starting the installer... 
 
-<pre>
+
+```
 su - oracle
 unzip 10201_database_linux32.zip
 cd database
 ./runInstaller
-</pre>
+```
+
 
 It's probably a good idea to make notes of the relevant screens that appear. I simply take screenshots with Alt + PrintScreen, twice per screen: first with the original values, then again after i made my changes. 
 
@@ -63,7 +71,8 @@ In the next screen you can accept the default settings, the `oraInventory` direc
 Next, Oracle will complain about all kinds of things, missing packages, insufficient kernel parameters, etc. Make sure you eliminate all these problems. (Or as many as possible. See my notes at the end of this section.)
 
 In my case the kernel parameter insufficiencies were something like:
-<pre>
+
+```
 Checking for semopm=100; found semopm=32.       Failed &lt;&lt;&lt;&lt;
 Checking for semmni=128; found semmni=128.      Passed
 Checking for shmmax=536870912; found shmmax=33554432.   Failed &lt;&lt;&lt;&lt;
@@ -76,11 +85,13 @@ Checking for rmem_default=262144; found rmem_default=110592.    Failed &lt;&lt;&
 Checking for rmem_max=262144; found rmem_max=110592.    Failed &lt;&lt;&lt;&lt;
 Checking for wmem_default=262144; found wmem_default=110592.    Failed &lt;&lt;&lt;&lt;
 Checking for wmem_max=262144; found wmem_max=110592.    Failed &lt;&lt;&lt;&lt;
-</pre>
+```
+
 
 ...which i fixed by adding these lines to `/etc/sysctl.conf`
 (The commented lines indicate the orginal values. These definitions were not originally in the file, i added them myself for future reference.)
-<pre>
+
+```
 # semmsl, semmns, semopm, semmni
 #kernel.sem = 250       32000   32      128
 kernel.sem = 250        32000   100     128
@@ -98,7 +109,8 @@ net.core.rmem_max = 262144
 net.core.wmem_default = 262144
 #net.core.wmem_max = 110592
 net.core.wmem_max = 262144
-</pre>
+```
+
 
 Note that to add the right definitions, you need to know the fully qualified sysctl variable names, but Oracle's error message isn't detailed enough. For example, Oracle says wmem_max is not enough, but the fully qualified name of the variable is net.core.wmem_max. You can figure out the proper names by grep-ing through the output of `sysctl -a`, like `sysctl -a | grep wmem`.
 

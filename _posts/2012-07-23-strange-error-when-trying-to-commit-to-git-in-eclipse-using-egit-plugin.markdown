@@ -12,7 +12,8 @@ comments: []
 ---
 Looking at the Error Log:
 
-<pre>
+
+```
 !ENTRY org.eclipse.egit.ui 4 0 2012-07-23 10:28:12.912
 !MESSAGE An internal error occurred
 !STACK 0
@@ -33,7 +34,8 @@ Caused by: java.io.EOFException: Input did not match supplied length. 6774 bytes
     at org.eclipse.jgit.api.CommitCommand.createTemporaryIndex(CommitCommand.java:363)
     at org.eclipse.jgit.api.CommitCommand.call(CommitCommand.java:195)
     ... 8 more
-</pre>
+```
+
 
 This bug report suggested setting `core.autocrlf=false`. 
 <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=369780">https://bugs.eclipse.org/bugs/show_bug.cgi?id=369780</a>

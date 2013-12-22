@@ -12,9 +12,11 @@ comments: []
 ---
 Just now when running `./manage.py syncdb` Django (1.4) gave a strange error:
 
-<pre>
+
+```
 `Error: No module named cache
 `
-</pre>
+```
+
 
 What tha... Googled it, no help. A `pip install -r pip.txt --upgrade` made it work. Lucky! (Among other things it replaced my Django 1.4 installation in the virtualenv. I suspect that fixed it.)

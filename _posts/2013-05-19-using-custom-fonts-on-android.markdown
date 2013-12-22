@@ -26,11 +26,13 @@ Here's the gist:
 Step 1: Find a nice font and put it in your `assets/` folder
 
 Step 2: Set the custom font in code (which is the only way to do it), like this:
-<pre>
+
+```
 TextView message = (TextView) findViewById(R.id.message); 
 Typeface font = Typeface.createFromAsset(getAssets(), "Chantelli_Antiqua.ttf");
 message.setTypeface(font);
-</pre>
+```
+
 And voila, the result in the app itself:<em id="__mceDel" style="line-height: 1.714285714; font-size: 1rem;">*
 
 <img class="alignnone" alt="" src="https://lh5.ggpht.com/JT1zIy-gj2x_httd31vwQ1X7p58xJqyl0sQdBTRY7q241JHaAAv7EJDGCx6mOaB2ow" width="320" height="480" />

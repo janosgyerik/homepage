@@ -9,11 +9,13 @@ categories:
 tags: []
 comments: []
 ---
-<pre>
+
+```
 image=/boot/kernel-genkernel-x86-2.6.22-sabayon
         label=gentoo
         read-only
         root=/dev/ram0
         append="dolvm2 root=/dev/ram0 ramdisk=8192 real_root=/dev/lvg/sabayon  quiet  init=/linuxrc splash=silent,theme:sabayon CONSOLE=/dev/tty1 pci=nomsi"
         initrd=/boot/initramfs-genkernel-x86-2.6.22-sabayon
-</pre>
+```
+

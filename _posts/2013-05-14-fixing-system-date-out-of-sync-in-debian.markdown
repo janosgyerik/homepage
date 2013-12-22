@@ -14,7 +14,9 @@ I started using my old-ish Debian server again and realized the system date is o
 The solution is to install `ntpdate`, which automatically synchronizes the clock at certain system events, for example when the network interface comes up.
 
 To force synchronizing *now*, you can run `ntpdate` manually, but you must specify the NTP servers to use as reference on the command line, otherwise it will give you an error like this:
-<pre>
+
+```
 14 May 06:53:06 ntpdate[6505]: no servers can be used, exiting
-</pre>
+```
+
 An easier way is to run `ntpdate-debian` without arguments, which will use the NTP servers configured in `/etc/default/ntpdate`, which is a Debian-specific setup.

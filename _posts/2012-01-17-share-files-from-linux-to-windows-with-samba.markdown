@@ -12,24 +12,30 @@ tags: []
 comments: []
 ---
 I thought sharing a folder on Linux to Windows machines read-only and without any authentication whatsoever was very simple to do with Samba. And it really is, if you know Samba well :-) Which I don't, so I had some troubles due to incorrect value for the "security" option. The default value in a relatively modern installation is "user", with other possible values like "share" marked as deprecated in the config file. Because of that small mistake my sanity tests failed with error messages like:
-<pre>
+
+```
 C:&gt;net view \servername
  System error 5 has occurred.
 
 The network path was not found.
-</pre>
+```
+
 or
-<pre>
+
+```
 C:&gt;dir \servernamesharename
  Logon failure: unknown user name or bad password.
-</pre>
+```
+
 Changing "security = user" to "security = share" was the fix. And it is well explained in "man smb.conf".
 
 Btw the "testparm -s" command shows settings that override the default values, which can be pretty handy in debugging your setup.
 
 <strong>UPDATE:</strong> you probably also want samba to start on system boot. In redhat derivatives you can do that with:
-<pre>
-chkconfig smb on</pre>
+
+```
+chkconfig smb on```
+
 <h3>Useful links to debug Samba (if you are in a hurry)</h3>
 <a href="http://www.hackorama.com/network/samba.shtml">http://www.hackorama.com/network/samba.shtml</a>
 

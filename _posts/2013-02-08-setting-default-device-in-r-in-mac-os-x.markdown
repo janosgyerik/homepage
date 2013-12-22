@@ -14,12 +14,14 @@ On Mac OS X, for some reason the default device for displaying plots is Quartz. 
 
 To change the default device, I created `~/.Rprofile` like this:
 
-<pre>
+
+```
 `setHook(packageEvent("grDevices", "onLoad"),
     function(...) grDevices::X11.options(type='cairo'))
 options(device='x11')
 `
-</pre>
+```
+
 
 The `setHook` creates a hook so that when the `grDevices` module is loaded, it sets the default type of X11 devices to `cairo`.
 

@@ -10,9 +10,11 @@ tags: []
 comments: []
 ---
 That is, the equivalent of rm -fr in Linux/UNIX.
-<pre>
+
+```
 rmdir /s/q
-</pre>
+```
+
 Recently I have to work quite a lot in Windows so I put together a cheat sheet of these on my wiki.
 
 <a href="http://wiki.titan2x.com/index.php?title=DOS_cheat_sheet">http://wiki.titan2x.com/index.php?title=DOS_cheat_sheet</a>

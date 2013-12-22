@@ -12,7 +12,8 @@ comments: []
 ---
 To clone a remote Subversion repository using Git through a proxy server, edit the `~/.subversion/servers` file appropriately:
 
-<pre>
+
+```
 `[global]
 # http-proxy-exceptions = *.exception.com, www.internal-site.org
 # http-proxy-host = defaultproxy.whatever.com
@@ -20,7 +21,8 @@ To clone a remote Subversion repository using Git through a proxy server, edit t
 # http-proxy-username = defaultusername
 # http-proxy-password = defaultpassword
 `
-</pre>
+```
+
 
 Note that even in Windows, the correct path is actually `~/.subversion/servers` when using `git-svn`, even though this is NOT the normal configuration directory for the native `svn.exe`. For example in Windows 7 `svn.exe` typically uses the path `C:\Users\YOURUSER\AppData\Roaming\Subversion`.
 

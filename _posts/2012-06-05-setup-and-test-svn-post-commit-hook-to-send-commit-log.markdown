@@ -77,57 +77,73 @@ comments:
     That's strange. Try to change line 971 like this:
 
     
-<pre>
+
+```
 class DifflibDiffContent(object):
-</pre>
+```
+
 
     or this:
 
     
-<pre>
+
+```
 class DifflibDiffContent:
-</pre>
+```
+
 
     I hope this helps. This is only a workaround, not a good solution. The problem must be something in your environment, maybe the version of python, or the version of Subversion's python bindings, or PYTHONPATH, I don't really know... Normally this mailer script should work without hacking it like this.
 ---
 It's been a while since I've done this, and the tools have evolved since then. Follow these steps to configure, test first, and in the end activate the hook.
 <h3>Get the sample mailer script</h3>
 This may depend on your distro/OS, usually there is a package called `subversion-tools`.
-<pre>
+
+```
 cd $REPOROOT
 cp /path/to/subversion-tools/hook-scripts/mailer/mailer.py hooks
 cp /path/to/subversion-tools/hook-scripts/mailer/mailer.conf.example mailer.conf
-</pre>
+```
+
 <h3>Edit `mailer.conf`</h3>
 In my case I only needed to override/uncomment these settings:
-<pre>
+
+```
 mail_command = /usr/sbin/sendmail
 commit_subject_prefix = [svn-myproject]
 from_addr = noreply@mydomain.com
 to_addr = commits-myproject@mydomain.com  # this is a mailing list
-</pre>
+```
+
 <h3>Pick a revision number for testing</h3>
 You can pick any revision, just make sure it exists. You can find the latest revision like this:
-<pre>
+
+```
 svnlook info $REPOROOT
 svnlook youngest $REPOROOT
-</pre>
+```
+
 <h3>Test the hook script</h3>
 Confirm that the last line of the hook script template (`$REPOROOT/hooks/post-commit.tmpl`) is the same as this:
-<pre>
+
+```
 "$REPOS"/hooks/mailer.py commit "$REPOS" $REV "$REPOS"/mailer.conf
-</pre>
+```
+
 This is the default on recent versions of Linux. It uses the absolute path to `mailer.py` and `mailer.conf`, at the locations where we copied them in an earlier step. The correct path is important, otherwise you will get errors like "mailer.py: command not found"
 
 Run the hook script:
-<pre>
+
+```
 sh $REPOROOT/hooks/post-commit.tmpl $REPOROOT $REVNO
-</pre>
+```
+
 where `$REVNO` is some revision number (for example the one returned by `svnlook youngest`). After this you should receive an email with the details of the commit, or some error message should appear in the terminal that you can debug.
 <h3>Activate the hook</h3>
-<pre>
+
+```
 cd $REPOROOT
 chmod +x hooks/post-commit.tmpl
 mv hooks/post-commit.tmpl hooks/post-commit
-</pre>
+```
+
 That's it!  Note that it is important to remove `hooks/post-commit.tmpl` file (or truncate to 0 size), otherwise the real hook script (without .tmpl extension) will be ignored. The hook script should be executable, otherwise Subversion will not run it.

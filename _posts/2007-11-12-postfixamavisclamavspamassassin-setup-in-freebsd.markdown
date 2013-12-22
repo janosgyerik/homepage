@@ -18,10 +18,12 @@ An excellent first reading:
 Although an article for Linux, it explains well the setup steps that need to be done. I applied similar steps in the FreeBSD system, with the differences below.
 
 1. Stopped everything first.
-<pre>
+
+```
 /usr/local/etc/rc.d/postfix.sh stop
 /usr/local/etc/rc.d/amavisd.sh stop
-</pre>
+```
+
 
 2. Saved a backup of `/etc/amavisd.conf`, copied `/usr/local/etc/amavisd.conf` over it, and edited the file according to the article and the original file. (Created users, directories, changed permissions, etc.)
 
@@ -39,11 +41,13 @@ After the build, configured according to the article and the original file. (Cre
 
 5. With all the above setup, started running the services, the order doesn't really matter. This should be done after system startup:
 
-<pre>
+
+```
 /usr/local/etc/rc.d/amavisd.sh start
 /usr/local/etc/rc.d/clamav-clamd.sh start
 /usr/local/etc/rc.d/clamav-freshclam.sh start
-</pre>
+```
+
 
 To have these automatically started, look at the individual rc scripts, they mention what variable needs to be set in `/etc/rc.conf` to have them automatically start. 
 

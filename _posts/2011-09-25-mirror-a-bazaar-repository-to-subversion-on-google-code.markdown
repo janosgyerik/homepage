@@ -17,9 +17,11 @@ In this example I use the "bashoneliners" project, replace the project name appr
 2. Checkout from Google with bzr co https://bashoneliners.googlecode.com/svn/trunk
 
 3. Pull from the original Bazaar repository:
-<pre>
+
+```
 bzr pull path_to_branch --overwrite
-</pre>
+```
+
 To keep the Subversion repository up to date on Google Code, simply run `bzr pull` without other arguments.
 
 Remember that you must never commit on the mirror Subversion repository by other methods, that will mess things up. But that is normal for a "mirror" repository isn't it.
