@@ -22,7 +22,7 @@ I'm not using it yet for my movie collection, because I have some issues with it
 </ul>
 Finally I figured out how to use an external player. I created a configuration file in `~/.xbmc/userdata/playercorefactory.xml` like this:
 
-[gist id=5648461 bump=1]
+<script src="https://gist.github.com/janosgyerik/5648461.js"></script>
 
 This way it will use VLC for local video files only, and continue to use the built-in player for others.
 
