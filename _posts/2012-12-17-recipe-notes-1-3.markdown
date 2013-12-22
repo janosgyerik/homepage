@@ -17,8 +17,8 @@ tags: []
 	<li>Cleaner interface by hiding unnecessary elements</li>
 	<li>Automatically delete blank recipes, for example after creating new but not entering anything</li>
 </ul>
-Project homepage: <a href="http://www.janosgyerik.com/projects/recipe-notes/">http://www.janosgyerik.com/projects/recipe-notes/</a>
+Project homepage: [http://www.janosgyerik.com/projects/recipe-notes/](http://www.janosgyerik.com/projects/recipe-notes/)
 
-Google Play page: <a href="https://play.google.com/store/apps/details?id=com.recipenotes">https://play.google.com/store/apps/details?id=com.recipenotes</a>
+Google Play page: [https://play.google.com/store/apps/details?id=com.recipenotes](https://play.google.com/store/apps/details?id=com.recipenotes)
 
 <a href="http://play.google.com/store/apps/details?id=com.recipenotes"><img alt="Android app on Google Play" src="http://www.android.com/images/brand/android_app_on_play_logo_large.png" /></a>

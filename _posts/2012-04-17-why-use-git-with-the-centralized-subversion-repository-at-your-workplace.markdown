@@ -44,10 +44,10 @@ In short: if you are using a Subversion client instead of git, you are really mi
 ### Links
 
 <ul>
-	<li><a href="http://git-scm.com/book">http://git-scm.com/book</a> - The official git book, completely free PDF and ebook versions</li>
+	<li>[http://git-scm.com/book](http://git-scm.com/book) - The official git book, completely free PDF and ebook versions</li>
 	<li>git --help</li>
-	<li><a href="http://trac.parrot.org/parrot/wiki/git-svn-tutorial">http://trac.parrot.org/parrot/wiki/git-svn-tutorial</a></li>
-	<li><a href="http://git.or.cz/course/svn.html">http://git.or.cz/course/svn.html</a></li>
-	<li><a href="http://whygitisbetterthanx.com/">http://whygitisbetterthanx.com/</a></li>
-	<li><a href="http://techsoftcomputing.com/faq/2262831.html">Why not use Git?</a></li>
+	<li>[http://trac.parrot.org/parrot/wiki/git-svn-tutorial](http://trac.parrot.org/parrot/wiki/git-svn-tutorial)</li>
+	<li>[http://git.or.cz/course/svn.html](http://git.or.cz/course/svn.html)</li>
+	<li>[http://whygitisbetterthanx.com/](http://whygitisbetterthanx.com/)</li>
+	<li>[Why not use Git?](http://techsoftcomputing.com/faq/2262831.html)</li>
 </ul>

@@ -8,7 +8,7 @@ categories:
 - Musings
 tags: []
 ---
-<a href="http://www.severedfifth.com/">Severed Fifth</a> is a metal band (?), with so far two albums that are self-produced, self-released, written, performed and recorded by Jono Bacon, community manager of Ubuntu, author of the awesome (and free) book The Art of Community. I really didn't expect much from a music made by just one guy, but man, this is totally awesome hard pounding metal! And the guy is releasing the albums completely for free (under Creative Commons Attribution ShareAlike license). That's right, it's just out there for everybody to enjoy, so if you like some good metal, listen to it at <a href="http://www.severedfifth.com/releases/">http://www.severedfifth.com/releases/</a> (my favourite is The Lake, when the heavy rhythmic pounding kicks in at about halfway)
+[Severed Fifth](http://www.severedfifth.com/) is a metal band (?), with so far two albums that are self-produced, self-released, written, performed and recorded by Jono Bacon, community manager of Ubuntu, author of the awesome (and free) book The Art of Community. I really didn't expect much from a music made by just one guy, but man, this is totally awesome hard pounding metal! And the guy is releasing the albums completely for free (under Creative Commons Attribution ShareAlike license). That's right, it's just out there for everybody to enjoy, so if you like some good metal, listen to it at [http://www.severedfifth.com/releases/](http://www.severedfifth.com/releases/) (my favourite is The Lake, when the heavy rhythmic pounding kicks in at about halfway)
 
 Yes, this topic is right at home in a hacking journal ;-)
 

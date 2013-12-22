@@ -10,4 +10,4 @@ tags: []
 ---
 <blockquote>cd /usr/src/linux &amp;&amp; grep -Eri 'fuck|shit'</blockquote>
 
-<a href="http://bp2.blogger.com/__Uxk2OOQle8/SITkVuyeKPI/AAAAAAAAAEU/0w9sZ1fyVus/s1600-h/error.jpg">404 error page.</a> I'm going to change the http error pages to this on my websites.
+[404 error page.](http://bp2.blogger.com/__Uxk2OOQle8/SITkVuyeKPI/AAAAAAAAAEU/0w9sZ1fyVus/s1600-h/error.jpg) I'm going to change the http error pages to this on my websites.

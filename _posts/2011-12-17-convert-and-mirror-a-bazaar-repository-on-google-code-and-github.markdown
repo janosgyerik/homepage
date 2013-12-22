@@ -9,7 +9,7 @@ categories:
 - Software
 tags: []
 ---
-An open source project should be as open as possible, for that reason I decided to make the source code of <a href="http://www.bashoneliners.com/">bashoneliners.com</a> available in more than one VCS, for example in Subversion and Git in addition to Bazaar which remains the "master" branch.
+An open source project should be as open as possible, for that reason I decided to make the source code of [bashoneliners.com](http://www.bashoneliners.com/) available in more than one VCS, for example in Subversion and Git in addition to Bazaar which remains the "master" branch.
 
 ### Bazaar to Subversion
 

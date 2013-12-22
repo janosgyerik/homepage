@@ -10,15 +10,15 @@ categories:
 - Software
 tags: []
 ---
-Gamification... is ADDICTIVE! I got hooked on basically "collecting meaningless points" on the <a href="http://stackexchange.com/sites">Stack Exchange sites</a>. As I was building up a "know-how" of doing this, I started drafting this post. Then I gave up actually posting it, thinking *"what the hell do I know about this stuff anyway with my puny reputation"*?
+Gamification... is ADDICTIVE! I got hooked on basically "collecting meaningless points" on the [Stack Exchange sites](http://stackexchange.com/sites). As I was building up a "know-how" of doing this, I started drafting this post. Then I gave up actually posting it, thinking *"what the hell do I know about this stuff anyway with my puny reputation"*?
 
-But then, what do you know, <a href="http://twitter.com/DuncanLock">@DuncanLock</a> who has similar reputation as me has posted his own take on the subject, and guess what, he got literally hundreds of good reactions, including high-profile Stack Exchange users, moderators, and even <a href="http://twitter.com/codinghorror">@codinghorror</a> himself:
+But then, what do you know, [@DuncanLock](http://twitter.com/DuncanLock) who has similar reputation as me has posted his own take on the subject, and guess what, he got literally hundreds of good reactions, including high-profile Stack Exchange users, moderators, and even [@codinghorror](http://twitter.com/codinghorror) himself:
 
-<a href="http://duncanlock.net/blog/2013/06/14/the-smart-guide-to-stack-overflow-zero-to-hero/">The Smart Guide to Stack Overflow: Zero to Hero</a>
+[The Smart Guide to Stack Overflow: Zero to Hero](http://duncanlock.net/blog/2013/06/14/the-smart-guide-to-stack-overflow-zero-to-hero/)
 
 I commented on his blog a few extra tips of my own, but later I realized I still have some more to say. So here we go, my follow-up tips for building reputation on the Stack Exchange sites, on top of what Duncan already covered nicely.
 <h2>Get the basics down first</h2>
-<a href="http://stackoverflow.com/help/badges/2600/informed"><img class="alignright size-full wp-image-1005" alt="informed" src="/assets/themes/images/screenshots/2013-06-informed.png" width="92" height="36" /></a>1. Do read the entire <a href="http://stackoverflow.com/about">About page</a>. Carefully. It's really important to understand the site. Plus you get the <a href="http://stackoverflow.com/help/badges/2600/informed">Informed</a> badge as a reward! This page is also important to understand the counting of reputation: <a href="http://stackoverflow.com/help/whats-reputation">http://stackoverflow.com/help/whats-reputation</a> (especially the daily max 200 limit!)
+<a href="http://stackoverflow.com/help/badges/2600/informed"><img class="alignright size-full wp-image-1005" alt="informed" src="/assets/themes/images/screenshots/2013-06-informed.png" width="92" height="36" /></a>1. Do read the entire [About page](http://stackoverflow.com/about). Carefully. It's really important to understand the site. Plus you get the [Informed](http://stackoverflow.com/help/badges/2600/informed) badge as a reward! This page is also important to understand the counting of reputation: [http://stackoverflow.com/help/whats-reputation](http://stackoverflow.com/help/whats-reputation) (especially the daily max 200 limit!)
 
 2. Be patient. It takes time to build reputation. If this was easy within a matter of days the system would be meaningless.
 
@@ -26,7 +26,7 @@ I commented on his blog a few extra tips of my own, but later I realized I still
 
 4. Be a good sportsman. If somebody else posted a better answer than yours, admit defeat and move on. If somebody answered first something just as good as yours, vote it up and move on.
 <h2>Finding questions to answer</h2>
-1. Look for questions in your favorite areas of expertise. There's much more than <a style="line-height: 1.714285714; font-size: 1rem;" href="http://stackoverflow.com/">stackoverflow.com</a>, take a look around the <a style="line-height: 1.714285714; font-size: 1rem;" href="http://stackexchange.com/sites">many other Stack Exchange sites</a>. If you're a programmer, check out <a href="http://programmers.stackexchange.com/">http://programmers.stackexchange.com/</a>. If you're more of a sysadmin dude, head over to <a href="http://serverfault.com/">http://serverfault.com/</a> or <a href="http://askubuntu.com/">http://askubuntu.com/</a>. If you're a UNIX/Linux expert, you will enjoy <a href="http://unix.stackexchange.com/">http://unix.stackexchange.com/</a>. There's probably something for everyone.
+1. Look for questions in your favorite areas of expertise. There's much more than <a style="line-height: 1.714285714; font-size: 1rem;" href="http://stackoverflow.com/">stackoverflow.com</a>, take a look around the <a style="line-height: 1.714285714; font-size: 1rem;" href="http://stackexchange.com/sites">many other Stack Exchange sites</a>. If you're a programmer, check out [http://programmers.stackexchange.com/](http://programmers.stackexchange.com/). If you're more of a sysadmin dude, head over to [http://serverfault.com/](http://serverfault.com/) or [http://askubuntu.com/](http://askubuntu.com/). If you're a UNIX/Linux expert, you will enjoy [http://unix.stackexchange.com/](http://unix.stackexchange.com/). There's probably something for everyone.
 
 2. Be selective when you pick a question to answer. Figuring out what the heck a poorly written question is supposed to mean might not be worth your time and effort. And if you are not 100% sure you have a great answer immediately, then somebody else will probably beat you to it. It's often better to just move on.
 
@@ -36,7 +36,7 @@ I commented on his blog a few extra tips of my own, but later I realized I still
 	<li>Search by tags to find questions in your strongest subjects. Sometimes there are easy questions that dropped off the front page of newest questions. This can be very lucrative, as you are looking at questions in your strong area, and you have more time to research and give a good answer.</li>
 	<li>Only open questions with 0 or 1 answer. Often the first answer is not that great, and it's quite possible that you can do better. When there are 2 or more answers it becomes less and less likely that you can give a better answer.</li>
 	<li>If you are tired of one site, or while waiting for a new set of questions to accumulate, switch to another site.</li>
-	<li>Setup filters on <a href="http://stackexchange.com/filters/new">http://stackexchange.com/filters/new</a> and email notifications of new questions in your favorite areas. This is most useful for tags with only a few questions per day or less. This is not useful at all for highly active tags with many questions per hour.</li>
+	<li>Setup filters on [http://stackexchange.com/filters/new](http://stackexchange.com/filters/new) and email notifications of new questions in your favorite areas. This is most useful for tags with only a few questions per day or less. This is not useful at all for highly active tags with many questions per hour.</li>
 </ul>
 Typically I quickly scan the new questions. Usually I find a few I might be able to answer, read them properly, and if enough time passed, then if I reload the page I see a completely new set of questions. If I don't see anything suitable, then I check on my favorite tags for a few minutes, and switch back again to the first strategy. Or instead of checking on favorite tags, I can switch to another stack exchange site.
 
@@ -52,29 +52,29 @@ Sometimes your otherwise great answer might not be getting the attention it dese
 <h2>Collecting badges</h2>
 Badges are cool goodies, but they don't get you any reputation. They sure look good in your profile though :-)
 
-<a href="http://stackoverflow.com/help/badges/32/civic-duty"><img class="alignright size-full wp-image-1007" alt="civic-duty" src="/assets/themes/images/screenshots/2013-06-civic-duty.png" width="98" height="34" /></a>1. Personally I don't hunt badges. I think you can just let them come to you naturally. For example, you get the <a href="http://stackoverflow.com/help/badges/32/civic-duty">Civic Duty</a> badge if you voted 300 times. That's so cool, I didn't even know it existed, and one day I just got this in my Inbox, yeay!
+<a href="http://stackoverflow.com/help/badges/32/civic-duty"><img class="alignright size-full wp-image-1007" alt="civic-duty" src="/assets/themes/images/screenshots/2013-06-civic-duty.png" width="98" height="34" /></a>1. Personally I don't hunt badges. I think you can just let them come to you naturally. For example, you get the [Civic Duty](http://stackoverflow.com/help/badges/32/civic-duty) badge if you voted 300 times. That's so cool, I didn't even know it existed, and one day I just got this in my Inbox, yeay!
 
-<a href="http://stackoverflow.com/help/badges/155/electorate"><img class="alignright size-full wp-image-1008" alt="electorate" src="/assets/themes/images/screenshots/2013-06-electorate.png" width="100" height="34" /></a>2. Some badges reward you for using the site in a sort of "balanced" way. For example, you get the <a href="http://stackoverflow.com/help/badges/155/electorate">Electorate</a> badge if you voted on 600 questions and 25% or more of total votes are on questions. The site also warns you if you vote mostly on answers only, saying that questions need loving too :)
+<a href="http://stackoverflow.com/help/badges/155/electorate"><img class="alignright size-full wp-image-1008" alt="electorate" src="/assets/themes/images/screenshots/2013-06-electorate.png" width="100" height="34" /></a>2. Some badges reward you for using the site in a sort of "balanced" way. For example, you get the [Electorate](http://stackoverflow.com/help/badges/155/electorate) badge if you voted on 600 questions and 25% or more of total votes are on questions. The site also warns you if you vote mostly on answers only, saying that questions need loving too :)
 <h2>Becoming a seasoned veteran</h2>
 <a href="http://stackexchange.com/users/322516"><img class="alignright" title="profile for janos on Stack Exchange, a network of free, community-driven Q&amp;A sites" alt="profile for janos on Stack Exchange, a network of free, community-driven Q&amp;A sites" src="http://stackexchange.com/users/flair/322516.png" width="208" height="58" /></a>
 
-1. Once you have built up some reputation, embed "a piece of valuable flair" on your website, for example: <a href="http://stackoverflow.com/users/641955/janos/flair">http://stackoverflow.com/users/641955/janos/flair</a>
+1. Once you have built up some reputation, embed "a piece of valuable flair" on your website, for example: [http://stackoverflow.com/users/641955/janos/flair](http://stackoverflow.com/users/641955/janos/flair)
 
 2. Check out the Stack Overflow "leagues":
-<a href="http://stackexchange.com/leagues/1/alltime/stackoverflow">http://stackexchange.com/leagues/1/alltime/stackoverflow</a>
+[http://stackexchange.com/leagues/1/alltime/stackoverflow](http://stackexchange.com/leagues/1/alltime/stackoverflow)
 
 You can see the heaviest hitters by week/month/quarter/year/all-time on all Stack Exchange sites, as well as your own rank.
 
-Another interesting thing on your profile page on <a href="stackexchange.com">stackexchange.com</a> (different from <a href="stackoverflow.com">stackoverflow.com</a>) is the reputation tab shows a graph of your reputation score changes, for example:
-<a href="http://stackexchange.com/users/322516/janos?tab=reputation">http://stackexchange.com/users/322516/janos?tab=reputation</a>
+Another interesting thing on your profile page on [stackexchange.com](stackexchange.com) (different from [stackoverflow.com](stackoverflow.com)) is the reputation tab shows a graph of your reputation score changes, for example:
+[http://stackexchange.com/users/322516/janos?tab=reputation](http://stackexchange.com/users/322516/janos?tab=reputation)
 
 By the way, on your Stack Overflow profile homepage (not Stack Exchange), in the Reputation section you can see a link to the leagues, in a format like "top 3% this quarter". The value shown can be about the quarter, week, month or year, depending on whichever is highest for you, and it takes you right to your position in the leagues.
 
 <img class="wp-image-1010 aligncenter" alt="rep-top-info" src="/assets/themes/images/screenshots/2013-06-rep-top-info.png" />
 
 3. See what privileges you can unlock by earning higher reputation:
-<a href="http://stackoverflow.com/privileges">http://stackoverflow.com/privileges</a>. It's really cool how more and more interesting features of the site start opening up gradually. In a way it's like going deeper down in the rabbit hole. For example, after about 2000 you can start moderating various types of posts (new users, low quality, etc), which reward you with new badges.
+[http://stackoverflow.com/privileges](http://stackoverflow.com/privileges). It's really cool how more and more interesting features of the site start opening up gradually. In a way it's like going deeper down in the rabbit hole. For example, after about 2000 you can start moderating various types of posts (new users, low quality, etc), which reward you with new badges.
 
-4. It seems that if you are active on a Stack Exchange site, sooner or later you get invited to <a href="http://careers.stackoverflow.com/">http://careers.stackoverflow.com/</a>. It's a very cool site where you can list your competencies much better than on LinkedIn, for example. Not only you can showcase selected high-scoring questions and answers from Stack Exchange, you can also highlight your most interesting open-source projects on GitHub or other code hosting sites. (You can check out mine here for example: <a href="http://careers.stackoverflow.com/janosgyerik">http://careers.stackoverflow.com/janosgyerik</a>)
+4. It seems that if you are active on a Stack Exchange site, sooner or later you get invited to [http://careers.stackoverflow.com/](http://careers.stackoverflow.com/). It's a very cool site where you can list your competencies much better than on LinkedIn, for example. Not only you can showcase selected high-scoring questions and answers from Stack Exchange, you can also highlight your most interesting open-source projects on GitHub or other code hosting sites. (You can check out mine here for example: [http://careers.stackoverflow.com/janosgyerik](http://careers.stackoverflow.com/janosgyerik))
 <h2>Conclusion?</h2>
 At the end of the day, I'm not sure how much effort is worth investing in reputation building, so I leave that up to you :) Answering questions is probably similar to teaching: you always learn something even while you teach, so if nothing else, at least you have that!

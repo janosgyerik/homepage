@@ -9,7 +9,7 @@ categories:
 tags: []
 ---
 The instructions on Launchpad are excellent, of course.
-<a href="http://bazaar-vcs.org/BzrEclipse/Installation">http://bazaar-vcs.org/BzrEclipse/Installation</a>
+[http://bazaar-vcs.org/BzrEclipse/Installation](http://bazaar-vcs.org/BzrEclipse/Installation)
 
 To check out a Bazaar project and make an Eclipse project from it:
 

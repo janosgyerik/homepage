@@ -14,7 +14,7 @@ It's a presentation, so the slides are not really designed for reading, but here
 
 https://speakerdeck.com/janosgyerik/cool-features-of-github
 
-Once again, I used many tips from <a style="line-height: 1.714285714; font-size: 1rem;" href="http://zachholman.com/posts/slide-design-for-developers/">Zach Holman's blog</a> to "design" the slides. I also shamelessly borrowed colors and fonts from his other fantastic slides, especially <a href="https://speakerdeck.com/holman/unsucking-your-teams-development-environment">this one</a>. (I hope he wouldn't mind...)
+Once again, I used many tips from <a style="line-height: 1.714285714; font-size: 1rem;" href="http://zachholman.com/posts/slide-design-for-developers/">Zach Holman's blog</a> to "design" the slides. I also shamelessly borrowed colors and fonts from his other fantastic slides, especially [this one](https://speakerdeck.com/holman/unsucking-your-teams-development-environment). (I hope he wouldn't mind...)
 
 I created the slides using Google Docs, and since it looks like the links didn't come out right in the PDF export, here they are:
 <ul>

@@ -9,7 +9,7 @@ categories:
 tags: []
 ---
 The authoritative documentation is here:
-<a href="https://help.ubuntu.com/community/JapaneseInput">https://help.ubuntu.com/community/JapaneseInput</a>
+[https://help.ubuntu.com/community/JapaneseInput](https://help.ubuntu.com/community/JapaneseInput)
 
 A couple of steps are missing though, this is how I did it in Ubuntu 10.10.
 <ol>

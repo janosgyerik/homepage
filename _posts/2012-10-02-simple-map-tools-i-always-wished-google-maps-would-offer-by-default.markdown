@@ -9,7 +9,7 @@ categories:
 - Software
 tags: []
 ---
-I made something. A very simple map tool, built with <a href="http://documentcloud.github.com/">Backbone.js</a>, <a href="http://twitter.github.com/bootstrap/">Bootstrap</a> and <a href="https://developers.google.com/maps/">Google Maps</a>, to implement some functionality I always wished Google Maps would offer by default, such as:
+I made something. A very simple map tool, built with [Backbone.js](http://documentcloud.github.com/), [Bootstrap](http://twitter.github.com/bootstrap/) and [Google Maps](https://developers.google.com/maps/), to implement some functionality I always wished Google Maps would offer by default, such as:
 <ul>
 	<li>Jump to a specific latitude-longitude</li>
 	<li>What is the latitude-longitude of a location?</li>
@@ -25,5 +25,5 @@ These (and a bit more) are the current features of the tool. More will come, for
 	<li>Save place coordinates and address into a Google Docs spreadsheet</li>
 	<li>"Pin" selected search results, so they are not removed when doing a new search</li>
 </ul>
-<a href="http://janosgyerik.github.com/gmaptools/">http://janosgyerik.github.com/gmaptools/</a>
+[http://janosgyerik.github.com/gmaptools/](http://janosgyerik.github.com/gmaptools/)
 

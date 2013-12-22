@@ -45,6 +45,6 @@ Well this didn't work. I got all kinds of errors that didn't make much sense:
 </ul>
 The final solution was to download the ZIP file from the Subclipse site and install locally, from here:
 
-<a href="http://subclipse.tigris.org/servlets/ProjectProcess?pageID=p4wYuA">http://subclipse.tigris.org/servlets/ProjectProcess?pageID=p4wYuA</a>
+[http://subclipse.tigris.org/servlets/ProjectProcess?pageID=p4wYuA](http://subclipse.tigris.org/servlets/ProjectProcess?pageID=p4wYuA)
 
 Eclipse is (usually) pretty great. If only they could iron out these kind of issues already. They existed for as long as I can remember...

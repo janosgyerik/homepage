@@ -14,6 +14,6 @@ Earlier I pushed one of my repositories to my Bazaar account like this:
 <blockquote>bzr push lp:~janos-gyerik/scripts/software-cache</blockquote><br />
 
 As a result of that, the following page got created too:
-<a href="https://code.launchpad.net/scripts">https://code.launchpad.net/scripts</a>
+[https://code.launchpad.net/scripts](https://code.launchpad.net/scripts)
 
 At first I thought that's a little creepy. But well, it's good public exposure, I guess...

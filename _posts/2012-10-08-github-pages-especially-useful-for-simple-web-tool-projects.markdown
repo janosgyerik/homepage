@@ -28,4 +28,4 @@ http://USERNAME.github.com/REPONAME/
 
 GitHub provides several ways to create beautiful web content. More details in the docs:
 
-<a href="http://pages.github.com/">http://pages.github.com/</a>
+[http://pages.github.com/](http://pages.github.com/)

@@ -37,6 +37,6 @@ Caused by: java.io.EOFException: Input did not match supplied length. 6774 bytes
 
 
 This bug report suggested setting `core.autocrlf=false`. 
-<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=369780">https://bugs.eclipse.org/bugs/show_bug.cgi?id=369780</a>
+[https://bugs.eclipse.org/bugs/show_bug.cgi?id=369780](https://bugs.eclipse.org/bugs/show_bug.cgi?id=369780)
 
 It worked, now I can commit. My setting before was `core.autocrlf=true`.

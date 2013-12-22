@@ -20,7 +20,7 @@ Before you embark on this road and start using Git as your Subversion client, he
 	<li>The initial clone of the trunk may crash completely and doesn't work at all. This doesn't happen often. But if it does, then game over, you're stuck with Subversion.</li>
 	<li>You may have issues with line ending characters if LF and CR-LF are mixed in the project. The potential issues are not negligible, for example you may not be able to view the blame annotations. However this is something that can and should be fixed in the project.</li>
 	<li>At the time of this writing you cannot push your commits back to Subversion from Eclipse. You have to use the command line for that.</li>
-	<li>Do read the <strong>CAVEATS</strong> section in <a href="http://www.kernel.org/pub/software/scm/git/docs/git-svn.html">http://www.kernel.org/pub/software/scm/git/docs/git-svn.html</a></li>
+	<li>Do read the <strong>CAVEATS</strong> section in [http://www.kernel.org/pub/software/scm/git/docs/git-svn.html](http://www.kernel.org/pub/software/scm/git/docs/git-svn.html)</li>
 </ul>
 Scared? No? Ok let's do it then!
 <h2>Clone the trunk from Subversion</h2>

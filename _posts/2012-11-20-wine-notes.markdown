@@ -12,10 +12,10 @@ tags: []
 
 If you live near Paris don't miss the fantastic annual wine tasting event this week!
 
-<a href="http://www.vigneron-independant.com/auxsalons/">http://www.vigneron-independant.com/auxsalons/</a>
+[http://www.vigneron-independant.com/auxsalons/](http://www.vigneron-independant.com/auxsalons/)
 
-Project homepage: <a href="/projects/wine-notes/">/projects/wine-notes/</a>
+Project homepage: [/projects/wine-notes/](/projects/wine-notes/)
 
-Google Play page: <a href="https://play.google.com/store/apps/details?id=com.winenotes.lite">https://play.google.com/store/apps/details?id=com.winenotes.lite</a>
+Google Play page: [https://play.google.com/store/apps/details?id=com.winenotes.lite](https://play.google.com/store/apps/details?id=com.winenotes.lite)
 
 <a href="http://play.google.com/store/apps/details?id=com.winenotes.lite"><img src="http://www.android.com/images/brand/android_app_on_play_logo_large.png" alt="Android app on Google Play" /></a>

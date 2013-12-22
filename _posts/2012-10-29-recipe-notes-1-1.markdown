@@ -14,8 +14,8 @@ tags: []
 	<li>Cleaner, easier to use recipe editing interface</li>
 	<li>Prettier, smaller buttons</li>
 </ul>
-Project homepage: <a href="http://www.janosgyerik.com/projects/recipe-notes/">http://www.janosgyerik.com/projects/recipe-notes/</a>
+Project homepage: [http://www.janosgyerik.com/projects/recipe-notes/](http://www.janosgyerik.com/projects/recipe-notes/)
 
-Google Play page: <a href="https://play.google.com/store/apps/details?id=com.recipenotes">https://play.google.com/store/apps/details?id=com.recipenotes</a>
+Google Play page: [https://play.google.com/store/apps/details?id=com.recipenotes](https://play.google.com/store/apps/details?id=com.recipenotes)
 
 <a href="http://play.google.com/store/apps/details?id=com.recipenotes"><img src="http://www.android.com/images/brand/android_app_on_play_logo_large.png" alt="Android app on Google Play" /></a>

@@ -9,11 +9,11 @@ categories:
 - Software
 tags: []
 ---
-First of all, <a href="http://xbmc.org/">XBMC</a> looks really awesome:
+First of all, [XBMC](http://xbmc.org/) looks really awesome:
 
 [nggallery id=5]
 
-I'm using XBMC mainly to watch my favorite internet streams, such as <a href="http://www.ted.com/">TED</a> and <a href="http://vimcasts.org/">vimcasts</a>.
+I'm using XBMC mainly to watch my favorite internet streams, such as [TED](http://www.ted.com/) and [vimcasts](http://vimcasts.org/).
 
 I'm not using it yet for my movie collection, because I have some issues with its built-in player:
 <ul>
@@ -26,4 +26,4 @@ Finally I figured out how to use an external player. I created a configuration f
 
 This way it will use VLC for local video files only, and continue to use the built-in player for others.
 
-For more information on hacking the configuration, <a href="http://wiki.xbmc.org/index.php?title=External_players">see the docs</a>.
+For more information on hacking the configuration, [see the docs](http://wiki.xbmc.org/index.php?title=External_players).

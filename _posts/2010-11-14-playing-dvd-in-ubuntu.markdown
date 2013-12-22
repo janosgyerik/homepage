@@ -8,7 +8,7 @@ categories:
 - Hacks
 tags: []
 ---
-<a href="https://help.ubuntu.com/community/RestrictedFormats">https://help.ubuntu.com/community/RestrictedFormats</a>
+[https://help.ubuntu.com/community/RestrictedFormats](https://help.ubuntu.com/community/RestrictedFormats)
 
 For the lazy or impatient, this is the gist:
 

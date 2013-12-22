@@ -26,4 +26,4 @@ Yet I was still getting this warning... Finally I understood (thanks to some goo
 python -W error manage.py runserver
 ```
 
-This way deprecation warnings will raise an error and from the stack trace it's easy to find the perpetrator. In my case it was `django-openid-auth`, which at version 0.5 is still using the old format. I recently learned about <a href="https://github.com/omab/django-social-auth">`django-social-auth`</a>, probably I'll be switching to that one in the near future.
+This way deprecation warnings will raise an error and from the stack trace it's easy to find the perpetrator. In my case it was `django-openid-auth`, which at version 0.5 is still using the old format. I recently learned about [`django-social-auth`](https://github.com/omab/django-social-auth), probably I'll be switching to that one in the near future.

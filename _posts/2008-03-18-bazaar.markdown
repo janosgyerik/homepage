@@ -22,4 +22,4 @@ Now I get it. It's really cool. I remember the days when I used to do a lot of w
 
 With Bazaar the problem simply doesn't exist. When you check out a 'branch', your local copy becomes a repository by itself. You can commit to this local repository while offline. Then when you want to merge into your online project, you can push out your local commits. It's brilliant.
 
-<a href="http://bazaar-vcs.org/">http://bazaar-vcs.org/</a>
+[http://bazaar-vcs.org/](http://bazaar-vcs.org/)

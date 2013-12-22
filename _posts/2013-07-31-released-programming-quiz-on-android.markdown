@@ -12,7 +12,7 @@ tags: []
 ---
 <a style="line-height: 1.714285714; font-size: 1rem;" href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite"><img class="alignright" alt="" src="https://lh3.ggpht.com/ZY195NpGY-iPM_yf5W3F-J7qlbAaOn9DuiF5cUkVM8_5MRBgh_v4M1w1Ou-SrbiuFQ=w300-rw" width="180" height="180" /></a>
 
-I just released the first version of <a href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite">Programming Quiz LITE</a>.
+I just released the first version of [Programming Quiz LITE](https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite).
 
 It's a simple multiple-choice quiz to test your programming skills. It aims to be interesting, fun and educational. You could even use it to prepare for programming job interviews, regardless of whether you are an interviewee or an interviewer.
 
@@ -30,4 +30,4 @@ To report problems or feature requests, you can either email me directly or use 
 
 Project homepage: <a href="https://www.google.com/url?q=https://github.com/janosgyerik/manyquiz&amp;sa=D&amp;usg=AFQjCNEsN-rEfldY57RjZehXWEjqpYxvwg" target="_blank">https://github.com/janosgyerik/manyquiz</a>
 
-This is the LITE version: it is FREE with NO ADS. There will be a <a href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.full">paid version</a> soon, which will be identical to this one, but it will have a price of 1 euro just to give you a way to say "thank you" and support my efforts if you want. If you like the app, please remember to rate it, +1 it, tweet it, review it, and spread the word. Thank you!
+This is the LITE version: it is FREE with NO ADS. There will be a [paid version](https://play.google.com/store/apps/details?id=com.manyquiz.programming.full) soon, which will be identical to this one, but it will have a price of 1 euro just to give you a way to say "thank you" and support my efforts if you want. If you like the app, please remember to rate it, +1 it, tweet it, review it, and spread the word. Thank you!

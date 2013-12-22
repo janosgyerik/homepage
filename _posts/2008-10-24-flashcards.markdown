@@ -10,7 +10,7 @@ tags: []
 ---
 Finally I released my flashcards project. Here it is:
 
-<a href="http://flashcards.titan2x.com/">http://flashcards.titan2x.com/</a>
+[http://flashcards.titan2x.com/](http://flashcards.titan2x.com/)
 
 The signup function is the only missing piece. By the time google finds the site, it should be ready. After that, I will optimize and enhance it gradually, and based on user growth.
 

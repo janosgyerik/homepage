@@ -10,15 +10,15 @@ categories:
 - Software
 tags: []
 ---
-The default fonts you can choose from when developing for Android are not very interesting. Normally they are OK for my simple purposes, but for once I wanted something a little bit prettier for my new app, <a href="https://play.google.com/store/apps/details?id=com.happymoments.lite">Happy Moments</a>.
+The default fonts you can choose from when developing for Android are not very interesting. Normally they are OK for my simple purposes, but for once I wanted something a little bit prettier for my new app, [Happy Moments](https://play.google.com/store/apps/details?id=com.happymoments.lite).
 
 I found this tutorial very useful for using custom fonts on Android:
 
-<a href="http://mobile.tutsplus.com/tutorials/android/customize-android-fonts/">http://mobile.tutsplus.com/tutorials/android/customize-android-fonts/</a>
+[http://mobile.tutsplus.com/tutorials/android/customize-android-fonts/](http://mobile.tutsplus.com/tutorials/android/customize-android-fonts/)
 
 And I found some pretty nice fonts on this site suitable for the concept of my app:
 
-<a href="http://www.fontsquirrel.com/fonts/list/category/Handwritten">http://www.fontsquirrel.com/fonts/list/category/Handwritten</a>
+[http://www.fontsquirrel.com/fonts/list/category/Handwritten](http://www.fontsquirrel.com/fonts/list/category/Handwritten)
 
 Here's the gist:
 

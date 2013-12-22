@@ -12,4 +12,4 @@ This is a Chrome extension to open a tab with IE inside in the Chrome browser. H
 
 Can switch back and forth between IE mode and Chrome.
 
-<a href="https://chrome.google.com/webstore/detail/ie-tab-multi-enhance/fnfnbeppfinmnjnjhedifcfllpcfgeea">https://chrome.google.com/webstore/detail/ie-tab-multi-enhance/fnfnbeppfinmnjnjhedifcfllpcfgeea</a>
+[https://chrome.google.com/webstore/detail/ie-tab-multi-enhance/fnfnbeppfinmnjnjhedifcfllpcfgeea](https://chrome.google.com/webstore/detail/ie-tab-multi-enhance/fnfnbeppfinmnjnjhedifcfllpcfgeea)

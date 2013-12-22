@@ -12,7 +12,7 @@ A friend's sysadmin went missing so was left with a broken mail server that did 
 
 An excellent first reading: 
 
-<a href="http://www.linuxjournal.com/article/7778">Linux Journal - Adding Clam Antivirus to Your Postfix Server</a>
+[Linux Journal - Adding Clam Antivirus to Your Postfix Server](http://www.linuxjournal.com/article/7778)
 
 Although an article for Linux, it explains well the setup steps that need to be done. I applied similar steps in the FreeBSD system, with the differences below.
 
@@ -28,7 +28,7 @@ Although an article for Linux, it explains well the setup steps that need to be 
 
 3. Saved a backup of `/usr/local/etc/clamd.conf`. Actually, upon configuring ClamAV it turned out that the version is just too old. When starting up, it warned that not only the virus database needs to be up to date, but the software itself too. Reluctantly, I downloaded the latest source from here: 
 
-<a href="http://www.clamav.net/download/sources">http://www.clamav.net/download/sources</a>
+[http://www.clamav.net/download/sources](http://www.clamav.net/download/sources)
 
 The build went through without issue. Before installing, had to remove the ClamAV FreeBSD package with `pkg_deinstall` or `pkg_delete`. BUT! Before you do that, make sure you save the rc script, as the source tarball does not have it. 
 
@@ -36,7 +36,7 @@ After the build, configured according to the article and the original file. (Cre
 
 4. With the above setup, things were still not perfect, ClamAV's logs had frequent errors about SpamAssassin, and spam was not filtered well. Even though it was the latest SpamAssassin package for the system, it just wasn't quite good enough. So had to install this from source too, from CPAN:
 
-<a href="http://search.cpan.org/">http://search.cpan.org/</a>
+[http://search.cpan.org/](http://search.cpan.org/)
 
 5. With all the above setup, started running the services, the order doesn't really matter. This should be done after system startup:
 

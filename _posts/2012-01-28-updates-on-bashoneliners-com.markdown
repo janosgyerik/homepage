@@ -14,6 +14,6 @@ tags: []
 	<li>You can ask questions (to be answered by one or more one-liners)</li>
 	<li>Valid html5</li>
 	<li>Explanation and Limitations fields are shown expanded</li>
-	<li>Explanation and Limitations fields are formatted using <a href="http://daringfireball.net/projects/markdown/syntax">markdown</a></li>
+	<li>Explanation and Limitations fields are formatted using [markdown](http://daringfireball.net/projects/markdown/syntax)</li>
 </ul>
 &nbsp;

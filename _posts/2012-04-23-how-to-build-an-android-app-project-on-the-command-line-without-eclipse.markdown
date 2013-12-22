@@ -11,4 +11,4 @@ tags: []
 ---
 Recently I needed to build an Android project on a server without a GUI and Eclipse. The Android DEV site focuses on building Android projects using Eclipse, and so did not have much information on how to do this, so I created added a new HOWTO page on my wiki:
 
-<a href="http://wiki.titan2x.com/index.php?title=How_to_build_an_Android_app_project_on_the_command_line_without_Eclipse">http://wiki.titan2x.com/index.php?title=How_to_build_an_Android_app_project_on_the_command_line_without_Eclipse</a>
+[http://wiki.titan2x.com/index.php?title=How_to_build_an_Android_app_project_on_the_command_line_without_Eclipse](http://wiki.titan2x.com/index.php?title=How_to_build_an_Android_app_project_on_the_command_line_without_Eclipse)

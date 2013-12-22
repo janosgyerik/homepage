@@ -22,7 +22,7 @@ It's too early to comment on my experience and making comparisons, and it's neit
 
 So this is what I did for using Eclipse+git with a Subversion repository.
 
-1. Install the plugin, follow the steps here: <a href="http://www.vogella.de/articles/EGit/article.html">http://www.vogella.de/articles/EGit/article.html</a>
+1. Install the plugin, follow the steps here: [http://www.vogella.de/articles/EGit/article.html](http://www.vogella.de/articles/EGit/article.html)
 
 2. Clone the Subversion trunk: git svn clone REPO_URL
 
@@ -68,7 +68,7 @@ These would be the typical steps I reckon. My setup is hardly typical, so I had 
 ### References
 
 <ul>
-	<li><a href="http://git-scm.com/course/svn.html">http://git-scm.com/course/svn.html</a></li>
-	<li><a href="http://www.vogella.de/articles/EGit/article.html">http://www.vogella.de/articles/EGit/article.html</a></li>
-	<li><a href="http://wiki.titan2x.com/index.php?title=Git_cheat_sheet">http://wiki.titan2x.com/index.php?title=Git_cheat_sheet</a></li>
+	<li>[http://git-scm.com/course/svn.html](http://git-scm.com/course/svn.html)</li>
+	<li>[http://www.vogella.de/articles/EGit/article.html](http://www.vogella.de/articles/EGit/article.html)</li>
+	<li>[http://wiki.titan2x.com/index.php?title=Git_cheat_sheet](http://wiki.titan2x.com/index.php?title=Git_cheat_sheet)</li>
 </ul>

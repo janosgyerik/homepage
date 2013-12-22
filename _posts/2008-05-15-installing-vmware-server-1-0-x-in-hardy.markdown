@@ -16,7 +16,7 @@ Of course you need the usual requirements:
 <li>On 64-bit platforms `ia32-libs` too, as this version of VMware is a 32-bit app.</li></ul>
 
 With the above and the vmware server tarball you *usually* would be able to build the vmware modules. Unfortunately that's not always the case given that you are on an unsupported platform etc etc etc. To make it work there is a `vmware-any-any-update` tarball developed by a Czech dude called Petr. His FTP site is here:<br />
-<a href="http://platan.vc.cvut.cz/ftp/pub/vmware/">http://platan.vc.cvut.cz/ftp/pub/vmware/</a>
+[http://platan.vc.cvut.cz/ftp/pub/vmware/](http://platan.vc.cvut.cz/ftp/pub/vmware/)
 
 
 There is a `runme.pl` script inside that you are supposed to run as the super-user... Scary stuff. But it worked for a lot of people, including me.

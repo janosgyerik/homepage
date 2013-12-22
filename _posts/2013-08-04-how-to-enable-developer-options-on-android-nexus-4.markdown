@@ -19,7 +19,7 @@ What the hell... Who would have known? After this the <strong>Developer options<
 
 I found the tip here:
 
-<a href="http://www.redmondpie.com/enable-developer-options-in-android-4.2-on-nexus-4-and-galaxy-nexus/">http://www.redmondpie.com/enable-developer-options-in-android-4.2-on-nexus-4-and-galaxy-nexus/</a>
+[http://www.redmondpie.com/enable-developer-options-in-android-4.2-on-nexus-4-and-galaxy-nexus/](http://www.redmondpie.com/enable-developer-options-in-android-4.2-on-nexus-4-and-galaxy-nexus/)
 
 &nbsp;
 

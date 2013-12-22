@@ -9,7 +9,7 @@ categories:
 - Software
 tags: []
 ---
-<a href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite"><img class="alignright size-thumbnail wp-image-1087" alt="android" src="/assets/themes/images/screenshots/2013-08-android.png" width="150" height="150" /></a>I just released the first version of <a href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite">Computer Quiz</a>. It's a simple multiple choice quiz app for computer fans, professionals and geeks.
+<a href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite"><img class="alignright size-thumbnail wp-image-1087" alt="android" src="/assets/themes/images/screenshots/2013-08-android.png" width="150" height="150" /></a>I just released the first version of [Computer Quiz](https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite). It's a simple multiple choice quiz app for computer fans, professionals and geeks.
 
 Questions are spread out over multiple categories and difficulty levels:
 <ul>
@@ -20,7 +20,7 @@ There are different "game" modes, such as "score as you go", "sudden death" and 
 
 The app doesn't require any permissions at all, doesn't use internet, doesn't collect data about you and has no advertisements. I intend to keep it that way.
 
-At the same time I also upgraded the <a href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite">Programming Quiz</a>. Both apps have exactly the same features, but different database of questions, with some inevitable overlap. The questions in the <a href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite">Programming Quiz</a> are designed specifically for professional and aspiring programmers, while the <a href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite">Computer Quiz</a> can be interesting for casual computer fans too.
+At the same time I also upgraded the [Programming Quiz](https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite). Both apps have exactly the same features, but different database of questions, with some inevitable overlap. The questions in the [Programming Quiz](https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite) are designed specifically for professional and aspiring programmers, while the [Computer Quiz](https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite) can be interesting for casual computer fans too.
 
 If you like these apps, please remember to rate, +1, tweet, or review them, and spread the word. Thank you!
 

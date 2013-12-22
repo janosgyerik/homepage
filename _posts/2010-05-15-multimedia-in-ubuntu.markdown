@@ -11,4 +11,4 @@ tags: []
 ---
 To install packages related to dvd playback, media players, codecs in ubuntu, this is the place to go:
 
-<a href="https://help.ubuntu.com/community/Medibuntu">https://help.ubuntu.com/community/Medibuntu</a>
+[https://help.ubuntu.com/community/Medibuntu](https://help.ubuntu.com/community/Medibuntu)

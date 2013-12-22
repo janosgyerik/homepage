@@ -144,6 +144,6 @@ Troubleshooting
 
 Sources:
 <ul>
-<li><a href="http://www.oracle.com/technology/pub/articles/smiley_10gdb_install.html">Installing Oracle Database 10g Release 2 on Linux x86</a></li>
-<li><a href="http://www.linuxjournal.com/article/8539">Optimizing Oracle 10g on Linux: Non-RAC ASM vs. LVM</a></li>
+<li>[Installing Oracle Database 10g Release 2 on Linux x86](http://www.oracle.com/technology/pub/articles/smiley_10gdb_install.html)</li>
+<li>[Optimizing Oracle 10g on Linux: Non-RAC ASM vs. LVM](http://www.linuxjournal.com/article/8539)</li>
 </ul>

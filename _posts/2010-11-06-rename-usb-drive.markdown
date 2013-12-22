@@ -10,7 +10,7 @@ tags: []
 ---
 That is, how to change the label of a USB Drive in Linux.
 
-<a href="https://help.ubuntu.com/community/RenameUSBDrive">https://help.ubuntu.com/community/RenameUSBDrive</a>
+[https://help.ubuntu.com/community/RenameUSBDrive](https://help.ubuntu.com/community/RenameUSBDrive)
 
 ```
 sudo mlabel -i /dev/sdd1 ::NewLabel

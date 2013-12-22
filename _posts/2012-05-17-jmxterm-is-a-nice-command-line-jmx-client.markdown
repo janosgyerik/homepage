@@ -43,12 +43,12 @@ java -jar jmxterm.jar --url $service_url -i /path/to/my-jmx.script
 
 You can get jmxterm from here, with good documentation:
 
-<a href="http://wiki.cyclopsgroup.org/jmxterm  ">http://wiki.cyclopsgroup.org/jmxterm</a>
+[http://wiki.cyclopsgroup.org/jmxterm](http://wiki.cyclopsgroup.org/jmxterm  )
 
 If you need a GUI tool, VisualVM (the official tool by Sun) is fantastic.
 
-<a href="http://visualvm.java.net/">http://visualvm.java.net/</a>
+[http://visualvm.java.net/](http://visualvm.java.net/)
 
 I actually blogged about that a while back:
 
-<a href="http://www.janosgyerik.com/how-to-browse-jmx-mbeans/">http://www.janosgyerik.com/how-to-browse-jmx-mbeans/</a>
+[http://www.janosgyerik.com/how-to-browse-jmx-mbeans/](http://www.janosgyerik.com/how-to-browse-jmx-mbeans/)

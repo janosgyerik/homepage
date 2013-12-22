@@ -33,4 +33,4 @@ autocmd WinLeave * setlocal nocursorline
 
 More info:
 - `:help :highlight`
-- <a href="http://vim.wikia.com/wiki/Highlight_current_line">http://vim.wikia.com/wiki/Highlight_current_line</a>
+- [http://vim.wikia.com/wiki/Highlight_current_line](http://vim.wikia.com/wiki/Highlight_current_line)

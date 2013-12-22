@@ -12,7 +12,7 @@ It was my friend Joe's iBook. He kept it running all the time. But one day it ju
 
 When i heard this from Joe, i told him to call the manager. Get himself back his own damn hard drive. But it all seemed too much of a trouble. So Joe looked for other ways instead and found this website:
 
-<a href="http://www.sterpin.net/uk/ddibookg4uk.htm">Replacing the hard drive of a G4 iBook</a>
+[Replacing the hard drive of a G4 iBook](http://www.sterpin.net/uk/ddibookg4uk.htm)
 
 ...and asked me if i thought it was possible that we replace the hard drive ourselves. I said: absolutely.
 

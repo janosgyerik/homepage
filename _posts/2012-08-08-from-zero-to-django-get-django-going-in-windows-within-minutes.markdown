@@ -26,31 +26,31 @@ My 5-step banana ice cream recipe got more reaction in one hour than my usual ge
 <li>latest stable python2.x:
 
 <ul>
-<li><a href="http://www.python.org/ftp/python/2.7.3/python-2.7.3.msi">http://www.python.org/ftp/python/2.7.3/python-2.7.3.msi</a></li>
+<li>[http://www.python.org/ftp/python/2.7.3/python-2.7.3.msi](http://www.python.org/ftp/python/2.7.3/python-2.7.3.msi)</li>
 </ul></li>
 <li>latest stable `setuptools`:
 
 <ul>
-<li><a href="http://pypi.python.org/packages/2.7/s/setuptools/setuptools-0.6c11.win32-py2.7.exe">http://pypi.python.org/packages/2.7/s/setuptools/setuptools-0.6c11.win32-py2.7.exe</a></li>
+<li>[http://pypi.python.org/packages/2.7/s/setuptools/setuptools-0.6c11.win32-py2.7.exe](http://pypi.python.org/packages/2.7/s/setuptools/setuptools-0.6c11.win32-py2.7.exe)</li>
 <li>... just to `easy_install pip`</li>
 </ul></li>
 <li>(optional) latest stable Bazaar:
 
 <ul>
-<li><a href="https://launchpad.net/bzr/2.5/2.5.1/+download/bzr-2.5.1-1-setup.exe">https://launchpad.net/bzr/2.5/2.5.1/+download/bzr-2.5.1-1-setup.exe</a></li>
+<li>[https://launchpad.net/bzr/2.5/2.5.1/+download/bzr-2.5.1-1-setup.exe](https://launchpad.net/bzr/2.5/2.5.1/+download/bzr-2.5.1-1-setup.exe)</li>
 <li>Because the django project is in Bazaar</li>
 <li>... and it is my choice of VCS anyway</li>
 </ul></li>
 <li>(optional) latest stable `git`:
 
 <ul>
-<li><a href="http://code.google.com/p/msysgit/downloads/detail?name=Git-1.7.11-preview20120710.exe">http://code.google.com/p/msysgit/downloads/detail?name=Git-1.7.11-preview20120710.exe</a></li>
+<li>[http://code.google.com/p/msysgit/downloads/detail?name=Git-1.7.11-preview20120710.exe](http://code.google.com/p/msysgit/downloads/detail?name=Git-1.7.11-preview20120710.exe)</li>
 <li>Because of the awesome bash shell</li>
 </ul></li>
 <li>(optional) putty:
 
 <ul>
-<li><a href="http://the.earth.li/~sgtatham/putty/latest/x86/putty-0.62-installer.exe">http://the.earth.li/~sgtatham/putty/latest/x86/putty-0.62-installer.exe</a></li>
+<li>[http://the.earth.li/~sgtatham/putty/latest/x86/putty-0.62-installer.exe](http://the.earth.li/~sgtatham/putty/latest/x86/putty-0.62-installer.exe)</li>
 <li>for ssh, creating keys, and the key agent</li>
 </ul></li>
 </ul>
@@ -77,7 +77,7 @@ My 5-step banana ice cream recipe got more reaction in one hour than my usual ge
 <li>Run in Django's local server: `python manage.py runserver`</li>
 </ol>
 
-Best served in a modern browser like Chrome at <a href="http://localhost:7000/">http://localhost:7000/</a> Enjoy!
+Best served in a modern browser like Chrome at [http://localhost:7000/](http://localhost:7000/) Enjoy!
 
 
 ### Variations for the more adventurous

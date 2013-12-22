@@ -10,4 +10,4 @@ tags: []
 ---
 Vyatta software is a complete, ready-to-use, Debian-based distribution that is designed to transform standard x86 hardware into an enterprise-class router / firewall.
 
-<a href="http://distrowatch.com/table.php?distribution=vyatta">http://distrowatch.com/table.php?distribution=vyatta</a>
+[http://distrowatch.com/table.php?distribution=vyatta](http://distrowatch.com/table.php?distribution=vyatta)

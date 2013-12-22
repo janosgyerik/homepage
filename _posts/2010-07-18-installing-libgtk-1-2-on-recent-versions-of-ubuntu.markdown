@@ -12,7 +12,7 @@ tags: []
 ---
 libgtk-1.2 is very old and unmaintained software, and it has been removed from recent versions of Ubuntu and Debian. Read more here:
 
-<a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=520441">http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=520441</a>
+[http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=520441](http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=520441)
 
 Unfortunately, lots of old games and other apps still depend on it. If you must, install it with:
 
@@ -24,4 +24,4 @@ sudo apt-get install libgtk1.2
 
 I needed this to install Darwinia, it seems it is also needed for Uplink and other games.
 
-<a href="http://www.introversion.co.uk/darwinia/">http://www.introversion.co.uk/darwinia/</a>
+[http://www.introversion.co.uk/darwinia/](http://www.introversion.co.uk/darwinia/)

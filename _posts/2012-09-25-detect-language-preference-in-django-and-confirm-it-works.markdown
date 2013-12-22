@@ -43,4 +43,4 @@ curl http://localhost:8000/mylang --header 'Accept-Language: de' --cookie django
 
 For more details see the official documentation:
 
-<a href="https://docs.djangoproject.com/en/dev/topics/i18n/translation/#how-django-discovers-language-preference">https://docs.djangoproject.com/en/dev/topics/i18n/translation/#how-django-discovers-language-preference</a>
+[https://docs.djangoproject.com/en/dev/topics/i18n/translation/#how-django-discovers-language-preference](https://docs.djangoproject.com/en/dev/topics/i18n/translation/#how-django-discovers-language-preference)

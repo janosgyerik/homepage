@@ -15,7 +15,7 @@ We use this as a debugging tool for portable environmental sensors that can tran
 
 The application is FREE and open-source, contributions are very much welcome. For more details see the project homepage:
 
-<a href="http://blog.ecomobilecitizen.com/contact/bluetoothviewer/">http://blog.ecomobilecitizen.com/contact/bluetoothviewer/</a>
+[http://blog.ecomobilecitizen.com/contact/bluetoothviewer/](http://blog.ecomobilecitizen.com/contact/bluetoothviewer/)
 
 <a href="http://market.android.com/details?id=net.bluetoothviewer"> <img src="http://www.android.com/images/brand/60_avail_market_logo1.png" alt="Available in Android Market" /></a>
 

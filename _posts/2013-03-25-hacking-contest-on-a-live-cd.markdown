@@ -10,10 +10,10 @@ categories:
 - Software
 tags: []
 ---
-I built a remastered Linux Live CD that should be interesting, educational, and highly entertaining for any self-respecting programmer: a security challenge with 6 levels based on the online contest created by <a href="https://stripe.com/blog/capture-the-flag">Stripe</a> in early 2012.
+I built a remastered Linux Live CD that should be interesting, educational, and highly entertaining for any self-respecting programmer: a security challenge with 6 levels based on the online contest created by [Stripe](https://stripe.com/blog/capture-the-flag) in early 2012.
 
-The CD contains a very light Linux system (based on <a href="http://www.tinycorelinux.net/">Tiny Core</a>), the ISO image is less than 30 megabytes. You can download it from here:
-<a href="https://sourceforge.net/projects/ctfomatic/files/">https://sourceforge.net/projects/ctfomatic/files/</a>
+The CD contains a very light Linux system (based on [Tiny Core](http://www.tinycorelinux.net/)), the ISO image is less than 30 megabytes. You can download it from here:
+[https://sourceforge.net/projects/ctfomatic/files/](https://sourceforge.net/projects/ctfomatic/files/)
 
 The easiest way to use the Live CD is with a software like VirtualBox: create a virtual machine with no hard disk and 256MB memory and point the CD device to the ISO file and that's it, start the VM! The Live CD uses US qwerty keyboard by default, you can change that by passing a boot parameter at the boot prompt, for example:
 

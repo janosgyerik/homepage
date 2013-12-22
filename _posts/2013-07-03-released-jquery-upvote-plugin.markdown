@@ -12,7 +12,7 @@ tags: []
 ---
 Published my first ever jQuery plugin just now: jQuery Upvote
 
-<a href="http://plugins.jquery.com/upvote/">http://plugins.jquery.com/upvote/</a>
+[http://plugins.jquery.com/upvote/](http://plugins.jquery.com/upvote/)
 
 The plugin simply generates a voting widget like the one used on Stack Exchange sites:
 <ul>
@@ -22,8 +22,8 @@ The plugin simply generates a voting widget like the one used on Stack Exchange 
 	<li>You can star (= favorite) and unstar</li>
 	<li>A callback method is fired on any update (upvote, downvote, star, and their reverse)</li>
 </ul>
-See it in action: <a href="http://janosgyerik.github.io/jquery-upvote/">http://janosgyerik.github.io/jquery-upvote/</a>
+See it in action: [http://janosgyerik.github.io/jquery-upvote/](http://janosgyerik.github.io/jquery-upvote/)
 
-Documentation: <a href="https://github.com/janosgyerik/jquery-upvote/blob/master/README.md">https://github.com/janosgyerik/jquery-upvote/blob/master/README.md</a>
+Documentation: [https://github.com/janosgyerik/jquery-upvote/blob/master/README.md](https://github.com/janosgyerik/jquery-upvote/blob/master/README.md)
 
-I've been needing this BADLY to add voting features on <a href="http://www.bashoneliners.com/">http://www.bashoneliners.com/</a>. Hopefully that's coming soon too ;-)
+I've been needing this BADLY to add voting features on [http://www.bashoneliners.com/](http://www.bashoneliners.com/). Hopefully that's coming soon too ;-)

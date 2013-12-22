@@ -19,4 +19,4 @@ If you are using a Linux desktop (with a GUI), then the above is probably easy t
 
 However, if you are not using a Linux desktop then your best option is to concoct some home-brew hack that you add to your ~/.bash_profile to make it automatic every time you log in. Here's my own concoction that has evolved over the years into something readable, kept up to date on my wiki:
 
-<a href="http://wiki.titan2x.com/index.php?title=Setup_ssh_agent_automatically_on_login">http://wiki.titan2x.com/index.php?title=Setup_ssh_agent_automatically_on_login</a>
+[http://wiki.titan2x.com/index.php?title=Setup_ssh_agent_automatically_on_login](http://wiki.titan2x.com/index.php?title=Setup_ssh_agent_automatically_on_login)

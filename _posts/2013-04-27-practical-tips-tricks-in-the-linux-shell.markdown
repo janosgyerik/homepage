@@ -20,5 +20,5 @@ https://speakerdeck.com/janosgyerik/time-saving-tricks-on-the-command-line
 	<li>The JavaScript seems to go crazy in the presentation editor. The longer I use it, the heavier it gets, until I do a clean fresh reload.</li>
 </ul>
 </li>
-	<li>I used the <a href="http://wordpress.org/extend/plugins/speakerdeck-embed/">Speaker Deck Embed</a> plugin to embed the presentation here. Oh and Speaker Deck is really awesome.</li>
+	<li>I used the [Speaker Deck Embed](http://wordpress.org/extend/plugins/speakerdeck-embed/) plugin to embed the presentation here. Oh and Speaker Deck is really awesome.</li>
 </ul>

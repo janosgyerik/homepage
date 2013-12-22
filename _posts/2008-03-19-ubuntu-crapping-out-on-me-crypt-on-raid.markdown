@@ -21,6 +21,6 @@ is corrupt, and you might try running e2fsck with an alternate superblock:
     e2fsck -b 8193 &lt;device&gt;</blockquote>
 
 This is precisely the same issue as this guy was seeing in debian:
-<a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=393728">dm-crypt on raid does not play nicely</a>
+[dm-crypt on raid does not play nicely](http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=393728)
 
 Conclusion: at the moment crypt on raid doesn't work in ubuntu/debian releases. (You can probably make it work based on the article above.)

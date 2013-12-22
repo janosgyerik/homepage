@@ -9,12 +9,12 @@ categories:
 - News
 tags: []
 ---
-Another nicely put together hacking challenge by <a href="http://twitter.com/stripe">@stripe</a>.
+Another nicely put together hacking challenge by [@stripe](http://twitter.com/stripe).
 
-<a href="https://stripe.com/blog/capture-the-flag-20">https://stripe.com/blog/capture-the-flag-20</a>
+[https://stripe.com/blog/capture-the-flag-20](https://stripe.com/blog/capture-the-flag-20)
 
 Flex your hacking muscles in 8 increasingly difficult challenges. This time the challenge is more web oriented. What? You think just because you're not a web programmer you don't need to know this stuff? Oh I think you do mister! Now get your ass over there and put some effort in it. The contest ends on August 29, 2012.
 
 You can skip the intro and dive right in on this page:
 
-<a href="https://stripe-ctf.com/account">https://stripe-ctf.com/account</a>
+[https://stripe-ctf.com/account](https://stripe-ctf.com/account)

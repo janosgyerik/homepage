@@ -12,15 +12,15 @@ Orange is my internet provider in France. It seems Free is cheaper, but for now 
 
 First of all, if you can read French you should check first this article:
 
-<a href="http://www.porciello.com/inventel/tv_vlc.htm">http://www.porciello.com/inventel/tv_vlc.htm</a>
+[http://www.porciello.com/inventel/tv_vlc.htm](http://www.porciello.com/inventel/tv_vlc.htm)
 
 Probably because I cannot read French well, the article was only a little help, in my case this is how it worked.
 
-1. If you have already used the Orange decoder and watched TV, you can skip this step. Otherwise, you need to connect the decoder at least once to activate your subscription. First of all, confirm on <a href="http://livebox/">http://livebox/</a> the ethernet ports that provide TV. With Livebox 2 the only configuration that worked for me is when port yellow (jaune) and green (vert) provide TV exclusively (no internet). You can set this up in Configuration / Services / TV numerique, Option multi-decoders must be checked. After this, connect your decoder to your screen (with HDMI), and go through the initial setup, where you have to enter your TV access codes. After this you won't need the decoder anymore.
+1. If you have already used the Orange decoder and watched TV, you can skip this step. Otherwise, you need to connect the decoder at least once to activate your subscription. First of all, confirm on [http://livebox/](http://livebox/) the ethernet ports that provide TV. With Livebox 2 the only configuration that worked for me is when port yellow (jaune) and green (vert) provide TV exclusively (no internet). You can set this up in Configuration / Services / TV numerique, Option multi-decoders must be checked. After this, connect your decoder to your screen (with HDMI), and go through the initial setup, where you have to enter your TV access codes. After this you won't need the decoder anymore.
 
 2. Download the playlist file from:
 
-<a href="http://download.porciello.com/orange/tv/BouquetTV_Orange_v2.4.m3u">http://download.porciello.com/orange/tv/BouquetTV_Orange_v2.4.m3u</a>
+[http://download.porciello.com/orange/tv/BouquetTV_Orange_v2.4.m3u](http://download.porciello.com/orange/tv/BouquetTV_Orange_v2.4.m3u)
 
 3. Connect your computer to port yellow or green with an ethernet cable. It does not work for me over wifi. In fact, I have to disconnect wifi first before I can watch TV. Then, while watching TV I reconnect wifi and browse internet, but cannot change TV channels. Probably this can be fixed by setting up network routes properly. If this is the first time you will watch TV, it's safer to disconnect wifi now.
 

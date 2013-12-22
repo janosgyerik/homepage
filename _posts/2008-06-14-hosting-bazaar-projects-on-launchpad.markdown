@@ -10,7 +10,7 @@ categories:
 - Software
 tags: []
 ---
-What is <a href="https://launchpad.net/">Launchpad</a>?
+What is [Launchpad](https://launchpad.net/)?
 
 <blockquote>Launchpad is a free software hosting and development website. We make it easy to collaborate across multiple projects.</blockquote>
 <br />
@@ -18,14 +18,14 @@ What is <a href="https://launchpad.net/">Launchpad</a>?
 You can use it to 
 <ol>
 <li>Develop your custom Ubuntu packages.</li>
-<li>Host your projects in the <a href="http://bazaar-vcs.org/">Bazaar VCS</a>.</li>
+<li>Host your projects in the [Bazaar VCS](http://bazaar-vcs.org/).</li>
 </ol>
 
 Of course, all the projects you host there will be public. Write operations are accomplished using SSH public keys. 
 
 Setup steps:
 <ol>
-<li>Login to Launchpad, go to the `Code` tab. <a href="https://code.launchpad.net/~janos-gyerik">This is mine</a></li>
+<li>Login to Launchpad, go to the `Code` tab. [This is mine](https://code.launchpad.net/~janos-gyerik)</li>
 <li>Click on `Register a branch` button.</li>
 <li>There are different hosting options. I chose `Hosted` to make Launchpad the primary location of my project. Projects of this type are updated with `bzr push` command.</li>
 <li>Before you can push to Launchpad you need two things. 
