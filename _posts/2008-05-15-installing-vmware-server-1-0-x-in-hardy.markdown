@@ -7,7 +7,6 @@ date: 2008-05-15 08:52:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 Of course you need the usual requirements:
 

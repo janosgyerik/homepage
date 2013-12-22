@@ -7,7 +7,6 @@ date: 2009-04-23 05:54:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 Had a strange issue just now. Although the value returned by `getenv` was not `NULL`, any attempts to access the memory pointed to by it resulted in segmentation fault.
 

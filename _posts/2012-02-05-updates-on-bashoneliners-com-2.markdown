@@ -8,7 +8,6 @@ categories:
 - News
 - Software
 tags: []
-comments: []
 ---
 <ul>
 	<li>Migrated to Bootstrap 2 from Twitter. Thanks to that the site is now readable on mobile devices, with fluid flowing text.</li>

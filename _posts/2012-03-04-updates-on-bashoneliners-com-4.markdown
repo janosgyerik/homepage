@@ -8,7 +8,6 @@ categories:
 - News
 - Software
 tags: []
-comments: []
 ---
 <ul>
 	<li>Logo! Replaced the old logo with a new one on Launchpad and Twitter.</li>

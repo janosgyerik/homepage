@@ -7,7 +7,6 @@ date: 2011-05-07 20:58:19.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 I don't like applets. They are troublesome and slow. But that doesn't change the fact that sometimes I still have to work with it.
 

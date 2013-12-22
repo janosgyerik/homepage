@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 Adding all unknown files in a working tree is usually very simple in other version control systems, for example:
 

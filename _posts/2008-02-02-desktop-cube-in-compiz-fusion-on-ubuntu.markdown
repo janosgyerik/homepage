@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 I've been using Beryl for some time now, until Feisty, to be exact. To my surprise Gutsy no longer had packages for Beryl. Luckily it has Compiz. 
 

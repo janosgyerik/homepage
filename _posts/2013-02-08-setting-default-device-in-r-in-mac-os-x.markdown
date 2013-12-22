@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 On Mac OS X, for some reason the default device for displaying plots is Quartz. This can be inconvenient, since for example the `savePlot` function works only with X11 devices with Cairo support.
 

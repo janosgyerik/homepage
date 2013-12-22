@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 Find Bluetooth devices nearby, this assumes the devices have been configured to be discoverable:
 

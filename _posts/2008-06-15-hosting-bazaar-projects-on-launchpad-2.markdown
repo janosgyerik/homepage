@@ -7,7 +7,6 @@ date: 2008-06-15 08:23:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 Wow. Actually, you don't need to go through all that stuff I wrote in the last post. If you have a Launchpad account, and configured SSH public keys, you can simply push to Launchpad, anywhere! Like this:
 

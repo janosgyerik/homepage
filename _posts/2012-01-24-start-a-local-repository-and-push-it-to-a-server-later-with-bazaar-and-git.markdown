@@ -9,7 +9,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 Once you get comfortable with distributed version control, this probably becomes a habit: whenever you start hacking on something new you create a local repository right away, and only later on you push it to a server (for backup). With Bazaar you can even switch to a centralized workflow (the server becomes a master) at any time (and switch back).
 <h3>With Bazaar</h3>

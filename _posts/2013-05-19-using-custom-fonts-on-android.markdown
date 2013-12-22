@@ -9,7 +9,6 @@ categories:
 - News
 - Software
 tags: []
-comments: []
 ---
 The default fonts you can choose from when developing for Android are not very interesting. Normally they are OK for my simple purposes, but for once I wanted something a little bit prettier for my new app, <a href="https://play.google.com/store/apps/details?id=com.happymoments.lite">Happy Moments</a>.
 

@@ -6,7 +6,6 @@ title: Wine Notes
 date: 2012-11-18 07:37:55.000000000 +01:00
 categories: []
 tags: []
-comments: []
 ---
 This simple app helps you make wine notes fast and easy.<a href="http://www.janosgyerik.com/wp-content/uploads/2012/11/android.png"><img class="alignright size-thumbnail wp-image-827" title="android" src="http://www.janosgyerik.com/wp-content/uploads/2012/11/android-150x150.png" alt="" width="150" height="150" /></a>
 

@@ -8,7 +8,6 @@ categories:
 - News
 - Software
 tags: []
-comments: []
 ---
 This is the first official release of <a href="http://www.bashoneliners.com/">bashoneliners.com</a> and here's the list of main features.
 <ol>

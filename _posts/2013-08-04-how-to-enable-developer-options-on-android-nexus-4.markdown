@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 I spent a couple of long minutes looking for the developer menu on my shiny new Nexus 4. I was looking for the options normally called <strong>USB debugging</strong> and <strong>Stay awake</strong>, normally under <strong>Applications / Development</strong>. I could not find them anywhere on this otherwise beautiful piece. Strangely, the menu is disabled by default. You can enable by following these steps:
 <ul>

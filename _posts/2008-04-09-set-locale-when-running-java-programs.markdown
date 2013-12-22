@@ -7,6 +7,5 @@ date: 2008-04-09 01:55:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 <blockquote>java -Duser.language=ja MyClass</blockquote>

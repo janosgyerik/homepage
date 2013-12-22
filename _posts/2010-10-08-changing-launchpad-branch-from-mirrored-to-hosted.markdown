@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 I realized the lp:senspodapp branch is not so good to have Mirrored. I set it to mirror from the location where I usually develop, but my development branch is not always 100% clean, and it's better to keep official releases separate anyway. So I wanted to change it from Mirrored to Hosted, which would effectively mean that lp:senspodapp gets updated when I explicitly do so, and I can get on with my development in my own branch http://bzr.titan2x.com/android/SenspodApp
 

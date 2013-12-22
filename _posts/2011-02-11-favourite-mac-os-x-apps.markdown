@@ -8,7 +8,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 <ul>
 	<li>Google Chrome</li>

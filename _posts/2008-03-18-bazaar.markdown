@@ -9,7 +9,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 What is Bazaar? <blockquote>Bazaar is a distributed version control system that Just Works and adapts to the workflows you want to use.</blockquote>
 

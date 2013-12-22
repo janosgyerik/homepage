@@ -8,7 +8,6 @@ categories:
 - News
 - Software
 tags: []
-comments: []
 ---
 <ul>
 	<li>Now you can post comments on one-liners</li>

@@ -8,7 +8,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 <a href="http://statsvn.org/">StatSVN</a> is easy to use and free, and can reveal interesting statistics about the commit history of a Subversion repository.
 

@@ -8,7 +8,6 @@ categories:
 - Musings
 - News
 tags: []
-comments: []
 ---
 Another nicely put together hacking challenge by <a href="http://twitter.com/stripe">@stripe</a>.
 

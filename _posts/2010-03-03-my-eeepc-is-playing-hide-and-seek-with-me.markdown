@@ -7,7 +7,6 @@ date: 2010-03-03 14:25:48.000000000 +01:00
 categories:
 - Musings
 tags: []
-comments: []
 ---
 Usually I work on my EEEPC 1000 HA in the morning and the evening on the train to and from work. I configured it to hibernate when I close the lid. When I get home I put it on the charger for about an hour.
 

@@ -9,7 +9,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 Many of my friends are getting into Bazaar or other distributed version control these days.
 

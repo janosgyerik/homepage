@@ -7,7 +7,6 @@ date: 2008-10-17 09:28:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 Downloaded a bunch of c++ books but the files were in DAA format. Found a neat utility called daa2iso developed by some dude, but it didn't work. The only alternative at the moment was PowerISO, a windows tool. I thought it's time to give `wine` a shot. And it worked brilliantly too.
 <ul>

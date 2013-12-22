@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 By default `screen` does not start as a login shell, and therefore `.bash_profile` is not sourced. (Wonder what is the rationale behind this decision, considering that 99% of the time I use it as login shell...)
 

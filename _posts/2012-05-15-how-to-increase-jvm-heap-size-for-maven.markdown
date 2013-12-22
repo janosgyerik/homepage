@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 Do not edit mvn (or mvn.bat) itself. Add any necessary JVM arguments to the MAVEN_OPTS environment variable.
 

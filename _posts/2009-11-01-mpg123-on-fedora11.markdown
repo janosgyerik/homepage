@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Musings
 tags: []
-comments: []
 ---
 I needed mpg123 to burn an audio CD with cdrecord on my Fedora 11 system at home. Since it's not in Fedora's standard repos, googled for it, and found this.
 

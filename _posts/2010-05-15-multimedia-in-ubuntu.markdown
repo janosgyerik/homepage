@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 To install packages related to dvd playback, media players, codecs in ubuntu, this is the place to go:
 

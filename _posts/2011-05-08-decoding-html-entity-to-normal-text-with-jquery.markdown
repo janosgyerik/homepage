@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 I display Google Local Search results in custom InfoWindows and text input fields. Recently I discovered that if place titles have html entity characters in their name such as &amp;quot;, they show up in their encoded forms if I print them with:
 

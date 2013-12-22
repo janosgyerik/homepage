@@ -7,7 +7,6 @@ date: 2008-10-12 01:29:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 <blockquote>
 

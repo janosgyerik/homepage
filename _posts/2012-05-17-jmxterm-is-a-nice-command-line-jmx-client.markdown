@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 Suppose you have exposed some mbeans using JMX. You can connect to the JMX service like this:
 

@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 In this example I use the "bashoneliners" project, replace the project name appropriately for your case.
 

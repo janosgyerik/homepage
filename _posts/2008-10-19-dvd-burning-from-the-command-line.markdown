@@ -7,7 +7,6 @@ date: 2008-10-19 13:44:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 In Ubuntu or Debian:
 <ul>

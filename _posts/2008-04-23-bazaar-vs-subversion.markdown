@@ -8,7 +8,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 A Bazaar repository check-out contains the complete revision history. This has the advantage that the check-out itself can act as a repository and the disadvantage of more network data transfer during initial check-out.
 

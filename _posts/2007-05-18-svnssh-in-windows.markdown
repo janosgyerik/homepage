@@ -7,7 +7,6 @@ date: 2007-05-18 08:31:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 Whether I tried from a client like RapidSVN or from the command line, this is the error I got:
 

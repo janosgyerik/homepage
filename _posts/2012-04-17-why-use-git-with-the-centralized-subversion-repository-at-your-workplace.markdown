@@ -8,7 +8,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 Subversion is pretty mainstream these days. Luckily, git can work with a Subversion repository just fine. So, just because your workplace is using Subversion as the central repository, you can work with it using git if you want. Using git you can checkout from Subversion, use it locally enjoying all its benefits, and occasionally commit your work back to Subversion.
 

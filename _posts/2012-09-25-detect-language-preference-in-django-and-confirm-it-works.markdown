@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 Django has built-in facility for detecting the preferred language of clients, but it is not enabled by default.
 

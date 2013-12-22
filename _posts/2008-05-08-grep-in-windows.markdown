@@ -7,7 +7,6 @@ date: 2008-05-08 04:30:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 `findstr` in windows works similarly to `grep` in unix. For example you can do this:
 

@@ -7,7 +7,6 @@ date: 2007-06-14 00:52:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 <dl>
 <dt>Scenario</dt>

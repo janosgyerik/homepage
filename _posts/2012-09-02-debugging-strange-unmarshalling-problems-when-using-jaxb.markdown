@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 The other day I had a very strange unmarshalling issue with jaxb: unmarshalling (deserializing) from an XML file and then marshalling (serializing) the same object to another XML file resulted in different content. There were no errors thrown in the process and I had no idea as to why.
 

@@ -7,7 +7,6 @@ date: 2012-08-20 10:28:33.000000000 +02:00
 categories:
 - Musings
 tags: []
-comments: []
 ---
 Obviously everybody has a different approach to this. Mine involves these main elements:
 <ol>

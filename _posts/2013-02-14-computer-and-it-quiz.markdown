@@ -8,7 +8,6 @@ categories:
 - Musings
 - News
 tags: []
-comments: []
 ---
 Recently I started contributing to this fun <a href="https://play.google.com/store/apps/details?id=quizHarness.quiz">Computer and IT Quiz</a> app on Android:
 

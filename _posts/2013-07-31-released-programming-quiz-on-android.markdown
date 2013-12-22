@@ -9,7 +9,6 @@ categories:
 - News
 - Software
 tags: []
-comments: []
 ---
 <a style="line-height: 1.714285714; font-size: 1rem;" href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite"><img class="alignright" alt="" src="https://lh3.ggpht.com/ZY195NpGY-iPM_yf5W3F-J7qlbAaOn9DuiF5cUkVM8_5MRBgh_v4M1w1Ou-SrbiuFQ=w300-rw" width="180" height="180" /></a>
 

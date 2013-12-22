@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 Have you ever read the full `man bash`? Me: nah-uh... It's way too much! Deep deep deep stuff.
 

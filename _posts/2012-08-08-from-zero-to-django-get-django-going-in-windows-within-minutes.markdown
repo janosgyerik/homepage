@@ -9,7 +9,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 My 5-step banana ice cream recipe got more reaction in one hour than my usual geeky posts in years. Maybe I should combine the two concepts! Or maybe not. Heck, I already like this title so here's the geeky recipe: a *decidedly imperfect* recipe for getting my django project up and running on a fresh new install of windows.
 

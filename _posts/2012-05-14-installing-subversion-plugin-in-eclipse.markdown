@@ -8,7 +8,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 Sometimes Eclipse really sucks. Today I wanted to upgrade my subversion plugin and ended up wasting a lot of time on it.
 

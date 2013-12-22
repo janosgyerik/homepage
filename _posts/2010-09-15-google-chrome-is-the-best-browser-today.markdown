@@ -8,7 +8,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 I remember when I tried Opera I was bitching a LOT about it...
 

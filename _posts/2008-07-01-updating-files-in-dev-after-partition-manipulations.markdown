@@ -7,7 +7,6 @@ date: 2008-07-01 09:04:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 <ul>
 	<li>After editing the partition table, to have the proper device files created under `/dev`, run: `partprobe`. (It is in `parted` package.)</li>

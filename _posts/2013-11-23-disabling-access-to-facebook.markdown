@@ -7,7 +7,6 @@ date: 2013-11-23 19:16:18.000000000 +01:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 Here's a little tip for the not-so-tech-savvy, because it's important.
 

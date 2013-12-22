@@ -7,7 +7,6 @@ date: 2012-12-17 22:13:53.000000000 +01:00
 categories:
 - Uncategorized
 tags: []
-comments: []
 ---
 <img class="alignright" title="RecipeNotes" alt="" src="https://lh5.ggpht.com/2uWBuuaZn5UJnCwTDhk2CZVZQVtev_gH55heQAqLw7yh-96lAO-YqZq_UX9qh3f_oQhC=w124" width="124" height="124" />The new version of Recipe Notes (v1.3) is now available on Google Play. New in this version:
 <ul>

@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 I want to create good documentation of the classes and their relationships in my Java project but without drawing it all by myself. And if there are changes in the future it would be great if it can be automated. After a brief search and trying different products, eUML2 Eclipse plugin seems quite nice for this purpose.
 

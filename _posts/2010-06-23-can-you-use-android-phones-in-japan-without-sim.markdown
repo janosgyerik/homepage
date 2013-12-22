@@ -7,6 +7,5 @@ date: 2010-06-23 21:48:37.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 Yes! But, if it is reset to factory settings, you will need a Docomo SIM to do the "initial setup", which is a few clicks, to accept the End User License Agreement (or something like that). After that you can remove the SIM and use it with WIFI.

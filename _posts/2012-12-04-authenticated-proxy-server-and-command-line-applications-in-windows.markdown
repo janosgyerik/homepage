@@ -7,7 +7,6 @@ date: 2012-12-04 21:17:24.000000000 +01:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 I tend to forget a couple of "gotchas" when working in an environment with a proxy server and restricted internet access. So these are a few reminders to self.
 

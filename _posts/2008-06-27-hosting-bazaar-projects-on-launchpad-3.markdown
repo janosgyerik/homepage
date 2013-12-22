@@ -7,7 +7,6 @@ date: 2008-06-27 23:43:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 Adding to the previous posts...
 

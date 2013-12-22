@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 A long-standing bug with Bazaar/Launchpad has finally been resolved! Until recently I was not able to checkout anything from Launchpad through a corporate proxy, getting errors like:
 

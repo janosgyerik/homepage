@@ -7,7 +7,6 @@ date: 2012-03-28 06:55:20.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 For many years now it is a commonly known good practice to use ssh public key authentication to login to remote servers, and that ssh-agent can store your passphrase so that you don't have to enter it every time you login with your keys.
 

@@ -7,7 +7,6 @@ date: 2013-06-16 17:31:27.000000000 +02:00
 categories:
 - Uncategorized
 tags: []
-comments: []
 ---
 I put together a simple presentation about some of the amazing features of GitHub. I focus on stuff that can be very useful even for folks who might not know Git and GitHub very well, or not at all. The idea is that by starting to use GitHub, they just might actually get on the fast track to becoming full-time Git users, who knows...
 

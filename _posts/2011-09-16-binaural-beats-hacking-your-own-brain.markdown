@@ -9,7 +9,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 I hesitated for a second whether this belongs to a journal of hacks. But hey, it's actually hacking my own brain, so sure it is a hack!
 

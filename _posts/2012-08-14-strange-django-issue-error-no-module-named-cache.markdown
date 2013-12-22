@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 Just now when running `./manage.py syncdb` Django (1.4) gave a strange error:
 

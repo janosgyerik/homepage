@@ -7,7 +7,6 @@ date: 2012-10-23 19:39:53.000000000 +02:00
 categories:
 - Software
 tags: []
-comments: []
 ---
 Notepad++ is not exactly my cup of tea (being a gvim fanatic), nonetheless it's a fine text editor in Windows.
 

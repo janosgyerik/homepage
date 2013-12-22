@@ -9,7 +9,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 What is <a href="https://launchpad.net/">Launchpad</a>?
 

@@ -7,7 +7,6 @@ date: 2008-10-24 14:33:00.000000000 +02:00
 categories:
 - Musings
 tags: []
-comments: []
 ---
 Finally I released my flashcards project. Here it is:
 

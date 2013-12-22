@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 First of all, <a href="http://xbmc.org/">XBMC</a> looks really awesome:
 

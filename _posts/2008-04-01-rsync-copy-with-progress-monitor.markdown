@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 I always wanted to see the progress of a `cp` command. For example it can be quite frustrating when you copy huge files like VMware machines and the screen doesn't show anything for long minutes or hours. I really should get my ass up and learn how to use `rsync`, but for the time being simply copying files with progress monitor is good enough.
 

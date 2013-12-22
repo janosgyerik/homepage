@@ -9,7 +9,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 Sometimes you might not have enough disk space on the `/tmp` directory but need it badly. For example when creating a `deb` package from a Java tarball in Debian using `make-jpkg`, there's no command line parameter or any other apparent means to specify an alternative working directory for temporary files.
 

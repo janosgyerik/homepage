@@ -7,7 +7,6 @@ date: 2009-11-17 21:13:41.000000000 +01:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 On most keyboards the CapsLock is at the perfect location for a Control key, something I use much more often, so the first thing I do after installing a new system is remap CapsLock to be a Control key instead.
 

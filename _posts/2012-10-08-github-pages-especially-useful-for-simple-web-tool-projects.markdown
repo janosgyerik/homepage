@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 One of the great features of GitHub is free hosting for your projects. All you have to do is put your web content in a branch named gh-pages and push the branch to GitHub.
 

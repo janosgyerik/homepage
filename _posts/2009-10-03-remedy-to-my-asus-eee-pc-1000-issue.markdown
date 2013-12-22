@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Musings
 tags: []
-comments: []
 ---
 I have a major problem with the title netbook from the day I bought it. After roughly 6-8 hours overall running time, it freezes at some point randomly, with nothing interesting in `/var/log/messages` or anywhere else. It runs Easy Peasy btw.
 

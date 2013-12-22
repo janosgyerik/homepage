@@ -7,6 +7,5 @@ date: 2008-11-16 10:09:00.000000000 +01:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 <blockquote>:bufdo %s/pattern/substitution/ge | update</blockquote>

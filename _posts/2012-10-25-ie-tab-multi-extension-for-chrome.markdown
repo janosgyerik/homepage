@@ -7,7 +7,6 @@ date: 2012-10-25 12:08:08.000000000 +02:00
 categories:
 - Software
 tags: []
-comments: []
 ---
 This is a Chrome extension to open a tab with IE inside in the Chrome browser. Handy for all ye poor souls who from time to time have to access some sites that only work in IE!
 

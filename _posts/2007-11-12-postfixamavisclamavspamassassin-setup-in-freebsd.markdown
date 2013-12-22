@@ -7,7 +7,6 @@ date: 2007-11-12 01:16:00.000000000 +01:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 A friend's sysadmin went missing so was left with a broken mail server that did not deliver anything. There are plenty of articles on doing this in Linux, the challenge was doing it in FreeBSD 5.4, when the latest stable version is 6.2.
 

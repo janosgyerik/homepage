@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 Two things to do: configure the email parameters and enable the hook.
 

@@ -8,7 +8,6 @@ categories:
 - News
 - Software
 tags: []
-comments: []
 ---
 I took my time, but finally here are a bunch of improvements I just released on <a href="http://bashoneliners.com">bashoneliners.com</a>, check it out!
 

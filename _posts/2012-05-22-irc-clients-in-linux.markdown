@@ -8,6 +8,5 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 Empathy can connect to IRC, the required package in debian is `telepathy-idle`. This was not obvious (to me), because `apt-cache search empathy irc` returned no results.

@@ -9,7 +9,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 I have a server in the storage room. And I used to have a long LAN cable all the way from the big black computer in my living room to the server. That's a thing of the past now.
 

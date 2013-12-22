@@ -8,7 +8,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 My hard disk started showing signs of slow and painful death, so after I backed up all my data I confirmed with smartctl that yes, it's dying.
 <blockquote>smartctl -t long /dev/sda smartctl -a /dev/sda</blockquote>

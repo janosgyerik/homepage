@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 When coding in python, I've been hit by the following error every once in a while:
 

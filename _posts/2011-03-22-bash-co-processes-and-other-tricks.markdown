@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Musings
 tags: []
-comments: []
 ---
 I thought I already knew all the most practical tricks in bash. But I have a feeling I found something I will use a lot, check it out:
 

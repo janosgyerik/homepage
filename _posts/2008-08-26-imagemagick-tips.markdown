@@ -7,7 +7,6 @@ date: 2008-08-26 04:37:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 Recently I started playing around with WordPress. There are meny free themes that are absolutely cool. But don't you hate it when the included banner image is too wide or too narrow and it fixes your content to a specific size and you want to change it? Well I do. Luckily ImageMagick makes this easy, and that without firing up Gimp. You can make an image narrower by cutting out a slice. You can make it wider by duplicating a slice, that is, cut the image into 3 slices, left + middle + right, and paste it back together but with the middle slice multiplied.
 

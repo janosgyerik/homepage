@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 USB debugging of my Google Nexus 4 phone used to work just fine from my Debian desktop. Until someday it just stopped working. The symptoms looked like this:
 

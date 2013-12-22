@@ -7,7 +7,6 @@ date: 2008-12-25 00:46:00.000000000 +01:00
 categories:
 - Musings
 tags: []
-comments: []
 ---
 <ol>
 	<li>Time since last paycheck</li>

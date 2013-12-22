@@ -7,7 +7,6 @@ date: 2006-10-16 17:01:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 It was my friend Joe's iBook. He kept it running all the time. But one day it just froze. (Btw, this happened shortly after he upgraded to iTunes7... Coincidence?) After restarting, the system wouldn't come up. So he took it to Mac. They said the hard drive is busted. They can replace it for $500. You would think it's natural that they either recover your data or return your busted hard drive, right? Well at least i thought so. But no, they said they won't recover the data and won't give back the broken hard drive.
 

@@ -7,7 +7,6 @@ date: 2010-12-06 00:29:23.000000000 +01:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 The authoritative documentation is here:
 <a href="https://help.ubuntu.com/community/JapaneseInput">https://help.ubuntu.com/community/JapaneseInput</a>

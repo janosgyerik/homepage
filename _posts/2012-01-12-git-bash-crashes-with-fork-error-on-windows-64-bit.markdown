@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 If you are on a 64-bit windows system, and start bash that's included with git from a DOS command prompt and experience fork errors like this:
 

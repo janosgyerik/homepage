@@ -8,7 +8,6 @@ categories:
 - News
 - Software
 tags: []
-comments: []
 ---
 I am happy to announce that my book "Bazaar Version Control" has been released, and it is now available in online stores:
 <a href="https://www.packtpub.com/bazaar-version-control/book">https://www.packtpub.com/bazaar-version-control/book</a>

@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 Recently I needed to do something in a post-commit Subversion hook that can take a long time, and unless the hook runs in the background, the repository would be unavailable until the hook completes.
 

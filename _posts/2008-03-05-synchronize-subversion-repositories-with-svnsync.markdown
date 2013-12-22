@@ -7,7 +7,6 @@ date: 2008-03-05 17:41:00.000000000 +01:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 I backup my svn repositories using `svnadmin dump`. From a dump like that a repository can be fully restored at any location via `svnadmin load`.
 

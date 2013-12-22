@@ -7,7 +7,6 @@ date: 2008-06-04 08:12:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 The instructions on Launchpad are excellent, of course.
 <a href="http://bazaar-vcs.org/BzrEclipse/Installation">http://bazaar-vcs.org/BzrEclipse/Installation</a>

@@ -7,7 +7,6 @@ date: 2010-06-23 21:38:12.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 <ol>
 	<li>Exit Firefox if it's running. (Yes this means you cannot run multiple profiles at the same time.)</li>

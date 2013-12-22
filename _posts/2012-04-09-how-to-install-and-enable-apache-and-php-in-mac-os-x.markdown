@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 Mac OS X 10.5 (Leopard) comes preinstalled with Apache 2 and PHP 5, you just have to enable them.
 

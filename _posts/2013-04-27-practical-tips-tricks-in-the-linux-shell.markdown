@@ -8,7 +8,6 @@ categories:
 - Musings
 - News
 tags: []
-comments: []
 ---
 I put together this simple presentation about a few simple but very effective practical tips that should make you lightning fast on the command line. I use these literally every minute I spend in the shell. All the tips should work in Linux, UNIX, BSD and similar.
 

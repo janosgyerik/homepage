@@ -9,7 +9,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 I just started using git so I'm really only at the beginning of an adventure.
 

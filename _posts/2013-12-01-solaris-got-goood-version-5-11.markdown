@@ -9,7 +9,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 Looking through my old drafts in this blog, posts I never published, I found this piece.
 

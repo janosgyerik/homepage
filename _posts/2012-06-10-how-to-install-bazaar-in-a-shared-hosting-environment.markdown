@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 <h3 id="firstHeading">Install pip with easy_install</h3>
 

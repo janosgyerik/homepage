@@ -7,7 +7,6 @@ date: 2011-03-27 01:14:45.000000000 +01:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 When you watch a flash video like youtube in a browser, the video file is saved on your harddisk at a temporary location. And, if you watch a video and then another video in the same window, the first one will be deleted.
 

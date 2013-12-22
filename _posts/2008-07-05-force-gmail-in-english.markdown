@@ -7,6 +7,5 @@ date: 2008-07-05 01:57:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 Recently Gmail shows up in Japanese. (Because I'm in Japan.) To force English language append to the URL `&amp;hl=en`

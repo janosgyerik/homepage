@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 An open source project should be as open as possible, for that reason I decided to make the source code of <a href="http://www.bashoneliners.com/">bashoneliners.com</a> available in more than one VCS, for example in Subversion and Git in addition to Bazaar which remains the "master" branch.
 <h3>Bazaar to Subversion</h3>

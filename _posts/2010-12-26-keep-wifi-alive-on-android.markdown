@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 By default, Android loses wifi connection approximately 15 minutes after the screen turns off.
 

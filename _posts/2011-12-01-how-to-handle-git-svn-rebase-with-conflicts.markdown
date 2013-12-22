@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 I'm still new to git and it was not very clear at first how to handle the case when you encounter conflicts during a git svn rebase.  Some notes to help next time around:
 <ul>

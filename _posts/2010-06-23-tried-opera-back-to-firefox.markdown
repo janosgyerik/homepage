@@ -8,7 +8,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 I'm still keeping Opera around for the bookmarks, and synchronization. But for "regular" use I'm switching back to Firefox. It's really too bad it did not work out. I had a lot of problems.
 <ul>

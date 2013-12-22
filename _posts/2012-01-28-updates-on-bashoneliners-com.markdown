@@ -7,7 +7,6 @@ date: 2012-01-28 16:47:41.000000000 +01:00
 categories:
 - News
 tags: []
-comments: []
 ---
 <ul>
 	<li>New look (using <a href="http://twitter.github.com/bootstrap/" target="_blank">http://twitter.github.com/<wbr>bootstrap/</wbr></a>)</li>

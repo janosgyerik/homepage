@@ -7,7 +7,6 @@ date: 2008-05-20 02:30:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 
 ```

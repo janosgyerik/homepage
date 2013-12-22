@@ -7,7 +7,6 @@ date: 2010-12-27 17:34:14.000000000 +01:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 <ol>
 	<li>Open a cmd window as Administrator 

@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 If Apache is configured to browse a Subversion repository, its files and directories are shown as of the latest version by default, for example:
 

@@ -8,7 +8,6 @@ categories:
 - Musings
 - Software
 tags: []
-comments: []
 ---
 I've been using git with Eclipse for about a month now.
 <ul>

@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Musings
 tags: []
-comments: []
 ---
 Shocker. Installing Gutsy 64-bit now to replace Windows 2003 Server. The installer looked pretty good. I was impressed by the option to create software raid partitions *and* encrypted partitions. I thought to myself: it can't be this easy.
 

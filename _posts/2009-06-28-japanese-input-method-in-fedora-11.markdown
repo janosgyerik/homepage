@@ -8,7 +8,6 @@ categories:
 - Hacks
 - Software
 tags: []
-comments: []
 ---
 It's great that these things keep getting easier. I used to have to tweak .gnomerc and .uim files and running uim-xim at startup... Probably that's a thing of the past. Here's how you do it the modern way.
 <blockquote>yum install scim-lang-japanese</blockquote>

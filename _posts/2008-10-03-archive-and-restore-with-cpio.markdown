@@ -7,7 +7,6 @@ date: 2008-10-03 15:25:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 Create archive:
 1. cd to the directory that you want to archive

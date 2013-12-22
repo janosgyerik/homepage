@@ -7,7 +7,6 @@ date: 2011-05-05 05:08:32.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 Melt your harddisk. Melt the whole computer. Drop in a volcano, or hot magma.
 

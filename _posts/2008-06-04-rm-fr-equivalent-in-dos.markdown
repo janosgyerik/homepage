@@ -7,7 +7,6 @@ date: 2008-06-04 08:02:00.000000000 +02:00
 categories:
 - Hacks
 tags: []
-comments: []
 ---
 That is, the equivalent of rm -fr in Linux/UNIX.
 
