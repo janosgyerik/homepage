@@ -26,7 +26,7 @@ svn: warning: '.' is already under version control
 
 But if you add the `--force` flag, that will do!
 
-Keep in mind that this is <strong>not</strong> the same as:
+Keep in mind that this is **not** the same as:
 
 ```
 svn add * --force

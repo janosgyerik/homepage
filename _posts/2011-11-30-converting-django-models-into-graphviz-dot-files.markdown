@@ -10,7 +10,7 @@ tags: []
 ---
 This was really easy and the result is really good-lookin.
 
-[https://code.djangoproject.com/wiki/DjangoGraphviz](https://code.djangoproject.com/wiki/DjangoGraphviz)
+https://code.djangoproject.com/wiki/DjangoGraphviz
 
 The article is almost accurate. Some really accurate steps:
 
@@ -25,7 +25,7 @@ dot app.dot -Tpng -o app.png
 
 (And of course you need [http://www.graphviz.org/](http://www.graphviz.org/) first.)
 
-<strong>UPDATE: </strong>ok the above is really the ugly way of doing it. The nice way is:
+**UPDATE:** ok the above is really the ugly way of doing it. The nice way is:
 
 
 ```

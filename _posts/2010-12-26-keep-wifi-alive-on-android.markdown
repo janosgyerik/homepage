@@ -11,6 +11,6 @@ tags: []
 ---
 By default, Android loses wifi connection approximately 15 minutes after the screen turns off.
 
-To change this, go to Settings / Wireless controls / Wi-Fi settings, then press the <strong>menu</strong> button, choose Advanced, and then Wi-Fi sleep policy.
+To change this, go to **Settings / Wireless controls / Wi-Fi settings**, then press the **menu** button, choose Advanced, and then Wi-Fi sleep policy.
 
 This is on HT-03A, also known as HTC Magic.

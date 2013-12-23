@@ -24,8 +24,8 @@ After a few minutes, the branch will be visible at the URL:
 http://USERNAME.github.com/REPONAME/
 ```
 
-<strong>Be careful though:</strong> if you already have a gh-pages branch, the first command above will completely wipe it out! This script is useful really only in the special case when your master branch is itself the web content.
+**Be careful:** if you already have a gh-pages branch, the first command above will completely wipe it out. This script is useful really only when your master branch is itself the web content.
 
 GitHub provides several ways to create beautiful web content. More details in the docs:
 
-[http://pages.github.com/](http://pages.github.com/)
+http://pages.github.com/
