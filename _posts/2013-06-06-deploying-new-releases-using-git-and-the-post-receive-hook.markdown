@@ -28,7 +28,7 @@ First I created the releases repository from my deployment directory:
 
 <script src="https://gist.github.com/janosgyerik/5724915.js"></script>
 
-Next I created the `post-commit` hook:
+Next I created the `post-receive` hook:
 
 <script src="https://gist.github.com/janosgyerik/5725039.js"></script>
 
