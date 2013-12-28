@@ -9,8 +9,7 @@ categories:
 - Software
 tags: []
 ---
-<h3 id="firstHeading">Install pip with easy_install</h3>
-
+### Install pip with easy_install
 
 ```
 easy_install --user pip
@@ -33,7 +32,8 @@ PATH=~/.local/bin:$PATH
 ```
 pip install --user pyrex  # optional
 pip install --user paramiko  # optional
-pip install --user bzr==2.5  # or whatever is the latest stable version```
+pip install --user bzr==2.5  # or whatever is the latest stable version
+```
 
 
 ### Additional plugins

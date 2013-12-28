@@ -31,7 +31,8 @@ Next, to do something with the bean you need to select it with the `bean` comm
 
 ```
 bean -d net.sf.ehcache $bean
-run someMethodOfTheBean```
+run someMethodOfTheBean
+```
 
 where `bean` is the full name of the bean as you found previously with the `beans` command. It's pretty long, so you definitely want to copy &amp; paste rather than typing.
 

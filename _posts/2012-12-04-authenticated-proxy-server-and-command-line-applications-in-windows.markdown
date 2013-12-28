@@ -27,7 +27,8 @@ For this you need to know the proxy server. Usually it is not difficult to figur
 ```
 ping wpad
 ipconfig /all
-netstat -ban```
+netstat -ban
+```
 
 `ping wpad` is the easiest to read but the least likely to work in your system, `netstat -ban` is the most difficult to read but it *has to* work always.
 

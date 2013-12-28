@@ -28,7 +28,8 @@ find /<wbr />c/Users/YOURUSER/<wbr />AppData/<wbr />Roaming/<wbr />Subversion<wb
 If you are really lazy to type all that, you can simply add write permission to yourself on all files in the Subversion directory with:
 
 ```
-chmod -R u+w /<wbr />c/Users/YOURUSER/<wbr />AppData/<wbr />Roaming/<wbr />Subversion```
+chmod -R u+w /<wbr />c/Users/YOURUSER/<wbr />AppData/<wbr />Roaming/<wbr />Subversion
+```
 
 How did it happen that my write permission has disappeared on some of the files? I haven't the foggiest idea...
 
