@@ -10,7 +10,7 @@ categories:
 - Software
 tags: []
 ---
-<a style="line-height: 1.714285714; font-size: 1rem;" href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite"><img class="alignright" alt="" src="https://lh3.ggpht.com/ZY195NpGY-iPM_yf5W3F-J7qlbAaOn9DuiF5cUkVM8_5MRBgh_v4M1w1Ou-SrbiuFQ=w300-rw" width="180" height="180" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite"><img class="alignright" alt="" src="https://lh3.ggpht.com/ZY195NpGY-iPM_yf5W3F-J7qlbAaOn9DuiF5cUkVM8_5MRBgh_v4M1w1Ou-SrbiuFQ=w300-rw" width="180" height="180" /></a>
 
 I just released the first version of [Programming Quiz LITE](https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite).
 
@@ -26,8 +26,8 @@ Question categories are designed along the lines of the "programmer competency m
 
 You can "play" in two modes: normal mode and sudden death mode. In normal mode you can postpone answering a question and you can navigate back and forth in the questions. In sudden death mode you have to answer N questions in a row. You can customize the number of questions in both modes.
 
-To report problems or feature requests, you can either email me directly or use this page: <a href="https://www.google.com/url?q=https://github.com/janosgyerik/manyquiz/issues&amp;sa=D&amp;usg=AFQjCNHWyBeTkhIy7jmgX16-5-dp5FLl_w" target="_blank">https://github.com/janosgyerik/manyquiz/issues</a>
+To report problems or feature requests, you can either email me directly or use this page: https://github.com/janosgyerik/manyquiz/issues
 
-Project homepage: <a href="https://www.google.com/url?q=https://github.com/janosgyerik/manyquiz&amp;sa=D&amp;usg=AFQjCNEsN-rEfldY57RjZehXWEjqpYxvwg" target="_blank">https://github.com/janosgyerik/manyquiz</a>
+Project homepage: https://github.com/janosgyerik/manyquiz
 
 This is the LITE version: it is FREE with NO ADS. There will be a [paid version](https://play.google.com/store/apps/details?id=com.manyquiz.programming.full) soon, which will be identical to this one, but it will have a price of 1 euro just to give you a way to say "thank you" and support my efforts if you want. If you like the app, please remember to rate it, +1 it, tweet it, review it, and spread the word. Thank you!

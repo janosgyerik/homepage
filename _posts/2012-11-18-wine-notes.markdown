@@ -17,7 +17,8 @@ There are other goodies such as taking pictures, rating aroma/taste/aftertaste/o
 
 Do you have a comment on the app? Is there a feature you really-really-really want to see happen soon? Drop a comment right here and I’ll see what I can do!
 
-Google Play page: [https://play.google.com/store/apps/details?id=com.winenotes.lite](https://play.google.com/store/apps/details?id=com.winenotes.lite)
+Google Play page: https://play.google.com/store/apps/details?id=com.winenotes.lite
+
 <a href="https://play.google.com/store/apps/details?id=com.winenotes.lite"><img src="http://www.android.com/images/brand/android_app_on_play_logo_large.png" alt="Android app on Google Play" /></a>
 
 ### Screenshots of version 1.0

@@ -10,7 +10,7 @@ tags: []
 ---
 Boy, is this complicated? Yeah, but hey, replication is a serious business...
 
-<a title="Configuring and Maintaining Replication" href="http://msdn.microsoft.com/en-us/library/ms151247(SQL.90).aspx">http://msdn.microsoft.com/en-us/library/ms151247(SQL.90).aspx</a>
+http://msdn.microsoft.com/en-us/library/ms151247(SQL.90).aspx
 
 Anyway, I just managed to set it up, and the one thing that wasted most of my time was broken stored procedures. The lesson here is, before publishing a stored procedure for replication, recreate it at the source first! (Right click, Modify, F5)
 

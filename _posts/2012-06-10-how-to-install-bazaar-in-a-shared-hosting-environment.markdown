@@ -27,7 +27,7 @@ PATH=~/.local/bin:$PATH
 
 ### Install Bazaar and recommended python modules using pip
 
-<a href="http://wiki.bazaar.canonical.com/InstallationFaq" rel="nofollow">http://wiki.bazaar.canonical.com/InstallationFaq</a>
+http://wiki.bazaar.canonical.com/InstallationFaq
 
 ```
 pip install --user pyrex  # optional

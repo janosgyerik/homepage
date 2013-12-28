@@ -24,4 +24,4 @@ At the same time I also upgraded the [Programming Quiz](https://play.google.com/
 
 If you like these apps, please remember to rate, +1, tweet, or review them, and spread the word. Thank you!
 
-You can report problems and feature requests on this page: <a href="https://www.google.com/url?q=https://github.com/janosgyerik/manyquiz/issues&amp;sa=D&amp;usg=AFQjCNHWyBeTkhIy7jmgX16-5-dp5FLl_w" target="_blank">https://github.com/janosgyerik/manyquiz/issues</a>
+You can report problems and feature requests on this page: https://github.com/janosgyerik/manyquiz/issues

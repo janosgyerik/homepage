@@ -1,6 +1,4 @@
 fix formatting
-    <a
-    <h
     <li
     nggallery
     "i"
