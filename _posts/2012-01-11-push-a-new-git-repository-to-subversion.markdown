@@ -22,7 +22,8 @@ svn mkdir https://reposerver/path/to/repo/path/to/project
 ```
 [svn-remote "svn"]
   url = https://reposerver/path/to/repo/path/to/project
-  fetch = :refs/remotes/git-svn```
+  fetch = :refs/remotes/git-svn
+```
 
 3. Import the empty Subversion history
 
@@ -33,12 +34,11 @@ git svn fetch
 4. Replay your commits on top of the empty Subversion history
 
 ```
-git rebase remotes/git-svn```
+git rebase remotes/git-svn
+```
 
 5. Push the commits to Subversion
 
 ```
 git svn dcommit
 ```
-
-&nbsp;

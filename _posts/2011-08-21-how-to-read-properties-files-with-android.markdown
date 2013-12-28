@@ -14,5 +14,3 @@ Using ResourceBundles works fine on Android, but it might not be obvious where t
 ```
 ResourceBundle props = ResourceBundle.getBundle("path.to.file.props");
 ```
-
-&nbsp;

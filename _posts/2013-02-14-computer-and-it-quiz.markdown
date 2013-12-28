@@ -18,5 +18,3 @@ Recently I started contributing to this fun [Computer and IT Quiz](https://play.
 If you like this FREE app please do buy the [PRO version](https://play.google.com/store/apps/details?id=com.spiderdog.computeritquizpro) and support us!
 
 More usability and design improvements will be coming soon (1-2 months), so stay tuned!
-
-&nbsp;

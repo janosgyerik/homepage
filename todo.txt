@@ -9,7 +9,6 @@ fix formatting
     <br
     <em
     <wbr
-    &nbsp
     &amp
     &gt
     building reputation on stack
