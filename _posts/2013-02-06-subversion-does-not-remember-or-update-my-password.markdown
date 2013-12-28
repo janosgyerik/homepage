@@ -16,21 +16,19 @@ After some digging around, I realized that my user did not have write access to 
 In Windows 7 (using the Git shell) you can find your Subversion setting files that you don't have write access to like this:
 
 ```
-find /<wbr />c/Users/YOURUSER/<wbr />AppData/<wbr />Roaming/<wbr />Subversion<wbr /> ! -perm -200 -type f -ls
+find /c/Users/YOURUSER/AppData/Roaming/Subversion ! -perm -200 -type f -ls
 ```
 
 This can be useful to confirm your suspicion about filesystem permission issues. You can add back your write permission with the command:
 
 ```
-find /<wbr />c/Users/YOURUSER/<wbr />AppData/<wbr />Roaming/<wbr />Subversion<wbr /> ! -perm -200 -type f -exec chmod {} \;
+find /c/Users/YOURUSER/AppData/Roaming/Subversion ! -perm -200 -type f -exec chmod {} \;
 ```
 
 If you are really lazy to type all that, you can simply add write permission to yourself on all files in the Subversion directory with:
 
 ```
-chmod -R u+w /<wbr />c/Users/YOURUSER/<wbr />AppData/<wbr />Roaming/<wbr />Subversion
+chmod -R u+w /c/Users/YOURUSER/AppData/Roaming/Subversion
 ```
 
 How did it happen that my write permission has disappeared on some of the files? I haven't the foggiest idea...
-
-<wbr />
