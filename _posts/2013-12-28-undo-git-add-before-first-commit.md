@@ -11,12 +11,14 @@ tags: []
 ---
 Normally I undo `git add somefile` with `git reset somefile`.
 However, if you're before the first commit, this won't work:
+
 ```
 $ git reset somefile
 fatal: Failed to resolve 'HEAD' as a valid ref.
 ```
 
 The solution:
+
 ```
 $ git rm --cached somefile
 rm 'somefile'
