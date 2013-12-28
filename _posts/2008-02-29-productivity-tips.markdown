@@ -14,8 +14,8 @@ You can actually have Subversion repositories hosted on google for free... One t
 
 You can get started here:
 
-[http://code.google.com/](http://code.google.com/)
+http://code.google.com/
 
 While at it, also found some super cool new iGoogle themes like this:
 
-[http://www.google.com/ig/directory?type=themes&amp;start=7&amp;url=skins/jr.xml](http://www.google.com/ig/directory?type=themes&amp;start=7&amp;url=skins/jr.xml)
+http://www.google.com/ig/directory?type=themes&start=7&url=skins/jr.xml

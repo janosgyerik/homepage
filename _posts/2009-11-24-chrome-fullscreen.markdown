@@ -13,7 +13,7 @@ tags: []
 
 An insightful post on Slashdot about Chrome OS and the fragmented product lines google is creating recently:
 
-http://tech.slashdot.org/comments.pl?sid=1454298&amp;cid=30208494
+http://tech.slashdot.org/comments.pl?sid=1454298&cid=30208494
 <blockquote>*A more appropriate name for [Chrome OS] is "Chrome Fullscreen".*
 
 An even more appropriate name for it is "Chrome's Google-Confusion-Fest". Because Google is starting to bewilder me with parallel, seemingly conflicting options!

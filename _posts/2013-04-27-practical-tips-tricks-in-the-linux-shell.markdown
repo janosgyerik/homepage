@@ -22,7 +22,7 @@ https://speakerdeck.com/janosgyerik/time-saving-tricks-on-the-command-line
 - I used many tips from [Zach Holman's blog](http://zachholman.com/posts/slide-design-for-developers/) to "design" the slides.
 - I created the presentation using Google Docs, but it was not really a great experience:
 
-	- The dotted green line you see under headings is not intentional, it appears only after exporting to PDF. I don't know why. I would prefer it without the line as shown correctly in [https://docs.google.com/presentation/d/13N06QfsemvTFiQLF5nC-eatlktmj5DMFAzxexwJ8TgA/pub?start=false&amp;loop=false&amp;delayms=3000"](Google's viewer), but I want to use Speaker Deck as it is not blocked at my workplace and has a better WordPress plugin.
+	- The dotted green line you see under headings is not intentional, it appears only after exporting to PDF. I don't know why. I would prefer it without the line as shown correctly in [https://docs.google.com/presentation/d/13N06QfsemvTFiQLF5nC-eatlktmj5DMFAzxexwJ8TgA/pub?start=false&loop=false&delayms=3000"](Google's viewer), but I want to use Speaker Deck as it is not blocked at my workplace and has a better WordPress plugin.
 	- The JavaScript seems to go crazy in the presentation editor. The longer I use it, the heavier it gets, until I do a clean fresh reload.
 
 - I used the [Speaker Deck Embed](http://wordpress.org/extend/plugins/speakerdeck-embed/) plugin to embed the presentation here. Oh and Speaker Deck is really awesome.

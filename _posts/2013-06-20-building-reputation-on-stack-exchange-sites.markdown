@@ -72,17 +72,17 @@ Badges are cool goodies, but they don't get you any reputation. They sure look g
 
 ### Becoming a seasoned veteran
 
-<a href="http://stackexchange.com/users/322516"><img class="alignright" title="profile for janos on Stack Exchange, a network of free, community-driven Q&amp;A sites" alt="profile for janos on Stack Exchange, a network of free, community-driven Q&amp;A sites" src="http://stackexchange.com/users/flair/322516.png" width="208" height="58" /></a>
+<a href="http://stackexchange.com/users/322516"><img class="alignright" title="profile for janos on Stack Exchange, a network of free, community-driven Q&A sites" alt="profile for janos on Stack Exchange, a network of free, community-driven Q&A sites" src="http://stackexchange.com/users/flair/322516.png" width="208" height="58" /></a>
 
-1. Once you have built up some reputation, embed "a piece of valuable flair" on your website, for example: [http://stackoverflow.com/users/641955/janos/flair](http://stackoverflow.com/users/641955/janos/flair)
+1. Once you have built up some reputation, embed "a piece of valuable flair" on your website, for example: http://stackoverflow.com/users/641955/janos/flair
 
 2. Check out the Stack Overflow "leagues":
-[http://stackexchange.com/leagues/1/alltime/stackoverflow](http://stackexchange.com/leagues/1/alltime/stackoverflow)
+http://stackexchange.com/leagues/1/alltime/stackoverflow
 
 You can see the heaviest hitters by week/month/quarter/year/all-time on all Stack Exchange sites, as well as your own rank.
 
 Another interesting thing on your profile page on [stackexchange.com](stackexchange.com) (different from [stackoverflow.com](stackoverflow.com)) is the reputation tab shows a graph of your reputation score changes, for example:
-[http://stackexchange.com/users/322516/janos?tab=reputation](http://stackexchange.com/users/322516/janos?tab=reputation)
+http://stackexchange.com/users/322516/janos?tab=reputation
 
 By the way, on your Stack Overflow profile homepage (not Stack Exchange), in the Reputation section you can see a link to the leagues, in a format like "top 3% this quarter". The value shown can be about the quarter, week, month or year, depending on whichever is highest for you, and it takes you right to your position in the leagues.
 

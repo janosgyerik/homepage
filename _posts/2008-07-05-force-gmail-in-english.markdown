@@ -8,4 +8,4 @@ categories:
 - Hacks
 tags: []
 ---
-Recently Gmail shows up in Japanese. (Because I'm in Japan.) To force English language append to the URL `&amp;hl=en`
+Recently Gmail shows up in Japanese. (Because I'm in Japan.) To force English language append to the URL `&hl=en`

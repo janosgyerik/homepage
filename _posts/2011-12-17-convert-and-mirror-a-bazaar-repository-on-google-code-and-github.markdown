@@ -30,7 +30,7 @@ bzr push https://PROJECT.googlecode.com/svn/trunk
 
 ```
 cd /path/to/svn/pusher
-bzr up &amp;&amp; bzr push
+bzr up && bzr push
 ```
 
 Occasionally, especially if you have a lot of changes to push at once, the connection can get interrupted, or even bzr could crash. No worries, just repeat the "bzr push".
@@ -57,7 +57,7 @@ git push origin master
 
 ```
 cd /path/to/git/pusher
-git svn rebase &amp;&amp; git push origin master
+git svn rebase && git push origin master
 ```
 
 As usual with mirrors, if you ever commit to the GitHub repository with anything else other than the above script, the mirroring will stop working because your branches have diverged. If you ever do that by mistake it's not the end of the world, since with Git you can rewrite history ;-)

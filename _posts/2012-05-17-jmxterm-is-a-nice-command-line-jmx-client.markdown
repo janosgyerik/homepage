@@ -34,7 +34,7 @@ bean -d net.sf.ehcache $bean
 run someMethodOfTheBean
 ```
 
-where `bean` is the full name of the bean as you found previously with the `beans` command. It's pretty long, so you definitely want to copy &amp; paste rather than typing.
+where `bean` is the full name of the bean as you found previously with the `beans` command. It's pretty long, so you definitely want to copy & paste rather than typing.
 
 You can put this commands in text file and run them non-interactively like this:
 

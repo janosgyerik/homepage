@@ -19,7 +19,7 @@ The solution:
 For example `hooks/post-commit` will look like this:
 
 ```
-./time-consuming-script.sh $* &gt;/dev/null 2&gt;/dev/null &amp;
+./time-consuming-script.sh $* >/dev/null 2>/dev/null &
 ```
 
 The catch here was redirecting error output (`2>/dev/null`). Without that, the process was not fully in the background.
