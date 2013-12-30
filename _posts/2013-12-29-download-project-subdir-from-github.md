@@ -34,3 +34,7 @@ Just make sure to construct the URL correctly, using the format:
 ```
 https://github.com/USER/PROJECT/trunk/PATH DEST
 ```
+
+<div class="text-muted">
+Inspired by the question on #stackoverflow: <a href="http://stackoverflow.com/a/18324428/641955">git export from github remote repository</a>
+</div>
