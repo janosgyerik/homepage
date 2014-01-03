@@ -12,8 +12,6 @@ and I believe that great software could really make a big difference.
 I work on private and open-source projects in my spare time.
 If you want to join forces, drop me a line!
 
-Check out my stuff:
-
 - [Apps](apps.html) ---
   Simple but practical Android apps.
 
