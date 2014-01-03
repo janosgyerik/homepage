@@ -3,6 +3,7 @@ layout: page
 title: Apps
 tagline: simple but practical apps for Android
 group: navigation
+order: 2
 ---
 {% include JB/setup %}
 

@@ -3,6 +3,7 @@ layout: page
 title: Writing
 tagline: 
 group: navigation
+order: 4
 ---
 {% include JB/setup %}
 
