@@ -62,7 +62,8 @@ If you want to join forces, drop me a line!
 
 - Careers 2.0 --- [http://careers.stackoverflow.com/janosgyerik](http://careers.stackoverflow.com/janosgyerik)
 
-If you want to express your appreciation for my open source work, apps, tools and activities,
+<!--
+If you appreciate my open source work, apps, tools,
 you can make a small donation through PayPal:
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -71,3 +72,4 @@ you can make a small donation through PayPal:
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+-->
