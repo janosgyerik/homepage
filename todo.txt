@@ -57,3 +57,9 @@ jekyll cheat sheet
 jekyll links
     http://jekyllbootstrap.com/usage/jekyll-quick-start.html
     http://jekyllbootstrap.com/lessons/jekyll-introduction.html
+
+useful docs
+    https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+    http://jekyllrb.com/docs/plugins/
+    http://bootswatch.com/flatly/
+    http://getbootstrap.com/css/#type
