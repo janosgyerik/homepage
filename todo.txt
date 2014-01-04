@@ -1,3 +1,9 @@
+most important
+    page previews with pagination
+    sharing
+    get site search working on 404 page
+    add site search to navbar
+
 fix formatting
     <li
     nggallery
@@ -13,42 +19,18 @@ fix formatting
     recipe notes release
     programming quiz release
 
-next
-    get site search working on 404 page
-    add site search to navbar
-
 ultimate goals
     http://paulstamatiou.com/how-to-wordpress-to-jekyll
-    change the fonts and colors
-        match the wordpress theme?
-        coderwall theme?
-        medium theme?
-    fix post formats
-    fix tags on posts
+    add tags to posts
     move all images to amazon cloudfront
-    fix the search on 404 page
     split posts with <!--more--> to preview and full versions
     "create layout with Typekit" ??
     tag pages -- might be difficult with tags with spaces but who cares
     sitemap
     feeds
-    get comments working with disqus
-    next/previous posts working?
-    better blog page, with article highlights and pagination
     categories page
-    tags page
 
 ^^^^^^^^^^^^^^^^^^^
-Sharing on twitter, google+, etc
-    ! see _config.yml
-
-Sitemap
-
-RSS feeds?
-
-? Tags and individual tag pages
-    maybe not important, at all, as the author said it.
-
 Move all images to Amazon CloudFront
 http://paulstamatiou.com/how-to-getting-started-with-amazon-cloudfront
 
@@ -75,5 +57,3 @@ jekyll cheat sheet
 jekyll links
     http://jekyllbootstrap.com/usage/jekyll-quick-start.html
     http://jekyllbootstrap.com/lessons/jekyll-introduction.html
-
-
