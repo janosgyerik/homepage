@@ -50,8 +50,16 @@ body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 
+/* other custom styles */
+
 .floatright {
   float: right;
+}
+
+h3.post small {
+  display: block;
+  margin: 5px 0;
+  color: #b4bcc2;
 }
 
 kbd {

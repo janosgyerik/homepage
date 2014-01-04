@@ -8,9 +8,14 @@ order: 1
 {% include JB/setup %}
 
 {% for post in site.posts limit:50 %}
-  <h3>
+  <h3 class="post">
     <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-    <small class="text-muted">{{ post.date | date: "%B %e, %Y" }}</small>
+    <small>on {{ post.date | date: "%B %e, %Y" }} in
+      {% for category in post.categories %} 
+        {% if forloop.index > 1 %}|{% endif %}
+        <a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category }}-ref">{{ category | join: "/" }}</a>
+      {% endfor %}
+    </small>
   </h3>
   {% capture preview %}{{ post.content | post_preview }}{% endcapture %}
   {% if preview != '' %}
