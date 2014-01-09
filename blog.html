@@ -17,10 +17,6 @@ order: 1
       {% endfor %}
     </small>
   </h3>
-  {% capture preview %}{{ post.content | post_preview }}{% endcapture %}
-  {% if preview != '' %}
-  <blockquote>{{ preview }}</blockquote>
-  {% endif %}
 {% endfor %}
 
 <div class="alert alert-info">
