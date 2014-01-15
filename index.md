@@ -19,35 +19,21 @@ If you want to join forces, drop me a line!
   Simple but practical websites.
 
 - [Writing](writing.html) ---
-  Various writings published here and there.
+  My professional writings published here and there.
 
-- Twitter --- I tweet as [@janosgyerik](https://twitter.com/janosgyerik) and [@bashoneliners](https://twitter.com/bashoneliners).
+- I tweet as [@janosgyerik](https://twitter.com/janosgyerik) and [@bashoneliners](https://twitter.com/bashoneliners).
 
-- Blog --- http://blog.janosgyerik.com/
+- I blog on http://janosgyerik.com/blog.html
 
-  Sort of a blog,
-  this is really my *journal of daily hacks*.
-  I don't like to research the same problem twice,
-  so when I figure out something,
-  I write it down here quickly for future reference.
-  I also post new releases of my apps and websites here,
-  so it's a good way to follow what I'm up to.
-
-- Wiki --- http://wiki.titan2x.com/
-
-  My personal reference of all things related to computers,
-  programming, operating systems (especially GNU/Linux) and databases.
-  A lot of cheat sheets,
-  some in-depth articles and how to guides of larger topics.
+  Not really personal,
+  this is really my *journal of daily hacks*:
+  When I figure out something sort of tricky,
+  I write it down so I don't have to research it again.
+  I also post new releases of my apps and websites here.
 
 - GitHub --- https://github.com/janosgyerik
 
-  My recent work is hosted on GitHub.
-
-- Launchpad -- https://launchpad.net/~janos-gyerik
-
-  My not so recent work is hosted on Launchpad,
-  a Bazaar repository hosting site.
+  My recent open-source work is hosted on GitHub.
 
 - Stack Exchange --- [janos](http://stackexchange.com/users/322516)
 
@@ -60,7 +46,37 @@ If you want to join forces, drop me a line!
 
   ![http://stackexchange.com/users/322516](http://stackexchange.com/users/flair/322516.png)
 
-- Careers 2.0 --- [http://careers.stackoverflow.com/janosgyerik](http://careers.stackoverflow.com/janosgyerik)
+- Careers 2.0 --- http://careers.stackoverflow.com/janosgyerik
+
+  My profile on Careers 2.0 by stackoverflow.
+  More detailed than a [LinkedIn](http://fr.linkedin.com/in/janosgyerik/) profile,
+  and more relevant for software engineers,
+  highlighting open source projects, stackoverflow answers,
+  publications, and others.
+
+- Coderwall --- https://coderwall.com/janosgyerik
+
+  Lately I'm experimenting with this site for coders.
+  I publish ["Pro Tips"](https://coderwall.com/p/u/janosgyerik) there once in a while.
+
+### Old stuff
+
+I don't use these much anymore.
+In fact I'm migrating some of this stuff elsewhere.
+That said, I still want to make a note here,
+at least to keep as bookmarks for myself...
+
+- Wiki --- http://wiki.titan2x.com/
+
+  My personal reference of all things related to computers,
+  programming, operating systems (especially GNU/Linux) and databases.
+  A lot of cheat sheets,
+  some in-depth articles and how to guides of larger topics.
+
+- Launchpad -- https://launchpad.net/~janos-gyerik
+
+  My not so recent work is hosted on Launchpad,
+  a Bazaar repository hosting site.
 
 <!--
 If you appreciate my open source work, apps, tools,
