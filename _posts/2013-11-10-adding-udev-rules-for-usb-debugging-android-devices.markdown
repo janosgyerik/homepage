@@ -66,7 +66,7 @@ Bus 001 Device 010: ID 18d1:d002 Google Inc.
 $ ls -l /dev/bus/usb/001/010
 crw-rw-r-T 1 root plugdev 189, 9 Nov 10 18:37 /dev/bus/usb/001/010
 $ ls -l /dev/android7
-lrwxrwxrwx 1 root root 15 Nov 10 18:37 /dev/android7 -&gt; bus/usb/001/010
+lrwxrwxrwx 1 root root 15 Nov 10 18:37 /dev/android7 -> bus/usb/001/010
 $ adb devices
 List of devices attached 
 01d1e2510d9c6d28 device
