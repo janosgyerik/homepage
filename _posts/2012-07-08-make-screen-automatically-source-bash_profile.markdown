@@ -9,24 +9,27 @@ categories:
 - Software
 tags: []
 ---
-By default `screen` does not start as a login shell, and therefore `.bash_profile` is not sourced. (Wonder what is the rationale behind this decision, considering that 99% of the time I use it as login shell...)
+By default `screen` doesn't use a login shell,
+and as a consequence,
+`.bash_profile` is not sourced.
+(Something I find pretty strange,
+considering that `screen` is most useful as a login shell...)
 
-A simple remedy is to create a custom script that will be used as `screen`'s shell, and edit `.screenrc` to tell `screen` to use the custom script. The custom script: (I put in `~/.screen.shell`)
+To make `screen` start `bash` as a login shell,
+add this line to your `.screenrc`:
 
+    shell -bash
 
-```
-`bash --login
-`
-```
+Or if you need something more sophisticated,
+you can create a custom script for `screen` to use as a shell.
+For example create `~/.screen.shell` like this:
 
+    bash --login
 
-Note: remember to make the script file executable.
+and make it executable:
 
-The line in `.screenrc`:
+    chmod +x ~/.screen.shell
 
+and add to `~/.screenrc` this line:
 
-```
-`shell $HOME/.screen.shell
-`
-```
-
+    shell $HOME/.screen.shell
