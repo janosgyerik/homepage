@@ -7,7 +7,33 @@ tags: []
 ---
 {% include JB/setup %}
 
+To say the conclusion first,
+the most elegant and fastest way is this:
+
+    dig +short myip.opendns.com @resolver1.opendns.com
+
+This asks the IP address of `myip.opendns.com` from the name server `resolver1.opendns.com` (something you trust),
+which will return your external IP address.
+
+If you don't have `dig`,
+you can use these alternatives:
+
+    $ curl ipecho.net/plain
+    $ curl icanhazip.com
+
+These work over HTTP,
+and therefore less efficient than the direct DNS query with `dig`.
+
+When using any of these solutions,
+keep in mind that you are relying on external services.
+They might be unavailable temporarily or even permanently at some point.
+So none of these is perfect.
+
+This article is actually about something else.
+It's about the challenge of extracting the relevant bits from a short text.
 Recently I needed to extract my external IP address from http://monip.org/ using command line tools.
+This article is about explaining the thought process,
+in case you ever need something similar.
 
 Let's see what we get with a simple `curl`:
 
@@ -84,16 +110,3 @@ with some differences due to the nature of these tools:
 - The idiom `/(pattern)/ && print $1` means,
   if the pattern was matched,
   then print the content of the first group.
-
-Finally, as it turns out,
-there are much easier services to get to your external IP:
-
-    $ curl ipecho.net/plain
-    67.205.36.164
-    $ curl -s checkip.dyndns.org | sed -n 's/.*: \([0-9.]*\).*/\1/p'
-    67.205.36.164
-
-So if you have trouble with one service,
-or getting your regex right,
-google around a bit,
-there might be something much easier.
