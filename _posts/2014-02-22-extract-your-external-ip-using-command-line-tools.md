@@ -20,6 +20,10 @@ you can use these alternatives:
 
     curl ipecho.net/plain
     curl icanhazip.com
+    curl curlmyip.com
+    curl l2.io/ip
+    curl ip.appspot.com
+    curl ifconfig.me/ip
 
 These work over HTTP,
 and therefore less efficient than the direct DNS query with `dig`.
