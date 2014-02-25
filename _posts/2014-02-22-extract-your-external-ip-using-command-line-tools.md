@@ -18,8 +18,8 @@ which will return your external IP address.
 If you don't have `dig`,
 you can use these alternatives:
 
-    $ curl ipecho.net/plain
-    $ curl icanhazip.com
+    curl ipecho.net/plain
+    curl icanhazip.com
 
 These work over HTTP,
 and therefore less efficient than the direct DNS query with `dig`.
