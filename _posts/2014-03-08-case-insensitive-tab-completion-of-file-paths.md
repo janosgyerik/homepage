@@ -2,6 +2,7 @@
 layout: post
 title: "Case insensitive tab completion of file paths"
 categories:
+- hacks
 tags: []
 ---
 {% include JB/setup %}
