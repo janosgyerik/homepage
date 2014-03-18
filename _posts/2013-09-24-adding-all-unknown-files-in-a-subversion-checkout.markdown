@@ -9,11 +9,13 @@ categories:
 - Software
 tags: []
 ---
-Adding all unknown files in a working tree is usually very simple in other version control systems, for example:
+Adding all unknown files from the working tree to version control is usually very simple in other systems, for example:
 
 
 ```
+# in Git
 git add .
+# in Bazaar
 bzr add
 ```
 
@@ -26,12 +28,13 @@ svn: warning: '.' is already under version control
 
 But if you add the `--force` flag, that will do!
 
-Keep in mind that this is **not** the same as:
+Keep in mind that this is *NOT* the same as this:
 
 ```
 svn add * --force
 ```
 
-That would add not only unknown files, but ignored files too, which is usually not you want. Make sure to specify directories explicitly, avoid using `*` with this command.
-
-
+That would add not only unknown files, but ignored files too,
+which is probably not what you want.
+Make sure to specify directories explicitly,
+avoid using `*` with this command.
