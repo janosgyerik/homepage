@@ -21,7 +21,7 @@ wrapped in a one-liner like this:
 You can use this in `if` conditions, for example:
 
     if [[ $(find /path/to/file -type f -size +51200c 2>/dev/null) ]]; do
-        somecmd
+        # somecmd
     fi
 
 <div class="text-muted">
