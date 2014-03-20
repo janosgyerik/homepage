@@ -72,6 +72,7 @@ task :post do
     post.puts "---"
     post.puts "{% include JB/setup %}"
   end
+  system "gvim #{filename}"
 end # task :post
 
 # Usage: rake page name="about.html"
