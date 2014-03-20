@@ -2,6 +2,7 @@
 layout: post
 title: "Easy way to git push the current branch"
 categories:
+- hacks
 tags: []
 ---
 {% include JB/setup %}
