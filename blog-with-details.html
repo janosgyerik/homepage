@@ -1,0 +1,24 @@
+---
+layout: page
+title : Blog
+tagline: My journal of daily hacks
+#group: navigation
+order: 1
+---
+{% include JB/setup %}
+
+{% for post in site.posts limit:100 %}
+  <h3 class="post">
+    <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+    <small>on {{ post.date | date: "%B %e, %Y" }} in
+      {% for category in post.categories %} 
+        {% if forloop.index > 1 %}|{% endif %}
+        <a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category }}-ref">{{ category | join: "/" }}</a>
+      {% endfor %}
+    </small>
+  </h3>
+{% endfor %}
+
+<div class="alert alert-info">
+For older articles, <a href="/archive.html">see the complete Archive</a>.
+</div>
