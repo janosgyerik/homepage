@@ -11,8 +11,8 @@ tags: []
 If you ever have to work with ugly legacy code (ugh),
 or if you want to refactor very complex code (perhaps to reduce cyclomatic complexity?) without breaking anything,
 here are some practical tips you can use with Eclipse.
-
-You can install all the plugins I mention below using the Eclipse Marketplace, in version Kepler.
+In version Kepler,
+you can install all the plugins I mention below using the Marketplace.
 
 ### Get rid of the junk with [UCDetector](http://www.ucdetector.org/)
 
@@ -58,7 +58,6 @@ Didn't I say you'll be amazed ;-)
 
 How do you refactor some really complex code, safely?
 How can you be sure you're not breaking something in the process?
-
 Here's one way:
 
 1. Add unit tests to cover ALL executions paths. 100%, no exceptions.
