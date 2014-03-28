@@ -102,7 +102,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : google 
+    provider : google
     google : 
         tracking_id : 'UA-40473074-1'
     getclicky :
@@ -127,7 +127,7 @@ JB :
   #   pages_list :
   #     provider : "custom"   
   pages_list :
-    provider : "custom"   
+    provider : "custom"
   #
   # Setting any helper's provider to 'custom' will bypass the helper code
   # and include your custom code. Your custom file must be defined at:
