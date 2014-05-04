@@ -9,7 +9,7 @@ tags: []
 {% include JB/setup %}
 
 [CodinGame (codingame.com)][1] is a website with monthly programming contests.
-It's similar to [Codility (codility.com)][4],
+It's similar to [Codility (codility.com)][5],
 but more playful:
 many of the challenges are defined in the context of some game,
 and beautifully done.
@@ -36,7 +36,7 @@ but for easier problems it's good enough.
 You can choose from many programming languages,
 including C++, Go, Scala, Haskell, Python, Ruby, JavaScript and even Bash.
 
-Here's another screenshot from the Thor series, Ragnarök - Thor vs Giants][4]:
+Here's another screenshot from the Thor series, [Ragnarök - Thor vs Giants][4]:
 
 ![Ragnarök - Thor vs Giants]({{ site.url }}/assets/screenshots/thor3-game.png)
 
