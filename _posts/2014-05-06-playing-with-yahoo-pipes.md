@@ -28,4 +28,4 @@ Here's the first draft of my slides:
 [2]: http://pipes.yahoo.com/pipes/pipe.info?_id=757200971ae3d827911781f5cde44cbf
 [3]: http://pipes.yahoo.com/pipes/pipe.info?_id=592a4e5d080eec00963c9e3b48ca5742
 [4]: http://pipes.yahoo.com/pipes/pipe.info?_id=ab45add6138a33bf0442e46af40e39e8
-[5]: https://news.ycombinator.com/rss
+[5]: http://pipes.yahoo.com/pipes/pipe.info?_id=c9d5e3bec563df8a163292193ce3eb2c
