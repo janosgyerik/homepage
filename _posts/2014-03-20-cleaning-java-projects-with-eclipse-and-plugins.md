@@ -27,8 +27,18 @@ The initial scan might take a while.
 When finished,
 go to the **Problems** view,
 and use the menu of the view to group by **Type**.
-You should see the categories of UCDetector,
-most importantly the **References** section.
+
+<a href="#" class="thumbnail">
+<img src="{{ site.url }}/assets/screenshots/eclipse-problems-group-by.png" />
+</a>
+
+After this,
+check out the categories of UCDetector,
+especially the **References** section:
+
+<a href="#" class="thumbnail">
+<img src="{{ site.url }}/assets/screenshots/eclipse-problems-ucdetector.png" />
+</a>
 
 Be careful, not everything that's unreferenced is junk!
 Some classes and methods might be used by Spring, Hibernate, third party code, or reflection.
