@@ -17,7 +17,7 @@ This should do it in UNIX or similar:
 
 Or, a faster but less accurate way, if you have the `locate` command:
 
-    locate . | awk '{print length($0), $0}' | sort -n | tail
+    locate / | awk '{print length($0), $0}' | sort -n | tail
 
 Of course, you can only find paths that your user has read permission for.
 
