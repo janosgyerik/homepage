@@ -20,8 +20,49 @@ notepad %systemroot%\system32\drivers\etc\hosts
 
 This opens the hosts file on your system in notepad, a plain text editor. Append this line to end of the file:
 
-```
-127.0.0.1 facebook.com www.facebook.com connect.facebook.net
-```
+    127.0.0.1 facebook.com www.facebook.com connect.facebook.net
+    ::1 facebook.com www.facebook.com connect.facebook.net
 
 Once this is done, Facebook, and its Like buttons will stop working, because your browser will not find Facebook. If you want to re-enable Facebook, edit the file again and either remove this line, or prefix it with a `#` sign to make it ignored.
+
+If you are on a Mac, edit `/etc/hosts` instead.
+However, at the time of this writing (Mac OS X10.9.4),
+the `::1` shortcut for the IPv6 loopback interface doesn't seem to work,
+so you have to replace that with `fe80::1%lo0`, like this:
+
+    fe80::1%lo0 facebook.com www.facebook.com connect.facebook.net
+
+If you want to be really thorough,
+you might want to block even more facebook related domains,
+here's a more complete list:
+
+```
+# Block Facebook IPv4
+127.0.0.1   www.facebook.com
+127.0.0.1   facebook.com
+127.0.0.1   login.facebook.com
+127.0.0.1   www.login.facebook.com
+127.0.0.1   fbcdn.net
+127.0.0.1   www.fbcdn.net
+127.0.0.1   fbcdn.com
+127.0.0.1   www.fbcdn.com
+127.0.0.1   static.ak.fbcdn.net
+127.0.0.1   static.ak.connect.facebook.com
+127.0.0.1   connect.facebook.net
+127.0.0.1   www.connect.facebook.net
+127.0.0.1   apps.facebook.com
+
+# Block Facebook IPv6
+fe80::1%lo0 facebook.com
+fe80::1%lo0 login.facebook.com
+fe80::1%lo0 www.login.facebook.com
+fe80::1%lo0 fbcdn.net
+fe80::1%lo0 www.fbcdn.net
+fe80::1%lo0 fbcdn.com
+fe80::1%lo0 www.fbcdn.com
+fe80::1%lo0 static.ak.fbcdn.net
+fe80::1%lo0 static.ak.connect.facebook.com
+fe80::1%lo0 connect.facebook.net
+fe80::1%lo0 www.connect.facebook.net
+fe80::1%lo0 apps.facebook.com
+```
