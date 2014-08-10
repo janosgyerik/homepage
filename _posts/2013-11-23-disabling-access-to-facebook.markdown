@@ -32,6 +32,16 @@ so you have to replace that with `fe80::1%lo0`, like this:
 
     fe80::1%lo0 facebook.com www.facebook.com connect.facebook.net
 
+### Browser caching
+
+An important thing to keep in mind when testing this is that some application have their own DNS cache. For example the Chrome browser: it doesn't make sense to lookup IP addresses on every page reload, if the address of facebook.com was 173.252.110.27 a minute ago it should still be the same now, right? This makes it hard to test things, because it takes a couple of minutes for Chrome to expire its cache. (Unless you know a method to expunge it.)
+
+One testing method that worked well for me is using the **Incognito Window** feature of Chrome. Every time you change something in `/etc/hosts`, open a new incognito window to view the result, and it should work immediately. The non-incognito windows will work too, eventually, it just takes a couple of minutes.
+
+(For more details, see this [related discussion][1], and [my conclusion][2] on it.)
+
+### Block more
+
 If you want to be really thorough,
 you might want to block even more facebook related domains,
 here's a more complete list:
@@ -66,3 +76,6 @@ fe80::1%lo0 connect.facebook.net
 fe80::1%lo0 www.connect.facebook.net
 fe80::1%lo0 apps.facebook.com
 ```
+
+[1]: http://superuser.com/q/544789/126831
+[2]: http://superuser.com/a/794907/126831
