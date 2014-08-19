@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trimming page content with jQuery"
+title: "Trimming web page content with jQuery"
 categories:
 - hacks
 tags: []
