@@ -2,7 +2,7 @@
 layout: post
 title: "Keep junk out of zip files you publish"
 categories:
-- musing
+- musings
 - software
 tags: []
 ---
