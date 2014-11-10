@@ -39,6 +39,7 @@ If you want to join forces, drop me a line!
 
       I occasionally answer questions on Stack Exchange sites.
       I'm most active on
+      [Code Review](http://codereview.stackexchange.com/users/12390/janos),
       [Stack Overflow](http://stackoverflow.com/users/641955/janos),
       [Unix and Linux](http://unix.stackexchange.com/users/17433/janos),
       [Ask Ubuntu](http://askubuntu.com/users/23972/janos),
