@@ -8,14 +8,12 @@ categories:
 - Hacks
 tags: []
 ---
-<dl>
-<dt>Scenario</dt>
-<dd>Acrobat crashes a few seconds after opening a PDF.</dd>
 
-<dt>Cause</dt>
-<dd>the acrobat updater...</dd>
+**Problem:**
+Acrobat crashes a few seconds after opening a PDF.
 
-<dt>Resolution</dt>
-<dd>cd to acrobat plug-in directory (`c:program filesadobeacrobat 8.0acrobatplug_ins`) and rename updater.api to something else.
-</dd>
-</dl>
+**Cause:**
+the acrobat updater...
+
+**Solution:**
+Go to acrobat plug-in directory (`c:\program files\adobe\acrobat 8.0\acrobat\plug_ins`) and rename `updater.api` to something else.
