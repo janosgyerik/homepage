@@ -11,7 +11,7 @@ tags: []
 Recently I wanted to preserve a diff between two branches.
 If it's a pull request, that's easy,
 as pull requests normally remain visible even if closed.
-But I didn't want to create just for preserving a diff.
+But I didn't want to create one just for preserving a diff.
 
 Luckily, GitHub and GitLab both provide a way to view the diff between any two branches, using this URL format:
 
