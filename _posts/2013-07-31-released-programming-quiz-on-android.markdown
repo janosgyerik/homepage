@@ -10,7 +10,7 @@ categories:
 - Software
 tags: []
 ---
-<a href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite"><img class="alignright" alt="" src="https://lh3.ggpht.com/ZY195NpGY-iPM_yf5W3F-J7qlbAaOn9DuiF5cUkVM8_5MRBgh_v4M1w1Ou-SrbiuFQ=w300-rw" width="180" height="180" /></a>
+<span class="pull-right col-lg-2 col-md-2 col-sm-3"><a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite"><img alt="android" src="/assets/themes/images/apps/programming-quiz.png" /></a></span>
 
 I just released the first version of [Programming Quiz LITE](https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite).
 
