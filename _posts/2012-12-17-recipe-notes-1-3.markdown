@@ -8,7 +8,11 @@ categories:
 - Uncategorized
 tags: []
 ---
-<img class="alignright" title="RecipeNotes" alt="" src="https://lh5.ggpht.com/2uWBuuaZn5UJnCwTDhk2CZVZQVtev_gH55heQAqLw7yh-96lAO-YqZq_UX9qh3f_oQhC=w124" width="124" height="124" />The new version of Recipe Notes (v1.3) is now available on Google Play. New in this version:
+<span class="pull-right col-lg-2 col-md-2 col-sm-3"><a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.recipenotes.lite"><img alt="android" src="/assets/themes/images/apps/recipe-notes.png" /></a></span>
+
+The new version of Recipe Notes is now on [Google Play](https://play.google.com/store/apps/details?id=com.recipenotes.lite).
+
+New features:
 
 - New screen with photos from all recipes. Tap on a photo to jump to recipe details
 - You can now add custom notes to recipes. Useful for example for extra tips for the recipe
@@ -19,6 +23,4 @@ tags: []
 
 Project homepage: https://github.com/janosgyerik/recipenotes
 
-Google Play page: https://play.google.com/store/apps/details?id=com.recipenotes
-
-<a href="http://play.google.com/store/apps/details?id=com.recipenotes"><img alt="Android app on Google Play" src="http://www.android.com/images/brand/android_app_on_play_logo_large.png" /></a>
+Google Play page: https://play.google.com/store/apps/details?id=com.recipenotes.lite
