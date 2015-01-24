@@ -107,7 +107,7 @@ then hopefully the jump to the end will be fast,
 but sometimes it's not,
 due to some inexplicable magic the editor might want to do with the selected text.
 
-In Vim, deleting from the current line until the end takes precisely two keystrokes:
+In Vim, deleting from the current line until the end takes precisely three keystrokes:
 
     dG
 
