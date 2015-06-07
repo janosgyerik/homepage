@@ -10,44 +10,66 @@ categories:
 - Software
 tags: []
 ---
-Gamification... is ADDICTIVE! I got hooked on basically "collecting meaningless points" on the [Stack Exchange sites](http://stackexchange.com/sites). As I was building up a "know-how" of doing this, I started drafting this post. Then I gave up actually posting it, thinking *"what the hell do I know about this stuff anyway with my puny reputation"*?
-
-But then, what do you know, [@DuncanLock](http://twitter.com/DuncanLock) who has similar reputation as me has posted his own take on the subject, and guess what, he got literally hundreds of good reactions, including high-profile Stack Exchange users, moderators, and even [@codinghorror](http://twitter.com/codinghorror) himself:
-
-[The Smart Guide to Stack Overflow: Zero to Hero](http://duncanlock.net/blog/2013/06/14/the-smart-guide-to-stack-overflow-zero-to-hero/)
-
-I commented on his blog a few extra tips of my own, but later I realized I still have some more to say. So here we go, my follow-up tips for building reputation on the Stack Exchange sites, on top of what Duncan already covered nicely.
+Gamification... is ADDICTIVE!
+Are you sure you want to do this to yourself?
+Well you have been warned.
 
 <a class="floatright" href="http://stackoverflow.com/help/badges/2600/informed"><img class="alignright size-full wp-image-1005" alt="informed" src="/assets/themes/images/screenshots/2013-06-informed.png" width="92" height="36" /></a>
 
 ### Get the basics down first
 
-1. Do read the entire [About page](http://stackoverflow.com/about). Carefully. It's really important to understand the site. Plus you get the [Informed](http://stackoverflow.com/help/badges/2600/informed) badge as a reward! This page is also important to understand the counting of reputation: [http://stackoverflow.com/help/whats-reputation](http://stackoverflow.com/help/whats-reputation) (especially the daily max 200 limit!)
+1. Read the entire [About page](http://stackoverflow.com/about).
+It's no joke.
+A lot of newbies think they understand the site,
+but they really don't.
+They post inappropriate questions or answers,
+get downvoted, get emotional,
+and sometimes disappointed for life.
+If that's not incentive enough,
+do it for the [Informed](http://stackoverflow.com/help/badges/2600/informed) badge!
+The help page about [reputation](http://stackoverflow.com/help/whats-reputation) is also very informative.
 
-2. Be patient. It takes time to build reputation. If this was easy within a matter of days the system would be meaningless.
+2. Be patient. It takes time to build reputation. And persistence. If it was easy it would be meaningless.
 
-3. Be civil and professional. Don't lash out on poor quality questions/answers/comments. Vote down if you don't like something and move on. Don't take anything personal, be cool.
+3. Be civil and professional.
+Don't lash out on poor quality questions/answers/comments.
+Downvote if you don't like something and move on.
+Don't take anything personal.
+If a discussion gets heated and out of hand, disengage, walk away.
 
-4. Be a good sportsman. If somebody else posted a better answer than yours, admit defeat and move on. If somebody answered first something just as good as yours, vote it up and move on.
+4. Be a good sportsman.
+If somebody else posted a better answer than yours, admit defeat and move on.
+If somebody answered first something just as good as yours,
+upvote it and move on.
 
 ### Finding questions to answer
 
 1. Look for questions in your favorite areas of expertise.
-   There's much more than [stackoverflow.com](http://stackoverflow.com/),
-   take a look around the [many other Stack Exchange sites](http://stackexchange.com/sites).
+   There's more to life than [stackoverflow.com](http://stackoverflow.com/).
+   Take a look around the [many other Stack Exchange sites](http://stackexchange.com/sites).
+   If you like to review code that's working but maybe not well-written,
+   check out [Code Review](http://codereview.stackexchange.com/).
    If you're a programmer,
-   check out [programmers.stackexchange.com](http://programmers.stackexchange.com/).
-   If you're more of a sysadmin dude,
-   head over to [serverfault.com](http://serverfault.com/) or [askubuntu.com](http://askubuntu.com/).
+   check out [Programmers](http://programmers.stackexchange.com/)
+   should be interesting.
+   If you're more of a sysadmin,
+   head over to [Server Fault](http://serverfault.com/) or [Ask Ubuntu](http://askubuntu.com/).
    If you're a UNIX/Linux expert,
-   you will enjoy [unix.stackexchange.com](http://unix.stackexchange.com/).
-   There's probably something for everyone.
+   you will enjoy [Unix & Linux](http://unix.stackexchange.com/).
+   There's something for everyone.
 
 2. Be selective when you pick a question to answer. Figuring out what the heck a poorly written question is supposed to mean might not be worth your time and effort. And if you are not 100% sure you have a great answer immediately, then somebody else will probably beat you to it. It's often better to just move on.
 
-3. Something that helps me a lot answering questions well (= actually getting rewarded for it) is to hunt questions when I'm deeply into something. For example, after about a week of Android hacking, suddenly I can answer many questions well and fast, because I'm just really right in the middle of it. Not to mention that when deep into something I usually have my own questions, and very often find answers that almost work but not quite, which is another good opportunity to post my own.
+3. When you're deeply into some subject at work or in your private projects,
+check out the questions on relevant tags.
+Chances are you will see problems you already solved yourself,
+and you'll be able to give good answers relatively quickly.
+*Ka-tching*, reputation starts rolling in.
+You might have questions of your own as well,
+which is another way to earn some rep.
 
-4. Devise question hunting strategies and combine them efficiently. I use the following basic strategies:
+4. Devise question hunting strategies and combine them efficiently.
+Here are some examples:
 
   - Fast-read the *newest* tab (click on *Questions* if you don't see it), fishing for easy questions and try to be the first to answer. New questions are very visible because they are on the front page. That also means you don't have much time to research to give a good answer.
 
@@ -65,7 +87,7 @@ I commented on his blog a few extra tips of my own, but later I realized I still
 
 Sometimes your otherwise great answer might not be getting the attention it deserves... Luckily there are quite a few things you can do to improve that.
 
-1. If you intend to answer or already answered a question, don't vote it up immediately. After answering, give it a few days, and if there is no reaction on it, then come back to it and vote it up. Such activity will bring the question up to the front page again, becoming more visible again, especially to the poster who will receive a notification in his Inbox. And if your answer is accepted, then be a good citizen and vote up the question. (You should not answer questions you don't like anyway.)
+1. If you intend to answer or already answered a question, don't upvote it immediately. After answering, give it a few days, and if there is no reaction on it, then come back to it and upvote it. Such activity will bring the question up to the front page again, becoming more visible again, especially to the poster who will receive a notification in his Inbox. And if your answer is accepted, then be a good citizen and upvote the question. (You should not answer questions you don't like anyway.)
 
 2. Share your answer (or question) on your social networks. It's very easy to use the **share** link right under the question/answer. Same with voting up the question, do this after a few days if the question is inactive.
 
@@ -107,3 +129,7 @@ By the way, on your Stack Overflow profile homepage (not Stack Exchange), in the
 ### Conclusion?
 
 At the end of the day, I'm not sure how much effort is worth investing in reputation building, so I leave that up to you :) Answering questions is probably similar to teaching: you always learn something even while you teach, so if nothing else, at least you have that!
+
+See also this related post by 
+[@DuncanLock](http://twitter.com/DuncanLock):
+[The Smart Guide to Stack Overflow: Zero to Hero](http://duncanlock.net/blog/2013/06/14/the-smart-guide-to-stack-overflow-zero-to-hero/)
