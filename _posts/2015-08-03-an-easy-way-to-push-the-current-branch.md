@@ -41,7 +41,7 @@ typically gives me back the last `git push -u origin HEAD` command.
  
 But my favorite solution for pushing the current branch is to create an alias called `mr` (as in Merge Request) in my `~/.gitconfig`:
  
-     [alias]
+    [alias]
         mr = push -u origin HEAD
  
 So I can do simply `git mr` for the same effect.
