@@ -21,7 +21,7 @@ Here's another way using `pdftk`, cutting out page 11-20:
 
     pdftk A=input.pdf cat A11-20 output out.pdf
 
-Or using `gs`:
+Or using Ghostscript:
 
     gs -sDEVICE=pdfwrite -dNOPAUSE -dBATCH -dSAFER -dFirstPage=11 -sOutputFile=input.pdf out.pdf
 
