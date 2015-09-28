@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mounting a Raspberry PI image on OSX"
+title: "Mounting a Raspberry PI image in OSX"
 categories:
 - hacks
 - software
@@ -34,4 +34,5 @@ And mounted the partition on some directory:
 
 To unmount everything:
 
+    hdiutil unmount raspi
     hdiutil eject /dev/disk2
