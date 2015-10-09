@@ -107,7 +107,7 @@ Especially, a good programmer should:
 
 Job interviews can be a huge waste of time. Unworthy candidates should not reach the in-person interview level. You should see sample code or homework solutions before inviting for in-person interview.
 
-If an unworthy candidate manages to get through somehow, you have to ask ourselves what you did wrong and adapt our pre-interview testing methods.
+If an unworthy candidate manages to get through somehow, you have to ask yourselves, what did you do wrong, and adapt your pre-interview testing methods.
 
 ## Interview independently
 
