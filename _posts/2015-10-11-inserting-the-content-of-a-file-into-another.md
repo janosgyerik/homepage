@@ -6,10 +6,6 @@ tags: []
 ---
 {% include JB/setup %}
 
-I was intrigued by the main task in this question:
-
-[Add license to beginning of files](http://codereview.stackexchange.com/questions/100647/add-license-to-beginning-of-files/107191#107191)
-
 Inserting the content of one file into another in Bash seems simple enough.
 But all these attempts are actually wrong:
 
@@ -45,4 +41,6 @@ By the way, `moreutils` is really awesome.
 Among others, it contains a utility called `ts` that prepends a timestamp to lines coming from `stdin`.
 How many times I wanted to have that!
 
-(See also: [Linux to prepend the data from one file to another](http://stackoverflow.com/questions/11250023/linux-to-prepend-the-data-from-one-file-to-another))
+<div class="text-muted">
+See also on #stackoverflow: <a href="http://stackoverflow.com/questions/11250023/linux-to-prepend-the-data-from-one-file-to-another">Linux to prepend the data from one file to another</a>, and on #codereview: <a href="http://codereview.stackexchange.com/questions/100647/add-license-to-beginning-of-files/107191#107191">Add license to beginning of files</a>
+</div>
