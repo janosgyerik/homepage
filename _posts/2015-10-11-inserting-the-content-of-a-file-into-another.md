@@ -2,6 +2,8 @@
 layout: post
 title: "Inserting the content of a file into another in Bash"
 categories:
+- hacks
+- software
 tags: []
 ---
 {% include JB/setup %}
