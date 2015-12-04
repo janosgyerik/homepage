@@ -37,13 +37,12 @@ If you want to join forces, drop me a line!
 
 - Stack Exchange --- [janos](http://stackexchange.com/users/322516)
 
-      I occasionally answer questions on Stack Exchange sites.
-      I'm most active on
+      I answer questions quite actively on Stack Exchange sites,
+      especially on
       [Code Review](http://codereview.stackexchange.com/users/12390/janos),
-      [Stack Overflow](http://stackoverflow.com/users/641955/janos),
-      [Unix and Linux](http://unix.stackexchange.com/users/17433/janos),
-      [Ask Ubuntu](http://askubuntu.com/users/23972/janos),
-      and [Programmers](http://programmers.stackexchange.com/users/52610/janos).
+      where I'm an elected moderator since 2015 September.
+      I also chase rep semi-regularly on
+      [Stack Overflow](http://stackoverflow.com/users/641955/janos).
 
       ![http://stackexchange.com/users/322516](http://stackexchange.com/users/flair/322516.png)
 
