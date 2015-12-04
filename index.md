@@ -51,13 +51,13 @@ If you want to join forces, drop me a line!
       My profile on Careers 2.0 by stackoverflow.
       More detailed than a [LinkedIn](http://fr.linkedin.com/in/janosgyerik/) profile,
       and more relevant for software engineers,
-      highlighting open source projects, stackoverflow answers,
+      highlighting open source projects, Stack Exchange answers,
       publications, and others.
 
 - Coderwall --- https://coderwall.com/janosgyerik
 
-      Lately I'm experimenting with this site for coders.
-      I publish ["Pro Tips"](https://coderwall.com/p/u/janosgyerik) there once in a while.
+      Sometimes (less and less)
+      I publish ["Pro Tips"](https://coderwall.com/p/u/janosgyerik) on this site.
 
 ### Old stuff
 
