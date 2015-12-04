@@ -68,15 +68,15 @@ at least to keep as bookmarks for myself...
 
 - Wiki --- http://wiki.titan2x.com/
 
-  My personal reference of all things related to computers,
-  programming, operating systems (especially GNU/Linux) and databases.
-  A lot of cheat sheets,
-  some in-depth articles and how to guides of larger topics.
+    My personal reference of all things related to computers,
+    programming, operating systems (especially GNU/Linux) and databases.
+    A lot of cheat sheets,
+    some in-depth articles and how to guides of larger topics.
 
 - Launchpad -- https://launchpad.net/~janos-gyerik
 
-  My not so recent work is hosted on Launchpad,
-  a Bazaar repository hosting site.
+    My not so recent work is hosted on Launchpad,
+    a Bazaar repository hosting site.
 
 <!--
 If you appreciate my open source work, apps, tools,
