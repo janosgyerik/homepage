@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lesson learned from The Clean Coder"
+title: "Lessons learned from The Clean Coder"
 categories:
 - musings
 tags: []
