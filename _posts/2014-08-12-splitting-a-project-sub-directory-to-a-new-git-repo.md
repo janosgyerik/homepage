@@ -28,7 +28,7 @@ or locally:
 
 Create a remote for the repository,
 add a remote for it,
-and push the `media` branch to the remote with the name `master:
+and push the `media` branch to the remote with the name `master`:
 
     git remote add proj-media /tmp/proj-media.git
     git push proj-media media:master
