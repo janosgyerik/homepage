@@ -13,21 +13,20 @@ I work on private and open-source projects in my spare time.
 If you want to join forces, drop me a line!
 
 - [Apps](apps.html) ---
-  Simple but practical Android apps.
+  Simple, practical Android apps.
 
 - [Websites](websites.html) ---
-  Simple but practical websites.
+  Simple, practical websites.
 
 - [Writing](writing.html) ---
-  My professional writings published here and there.
+  Professional writings published here and there.
 
 - I tweet as [@janosgyerik](https://twitter.com/janosgyerik) and [@bashoneliners](https://twitter.com/bashoneliners).
 
 - I blog on http://janosgyerik.com/blog.html
 
-  Not really personal,
-  this is really my *journal of daily hacks*:
-  When I figure out something sort of tricky,
+  My *journal of daily hacks*:
+  when I figure out something less than obvious,
   I write it down so I don't have to research it again.
   I also post new releases of my apps and websites here.
 
