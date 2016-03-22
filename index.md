@@ -25,7 +25,7 @@ If you want to join forces, drop me a line!
 
 - I blog on [http://janosgyerik.com/blog.html](http://janosgyerik.com/blog.html)
 
-  My *journal of daily hacks*:
+  My journal of daily hacks:
   when I figure out something less than obvious,
   I write it down so I don't have to research it again.
   I also post new releases of my apps and websites here.
