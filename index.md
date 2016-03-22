@@ -23,14 +23,14 @@ If you want to join forces, drop me a line!
 
 - I tweet as [@janosgyerik](https://twitter.com/janosgyerik) and [@bashoneliners](https://twitter.com/bashoneliners).
 
-- I blog on http://janosgyerik.com/blog.html
+- I blog on [http://janosgyerik.com/blog.html](http://janosgyerik.com/blog.html)
 
   My *journal of daily hacks*:
   when I figure out something less than obvious,
   I write it down so I don't have to research it again.
   I also post new releases of my apps and websites here.
 
-- GitHub --- https://github.com/janosgyerik
+- GitHub --- [https://github.com/janosgyerik](https://github.com/janosgyerik)
 
   My recent open-source work is hosted on GitHub.
 
@@ -45,7 +45,7 @@ If you want to join forces, drop me a line!
 
   ![http://stackexchange.com/users/322516](http://stackexchange.com/users/flair/322516.png)
 
-- Careers 2.0 --- http://careers.stackoverflow.com/janosgyerik
+- Careers 2.0 --- [http://careers.stackoverflow.com/janosgyerik](http://careers.stackoverflow.com/janosgyerik)
 
   My profile on Careers 2.0 by stackoverflow.
   More detailed than a [LinkedIn](http://fr.linkedin.com/in/janosgyerik/) profile,
@@ -53,7 +53,7 @@ If you want to join forces, drop me a line!
   highlighting open source projects, Stack Exchange answers,
   publications, and others.
 
-- Coderwall --- https://coderwall.com/janosgyerik
+- Coderwall --- [https://coderwall.com/janosgyerik](https://coderwall.com/janosgyerik)
 
   Sometimes (less and less)
   I publish ["Pro Tips"](https://coderwall.com/p/u/janosgyerik) on this site.
@@ -65,14 +65,14 @@ In fact I'm migrating some of this stuff elsewhere.
 That said, I still want to make a note here,
 at least to keep as bookmarks for myself...
 
-- Wiki --- http://wiki.titan2x.com/
+- Wiki --- [http://wiki.titan2x.com/](http://wiki.titan2x.com/)
 
   My personal reference of all things related to computers,
   programming, operating systems (especially GNU/Linux) and databases.
   A lot of cheat sheets,
   some in-depth articles and how to guides of larger topics.
 
-- Launchpad -- https://launchpad.net/~janos-gyerik
+- Launchpad -- [https://launchpad.net/~janos-gyerik](https://launchpad.net/~janos-gyerik)
 
   My not so recent work is hosted on Launchpad,
   a Bazaar repository hosting site.
