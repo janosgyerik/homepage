@@ -25,39 +25,39 @@ If you want to join forces, drop me a line!
 
 - I blog on http://janosgyerik.com/blog.html
 
-      Not really personal,
-      this is really my *journal of daily hacks*:
-      When I figure out something sort of tricky,
-      I write it down so I don't have to research it again.
-      I also post new releases of my apps and websites here.
+  Not really personal,
+  this is really my *journal of daily hacks*:
+  When I figure out something sort of tricky,
+  I write it down so I don't have to research it again.
+  I also post new releases of my apps and websites here.
 
 - GitHub --- https://github.com/janosgyerik
 
-      My recent open-source work is hosted on GitHub.
+  My recent open-source work is hosted on GitHub.
 
 - Stack Exchange --- [janos](http://stackexchange.com/users/322516)
 
-      I answer questions quite actively on Stack Exchange sites,
-      especially on
-      [Code Review](http://codereview.stackexchange.com/users/12390/janos),
-      where I'm an elected moderator since 2015 September.
-      I also chase rep semi-regularly on
-      [Stack Overflow](http://stackoverflow.com/users/641955/janos).
+  I answer questions quite actively on Stack Exchange sites,
+  especially on
+  [Code Review](http://codereview.stackexchange.com/users/12390/janos),
+  where I'm an elected moderator since 2015 September.
+  I also chase rep semi-regularly on
+  [Stack Overflow](http://stackoverflow.com/users/641955/janos).
 
-      ![http://stackexchange.com/users/322516](http://stackexchange.com/users/flair/322516.png)
+  ![http://stackexchange.com/users/322516](http://stackexchange.com/users/flair/322516.png)
 
 - Careers 2.0 --- http://careers.stackoverflow.com/janosgyerik
 
-      My profile on Careers 2.0 by stackoverflow.
-      More detailed than a [LinkedIn](http://fr.linkedin.com/in/janosgyerik/) profile,
-      and more relevant for software engineers,
-      highlighting open source projects, Stack Exchange answers,
-      publications, and others.
+  My profile on Careers 2.0 by stackoverflow.
+  More detailed than a [LinkedIn](http://fr.linkedin.com/in/janosgyerik/) profile,
+  and more relevant for software engineers,
+  highlighting open source projects, Stack Exchange answers,
+  publications, and others.
 
 - Coderwall --- https://coderwall.com/janosgyerik
 
-      Sometimes (less and less)
-      I publish ["Pro Tips"](https://coderwall.com/p/u/janosgyerik) on this site.
+  Sometimes (less and less)
+  I publish ["Pro Tips"](https://coderwall.com/p/u/janosgyerik) on this site.
 
 ### Old stuff
 
@@ -68,15 +68,15 @@ at least to keep as bookmarks for myself...
 
 - Wiki --- http://wiki.titan2x.com/
 
-    My personal reference of all things related to computers,
-    programming, operating systems (especially GNU/Linux) and databases.
-    A lot of cheat sheets,
-    some in-depth articles and how to guides of larger topics.
+  My personal reference of all things related to computers,
+  programming, operating systems (especially GNU/Linux) and databases.
+  A lot of cheat sheets,
+  some in-depth articles and how to guides of larger topics.
 
 - Launchpad -- https://launchpad.net/~janos-gyerik
 
-    My not so recent work is hosted on Launchpad,
-    a Bazaar repository hosting site.
+  My not so recent work is hosted on Launchpad,
+  a Bazaar repository hosting site.
 
 <!--
 If you appreciate my open source work, apps, tools,
