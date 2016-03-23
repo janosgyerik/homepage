@@ -5,7 +5,6 @@ published: true
 title: Solaris got goood (version 5.11)
 date: 2013-12-01 11:32:33.000000000 +01:00
 categories:
-- Uncategorized
 - Musings
 - Software
 tags: []

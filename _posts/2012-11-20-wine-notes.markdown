@@ -5,8 +5,8 @@ published: true
 title: Wine Notes
 date: 2012-11-20 22:42:53.000000000 +01:00
 categories:
-- software
-- news
+- Software
+- News
 tags: []
 ---
 <span class="pull-right col-lg-2 col-md-2 col-sm-3"><a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.winenotes.lite"><img alt="android" src="/assets/themes/images/apps/wine-notes.png" /></a></span>
