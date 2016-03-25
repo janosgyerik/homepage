@@ -5,7 +5,7 @@ published: true
 title: Installing bzr-svn in gutsy
 date: 2008-05-12 05:09:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 I already added the gutsy repository for `bzr`, but since the latest version of `bzr-svn` lives only in gutsy-backports for now, I had to add that as well, so I had these extra lines in `/etc/apt/sources.list` for these two packages:

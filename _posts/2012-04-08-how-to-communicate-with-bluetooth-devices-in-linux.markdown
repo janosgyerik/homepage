@@ -5,7 +5,7 @@ published: true
 title: How to communicate with Bluetooth devices in Linux
 date: 2012-04-08 14:06:40.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

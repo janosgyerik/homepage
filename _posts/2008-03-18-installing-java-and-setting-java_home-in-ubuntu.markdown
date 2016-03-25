@@ -5,7 +5,7 @@ published: true
 title: How to install java and set JAVA_HOME correctly in Ubuntu
 date: 2008-03-18 13:46:00.000000000 +01:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 Install Java 6 like this: (Note: the package is in *multiverse*)

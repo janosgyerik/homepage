@@ -5,7 +5,7 @@ published: true
 title: Multimedia in ubuntu
 date: 2010-05-15 14:18:08.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

@@ -5,7 +5,7 @@ published: true
 title: How to enable public_html user homepages in lighttpd in Fedora
 date: 2009-07-06 21:17:30.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - Musings
 tags: []
 ---

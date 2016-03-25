@@ -5,7 +5,7 @@ published: true
 title: 'Strange Django issue: Error: No module named cache'
 date: 2012-08-14 18:27:05.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

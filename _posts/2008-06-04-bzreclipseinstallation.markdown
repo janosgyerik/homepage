@@ -5,7 +5,7 @@ published: true
 title: BzrEclipse/Installation
 date: 2008-06-04 08:12:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 The instructions on Launchpad are excellent:

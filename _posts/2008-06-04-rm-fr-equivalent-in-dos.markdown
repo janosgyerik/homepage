@@ -5,7 +5,7 @@ published: true
 title: How to delete directories recursively in DOS
 date: 2008-06-04 08:02:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 That is, the equivalent of rm -fr in Linux/UNIX.

@@ -5,7 +5,7 @@ published: true
 title: Strange error when trying to commit to git in Eclipse using egit plugin
 date: 2012-07-23 08:48:37.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

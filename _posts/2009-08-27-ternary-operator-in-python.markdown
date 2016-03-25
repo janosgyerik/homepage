@@ -5,7 +5,7 @@ published: true
 title: Where is the ternary operator in Python
 date: 2009-08-27 15:57:22.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 There is NO ternary operator in python but you can imitate like this, which is kinda cool:

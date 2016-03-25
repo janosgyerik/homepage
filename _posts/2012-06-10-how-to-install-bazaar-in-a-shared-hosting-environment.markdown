@@ -5,7 +5,7 @@ published: true
 title: How to install Bazaar in a shared hosting environment
 date: 2012-06-10 13:26:55.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

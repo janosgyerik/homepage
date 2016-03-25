@@ -5,7 +5,7 @@ published: true
 title: Debugging strange unmarshalling problems when using jaxb
 date: 2012-09-02 10:31:37.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

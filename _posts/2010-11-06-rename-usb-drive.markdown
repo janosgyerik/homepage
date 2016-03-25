@@ -5,7 +5,7 @@ published: true
 title: How to rename USB Drive in Linux
 date: 2010-11-06 12:20:25.000000000 +01:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 That is, how to change the label of a USB Drive in Linux.

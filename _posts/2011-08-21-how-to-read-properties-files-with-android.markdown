@@ -5,7 +5,7 @@ published: true
 title: How to read properties files with Android
 date: 2011-08-21 15:51:16.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

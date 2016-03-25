@@ -5,7 +5,7 @@ published: true
 title: Learning history expansion tricks in bash
 date: 2013-07-02 21:41:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

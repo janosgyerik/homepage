@@ -5,7 +5,7 @@ published: true
 title: How to switch Firefox profiles in Windows
 date: 2010-06-23 21:38:12.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 

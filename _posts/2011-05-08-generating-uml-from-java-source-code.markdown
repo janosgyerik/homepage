@@ -5,7 +5,7 @@ published: true
 title: How to generate UML diagrams from java source code
 date: 2011-05-08 00:58:35.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

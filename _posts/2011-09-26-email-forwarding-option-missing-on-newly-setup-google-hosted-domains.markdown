@@ -5,7 +5,7 @@ published: true
 title: Email forwarding option missing on newly setup google hosted domains
 date: 2011-09-26 01:42:48.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - Musings
 - software
 tags: []

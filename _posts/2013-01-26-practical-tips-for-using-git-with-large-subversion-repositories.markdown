@@ -5,7 +5,7 @@ published: true
 title: Practical tips for using Git with large Subversion repositories
 date: 2013-01-26 15:00:51.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

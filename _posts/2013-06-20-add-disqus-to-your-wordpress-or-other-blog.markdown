@@ -5,7 +5,7 @@ published: true
 title: Add Disqus to your WordPress or other blog
 date: 2013-06-20 03:32:01.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

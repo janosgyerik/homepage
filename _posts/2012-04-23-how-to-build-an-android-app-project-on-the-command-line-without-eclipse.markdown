@@ -5,7 +5,7 @@ published: true
 title: How to build an Android app project on the command line without Eclipse
 date: 2012-04-23 20:31:21.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

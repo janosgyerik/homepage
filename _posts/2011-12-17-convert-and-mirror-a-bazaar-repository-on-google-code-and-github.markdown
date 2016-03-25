@@ -5,7 +5,7 @@ published: true
 title: Convert and mirror a Bazaar repository on Google Code and GitHub
 date: 2011-12-17 07:36:03.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

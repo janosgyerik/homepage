@@ -5,7 +5,7 @@ published: true
 title: 'ImproperlyConfigured: The SECRET_KEY setting must not be empty'
 date: 2013-06-09 08:45:13.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

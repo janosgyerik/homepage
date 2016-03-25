@@ -5,7 +5,7 @@ published: true
 title: rsync - copy with progress monitor
 date: 2008-04-01 06:21:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

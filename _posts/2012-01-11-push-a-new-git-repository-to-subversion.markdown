@@ -5,7 +5,7 @@ published: true
 title: How to push a new git repository to Subversion
 date: 2012-01-11 23:32:16.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

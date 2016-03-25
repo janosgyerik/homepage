@@ -5,7 +5,7 @@ published: true
 title: Git bash crashes with fork error on windows 64 bit
 date: 2012-01-12 21:02:02.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

@@ -5,7 +5,7 @@ published: true
 title: How to do grep in windows
 date: 2008-05-08 04:30:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 `findstr` in windows works similarly to `grep` in unix. For example you can do this:

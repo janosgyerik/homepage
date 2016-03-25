@@ -5,7 +5,7 @@ published: true
 title: GitHub pages especially useful for simple web tool projects
 date: 2012-10-08 19:01:25.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

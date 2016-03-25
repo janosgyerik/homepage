@@ -5,7 +5,7 @@ published: true
 title: How to burn dvd using command line tools in Linux
 date: 2008-10-19 13:44:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 In Ubuntu or Debian:

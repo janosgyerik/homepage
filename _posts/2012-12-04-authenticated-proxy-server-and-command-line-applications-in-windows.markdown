@@ -5,7 +5,7 @@ published: true
 title: Authenticated proxy server and command line applications in Windows
 date: 2012-12-04 21:17:24.000000000 +01:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 I tend to forget a couple of "gotchas" when working in an environment with a proxy server and restricted internet access.

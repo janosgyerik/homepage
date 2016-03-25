@@ -5,7 +5,7 @@ published: true
 title: Decentralized development workflow with Bazaar and DVCS in general
 date: 2011-09-30 02:33:04.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - Musings
 - software
 tags: []

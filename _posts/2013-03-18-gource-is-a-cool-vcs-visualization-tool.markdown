@@ -5,7 +5,7 @@ published: true
 title: Gource is a cool VCS visualization tool
 date: 2013-03-18 18:36:32.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

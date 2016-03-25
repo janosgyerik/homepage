@@ -5,7 +5,7 @@ published: true
 title: HabitRPG is helping me live healthier and balance my activities better
 date: 2013-07-13 14:00:51.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

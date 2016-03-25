@@ -5,7 +5,7 @@ published: true
 title: My terabyte raid1
 date: 2008-10-15 09:41:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 My raid1 array with two 120G disks was getting filled up lately, so when usage reached 90% I decided it's time to upgrade. To my great surprise prices have gone much lower than I expected: I got two 1T disks for the same price as the old 120G disks -- $100 apiece.

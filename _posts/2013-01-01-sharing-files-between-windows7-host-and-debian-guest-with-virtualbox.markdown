@@ -5,7 +5,7 @@ published: true
 title: Sharing files between Windows7 host and Debian guest with VirtualBox
 date: 2013-01-01 09:27:38.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

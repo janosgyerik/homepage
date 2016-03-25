@@ -5,7 +5,7 @@ published: true
 title: Hosting Bazaar projects on Launchpad 3
 date: 2008-06-27 23:43:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 Adding to the previous posts...

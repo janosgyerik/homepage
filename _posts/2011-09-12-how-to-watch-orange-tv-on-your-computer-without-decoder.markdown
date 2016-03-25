@@ -5,7 +5,7 @@ published: true
 title: How to watch Orange TV on your computer without decoder
 date: 2011-09-12 03:09:47.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 Orange is my internet provider in France. It seems Free is cheaper, but for now I'm stuck with Orange. My package includes TV, but it's not officially documented nor straightforward to watch TV using a PC and without the decoder. I have a Livebox 2.

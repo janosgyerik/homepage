@@ -5,7 +5,7 @@ published: true
 title: How to handle git svn rebase with conflicts
 date: 2011-12-01 07:09:13.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

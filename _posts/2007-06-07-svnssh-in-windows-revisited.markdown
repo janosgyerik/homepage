@@ -5,7 +5,7 @@ published: true
 title: svn+ssh:// in windows revisited
 date: 2007-06-07 01:40:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 Oh well, `SVN_SSH="c:/program files/putty/plink.exe"` didn't work very well for me for two reasons:

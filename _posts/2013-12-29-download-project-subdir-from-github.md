@@ -5,7 +5,7 @@ published: true
 title: How to download a project subdirectory from GitHub
 date: 2013-12-29 05:39:55.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

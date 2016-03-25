@@ -5,7 +5,7 @@ published: true
 title: Ubuntu upgrade hell
 date: 2008-07-06 03:35:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - Musings
 tags: []
 ---

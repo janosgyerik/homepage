@@ -5,7 +5,7 @@ published: true
 title: Changing Launchpad branch from Mirrored to Hosted
 date: 2010-10-08 22:23:05.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

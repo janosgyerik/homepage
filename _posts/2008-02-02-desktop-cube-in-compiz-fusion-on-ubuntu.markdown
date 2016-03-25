@@ -5,7 +5,7 @@ published: true
 title: Desktop cube in Compiz-Fusion on Ubuntu
 date: 2008-02-02 16:11:00.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

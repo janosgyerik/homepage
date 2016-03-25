@@ -5,7 +5,7 @@ published: true
 title: Installing VMware Server 1.0.x in hardy
 date: 2008-05-15 08:52:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 Install required packages:

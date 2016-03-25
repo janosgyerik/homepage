@@ -5,7 +5,7 @@ published: true
 title: Bash co-processes and other tricks
 date: 2011-03-22 03:20:13.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - Musings
 tags: []
 ---

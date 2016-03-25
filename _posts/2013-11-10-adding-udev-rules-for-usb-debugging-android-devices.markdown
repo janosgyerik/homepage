@@ -5,7 +5,7 @@ published: true
 title: Adding udev rules for USB debugging Android devices
 date: 2013-11-10 18:15:15.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

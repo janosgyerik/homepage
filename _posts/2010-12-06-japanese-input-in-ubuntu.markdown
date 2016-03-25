@@ -5,7 +5,7 @@ published: true
 title: How to set up Japanese input in Ubuntu
 date: 2010-12-06 00:29:23.000000000 +01:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 The official documentation is here, but incomplete:

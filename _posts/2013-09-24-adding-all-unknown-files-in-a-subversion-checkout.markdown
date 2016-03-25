@@ -5,7 +5,7 @@ published: true
 title: Adding all unknown files in a Subversion checkout
 date: 2013-09-24 06:08:16.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

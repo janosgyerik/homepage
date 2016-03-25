@@ -5,7 +5,7 @@ published: true
 title: Setting up Java in Debian the right way
 date: 2013-12-09 19:56:55.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

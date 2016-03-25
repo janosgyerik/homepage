@@ -5,7 +5,7 @@ published: true
 title: A quite painful MySQL server migration with Japanese characters and utf-8
 date: 2011-11-18 05:27:04.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

@@ -5,7 +5,7 @@ published: true
 title: Setup and test svn post-commit hook to send commit log
 date: 2012-06-05 07:08:40.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

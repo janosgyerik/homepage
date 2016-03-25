@@ -5,7 +5,7 @@ published: true
 title: ssh connection multiplexing
 date: 2011-09-24 00:14:44.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

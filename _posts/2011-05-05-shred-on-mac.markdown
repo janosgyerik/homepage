@@ -5,7 +5,7 @@ published: true
 title: How to delete files safely on Mac
 date: 2011-05-05 05:08:32.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 Melt your harddisk. Melt the whole computer. Drop in a volcano, or hot magma.

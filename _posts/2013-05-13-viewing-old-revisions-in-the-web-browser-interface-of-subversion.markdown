@@ -5,7 +5,7 @@ published: true
 title: Viewing old revisions in the web browser interface of Subversion
 date: 2013-05-13 21:19:28.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

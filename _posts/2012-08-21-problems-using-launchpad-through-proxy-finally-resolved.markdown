@@ -5,7 +5,7 @@ published: true
 title: Problems using Launchpad through proxy finally resolved
 date: 2012-08-21 20:48:09.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

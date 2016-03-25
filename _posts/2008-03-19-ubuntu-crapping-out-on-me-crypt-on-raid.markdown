@@ -5,7 +5,7 @@ published: true
 title: Ubuntu crapping out on me (crypt on raid)
 date: 2008-03-19 04:23:00.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - Musings
 tags: []
 ---

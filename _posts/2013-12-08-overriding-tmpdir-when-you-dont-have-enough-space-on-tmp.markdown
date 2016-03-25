@@ -5,7 +5,7 @@ published: true
 title: Overriding TMPDIR when you don't have enough space on /tmp
 date: 2013-12-08 16:37:55.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - Musings
 - software
 tags: []

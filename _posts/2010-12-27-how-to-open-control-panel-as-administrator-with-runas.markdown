@@ -5,7 +5,7 @@ published: true
 title: How to open Control Panel as Administrator with runas
 date: 2010-12-27 17:34:14.000000000 +01:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 

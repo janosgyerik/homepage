@@ -5,7 +5,7 @@ published: true
 title: Subversion does not remember or update my password
 date: 2013-02-06 14:50:35.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

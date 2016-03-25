@@ -5,7 +5,7 @@ published: true
 title: Testing applets without a browser
 date: 2011-05-07 20:58:19.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 I don't like applets. They are troublesome and slow. But that doesn't change the fact that sometimes I still have to work with it.

@@ -5,7 +5,7 @@ published: true
 title: Installing Plone in hardy
 date: 2008-10-11 23:33:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 I've installed Plone in Ubuntu dozens of times. Ever since hoary (possibly even from warty), this was a matter of `apt-get install plone-site`. Something is broken in hardy because this step doesn't create a Zope instance (the container instance for Plone) but it should. That is, the directories `/var/lib/zope2.9/instance/` and `/var/lib/zope2.10/instance/` were both empty, so when starting zope, it would complain about no instances, and obviously Zope cannot work without files. I could fix this and get going with the following steps.

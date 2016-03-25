@@ -5,7 +5,7 @@ published: true
 title: How to show hidden files in Finder on Mac OS X
 date: 2013-01-27 15:32:35.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

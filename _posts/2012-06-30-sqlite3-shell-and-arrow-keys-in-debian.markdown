@@ -5,7 +5,7 @@ published: true
 title: 'Sqlite3 shell and arrow keys in Debian '
 date: 2012-06-30 11:40:21.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

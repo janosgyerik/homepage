@@ -5,7 +5,7 @@ published: true
 title: How to convert html entity characters to normal text with jquery
 date: 2011-05-08 02:04:18.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

@@ -5,7 +5,7 @@ published: true
 title: Tab switching slow in Eclipse on Mac OS X
 date: 2010-09-15 20:56:14.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 The fix:

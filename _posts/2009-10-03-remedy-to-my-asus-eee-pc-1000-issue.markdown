@@ -5,7 +5,7 @@ published: true
 title: Remedy to my ASUS Eee PC 1000 issue
 date: 2009-10-03 10:48:59.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - Musings
 tags: []
 ---

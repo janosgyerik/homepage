@@ -5,7 +5,7 @@ published: true
 title: Fixing system date out of sync in Debian
 date: 2013-05-14 05:22:21.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 I started using my old-ish Debian server again and realized the system date is off by 20 minutes...

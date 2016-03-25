@@ -5,7 +5,7 @@ published: true
 title: How to browse JMX mbeans
 date: 2011-09-12 20:36:58.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

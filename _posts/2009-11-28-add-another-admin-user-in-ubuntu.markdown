@@ -5,7 +5,7 @@ published: true
 title: How to add another admin user in ubuntu
 date: 2009-11-28 18:35:35.000000000 +01:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 In Ubuntu the first user you create will have special privileges. This happens during the installation, at the step when you create the first user account, Ubuntu adds that user to several system groups to grant some special privileges such us running sudo, mount cdrom and usb drives. In particular the default system groups at the time of this writing: adm dialout cdrom plugdev lpadmin admin sambashare.

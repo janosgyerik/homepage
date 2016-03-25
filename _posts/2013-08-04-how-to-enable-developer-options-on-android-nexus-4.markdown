@@ -5,7 +5,7 @@ published: true
 title: How to enable developer options on Android Nexus 4
 date: 2013-08-04 10:32:02.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

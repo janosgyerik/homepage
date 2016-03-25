@@ -5,7 +5,7 @@ published: true
 title: Hacking contest on a Live CD
 date: 2013-03-25 18:48:27.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - News
 - software
 tags: []

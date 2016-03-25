@@ -5,7 +5,7 @@ published: true
 title: Detect language preference in Django and confirm it works
 date: 2012-09-25 12:44:07.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

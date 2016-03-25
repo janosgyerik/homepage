@@ -5,7 +5,7 @@ published: true
 title: Acrobat crashes a few seconds after opening a PDF...
 date: 2007-06-14 00:52:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 

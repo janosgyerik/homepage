@@ -5,7 +5,7 @@ published: true
 title: Setting default device in R in Mac OS X
 date: 2013-02-08 10:01:19.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

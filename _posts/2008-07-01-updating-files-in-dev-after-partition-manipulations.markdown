@@ -5,7 +5,7 @@ published: true
 title: How to update files in /dev after editing disk partitions
 date: 2008-07-01 09:04:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 

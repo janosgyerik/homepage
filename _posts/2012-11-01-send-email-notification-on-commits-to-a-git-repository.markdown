@@ -5,7 +5,7 @@ published: true
 title: Send email notification on commits to a git repository
 date: 2012-11-01 11:56:58.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

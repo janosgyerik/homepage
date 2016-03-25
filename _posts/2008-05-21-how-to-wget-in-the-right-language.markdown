@@ -5,7 +5,7 @@ published: true
 title: How to wget in a different language
 date: 2008-05-21 02:27:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 Some websites are smart and depending on your location they make assumption on the interface language. For example I'm in Japan and so when I go to google for the first time the page will be in Japanese.

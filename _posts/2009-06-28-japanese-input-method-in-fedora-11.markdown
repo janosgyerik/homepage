@@ -5,7 +5,7 @@ published: true
 title: How to set up Japanese input method in Fedora 11
 date: 2009-06-28 16:18:42.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

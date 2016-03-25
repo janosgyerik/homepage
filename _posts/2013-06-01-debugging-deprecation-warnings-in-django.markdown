@@ -5,7 +5,7 @@ published: true
 title: Debugging deprecation warnings in Django
 date: 2013-06-01 15:59:14.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 Ever since switching to Django 1.5, I've been annoyed by this:

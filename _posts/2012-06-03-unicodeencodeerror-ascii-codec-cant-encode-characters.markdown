@@ -5,7 +5,7 @@ published: true
 title: 'UnicodeEncodeError: ''ascii'' codec can''t encode characters'
 date: 2012-06-03 17:21:50.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

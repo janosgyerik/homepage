@@ -5,7 +5,7 @@ published: true
 title: Make screen automatically source .bash_profile
 date: 2012-07-08 08:49:19.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

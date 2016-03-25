@@ -5,7 +5,7 @@ published: true
 title: Lilo configuration when root on lvm in Sabayon
 date: 2008-05-20 02:30:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 

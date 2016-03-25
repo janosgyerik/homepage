@@ -5,7 +5,7 @@ published: true
 title: Start a local repository and push it to a server later with Bazaar and Git
 date: 2012-01-24 22:52:35.000000000 +01:00
 categories:
-- Hacks
+- hacks
 - Musings
 - software
 tags: []

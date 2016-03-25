@@ -5,7 +5,7 @@ published: true
 title: Oracle Tips
 date: 2007-02-27 05:27:00.000000000 +01:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 

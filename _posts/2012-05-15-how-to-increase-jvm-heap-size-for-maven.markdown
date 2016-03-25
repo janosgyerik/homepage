@@ -5,7 +5,7 @@ published: true
 title: How to increase JVM heap size for Maven
 date: 2012-05-15 16:20:08.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---

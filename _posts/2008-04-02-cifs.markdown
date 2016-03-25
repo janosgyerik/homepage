@@ -5,7 +5,7 @@ published: true
 title: cifs
 date: 2008-04-02 04:39:00.000000000 +02:00
 categories:
-- Hacks
+- hacks
 tags: []
 ---
 Recently we installed a network drive. I mounted it as <tt>smbfs</tt> from a Linux system, but strangely after about an hour the mount fell apart and started to give me IO errors. An umount/mount temporarily fixed the problem but only for another hour.

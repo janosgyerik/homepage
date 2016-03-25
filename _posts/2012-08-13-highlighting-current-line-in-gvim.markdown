@@ -5,7 +5,7 @@ published: true
 title: Highlighting current line in gvim
 date: 2012-08-13 16:34:05.000000000 +02:00
 categories:
-- Hacks
+- hacks
 - software
 tags: []
 ---
