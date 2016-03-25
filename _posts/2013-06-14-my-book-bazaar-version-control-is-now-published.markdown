@@ -5,7 +5,7 @@ published: true
 title: My book Bazaar Version Control is now published
 date: 2013-06-14 05:34:11.000000000 +02:00
 categories:
-- News
+- news
 - software
 tags: []
 ---

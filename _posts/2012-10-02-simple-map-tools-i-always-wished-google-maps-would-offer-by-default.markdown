@@ -5,7 +5,7 @@ published: true
 title: Simple map tools I always wished Google Maps would offer by default
 date: 2012-10-02 17:26:45.000000000 +02:00
 categories:
-- News
+- news
 - software
 tags: []
 ---

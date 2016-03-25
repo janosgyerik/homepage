@@ -6,7 +6,7 @@ title: Recipe notes 1.3
 date: 2012-12-17 22:13:53.000000000 +01:00
 categories:
 - software
-- News
+- news
 tags: []
 ---
 <span class="pull-right col-lg-2 col-md-2 col-sm-3"><a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.recipenotes.lite"><img alt="android" src="/assets/themes/images/apps/recipe-notes.png" /></a></span>

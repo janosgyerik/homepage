@@ -5,7 +5,7 @@ published: true
 title: Recipe Notes
 date: 2012-09-26 20:46:54.000000000 +02:00
 categories:
-- News
+- news
 - software
 tags: []
 ---

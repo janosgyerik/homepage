@@ -6,7 +6,7 @@ title: Released jQuery Upvote plugin
 date: 2013-07-03 22:33:36.000000000 +02:00
 categories:
 - hacks
-- News
+- news
 - software
 tags: []
 ---

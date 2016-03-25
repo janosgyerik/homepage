@@ -5,7 +5,7 @@ published: true
 title: Released new version of Wine Notes on Android
 date: 2013-09-18 16:53:51.000000000 +02:00
 categories:
-- News
+- news
 - software
 tags: []
 ---

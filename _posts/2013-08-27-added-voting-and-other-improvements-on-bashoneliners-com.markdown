@@ -5,7 +5,7 @@ published: true
 title: Added voting and other improvements on bashoneliners.com
 date: 2013-08-27 17:23:34.000000000 +02:00
 categories:
-- News
+- news
 - software
 tags: []
 ---

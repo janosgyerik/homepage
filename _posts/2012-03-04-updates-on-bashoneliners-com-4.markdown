@@ -5,7 +5,7 @@ published: true
 title: Updates on bashoneliners.com
 date: 2012-03-04 21:48:04.000000000 +01:00
 categories:
-- News
+- news
 - software
 tags: []
 ---

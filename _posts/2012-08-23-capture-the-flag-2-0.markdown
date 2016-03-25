@@ -6,7 +6,7 @@ title: Capture the Flag 2.0
 date: 2012-08-23 07:13:42.000000000 +02:00
 categories:
 - Musings
-- News
+- news
 tags: []
 ---
 Another nicely put together hacking challenge by [@stripe](http://twitter.com/stripe).

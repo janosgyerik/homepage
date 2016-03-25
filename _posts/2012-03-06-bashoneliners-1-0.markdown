@@ -5,7 +5,7 @@ published: true
 title: bashoneliners 1.0
 date: 2012-03-06 18:34:22.000000000 +01:00
 categories:
-- News
+- news
 - software
 tags: []
 ---

@@ -5,7 +5,7 @@ published: true
 title: Recipe Notes 1.1
 date: 2012-10-29 18:45:07.000000000 +01:00
 categories:
-- News
+- news
 - software
 tags: []
 ---

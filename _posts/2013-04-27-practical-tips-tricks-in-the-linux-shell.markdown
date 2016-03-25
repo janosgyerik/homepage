@@ -6,7 +6,7 @@ title: Practical tips & tricks in the Linux shell
 date: 2013-04-27 12:33:48.000000000 +02:00
 categories:
 - Musings
-- News
+- news
 tags: []
 ---
 I put together this simple presentation about a few simple but very effective practical tips that should make you lightning fast on the command line. I use these literally every minute I spend in the shell. All the tips should work in Linux, UNIX, BSD and similar.

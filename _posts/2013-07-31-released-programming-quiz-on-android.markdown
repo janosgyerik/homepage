@@ -6,7 +6,7 @@ title: Released Programming Quiz on Android
 date: 2013-07-31 05:41:56.000000000 +02:00
 categories:
 - hacks
-- News
+- news
 - software
 tags: []
 ---

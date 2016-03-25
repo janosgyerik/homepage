@@ -5,7 +5,7 @@ published: true
 title: Released Computer Quiz on Android
 date: 2013-08-18 12:13:58.000000000 +02:00
 categories:
-- News
+- news
 - software
 tags: []
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Released new version of Programming Quiz on Android"
 categories:
-- News
+- news
 - software
 tags: []
 ---
