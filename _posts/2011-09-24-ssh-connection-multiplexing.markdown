@@ -6,7 +6,7 @@ title: ssh connection multiplexing
 date: 2011-09-24 00:14:44.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 Aaaaaaaah. So good I finally tried this.

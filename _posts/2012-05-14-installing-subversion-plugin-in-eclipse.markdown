@@ -6,7 +6,7 @@ title: Installing Subversion plugin in Eclipse
 date: 2012-05-14 11:08:30.000000000 +02:00
 categories:
 - Musings
-- Software
+- software
 tags: []
 ---
 Sometimes Eclipse really sucks. Today I wanted to upgrade my subversion plugin and ended up wasting a lot of time on it.

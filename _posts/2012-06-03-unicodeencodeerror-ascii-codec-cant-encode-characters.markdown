@@ -6,7 +6,7 @@ title: 'UnicodeEncodeError: ''ascii'' codec can''t encode characters'
 date: 2012-06-03 17:21:50.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 When coding in python, I've been hit by the following error every once in a while:

@@ -7,7 +7,7 @@ date: 2010-12-03 20:17:44.000000000 +01:00
 categories:
 - Hacks
 - Musings
-- Software
+- software
 tags: []
 ---
 If you initialize as `AuthentictionForm(request.POST)` like probably many of your forms, no validation will take place at all.

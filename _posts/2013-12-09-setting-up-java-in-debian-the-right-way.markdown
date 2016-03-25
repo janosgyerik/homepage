@@ -6,7 +6,7 @@ title: Setting up Java in Debian the right way
 date: 2013-12-09 19:56:55.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 I've been using the OpenJDK, but I had some problems with it: Android Studio and PyCharm are tested with Oracle's JDK, and as such there are known bugs and crashes with OpenJDK. To fix my instability issues I had to take the hint and switch to Oracle's. Here's the official doc for setting this up in Debian:

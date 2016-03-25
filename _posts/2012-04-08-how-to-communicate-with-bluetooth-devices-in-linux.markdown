@@ -6,7 +6,7 @@ title: How to communicate with Bluetooth devices in Linux
 date: 2012-04-08 14:06:40.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 Find Bluetooth devices nearby, this assumes the devices have been configured to be discoverable:

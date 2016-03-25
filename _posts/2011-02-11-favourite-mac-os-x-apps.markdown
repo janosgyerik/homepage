@@ -6,7 +6,7 @@ title: Favorite Mac OS X apps
 date: 2011-02-11 12:39:13.000000000 +01:00
 categories:
 - Musings
-- Software
+- software
 tags: []
 ---
 

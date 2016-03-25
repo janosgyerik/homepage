@@ -7,7 +7,7 @@ date: 2008-06-14 23:38:00.000000000 +02:00
 categories:
 - Hacks
 - Musings
-- Software
+- software
 tags: []
 ---
 What is [Launchpad](https://launchpad.net/)?

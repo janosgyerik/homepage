@@ -6,7 +6,7 @@ title: Learning history expansion tricks in bash
 date: 2013-07-02 21:41:00.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 Have you ever read the full `man bash`? Me: nah-uh... It's way too much! Deep deep deep stuff.

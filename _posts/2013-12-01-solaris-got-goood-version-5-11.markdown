@@ -6,7 +6,7 @@ title: Solaris got goood (version 5.11)
 date: 2013-12-01 11:32:33.000000000 +01:00
 categories:
 - Musings
-- Software
+- software
 tags: []
 ---
 Looking through my old drafts in this blog, posts I never published, I found this piece.

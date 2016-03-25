@@ -5,7 +5,7 @@ published: true
 title: Bazaar 1.6
 date: 2008-08-29 05:57:00.000000000 +02:00
 categories:
-- Software
+- software
 tags: []
 ---
 The Bazaar for windows is uber-cool. It includes TortoiseBZR, with nicer folder icons than all the other Tortoise***.

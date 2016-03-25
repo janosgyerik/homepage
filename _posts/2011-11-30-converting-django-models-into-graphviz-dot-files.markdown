@@ -5,7 +5,7 @@ published: true
 title: Converting Django models into Graphviz DOT files
 date: 2011-11-30 04:23:38.000000000 +01:00
 categories:
-- Software
+- software
 tags: []
 ---
 This was really easy and the result is really good-lookin.

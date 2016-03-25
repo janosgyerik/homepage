@@ -6,7 +6,7 @@ title: 'Strange Django issue: Error: No module named cache'
 date: 2012-08-14 18:27:05.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 Just now when running `./manage.py syncdb` Django (1.4) gave a strange error:

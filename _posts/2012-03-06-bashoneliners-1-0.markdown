@@ -6,7 +6,7 @@ title: bashoneliners 1.0
 date: 2012-03-06 18:34:22.000000000 +01:00
 categories:
 - News
-- Software
+- software
 tags: []
 ---
 This is the first official release of [bashoneliners.com](http://www.bashoneliners.com/) and here's the list of main features.

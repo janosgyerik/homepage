@@ -6,7 +6,7 @@ title: My book Bazaar Version Control is now published
 date: 2013-06-14 05:34:11.000000000 +02:00
 categories:
 - News
-- Software
+- software
 tags: []
 ---
 I am happy to announce that my book "Bazaar Version Control" has been released, and it is now available in online stores:

@@ -6,7 +6,7 @@ title: Released Computer Quiz on Android
 date: 2013-08-18 12:13:58.000000000 +02:00
 categories:
 - News
-- Software
+- software
 tags: []
 ---
 <span class="pull-right col-lg-2 col-md-2 col-sm-3"><a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite"><img alt="android" src="/assets/themes/images/apps/computer-quiz.png" /></a></span>

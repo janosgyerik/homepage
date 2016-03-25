@@ -6,7 +6,7 @@ title: How to download a project subdirectory from GitHub
 date: 2013-12-29 05:39:55.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 If you want to download an entire project from GitHub without version control data,

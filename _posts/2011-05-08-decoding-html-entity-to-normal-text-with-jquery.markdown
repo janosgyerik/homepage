@@ -6,7 +6,7 @@ title: How to convert html entity characters to normal text with jquery
 date: 2011-05-08 02:04:18.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 I display Google Local Search results in custom InfoWindows and text input fields. Recently I discovered that if place titles have html entity characters in their name such as &amp;quot;, they show up in their encoded forms if I print them with:

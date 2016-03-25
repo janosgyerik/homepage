@@ -6,7 +6,7 @@ title: Subversion does not remember or update my password
 date: 2013-02-06 14:50:35.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 I had this strange issue the other day. My account password has recently changed, and for each Subversion repository linked to that account I had to re-enter my password. Normally it is enough to re-enter once per repository: Subversion updates the corresponding authentication setting file so that I don't need to enter it again. But for some repositories it kept asking for it...

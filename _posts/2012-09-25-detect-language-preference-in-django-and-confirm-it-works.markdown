@@ -6,7 +6,7 @@ title: Detect language preference in Django and confirm it works
 date: 2012-09-25 12:44:07.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 Django has built-in facility for detecting the preferred language of clients, but it is not enabled by default.

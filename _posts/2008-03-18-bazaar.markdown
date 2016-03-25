@@ -7,7 +7,7 @@ date: 2008-03-18 13:30:00.000000000 +01:00
 categories:
 - Hacks
 - Musings
-- Software
+- software
 tags: []
 ---
 What is Bazaar? <blockquote>Bazaar is a distributed version control system that Just Works and adapts to the workflows you want to use.</blockquote>

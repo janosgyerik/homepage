@@ -7,7 +7,7 @@ date: 2008-02-29 04:39:00.000000000 +01:00
 categories:
 - Hacks
 - Musings
-- Software
+- software
 tags: []
 ---
 You can actually have Subversion repositories hosted on google for free... One thing to note though is that you cannot disable anonymous access. Suitable for open source projects though. I've been looking for a hassle-free way of giving anonymous access to some of my private repositories, this might be it!

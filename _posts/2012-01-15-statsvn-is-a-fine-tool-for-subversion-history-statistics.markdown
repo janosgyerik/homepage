@@ -6,7 +6,7 @@ title: StatSVN is a fine tool for Subversion history statistics
 date: 2012-01-15 21:38:12.000000000 +01:00
 categories:
 - Musings
-- Software
+- software
 tags: []
 ---
 [StatSVN](http://statsvn.org/) is easy to use and free, and can reveal interesting statistics about the commit history of a Subversion repository.

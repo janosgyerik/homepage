@@ -6,7 +6,7 @@ title: Git bash crashes with fork error on windows 64 bit
 date: 2012-01-12 21:02:02.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 If you are on a 64-bit windows system, and start bash that's included with git from a DOS command prompt and experience fork errors like this:

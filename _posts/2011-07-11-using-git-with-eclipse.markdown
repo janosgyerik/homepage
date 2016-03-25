@@ -7,7 +7,7 @@ date: 2011-07-11 22:23:44.000000000 +02:00
 categories:
 - Hacks
 - Musings
-- Software
+- software
 tags: []
 ---
 I just started using git so I'm really only at the beginning of an adventure.

@@ -6,7 +6,7 @@ title: Desktop cube in Compiz-Fusion on Ubuntu
 date: 2008-02-02 16:11:00.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 I've been using Beryl for some time now, until Feisty, to be exact. To my surprise Gutsy no longer had packages for Beryl. Luckily it has Compiz. 

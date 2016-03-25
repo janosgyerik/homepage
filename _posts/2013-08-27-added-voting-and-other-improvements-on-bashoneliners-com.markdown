@@ -6,7 +6,7 @@ title: Added voting and other improvements on bashoneliners.com
 date: 2013-08-27 17:23:34.000000000 +02:00
 categories:
 - News
-- Software
+- software
 tags: []
 ---
 I took my time, but finally here are a bunch of improvements I just released on [bashoneliners.com](http://bashoneliners.com), check it out!

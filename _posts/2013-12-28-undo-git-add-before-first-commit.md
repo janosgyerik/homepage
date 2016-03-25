@@ -6,7 +6,7 @@ title: How to undo git add before first commit
 date: 2013-12-28 05:39:55.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 Normally I undo `git add somefile` with `git reset somefile`.

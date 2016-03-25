@@ -7,7 +7,7 @@ date: 2011-09-16 05:07:31.000000000 +02:00
 categories:
 - Hacks
 - Musings
-- Software
+- software
 tags: []
 ---
 I hesitated for a second whether this belongs to a journal of hacks. But hey, it's actually hacking my own brain, so sure it is a hack!

@@ -6,7 +6,7 @@ title: Using XBMC with an external player
 date: 2013-05-25 09:09:34.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 First of all, [XBMC](http://xbmc.org/) looks really awesome:

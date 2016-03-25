@@ -6,7 +6,7 @@ title: Deploying new releases using Git and the post-receive hook
 date: 2013-06-06 21:39:30.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 

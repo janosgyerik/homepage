@@ -6,7 +6,7 @@ title: Send email notification on commits to a git repository
 date: 2012-11-01 11:56:58.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 Two things to do: configure the email parameters and enable the hook.

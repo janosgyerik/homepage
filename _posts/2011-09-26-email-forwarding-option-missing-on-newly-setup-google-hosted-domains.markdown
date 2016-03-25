@@ -7,7 +7,7 @@ date: 2011-09-26 01:42:48.000000000 +02:00
 categories:
 - Hacks
 - Musings
-- Software
+- software
 tags: []
 ---
 My internet hosting company has a nice feature to make it really easy to use Gmail for all my hosted domains. I've been using this for several domains, and I typically create an info@my.domain.com account and have it forward all incoming emails to my personal email account. Usually you do this in **Mail settings / Forwarding and POP/IMAP** but recently this option disappeared on the the google hosted domains, there is only **POP/IMAP Download** instead. Google Help pages are useless, there is nothing written about why the option is was removed.

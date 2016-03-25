@@ -7,7 +7,7 @@ date: 2013-03-25 18:48:27.000000000 +01:00
 categories:
 - Hacks
 - News
-- Software
+- software
 tags: []
 ---
 I built a remastered Linux Live CD that should be interesting, educational, and highly entertaining for any self-respecting programmer: a security challenge with 6 levels based on the online contest created by [Stripe](https://stripe.com/blog/capture-the-flag) in early 2012.

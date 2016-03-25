@@ -6,7 +6,7 @@ title: Sometimes drag and drop stops working in Windows
 date: 2011-01-11 12:11:02.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 The solution is to restart Explorer.

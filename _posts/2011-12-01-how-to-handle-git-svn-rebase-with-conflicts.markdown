@@ -6,7 +6,7 @@ title: How to handle git svn rebase with conflicts
 date: 2011-12-01 07:09:13.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 I'm still new to git and it was not very clear at first how to handle the case when you encounter conflicts during a `git svn rebase`.  Some notes to help next time around:

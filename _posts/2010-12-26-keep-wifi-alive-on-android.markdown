@@ -6,7 +6,7 @@ title: How to keep wifi alive on Android when the screen is off
 date: 2010-12-26 23:02:17.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 By default, Android loses wifi connection approximately 15 minutes after the screen turns off.

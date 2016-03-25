@@ -6,7 +6,7 @@ title: Google Chrome is the best browser today
 date: 2010-09-15 21:03:59.000000000 +02:00
 categories:
 - Musings
-- Software
+- software
 tags: []
 ---
 I remember when I tried Opera I was bitching a LOT about it...

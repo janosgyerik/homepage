@@ -7,7 +7,7 @@ date: 2013-07-03 22:33:36.000000000 +02:00
 categories:
 - Hacks
 - News
-- Software
+- software
 tags: []
 ---
 Published my first ever jQuery plugin just now: jQuery Upvote

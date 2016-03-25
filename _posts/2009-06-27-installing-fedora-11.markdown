@@ -6,7 +6,7 @@ title: Installing Fedora 11
 date: 2009-06-27 14:04:37.000000000 +02:00
 categories:
 - Musings
-- Software
+- software
 tags: []
 ---
 My hard disk started showing signs of slow and painful death, so after I backed up all my data I confirmed with smartctl that yes, it's dying:

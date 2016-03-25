@@ -6,7 +6,7 @@ title: Moving to Opera from Firefox
 date: 2010-05-12 14:18:31.000000000 +02:00
 categories:
 - Musings
-- Software
+- software
 tags: []
 ---
 A colleague recommended Opera over Firefox. The main reason for me to switch was the built-in bookmark synchronization and mouse gestures. And they are truly great.

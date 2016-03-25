@@ -5,7 +5,7 @@ published: true
 title: Wine Notes
 date: 2012-11-20 22:42:53.000000000 +01:00
 categories:
-- Software
+- software
 - News
 tags: []
 ---

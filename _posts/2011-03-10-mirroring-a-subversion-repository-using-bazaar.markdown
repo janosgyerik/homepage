@@ -7,7 +7,7 @@ date: 2011-03-10 11:36:12.000000000 +01:00
 categories:
 - Hacks
 - Musings
-- Software
+- software
 tags: []
 ---
 With Subversion alone you cannot mirror projects across repositories. Luckily with Bazaar this works out of the box.

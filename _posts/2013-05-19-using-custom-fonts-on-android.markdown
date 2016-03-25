@@ -7,7 +7,7 @@ date: 2013-05-19 07:47:03.000000000 +02:00
 categories:
 - Hacks
 - News
-- Software
+- software
 tags: []
 ---
 The default fonts you can choose from when developing for Android are not very interesting. Normally they are OK for my simple purposes, but for once I wanted something a little bit prettier for my new app, [Happy Moments](https://play.google.com/store/apps/details?id=com.happymoments.lite).

@@ -7,7 +7,7 @@ date: 2012-01-17 11:12:58.000000000 +01:00
 categories:
 - Hacks
 - Musings
-- Software
+- software
 tags: []
 ---
 I thought sharing a folder on Linux to Windows machines read-only and without any authentication whatsoever was very simple to do with Samba. And it really is, if you know Samba well :-) Which I don't, so I had some troubles due to incorrect value for the "security" option. The default value in a relatively modern installation is "user", with other possible values like "share" marked as deprecated in the config file. Because of that small mistake my sanity tests failed with error messages like:

@@ -6,7 +6,7 @@ title: Sharing files between Windows7 host and Debian guest with VirtualBox
 date: 2013-01-01 09:27:38.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 With VirtualBox it is very easy to share files between the host and guest systems by using shared folders. In a Windows7 host and a freshly installed Debian guest I only needed a few steps:

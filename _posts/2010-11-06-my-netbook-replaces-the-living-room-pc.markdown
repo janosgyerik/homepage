@@ -7,7 +7,7 @@ date: 2010-11-06 08:36:19.000000000 +01:00
 categories:
 - Hacks
 - Musings
-- Software
+- software
 tags: []
 ---
 I have a server in the storage room. And I used to have a long LAN cable all the way from the big black computer in my living room to the server. That's a thing of the past now.

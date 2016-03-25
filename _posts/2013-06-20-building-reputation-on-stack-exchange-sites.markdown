@@ -7,7 +7,7 @@ date: 2013-06-20 06:57:34.000000000 +02:00
 categories:
 - Hacks
 - Musings
-- Software
+- software
 tags: []
 ---
 Gamification... is ADDICTIVE!

@@ -6,7 +6,7 @@ title: 'Sqlite3 shell and arrow keys in Debian '
 date: 2012-06-30 11:40:21.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 In Debian, the arrow keys do not work in the `sqlite3` shell by default. For example arrow up-down doesn't work to browse the command history, and arrow left-right doesn't work to edit the current command line.

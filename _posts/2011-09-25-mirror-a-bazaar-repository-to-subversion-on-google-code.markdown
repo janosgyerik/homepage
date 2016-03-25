@@ -6,7 +6,7 @@ title: Mirror a Bazaar repository to Subversion on Google Code
 date: 2011-09-25 02:26:59.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 In this example I use the "bashoneliners" project, replace the project name appropriately for your case.

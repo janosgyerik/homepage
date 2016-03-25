@@ -6,7 +6,7 @@ title: GitHub pages especially useful for simple web tool projects
 date: 2012-10-08 19:01:25.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 One of the great features of GitHub is free hosting for your projects. All you have to do is put your web content in a branch named gh-pages and push the branch to GitHub.

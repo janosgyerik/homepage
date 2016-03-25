@@ -6,7 +6,7 @@ title: How to browse JMX mbeans
 date: 2011-09-12 20:36:58.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 Sun has a free tool for this called VisualVM. Simply download and run it. In the Applications tab you should see the various Java virtual machines currently running.

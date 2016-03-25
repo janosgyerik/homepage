@@ -6,7 +6,7 @@ title: Simple map tools I always wished Google Maps would offer by default
 date: 2012-10-02 17:26:45.000000000 +02:00
 categories:
 - News
-- Software
+- software
 tags: []
 ---
 I made something. A very simple map tool, built with [Backbone.js](http://documentcloud.github.com/), [Bootstrap](http://twitter.github.com/bootstrap/) and [Google Maps](https://developers.google.com/maps/), to implement some functionality I always wished Google Maps would offer by default, such as:

@@ -6,7 +6,7 @@ title: Add Disqus to your WordPress or other blog
 date: 2013-06-20 03:32:01.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 I've seen a couple of blogs using [Disqus](https://disqus.com/) to show comments, but never really cared enough to check it out. Until now, and it looks like a pretty good idea!

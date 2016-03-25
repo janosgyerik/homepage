@@ -6,7 +6,7 @@ title: How can I decide which permissions to allow or disallow to an Android app
 date: 2012-05-15 07:22:39.000000000 +02:00
 categories:
 - Musings
-- Software
+- software
 tags: []
 ---
 As far as I know, I cannot. When you install an Android application you get a list of "permissions" *the app wants to use*, but you have only two choices, all or nothing: allow all permissions and install the app, or don't install at all.

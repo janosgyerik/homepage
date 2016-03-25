@@ -6,7 +6,7 @@ title: Setup and test svn post-commit hook to send commit log
 date: 2012-06-05 07:08:40.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 It's been a while since I've done this, and the tools have evolved since then. Follow these steps to configure, test first, and in the end activate the hook.

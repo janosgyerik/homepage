@@ -6,7 +6,7 @@ title: How to ping many machines at once
 date: 2008-03-17 00:59:00.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 Flood ping. You specify the list of addresses on the command line. To generate the list of IP adresses you can use the `-g` flag and targets with netmask or significant bits like this.

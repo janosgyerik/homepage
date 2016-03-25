@@ -6,7 +6,7 @@ title: Setting default device in R in Mac OS X
 date: 2013-02-08 10:01:19.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 On Mac OS X, for some reason the default device for displaying plots is Quartz. This can be inconvenient, since for example the `savePlot` function works only with X11 devices with Cairo support.

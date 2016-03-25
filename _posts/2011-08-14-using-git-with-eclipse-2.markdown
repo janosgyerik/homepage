@@ -6,7 +6,7 @@ title: Using git with Eclipse 2
 date: 2011-08-14 18:58:37.000000000 +02:00
 categories:
 - Musings
-- Software
+- software
 tags: []
 ---
 I've been using git with Eclipse for about a month now.

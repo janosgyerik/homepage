@@ -6,7 +6,7 @@ title: Problems using Launchpad through proxy finally resolved
 date: 2012-08-21 20:48:09.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 A long-standing bug with Bazaar/Launchpad has finally been resolved! Until recently I was not able to checkout anything from Launchpad through a corporate proxy, getting errors like:

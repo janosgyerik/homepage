@@ -6,7 +6,7 @@ title: Installing PIL on Mac OS X Snow Leopard
 date: 2011-06-11 23:23:55.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 PIL is an image processing library for python. It is required by Django if you use ImageField.

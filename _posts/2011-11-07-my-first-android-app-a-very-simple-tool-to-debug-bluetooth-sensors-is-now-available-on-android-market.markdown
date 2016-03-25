@@ -6,7 +6,7 @@ title: My first Android app, a very simple tool to debug Bluetooth sensors, is n
   available on Android Market
 date: 2011-11-07 02:41:52.000000000 +01:00
 categories:
-- Software
+- software
 tags: []
 ---
 BluetoothViewer is a simple Android application that can connect to any Bluetooth device and display incoming raw data, and can also send data from Android to the Bluetooth device. The purpose of the application is to confirm that a Bluetooth device is online and discoverable, accepting incoming connections, and to observe the raw data messages coming from the device.

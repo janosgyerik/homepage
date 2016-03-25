@@ -6,7 +6,7 @@ title: Cloning a remote Subversion repository using Git through a proxy server
 date: 2013-03-16 12:37:36.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 To clone a remote Subversion repository using Git through a proxy server, edit the `~/.subversion/servers` file appropriately:

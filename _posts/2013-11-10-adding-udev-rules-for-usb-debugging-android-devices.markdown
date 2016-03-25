@@ -6,7 +6,7 @@ title: Adding udev rules for USB debugging Android devices
 date: 2013-11-10 18:15:15.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 USB debugging of my Google Nexus 4 phone used to work just fine from my Debian desktop. Until someday it just stopped working. The symptoms looked like this:

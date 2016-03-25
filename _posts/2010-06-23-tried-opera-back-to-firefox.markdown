@@ -6,7 +6,7 @@ title: Tried Opera, back to Firefox
 date: 2010-06-23 22:08:34.000000000 +02:00
 categories:
 - Musings
-- Software
+- software
 tags: []
 ---
 I'm still keeping Opera around for the bookmarks, and synchronization. But for "regular" use I'm switching back to Firefox. It's really too bad it did not work out. I had a lot of problems.

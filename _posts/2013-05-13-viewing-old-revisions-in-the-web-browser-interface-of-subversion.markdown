@@ -6,7 +6,7 @@ title: Viewing old revisions in the web browser interface of Subversion
 date: 2013-05-13 21:19:28.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 If Apache is configured to browse a Subversion repository, its files and directories are shown as of the latest version by default, for example:

@@ -7,7 +7,7 @@ date: 2011-09-30 02:33:04.000000000 +02:00
 categories:
 - Hacks
 - Musings
-- Software
+- software
 tags: []
 ---
 Many of my friends are getting into Bazaar or other distributed version control these days.

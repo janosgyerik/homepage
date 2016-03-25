@@ -5,7 +5,7 @@ published: true
 title: Recipe notes 1.3
 date: 2012-12-17 22:13:53.000000000 +01:00
 categories:
-- Software
+- software
 - News
 tags: []
 ---

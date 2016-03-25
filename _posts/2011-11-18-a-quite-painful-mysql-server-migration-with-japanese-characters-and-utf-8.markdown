@@ -6,7 +6,7 @@ title: A quite painful MySQL server migration with Japanese characters and utf-8
 date: 2011-11-18 05:27:04.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 What was supposed to be a walk in the park, turned out to be quite painful and weirdo experience with mysql and Japanese text entries. The database in question is a mantis (bug tracker) database with a mix of English and Japanese entries. The database and all tables had utf8 character set, both at the source and destination sites. No matter what method I tried to dump and load, the Japanese characters became garbled.

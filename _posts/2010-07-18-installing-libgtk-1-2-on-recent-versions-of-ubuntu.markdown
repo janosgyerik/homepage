@@ -7,7 +7,7 @@ date: 2010-07-18 08:13:09.000000000 +02:00
 categories:
 - Hacks
 - Musings
-- Software
+- software
 tags: []
 ---
 libgtk-1.2 is very old and unmaintained software, and it has been removed from recent versions of Ubuntu and Debian. Read more here:

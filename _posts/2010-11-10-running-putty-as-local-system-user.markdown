@@ -6,7 +6,7 @@ title: How to run putty as Local System user
 date: 2010-11-10 09:59:53.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 

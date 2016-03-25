@@ -6,7 +6,7 @@ title: Adding all unknown files in a Subversion checkout
 date: 2013-09-24 06:08:16.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 Adding all unknown files from the working tree to version control is usually very simple in other systems, for example:

@@ -6,7 +6,7 @@ title: Bazaar VS Subversion
 date: 2008-04-23 02:11:00.000000000 +02:00
 categories:
 - Musings
-- Software
+- software
 tags: []
 ---
 A Bazaar repository check-out contains the complete revision history. This has the advantage that the check-out itself can act as a repository and the disadvantage of more network data transfer during initial check-out.

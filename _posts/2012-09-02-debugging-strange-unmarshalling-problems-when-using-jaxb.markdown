@@ -6,7 +6,7 @@ title: Debugging strange unmarshalling problems when using jaxb
 date: 2012-09-02 10:31:37.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 The other day I had a very strange unmarshalling issue with jaxb: unmarshalling (deserializing) from an XML file and then marshalling (serializing) the same object to another XML file resulted in different content. There were no errors thrown in the process and I had no idea as to why.

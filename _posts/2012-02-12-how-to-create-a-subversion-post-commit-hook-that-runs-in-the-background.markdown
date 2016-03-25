@@ -6,7 +6,7 @@ title: How to create a Subversion post-commit hook that runs in the background
 date: 2012-02-12 13:29:13.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 Recently I needed to do something in a post-commit Subversion hook that can take a long time, and unless the hook runs in the background, the repository would be unavailable until the hook completes.

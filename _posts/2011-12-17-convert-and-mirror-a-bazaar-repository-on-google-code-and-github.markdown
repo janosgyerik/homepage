@@ -6,7 +6,7 @@ title: Convert and mirror a Bazaar repository on Google Code and GitHub
 date: 2011-12-17 07:36:03.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 An open source project should be as open as possible, for that reason I decided to make the source code of [bashoneliners.com](http://www.bashoneliners.com/) available in more than one VCS, for example in Subversion and Git in addition to Bazaar which remains the "master" branch.

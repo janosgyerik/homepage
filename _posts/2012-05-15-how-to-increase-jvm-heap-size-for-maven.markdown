@@ -6,7 +6,7 @@ title: How to increase JVM heap size for Maven
 date: 2012-05-15 16:20:08.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 Do not edit mvn (or mvn.bat) itself. Add any necessary JVM arguments to the MAVEN_OPTS environment variable.

@@ -6,7 +6,7 @@ title: Practical tips for using Git with large Subversion repositories
 date: 2013-01-26 15:00:51.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 So you want to use Git with Subversion? That's a great idea! If the Subversion repository is small, you should not have too big problems. If on the other hand the repository is relatively large, you may have quite a few issues.

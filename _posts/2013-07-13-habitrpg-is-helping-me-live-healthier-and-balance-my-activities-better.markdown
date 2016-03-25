@@ -6,7 +6,7 @@ title: HabitRPG is helping me live healthier and balance my activities better
 date: 2013-07-13 14:00:51.000000000 +02:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 I started using [HabitRPG](https://habitrpg.com/) last weekend. At first it was just fun, but after one week I'm actually seeing some positive effects already:

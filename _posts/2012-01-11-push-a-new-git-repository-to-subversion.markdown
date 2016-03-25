@@ -6,7 +6,7 @@ title: How to push a new git repository to Subversion
 date: 2012-01-11 23:32:16.000000000 +01:00
 categories:
 - Hacks
-- Software
+- software
 tags: []
 ---
 Sometimes you start to work on a new project in git, and sometimes you might have to push it to a Subversion repository. Luckily you can do that, and not just in the dumb way of a single export with no history, but with preserving the history by replaying each of your commits in git to Subversion.
