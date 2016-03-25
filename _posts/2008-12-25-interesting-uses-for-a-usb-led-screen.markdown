@@ -5,7 +5,7 @@ published: true
 title: Interesting uses for a USB LED screen
 date: 2008-12-25 00:46:00.000000000 +01:00
 categories:
-- Musings
+- musings
 tags: []
 ---
 

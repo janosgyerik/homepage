@@ -5,7 +5,7 @@ published: true
 title: Practical tips & tricks in the Linux shell
 date: 2013-04-27 12:33:48.000000000 +02:00
 categories:
-- Musings
+- musings
 - news
 tags: []
 ---

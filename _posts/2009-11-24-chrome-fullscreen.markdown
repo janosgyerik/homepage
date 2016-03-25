@@ -5,7 +5,7 @@ published: true
 title: Chrome Fullscreen
 date: 2009-11-24 11:26:53.000000000 +01:00
 categories:
-- Musings
+- musings
 - software
 tags: []
 ---

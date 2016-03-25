@@ -5,7 +5,7 @@ published: true
 title: IRC clients in Linux
 date: 2012-05-22 18:50:43.000000000 +02:00
 categories:
-- Musings
+- musings
 - software
 tags: []
 ---

@@ -6,7 +6,7 @@ title: My netbook replaces the living room PC
 date: 2010-11-06 08:36:19.000000000 +01:00
 categories:
 - hacks
-- Musings
+- musings
 - software
 tags: []
 ---

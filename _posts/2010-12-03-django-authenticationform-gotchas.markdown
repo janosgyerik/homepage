@@ -6,7 +6,7 @@ title: Django AuthenticationForm gotchas
 date: 2010-12-03 20:17:44.000000000 +01:00
 categories:
 - hacks
-- Musings
+- musings
 - software
 tags: []
 ---

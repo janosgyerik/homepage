@@ -6,7 +6,7 @@ title: How to mirror a Subversion repository using Bazaar
 date: 2011-03-10 11:36:12.000000000 +01:00
 categories:
 - hacks
-- Musings
+- musings
 - software
 tags: []
 ---

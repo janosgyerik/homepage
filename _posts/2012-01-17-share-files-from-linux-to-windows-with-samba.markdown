@@ -6,7 +6,7 @@ title: Share a folder read-only from Linux to Windows with Samba
 date: 2012-01-17 11:12:58.000000000 +01:00
 categories:
 - hacks
-- Musings
+- musings
 - software
 tags: []
 ---

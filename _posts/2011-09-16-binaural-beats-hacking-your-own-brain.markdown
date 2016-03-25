@@ -6,7 +6,7 @@ title: Binaural Beats - hacking your own brain
 date: 2011-09-16 05:07:31.000000000 +02:00
 categories:
 - hacks
-- Musings
+- musings
 - software
 tags: []
 ---

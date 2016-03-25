@@ -5,7 +5,7 @@ published: true
 title: Using git with Eclipse 2
 date: 2011-08-14 18:58:37.000000000 +02:00
 categories:
-- Musings
+- musings
 - software
 tags: []
 ---

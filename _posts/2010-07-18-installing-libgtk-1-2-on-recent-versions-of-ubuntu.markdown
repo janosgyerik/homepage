@@ -6,7 +6,7 @@ title: Installing libgtk1.2 on recent versions of Ubuntu
 date: 2010-07-18 08:13:09.000000000 +02:00
 categories:
 - hacks
-- Musings
+- musings
 - software
 tags: []
 ---

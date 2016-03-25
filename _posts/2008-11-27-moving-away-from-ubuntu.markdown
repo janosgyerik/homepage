@@ -5,7 +5,7 @@ published: true
 title: Moving away from Ubuntu
 date: 2008-11-27 20:25:00.000000000 +01:00
 categories:
-- Musings
+- musings
 tags: []
 ---
 I stopped using Ubuntu/Gnome on my home desktop about half a year ago, to see how the other distros and KDE are doing, and to become skilled at using them too and reach a comfort level similar to that of Ubuntu/Gnome. Below is the summary of my experiences and impressions so far. But first, it is important to mention my basic expectations from a system.

@@ -6,7 +6,7 @@ title: Building reputation on Stack Exchange sites
 date: 2013-06-20 06:57:34.000000000 +02:00
 categories:
 - hacks
-- Musings
+- musings
 - software
 tags: []
 ---

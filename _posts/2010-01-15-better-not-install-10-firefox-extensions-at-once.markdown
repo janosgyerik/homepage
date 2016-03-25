@@ -5,7 +5,7 @@ published: true
 title: Better not install 10 Firefox extensions at once
 date: 2010-01-15 09:27:03.000000000 +01:00
 categories:
-- Musings
+- musings
 - software
 tags: []
 ---

@@ -6,7 +6,7 @@ title: Start a local repository and push it to a server later with Bazaar and Gi
 date: 2012-01-24 22:52:35.000000000 +01:00
 categories:
 - hacks
-- Musings
+- musings
 - software
 tags: []
 ---

@@ -5,7 +5,7 @@ published: true
 title: Installing Fedora 11
 date: 2009-06-27 14:04:37.000000000 +02:00
 categories:
-- Musings
+- musings
 - software
 tags: []
 ---

@@ -5,7 +5,7 @@ published: true
 title: python, wow
 date: 2008-04-23 05:13:00.000000000 +02:00
 categories:
-- Musings
+- musings
 - software
 tags: []
 ---

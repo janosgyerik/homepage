@@ -6,7 +6,7 @@ title: Using git with Eclipse
 date: 2011-07-11 22:23:44.000000000 +02:00
 categories:
 - hacks
-- Musings
+- musings
 - software
 tags: []
 ---

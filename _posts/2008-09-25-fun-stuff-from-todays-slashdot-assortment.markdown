@@ -5,7 +5,7 @@ published: true
 title: Fun stuff from today's slashdot assortment
 date: 2008-09-25 01:46:00.000000000 +02:00
 categories:
-- Musings
+- musings
 tags: []
 ---
 Hehe:

@@ -5,7 +5,7 @@ published: true
 title: Computer and IT Quiz
 date: 2013-02-14 18:53:14.000000000 +01:00
 categories:
-- Musings
+- musings
 - news
 tags: []
 ---

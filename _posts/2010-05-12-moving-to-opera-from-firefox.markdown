@@ -5,7 +5,7 @@ published: true
 title: Moving to Opera from Firefox
 date: 2010-05-12 14:18:31.000000000 +02:00
 categories:
-- Musings
+- musings
 - software
 tags: []
 ---

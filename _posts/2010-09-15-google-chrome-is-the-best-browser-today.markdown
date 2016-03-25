@@ -5,7 +5,7 @@ published: true
 title: Google Chrome is the best browser today
 date: 2010-09-15 21:03:59.000000000 +02:00
 categories:
-- Musings
+- musings
 - software
 tags: []
 ---

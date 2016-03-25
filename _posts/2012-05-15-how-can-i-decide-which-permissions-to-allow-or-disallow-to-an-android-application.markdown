@@ -5,7 +5,7 @@ published: true
 title: How can I decide which permissions to allow or disallow to an Android application?
 date: 2012-05-15 07:22:39.000000000 +02:00
 categories:
-- Musings
+- musings
 - software
 tags: []
 ---

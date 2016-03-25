@@ -5,7 +5,7 @@ published: true
 title: Tried Opera, back to Firefox
 date: 2010-06-23 22:08:34.000000000 +02:00
 categories:
-- Musings
+- musings
 - software
 tags: []
 ---

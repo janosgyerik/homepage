@@ -5,7 +5,7 @@ published: true
 title: TDD - Test Driven Development
 date: 2011-02-13 01:05:03.000000000 +01:00
 categories:
-- Musings
+- musings
 tags: []
 ---
 Finally, I started using this technique I read about in *The producive programmer* by *Neal Ford* called Test Driven Development (TDD). Basically, you write up all the test cases before writing actual code.

@@ -5,7 +5,7 @@ published: true
 title: Why use git with the centralized Subversion repository at your workplace
 date: 2012-04-17 07:41:20.000000000 +02:00
 categories:
-- Musings
+- musings
 - software
 tags: []
 ---

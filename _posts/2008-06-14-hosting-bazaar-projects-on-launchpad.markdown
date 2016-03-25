@@ -6,7 +6,7 @@ title: Hosting Bazaar projects on Launchpad
 date: 2008-06-14 23:38:00.000000000 +02:00
 categories:
 - hacks
-- Musings
+- musings
 - software
 tags: []
 ---

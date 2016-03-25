@@ -5,7 +5,7 @@ published: true
 title: Installing Subversion plugin in Eclipse
 date: 2012-05-14 11:08:30.000000000 +02:00
 categories:
-- Musings
+- musings
 - software
 tags: []
 ---

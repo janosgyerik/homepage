@@ -6,7 +6,7 @@ title: Bash co-processes and other tricks
 date: 2011-03-22 03:20:13.000000000 +01:00
 categories:
 - hacks
-- Musings
+- musings
 tags: []
 ---
 I thought I already knew all the most practical tricks in bash. But I have a feeling I found something I will use a lot, check it out:

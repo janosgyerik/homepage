@@ -6,7 +6,7 @@ title: How to install mpg123 on Fedora 11
 date: 2009-11-01 11:12:37.000000000 +01:00
 categories:
 - hacks
-- Musings
+- musings
 tags: []
 ---
 I needed `mpg123` to burn an audio CD with cdrecord on my Fedora 11 system at home. Since it's not in Fedora's standard repos, googled for it, and found this.

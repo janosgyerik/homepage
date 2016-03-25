@@ -6,7 +6,7 @@ title: 'From zero to Django: get Django going in windows within minutes'
 date: 2012-08-08 21:47:59.000000000 +02:00
 categories:
 - hacks
-- Musings
+- musings
 - software
 tags: []
 ---

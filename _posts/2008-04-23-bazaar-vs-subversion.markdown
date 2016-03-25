@@ -5,7 +5,7 @@ published: true
 title: Bazaar VS Subversion
 date: 2008-04-23 02:11:00.000000000 +02:00
 categories:
-- Musings
+- musings
 - software
 tags: []
 ---
