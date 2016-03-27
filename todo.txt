@@ -1,8 +1,6 @@
 most important
     page previews with pagination
     sharing
-    get site search working on 404 page
-    add site search to navbar
 
 fix formatting
     <li
