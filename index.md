@@ -12,18 +12,18 @@ and I believe that great software could really make a big difference.
 I work on private and open-source projects in my spare time.
 If you want to join forces, drop me a line!
 
-- [Apps](apps.html) ---
+- [Apps](apps) ---
   Simple, practical Android apps.
 
-- [Websites](websites.html) ---
+- [Websites](websites) ---
   Simple, practical websites.
 
-- [Writing](writing.html) ---
+- [Writing](writing) ---
   Professional writings published here and there.
 
 - I tweet as [@janosgyerik](https://twitter.com/janosgyerik) and [@bashoneliners](https://twitter.com/bashoneliners).
 
-- I blog on [http://janosgyerik.com/blog.html](http://janosgyerik.com/blog.html)
+- I blog on [http://janosgyerik.com/blog](http://janosgyerik.com/blog)
 
   This is my journal of daily hacks:
   when I figure out something less than obvious,
