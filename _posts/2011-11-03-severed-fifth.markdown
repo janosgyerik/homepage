@@ -12,4 +12,4 @@ tags: []
 
 Yes, this topic is right at home in a hacking journal ;-)
 
-<a href="http://www.severedfifth.com/releases/"><img class="alignnone size-full wp-image-418" title="severedfifth" src="/assets/themes/images/screenshots/2011-11-severedfifth.jpg" alt="" width="497" height="133" /></a>
+<a href="http://www.severedfifth.com/releases/"><img class="alignnone size-full wp-image-418" title="severedfifth" src="/assets/images/screenshots/2011-11-severedfifth.jpg" alt="" width="497" height="133" /></a>

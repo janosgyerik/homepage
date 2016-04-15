@@ -48,7 +48,7 @@ in any project and workflow thrown at you.
     </em></p>
   </div>
   <div class="col-lg-3 col-md-3 col-sm-3 col-xs-5">
-    <a class="thumbnail" href="http://www.packtpub.com/bazaar-version-control/book"><img src="{{ ASSET_PATH }}/images/writing/3562OS.jpg" alt="..."></a>
+    <a class="thumbnail" href="http://www.packtpub.com/bazaar-version-control/book"><img src="{{ BASE_PATH }}/assets/images/writing/3562OS.jpg" alt="..."></a>
   </div>
 </div>
 
@@ -77,6 +77,6 @@ in any project and workflow thrown at you.
   </div>
   </div>
   <div class="col-lg-3 col-md-3 col-sm-3 col-xs-5">
-    <a class="thumbnail" href="http://www.linuxjournal.com/content/time-saving-tricks-command-line"><img src="{{ ASSET_PATH }}/images/writing/dlj233-cover.png" alt="..."></a>
+    <a class="thumbnail" href="http://www.linuxjournal.com/content/time-saving-tricks-command-line"><img src="{{ BASE_PATH }}/assets/images/writing/dlj233-cover.png" alt="..."></a>
   </div>
 </div>

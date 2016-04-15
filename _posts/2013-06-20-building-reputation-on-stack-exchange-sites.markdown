@@ -14,7 +14,7 @@ Gamification... is ADDICTIVE!
 Are you sure you want to do this to yourself?
 Well you have been warned.
 
-<a class="floatright" href="http://stackoverflow.com/help/badges/2600/informed"><img class="alignright size-full wp-image-1005" alt="informed" src="/assets/themes/images/screenshots/2013-06-informed.png" width="92" height="36" /></a>
+<a class="floatright" href="http://stackoverflow.com/help/badges/2600/informed"><img class="alignright size-full wp-image-1005" alt="informed" src="/assets/images/screenshots/2013-06-informed.png" width="92" height="36" /></a>
 
 ### Get the basics down first
 
@@ -97,10 +97,10 @@ Sometimes your otherwise great answer might not be getting the attention it dese
 
 Badges are cool goodies, but they don't get you any reputation. They sure look good in your profile though :-)
 
-1. <a class="floatright" href="http://stackoverflow.com/help/badges/32/civic-duty"><img alt="civic-duty" src="/assets/themes/images/screenshots/2013-06-civic-duty.png" width="98" height="34" /></a>
+1. <a class="floatright" href="http://stackoverflow.com/help/badges/32/civic-duty"><img alt="civic-duty" src="/assets/images/screenshots/2013-06-civic-duty.png" width="98" height="34" /></a>
    I don't hunt badges. I think you can just let them come to you naturally. For example, you get the [Civic Duty](http://stackoverflow.com/help/badges/32/civic-duty) badge if you voted 300 times. That's so cool, I didn't even know it existed, and one day I just got this in my Inbox, yeay!
 
-2. <a class="floatright" href="http://stackoverflow.com/help/badges/155/electorate"><img alt="electorate" src="/assets/themes/images/screenshots/2013-06-electorate.png" width="100" height="34" /></a>
+2. <a class="floatright" href="http://stackoverflow.com/help/badges/155/electorate"><img alt="electorate" src="/assets/images/screenshots/2013-06-electorate.png" width="100" height="34" /></a>
    Some badges reward you for using the site in a sort of "balanced" way. For example, you get the [Electorate](http://stackoverflow.com/help/badges/155/electorate) badge if you voted on 600 questions and 25% or more of total votes are on questions. The site also warns you if you vote mostly on answers only, saying that questions need loving too :)
 
 ### Becoming a seasoned veteran
@@ -119,7 +119,7 @@ http://stackexchange.com/users/322516/janos?tab=reputation
 
 By the way, on your Stack Overflow profile homepage (not Stack Exchange), in the Reputation section you can see a link to the leagues, in a format like "top 3% this quarter". The value shown can be about the quarter, week, month or year, depending on whichever is highest for you, and it takes you right to your position in the leagues.
 
-<img class="wp-image-1010 aligncenter" alt="rep-top-info" src="/assets/themes/images/screenshots/2013-06-rep-top-info.png" />
+<img class="wp-image-1010 aligncenter" alt="rep-top-info" src="/assets/images/screenshots/2013-06-rep-top-info.png" />
 
 3. See what privileges you can unlock by earning higher reputation:
 [http://stackoverflow.com/privileges](http://stackoverflow.com/privileges). It's really cool how more and more interesting features of the site start opening up gradually. In a way it's like going deeper down in the rabbit hole. For example, after about 2000 you can start moderating various types of posts (new users, low quality, etc), which reward you with new badges.

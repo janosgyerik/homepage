@@ -9,7 +9,7 @@ categories:
 - software
 tags: []
 ---
-<span class="pull-right col-lg-2 col-md-2 col-sm-3"><a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite"><img alt="android" src="/assets/themes/images/apps/computer-quiz.png" /></a></span>
+<span class="pull-right col-lg-2 col-md-2 col-sm-3"><a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite"><img alt="android" src="/assets/images/apps/computer-quiz.png" /></a></span>
 
 I just released the first version of [Computer Quiz](https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite). It's a simple multiple choice quiz app for computer fans, professionals and geeks.
 

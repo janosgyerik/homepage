@@ -13,15 +13,15 @@ I took my time, but finally here are a bunch of improvements I just released on 
 
 Now you can upvote or downvote one-liners using the familiar interface of [stackoverflow.com](http://stackoverflow.com):
 
-<a class="thumbnail" href="http://www.bashoneliners.com/oneliners/oneliner/142/"><img alt="voting" src="/assets/themes/images/screenshots/2013-08-voting1.png" /></a>
+<a class="thumbnail" href="http://www.bashoneliners.com/oneliners/oneliner/142/"><img alt="voting" src="/assets/images/screenshots/2013-08-voting1.png" /></a>
 
 And since now that there are votes, it's natural to sort one-liners not only by date, but by votes too. So I changed the one-liner listing pages to switch between different ordering using a tabbed user interface:
 
-<a class="thumbnail" href="http://www.bashoneliners.com/oneliners/oneliner/130/"><img alt="tabbed-oneliners2" src="/assets/themes/images/screenshots/2013-08-tabbed-oneliners21.png" /></a>
+<a class="thumbnail" href="http://www.bashoneliners.com/oneliners/oneliner/130/"><img alt="tabbed-oneliners2" src="/assets/images/screenshots/2013-08-tabbed-oneliners21.png" /></a>
 
 Speaking of tabs, the profile page was quite awful, with too much information cluttered on a single page. So I broke that into multiple pages, again using a tabbed user interface:
 
-<a class="thumbnail" href="http://www.bashoneliners.com/oneliners/oneliner/122/"><img alt="tabbed-profile" src="/assets/themes/images/screenshots/2013-08-tabbed-profile.png" /></a>
+<a class="thumbnail" href="http://www.bashoneliners.com/oneliners/oneliner/122/"><img alt="tabbed-profile" src="/assets/images/screenshots/2013-08-tabbed-profile.png" /></a>
 
 There are many other, smaller improvements since the last time. I'll let you discover those by yourselves.
 

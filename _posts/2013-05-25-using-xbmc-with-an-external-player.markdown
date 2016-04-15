@@ -13,23 +13,23 @@ First of all, [XBMC](http://xbmc.org/) looks really awesome:
 
 <div class="row">
   <div class="col-lg-3">
-    <a class="thumbnail" href="/assets/themes/images/screenshots/xbmc/screenshot000.png">
-      <img alt="..." src="/assets/themes/images/screenshots/xbmc/screenshot000.png">
+    <a class="thumbnail" href="/assets/images/screenshots/xbmc/screenshot000.png">
+      <img alt="..." src="/assets/images/screenshots/xbmc/screenshot000.png">
     </a>
   </div>
   <div class="col-lg-3">
-    <a class="thumbnail" href="/assets/themes/images/screenshots/xbmc/screenshot001.png">
-      <img alt="..." src="/assets/themes/images/screenshots/xbmc/screenshot001.png">
+    <a class="thumbnail" href="/assets/images/screenshots/xbmc/screenshot001.png">
+      <img alt="..." src="/assets/images/screenshots/xbmc/screenshot001.png">
     </a>
   </div>
   <div class="col-lg-3">
-    <a class="thumbnail" href="/assets/themes/images/screenshots/xbmc/screenshot002.png">
-      <img alt="..." src="/assets/themes/images/screenshots/xbmc/screenshot002.png">
+    <a class="thumbnail" href="/assets/images/screenshots/xbmc/screenshot002.png">
+      <img alt="..." src="/assets/images/screenshots/xbmc/screenshot002.png">
     </a>
   </div>
   <div class="col-lg-3">
-    <a class="thumbnail" href="/assets/themes/images/screenshots/xbmc/screenshot003.png">
-      <img alt="..." src="/assets/themes/images/screenshots/xbmc/screenshot003.png">
+    <a class="thumbnail" href="/assets/images/screenshots/xbmc/screenshot003.png">
+      <img alt="..." src="/assets/images/screenshots/xbmc/screenshot003.png">
     </a>
   </div>
 </div>
