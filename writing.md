@@ -9,6 +9,30 @@ order: 4
 
 <div class="row">
   <div class="col-lg-12">
+    <h2>Time-Saving Tricks on the Command Line</h2>
+    <p>(Article published in <a href="http://www.linuxjournal.com/content/time-saving-tricks-command-line">Linux Journal #233, September, 2013</a>)</p>
+  <p>
+  A few simple but very effective tips that will make you lightning fast on the command line.
+  I use these literally every minute I spend in the shell.
+  All the tips should work in GNU/Linux, UNIX, BSD and similar.
+  </p>
+  <p>The article started out as a short presentation,
+  hosted on <a href="https://speakerdeck.com/janosgyerik/time-saving-tricks-on-the-command-line">SpeakerDeck</a>.
+  </p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-6 col-md-6">
+    <script async class="speakerdeck-embed" data-id="c60847a09dbc0130f65c42af66aab503" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  </div>
+  <div class="col-lg-3 col-md-3">
+    <a class="thumbnail" href="http://www.linuxjournal.com/content/time-saving-tricks-command-line"><img src="{{ BASE_PATH }}/assets/images/writing/dlj233-cover.png" alt="..."></a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-12">
     <h2>Bazaar Version Control</h2>
   </div>
 </div>
@@ -49,29 +73,5 @@ in any project and workflow thrown at you.
   </div>
   <div class="col-lg-3 col-md-3 col-sm-3">
     <a class="thumbnail" href="http://www.packtpub.com/bazaar-version-control/book"><img src="{{ BASE_PATH }}/assets/images/writing/3562OS.jpg" alt="..."></a>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-lg-12">
-    <h2>Time-Saving Tricks on the Command Line</h2>
-    <p>(Article published in <a href="http://www.linuxjournal.com/content/time-saving-tricks-command-line">Linux Journal #233, September, 2013</a>)</p>
-  <p>
-  A few simple but very effective tips that will make you lightning fast on the command line.
-  I use these literally every minute I spend in the shell.
-  All the tips should work in GNU/Linux, UNIX, BSD and similar.
-  </p>
-  <p>The article started out as a short presentation,
-  hosted on <a href="https://speakerdeck.com/janosgyerik/time-saving-tricks-on-the-command-line">SpeakerDeck</a>.
-  </p>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-lg-6 col-md-6">
-    <script async class="speakerdeck-embed" data-id="c60847a09dbc0130f65c42af66aab503" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-  </div>
-  <div class="col-lg-3 col-md-3">
-    <a class="thumbnail" href="http://www.linuxjournal.com/content/time-saving-tricks-command-line"><img src="{{ BASE_PATH }}/assets/images/writing/dlj233-cover.png" alt="..."></a>
   </div>
 </div>
