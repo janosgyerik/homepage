@@ -14,8 +14,8 @@ order: 4
 </div>
 
 <div class="row">
-  <div class="col-lg-9 col-md-9 col-sm-9 col-xs-7">
-    <p>My book on <a href="http://bazaar.canonical.com/en/">Bazaar, the distributed version control system</a> was published in June, 2013 by <a href="http://www.packtpub.com/bazaar-version-control/book">Packt Publishing</a>.</p>
+  <div class="col-lg-9 col-md-9 col-sm-9">
+    <p>Commissioned by <a href="https://www.packtpub.com/">Packt Publishing</a>, I wrote a book on <a href="http://bazaar.canonical.com/en/">Bazaar</a>, the distributed version control system. It was published in June, 2013.</p>
 
     <p>The book is a step-by-step tutorial for beginner to intermediate software developers who want to get started with Bazaar quickly.</p>
 
@@ -47,21 +47,15 @@ in any project and workflow thrown at you.
     a truly awesome VCS visualization tool that works transparently with Bazaar.
     </em></p>
   </div>
-  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-5">
+  <div class="col-lg-3 col-md-3 col-sm-3">
     <a class="thumbnail" href="http://www.packtpub.com/bazaar-version-control/book"><img src="{{ BASE_PATH }}/assets/images/writing/3562OS.jpg" alt="..."></a>
   </div>
 </div>
 
 <div class="row">
   <div class="col-lg-12">
-    <h2>Time-Saving Tricks on the Command Line
-      <small><a href="http://www.linuxjournal.com/content/time-saving-tricks-command-line">Linux Journal #233, September, 2013</a></small>
-    </h2>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-lg-9 col-md-9 col-sm-9 col-xs-7">
+    <h2>Time-Saving Tricks on the Command Line</h2>
+    <p>(Article published in <a href="http://www.linuxjournal.com/content/time-saving-tricks-command-line">Linux Journal #233, September, 2013</a>)</p>
   <p>
   A few simple but very effective tips that will make you lightning fast on the command line.
   I use these literally every minute I spend in the shell.
@@ -70,13 +64,14 @@ in any project and workflow thrown at you.
   <p>The article started out as a short presentation,
   hosted on <a href="https://speakerdeck.com/janosgyerik/time-saving-tricks-on-the-command-line">SpeakerDeck</a>.
   </p>
-  <div class="row">
-    <div class="col-lg-9">
-      <script async class="speakerdeck-embed" data-id="c60847a09dbc0130f65c42af66aab503" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-    </div>
   </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-6 col-md-6">
+    <script async class="speakerdeck-embed" data-id="c60847a09dbc0130f65c42af66aab503" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
   </div>
-  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-5">
+  <div class="col-lg-3 col-md-3">
     <a class="thumbnail" href="http://www.linuxjournal.com/content/time-saving-tricks-command-line"><img src="{{ BASE_PATH }}/assets/images/writing/dlj233-cover.png" alt="..."></a>
   </div>
 </div>
