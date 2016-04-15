@@ -23,11 +23,11 @@ order: 4
 </div>
 
 <div class="row">
-  <div class="col-lg-6 col-md-6">
-    <script async class="speakerdeck-embed" data-id="c60847a09dbc0130f65c42af66aab503" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-  </div>
   <div class="col-lg-3 col-md-3">
     <a class="thumbnail" href="http://www.linuxjournal.com/content/time-saving-tricks-command-line"><img src="{{ BASE_PATH }}/assets/images/writing/dlj233-cover.png" alt="..."></a>
+  </div>
+  <div class="col-lg-6 col-md-6">
+    <script async class="speakerdeck-embed" data-id="c60847a09dbc0130f65c42af66aab503" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
   </div>
 </div>
 
