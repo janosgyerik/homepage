@@ -36,7 +36,7 @@ If you want to join forces, drop me a line!
 
 - Stack Exchange --- [janos](http://stackexchange.com/users/322516)
 
-  I'm active on the [Stack Overflow](http://stackoverflow.com/users/641955/janos) network,
+  I answer questions on the [Stack Overflow](http://stackoverflow.com/users/641955/janos) network,
   especially on [Code Review](http://codereview.stackexchange.com/users/12390/janos),
   where I'm an elected moderator since 2015 September.
 
