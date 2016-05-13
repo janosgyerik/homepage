@@ -50,6 +50,12 @@ If you want to join forces, drop me a line!
   highlighting open source projects, Stack Overflow answers,
   publications, and others.
 
+- Codementor --- [https://www.codementor.io/janosgyerik](https://www.codementor.io/janosgyerik)
+
+  I help programmers with programming and ops questions in one-on-one mentoring sessions on Codementor.
+
+  <a href="https://www.codementor.io/janosgyerik?utm_source=github&utm_medium=button&utm_term=janosgyerik&utm_campaign=github"><img src="https://cdn.codementor.io/badges/book_session_github.svg" alt="Book session on Codementor" style="max-width:100%" /></a>
+
 - Coderwall --- [https://coderwall.com/janosgyerik](https://coderwall.com/janosgyerik)
 
   Sometimes (less and less)
