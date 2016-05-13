@@ -44,10 +44,10 @@ If you want to join forces, drop me a line!
 
 - Careers 2.0 --- [http://careers.stackoverflow.com/janosgyerik](http://careers.stackoverflow.com/janosgyerik)
 
-  My profile on Careers 2.0 by stackoverflow.
+  My profile on Careers 2.0 by Stack Overflow.
   More detailed than a [LinkedIn](http://fr.linkedin.com/in/janosgyerik/) profile,
   and more relevant for software engineers,
-  highlighting open source projects, Stack Exchange answers,
+  highlighting open source projects, Stack Overflow answers,
   publications, and others.
 
 - Coderwall --- [https://coderwall.com/janosgyerik](https://coderwall.com/janosgyerik)
