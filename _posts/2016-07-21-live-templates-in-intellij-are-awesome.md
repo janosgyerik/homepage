@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Live templates in IntelliJ"
+title: "Live templates in IntelliJ are awesome"
 categories:
 - hacks
 - software
@@ -8,12 +8,11 @@ tags: []
 ---
 {% include JB/setup %}
 
-[Live templates in IntelliJ](https://www.jetbrains.com/help/idea/2016.1/live-templates.html) are awesome.
+I'm still new to [live templates in IntelliJ](https://www.jetbrains.com/help/idea/2016.1/live-templates.html),
+but I'm already a huge fan.
+My first few templates are very simple, but already save me a lot of time.
 
-Although I'm still new to them,
-I'm very happy with my first few very simple templates.
-
-`should`: create a test case easily:
+The first one I call `should`: create a test case easily:
 
     @org.junit.Test
     public void should_$name$() {
@@ -36,7 +35,7 @@ Perfect to give a name to the test method.
 So after giving a name to the test method,
 I can carry on typing the implementation.
 
-`asse`: easily insert an `assertEquals` assertion:
+Another one I call `asse`: easily insert an `assertEquals` assertion:
 
     org.junit.Assert.assertEquals($expected$, $actual$);
 
