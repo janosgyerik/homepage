@@ -42,6 +42,10 @@ After you entered a value for `$name$` (effectively the name of the test method)
 the cursor will finally jump to `$END$`, a built-in variable,
 so that you can carry on and implement the test case.
 
+<div class="text-muted">
+<a href="http://stackoverflow.com/documentation/intellij-idea/2703/live-templates/9047/add-a-test-method-easily#t=201607241747291522594">(See also on Stack Overflow Documents)</a>
+</div>
+
 ### Add an assertion easily
 
     org.junit.Assert.assertEquals($expected$, $actual$);
@@ -87,6 +91,10 @@ When you type "utility_class" (the abbreviation), this will insert a constructor
 
         // ...
     }
+
+<div class="text-muted">
+<a href="http://stackoverflow.com/documentation/intellij-idea/2703/live-templates/9048/insert-the-name-of-the-current-class#t=201607241747291522594">(See also on Stack Overflow Documents)</a>
+</div>
 
   [1]: /assets/images/screenshots/live-templates/className-configure-live-template.png
   [2]: /assets/images/screenshots/live-templates/className-define-className-variable.png
