@@ -12,42 +12,46 @@ I'm still new to [live templates in IntelliJ](https://www.jetbrains.com/help/ide
 but I'm already a huge fan.
 My first few templates are very simple, but already save me a lot of time.
 
-The first one I call `should`, to create a test case easily:
+### Add a test method easily
 
     @org.junit.Test
     public void should_$name$() {
         $END$
     }
 
-Don't let the complete package name `org.junit.Test` deceive you:
-it's a simple trick to get the `import` statement added.
-After that the annotation will be automatically shortened.
-This is done by checking these two options in the live template's configuration:
+Make sure to check the **Shorten FQ names** box when creating this template.
 
-- **Use static import if possible**
-- **Shorten FQ names**
+[<img src="/assets/images/screenshots/live-templates/test-method-configuration.png" alt="define className variable" style="width: 678px;"/>][3]
 
-`$name$` is a custom variable. After the template is inserted,
-the cursor will be put in its place.
-Perfect to give a name to the test method.
+When you type "should" (the abbreviation),
+this will add the necessary `import org.junit.Test;` statement at the top of the file, and this code:
 
-`$END$` is a built-in variable, it marks the position where the cursor should be placed after the template and all template variables are inserted.
-So after giving a name to the test method,
-I can carry on typing the implementation.
+    @Test
+    public void should_() {
 
----
+    }
 
-Another one I call `asserteq`, to easily insert an `assertEquals` assertion:
+It is thanks to the **Shorten FQ names** option that `@org.junit.Test` is reduced to simply `@Test`.
+
+The `$name$` variable is irrelevant, it could be named something else.
+The purpose of that variable is that when the template is inserted in the class,
+the cursor will be placed in the position of `$name$`,
+asking you to enter something.
+
+After you entered a value for `$name$` (effectively the name of the test method),
+the cursor will finally jump to `$END$`, a built-in variable,
+so that you can carry on and implement the test case.
+
+### Add an assertion easily
 
     org.junit.Assert.assertEquals($expected$, $actual$);
 
-Again,
-the `$expected$` and `$actual$` custom variables are just placeholders to force the cursor to jump to the positions where I want it to be.
+The `$expected$` and `$actual$` custom variables are just placeholders to force the cursor to jump to the positions where I want it to be.
 
 As the first example,
 this live template also requires the same options to automatically add the `import` statement and to shorten the fully qualified names.
 
----
+### Insert the name of the current class
 
 Last but not least, consider the *utility class pattern*:
 a class with only `static` methods and no fields.
@@ -86,3 +90,4 @@ When you type "utility_class" (the abbreviation), this will insert a constructor
 
   [1]: /assets/images/screenshots/live-templates/className-configure-live-template.png
   [2]: /assets/images/screenshots/live-templates/className-define-className-variable.png
+  [3]: /assets/images/screenshots/live-templates/test-method-configuration.png
