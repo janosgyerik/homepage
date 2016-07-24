@@ -61,11 +61,11 @@ This live template example makes it easy to add a private constructor to an exis
 
 Applicable in Java: declaration scope.
 
-[![configure live template][1]][1]
+[<img src="/assets/images/screenshots/live-templates/className-configure-live-template.png" alt="configure live template" style="width: 678px;"/>][1]
 
 Click **Edit variables** to define the `className` variable as the built-in `className()` expression, and check the **Skip if defined** box to avoid prompting for a custom name, which is unnecessary in this example.
 
-[![define className variable][2]][2]
+[<img src="/assets/images/screenshots/live-templates/className-define-className-variable.png" alt="define className variable" style="width: 678px;"/>][2]
 
 For example, inside a class like this:
 
@@ -84,5 +84,5 @@ When you type "utility_class" (the abbreviation), this will insert a constructor
         // ...
     }
 
-  [1]: http://i.stack.imgur.com/0ip0F.png
-  [2]: http://i.stack.imgur.com/lpLSJ.png
+  [1]: /assets/images/screenshots/live-templates/className-configure-live-template.png
+  [2]: /assets/images/screenshots/live-templates/className-define-className-variable.png
