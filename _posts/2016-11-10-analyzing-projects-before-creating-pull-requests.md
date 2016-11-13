@@ -3,6 +3,7 @@ layout: post
 title: "Analyzing projects before creating pull requests"
 categories:
 - hacks
+- software
 tags: []
 ---
 {% include JB/setup %}
