@@ -10,7 +10,7 @@ tags: []
 
 This page lists a bunch of FREE O'Reilly books:
 
-https://lifehacker.ru/2017/01/09/free-oreilly-ebooks/
+[https://lifehacker.ru/2017/01/09/free-oreilly-ebooks/](https://lifehacker.ru/2017/01/09/free-oreilly-ebooks/)
 
 When such a neat list is available,
 downloading them in bulk can become very easy sometimes.
@@ -20,17 +20,15 @@ Let's take a closer look.
 The first book on the list is *The Secrets Behind Great One-on-One Meetings*,
 the URL points to:
 
-http://www.oreilly.com/business/free/the-secrets-behind-great-one-on-one-meetings.csp
+    http://www.oreilly.com/business/free/the-secrets-behind-great-one-on-one-meetings.csp
 
 On that page there is a form to fill to get the page with download links.
 On the download page, the book is available in PDF, MOBI and EPUB formats,
 via the links:
 
-http://www.oreilly.com/business/free/files/the-secrets-behind-great-one-on-one-meetings.pdf
-
-http://www.oreilly.com/business/free/files/the-secrets-behind-great-one-on-one-meetings.mobi
-
-http://www.oreilly.com/business/free/files/the-secrets-behind-great-one-on-one-meetings.epub
+    http://www.oreilly.com/business/free/files/the-secrets-behind-great-one-on-one-meetings.pdf
+    http://www.oreilly.com/business/free/files/the-secrets-behind-great-one-on-one-meetings.mobi
+    http://www.oreilly.com/business/free/files/the-secrets-behind-great-one-on-one-meetings.epub
 
 Notice the similarities between the link on the first page,
 and the download links.
