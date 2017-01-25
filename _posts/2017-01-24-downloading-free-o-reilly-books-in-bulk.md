@@ -63,7 +63,7 @@ grouped into folders by category:
         category=${category/\/free*/}
         category=${category##*/}
         mkdir -p $category
-        (cd $category; curl -O $base.{mobi,pdf,epub})
+        (cd $category; for ext in pdf epub mobi; do curl -O $base.$ext; done)
     done
 
 That's basically it. Beware, at the time of this writing,
