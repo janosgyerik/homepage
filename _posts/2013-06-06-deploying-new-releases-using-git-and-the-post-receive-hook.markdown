@@ -28,41 +28,42 @@ First I created the releases repository from my deployment directory:
 
 <script src="https://gist.github.com/janosgyerik/5724915.js"></script>
 
-Next I created the `post-receive` hook:
+Next I created the `post-receive` hook inside `~/repos/git/releases/project.git/hooks`:
 
 <script src="https://gist.github.com/janosgyerik/5725039.js"></script>
 
-(Hook scripts are in the `hooks/` directory of a Git repository, and must be executable.)
+Make sure the hook script file is executable (`chmod +x` on it).
 
-I typically use two branches: "beta" and "prod", and reuse the same "releases" repository for these. The above hook script checks the branch that is being pushed to, and checks if an upgrade script exists with the filename in the format "upgrade-BRANCHNAME.sh". The real upgrade scripts exist in my deployment directories, because I don't want to have too much logic inside the Git repository directory, I prefer that to be together with the project itself. In the Git repository root I put only symlinks to the real upgrade scripts.
+I typically use two branches: "beta" and "prod", and reuse the same "releases" repository for these. The above hook script checks the branch that is being pushed to, and checks if an upgrade script exists with the filename in the format `upgrade-BRANCHNAME.sh`. The real upgrade scripts exist in my deployment directories, because I don't want to have too much logic inside the Git repository directory, I prefer that to be together with the project itself. In the releases Git repository root I put only symlinks to the real upgrade scripts.
+
+That is, the files I added or modified inside `~/repos/git/releases/project.git` are like this:
+
+    ├── hooks
+    │   ├── post-receive
+    │   └── ...
+    ├── upgrade-beta.sh -> ~/websites/project/upgrade-beta.sh
+    └── upgrade-prod.sh -> ~/websites/project/upgrade-prod.sh
 
 Writing an upgrade script depends on your project. Here's an example from one of my Django sites:
 
 <script src="https://gist.github.com/janosgyerik/5745578.js"></script>
 
-The script is written in a way to be reusable in multiple of my Django sites, but you may need to adjust to match your typical deployment. The unset `GIT_DIR` is necessary, because it seems the variable is automatically set when the hook is executed, otherwise the `git pull` operation would result in the error:
+The script is written in a way to be reusable in any of my Django sites, but you may need to adjust to match your typical deployment. The unset `GIT_DIR` is necessary, because it seems the variable is automatically set when the hook is executed, otherwise the `git pull` operation would result in the error:
 
-```
-remote: fatal: Not a git repository: '.'
-```
+    remote: fatal: Not a git repository: '.'
 
 Finally, I setup the releases remote in my local Git project:
 
-```
-# go to the directory of my local project
-cd ~/project/dir
-# add the "releases" remote
-git remote add releases ssh://user@example.com/home/user/path/to/project.git
-```
+    # go to the directory of my local project
+    cd ~/project/dir
+    # add the "releases" remote
+    git remote add releases ssh://user@example.com/home/user/path/to/project.git
 
 With this setup in place, deploying a new version is as simple as:
-```
-git push releases master:beta
-```
+
+    git push releases master:beta
 
 To make it even easier, I created aliases in my `.gitconfig`:
 
-```
-deploy-beta = push releases master:beta
-deploy-prod = push releases master:prod
-```
+    deploy-beta = push releases master:beta
+    deploy-prod = push releases master:prod
