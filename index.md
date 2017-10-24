@@ -55,7 +55,7 @@ If you want to join forces, drop me a line!
 - [Writing](writing) ---
   Professional writings published here and there.
 
-- SSH public keys --- https://github.com/janosgyerik.keys
+- [SSH public keys](https://github.com/janosgyerik.keys)
 
 ### Old stuff
 
