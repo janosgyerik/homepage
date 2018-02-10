@@ -36,7 +36,7 @@ there is a way to open hidden files,
 even if normally they are not shown in Finder:
 
 1. Open a plain text editor, for example TextEdit
-2. Select **File | Open...** or press <kbd>Cmd</kbd> + <kbd>O</kbd>
+2. Select **File \| Open...** or press <kbd>Cmd</kbd> + <kbd>O</kbd>
 3. Navigate to the directory where you want to edit hidden files
 4. Press <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>&gt;</kbd> to show hidden files (press again to hide)
 5. Select the file you need to edit
