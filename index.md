@@ -24,7 +24,7 @@ If you want to join forces, drop me a line!
 
   I answer questions on the [Stack Overflow](http://stackoverflow.com/users/641955/janos) network,
   especially on [Code Review](http://codereview.stackexchange.com/users/12390/janos),
-  where I'm an elected moderator since 2015 September.
+  where I was an elected moderator in 2015-2018.
 
   <a href="http://stackexchange.com/users/322516/janos"><img src="http://stackexchange.com/users/flair/322516.png" width="208" height="58" alt="profile for janos on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for janos on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
