@@ -105,18 +105,5 @@ You can select the question categories to include or exclude.
     <a class="btn btn-success" href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite">Free</a>
     <a class="btn btn-danger" href="https://github.com/janosgyerik/manyquiz/issues">Bugs</a>
   </div>
-
-  <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
-    <a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.happymoments.lite"><img src="{{ BASE_PATH }}/assets/images/apps/happy-moments.png" alt="..."></a>
-  </div>
-  <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
-    <h3>Happy Moments</h3>
-    <p>
-Record happy events, high moments into a "digital jar".
-Later you can pick a random note from the jar and re-live the happy moment.
-    </p>
-    <a class="btn btn-success" href="https://play.google.com/store/apps/details?id=com.happymoments.lite">Free</a>
-    <a class="btn btn-danger" href="https://github.com/janosgyerik/happymoments/issues">Bugs</a>
-  </div>
 </div>
 
