@@ -17,6 +17,18 @@ I can share the code if you're interested.
 
 <div class="row">
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+    <a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.manyquiz.bash.lite"><img src="{{ BASE_PATH }}/assets/images/apps/bash-quiz.png" alt="..."></a>
+  </div>
+  <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
+    <h3>Bash Quiz</h3>
+    <p>
+Put your Bash programming skills to test with this simple quiz app. It aims to be interesting, fun and educational. Beware: the questions are pretty hard. They are designed for professional Bash programmers, not for casual computer enthusiasts. Also, the questions focus on pure Bash, and not at all on UNIX commands in general (I'm working on a separate app for that).
+    </p>
+    <a class="btn btn-success" href="https://play.google.com/store/apps/details?id=com.manyquiz.bash.lite">Free</a>
+    <a class="btn btn-danger" href="https://github.com/janosgyerik/manyquiz/issues">Bugs</a>
+  </div>
+
+  <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
     <a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite"><img src="{{ BASE_PATH }}/assets/images/apps/programming-quiz.png" alt="..."></a>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
@@ -33,7 +45,9 @@ not for casual computer enthusiasts.
     <a class="btn btn-success" href="https://play.google.com/store/apps/details?id=com.manyquiz.programming.lite">Free</a>
     <a class="btn btn-danger" href="https://github.com/janosgyerik/manyquiz/issues">Bugs</a>
   </div>
+</div>
 
+<div class="row">
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
     <a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.winenotes.lite"><img src="{{ BASE_PATH }}/assets/images/apps/wine-notes.png" alt="..."></a>
   </div>
@@ -51,9 +65,7 @@ Keep track of your wine cellar or shopping list with ease.
     <a class="btn btn-warning" href="https://github.com/janosgyerik/winenotes">Source</a>
     <a class="btn btn-danger" href="https://github.com/janosgyerik/winenotes/issues">Bugs</a>
   </div>
-</div>
 
-<div class="row">
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
     <a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.recipenotes.lite"><img src="{{ BASE_PATH }}/assets/images/apps/recipe-notes.png" alt="..."></a>
   </div>
@@ -70,7 +82,9 @@ You can tag recipes and take photos using the built-in camera of your phone.
     <a class="btn btn-primary" href="https://play.google.com/store/apps/details?id=com.recipenotes">Donate</a>
     <a class="btn btn-danger" href="https://github.com/janosgyerik/recipenotes/issues">Bugs</a>
   </div>
+</div>
 
+<div class="row">
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
     <a class="thumbnail" href="https://play.google.com/store/apps/details?id=net.bluetoothviewer"><img src="{{ BASE_PATH }}/assets/images/apps/bluetooth-viewer.png" alt="..."></a>
   </div>
@@ -89,9 +103,7 @@ much like the <code>hexdump -C</code> command in UNIX.
     <a class="btn btn-warning" href="https://github.com/janosgyerik/bluetoothviewer">Source</a>
     <a class="btn btn-danger" href="https://github.com/janosgyerik/bluetoothviewer/issues">Bugs</a>
   </div>
-</div>
 
-<div class="row">
   <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
     <a class="thumbnail" href="https://play.google.com/store/apps/details?id=com.manyquiz.computers.lite"><img src="{{ BASE_PATH }}/assets/images/apps/computer-quiz.png" alt="..."></a>
   </div>
