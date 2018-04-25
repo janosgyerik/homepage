@@ -57,24 +57,6 @@ If you want to join forces, drop me a line!
 
 - [SSH public keys](https://github.com/janosgyerik.keys)
 
-### Old stuff
-
-I don't use these much anymore, leaving them here anyway for the record (mostly as bookmarks to self).
-
-- Coderwall --- [https://coderwall.com/janosgyerik](https://coderwall.com/janosgyerik)
-
-  I used to publish ["Pro Tips"](https://coderwall.com/p/u/janosgyerik) on this site.
-
-- Wiki --- [http://wiki.titan2x.com/](http://wiki.titan2x.com/)
-
-  My personal reference of stuff related to computers,
-  programming, operating systems (especially GNU/Linux) and databases.
-  Cheat sheets, articles and how-to guides on bigger topics.
-
-- Launchpad -- [https://launchpad.net/~janos-gyerik](https://launchpad.net/~janos-gyerik)
-
-  Older work in Bazaar VCS.
-
 <!--
 If you appreciate my open source work, apps, tools,
 you can make a small donation through PayPal:
