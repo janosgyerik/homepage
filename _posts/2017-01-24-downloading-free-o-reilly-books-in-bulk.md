@@ -2,8 +2,8 @@
 layout: post
 title: "Downloading free O'Reilly books in bulk"
 categories:
-- software
 - hacks
+- software
 tags: []
 ---
 {% include JB/setup %}
