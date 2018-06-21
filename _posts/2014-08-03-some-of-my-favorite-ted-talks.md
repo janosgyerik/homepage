@@ -42,6 +42,10 @@ not too old, not too new:
     Apparently stress only kills you *if you think* it does.
     But you can turn the table around!
 
+    And since stress is such an important issue in our world today,
+    I would recommend to read another, comprehensive and up to date article:
+    [The Ultimate Guide To Stress Management](https://relaxlikeaboss.com/stress-management-guide/)
+
 - [The game that can give you 10 extra years of life][7]
 
     A moving talk, that might help you live longer,
