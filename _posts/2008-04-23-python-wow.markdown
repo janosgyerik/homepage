@@ -11,6 +11,6 @@ tags: []
 ---
 I'm learning Python now. Beautiful syntax. Powerfully expressive, and that in an intuitive way. Being a seasoned programmer well-versed in a score of languages I looked down at the idea of reading tutorials, but the Python tutorial turned out to be a very interesting reading, and definitely the best starting point. Check it out!
 
-[Python Tutorial](http://www.python.org/doc/current/tut/tut.html)
+[Python Tutorial](https://docs.python.org/3/tutorial/)
 
-[Python:notes in my wiki](https://wiki.titan2x.com/index.php/Python:notes)
+[Python network programming cheat sheet](https://www.comparitech.com/net-admin/python-network-programming-cheat-sheet/)
