@@ -6,54 +6,46 @@ tagline: Journal of a coder
 {% include JB/setup %}
 
 I like to code and I do it a lot.
-I want to work for green energy or health someday.
-I'm deeply concerned about these fields,
-and I believe that great software could make a big difference.
-I work on private and open-source projects in my spare time.
-If you want to join forces, drop me a line!
+I want to work in green energy or health someday.
+I believe that great software could make a big difference, everywhere, always.
+I'm passionate about high quality software, both in design and in implementation.
 
-- Careers 2.0 --- [http://careers.stackoverflow.com/janosgyerik](http://careers.stackoverflow.com/janosgyerik)
+- LinkedIn --- [@janosgyerik](https://www.linkedin.com/in/janosgyerik/)
 
-  My profile on Careers 2.0 by Stack Overflow.
-  More detailed than a [LinkedIn](http://fr.linkedin.com/in/janosgyerik/) profile,
-  and more relevant for software engineers,
-  highlighting open source projects, Stack Overflow answers,
-  publications, and others.
+  I'm not really active here. I only connect with people I actually know.
+
+- Twitter --- [@janosgyerik](https://twitter.com/janosgyerik) and also [@bashoneliners](https://twitter.com/bashoneliners).
+
+  [@janosgyerik](https://twitter.com/janosgyerik) is my personal account,
+  and the best place to reach out to me to start a conversation.
+  I rarely tweet, only when I see something truly compelling to share.
+
+  On [@bashoneliners](https://twitter.com/bashoneliners) I regularly tweet all new one-liners that land on [bashoneliners.com](https://bashoneliners.com).
 
 - Stack Exchange --- [janos](http://stackexchange.com/users/322516)
 
-  I answer questions on the [Stack Overflow](http://stackoverflow.com/users/641955/janos) network,
-  especially on [Code Review](http://codereview.stackexchange.com/users/12390/janos),
-  where I was an elected moderator in 2015-2018.
+  I used to be active on [Stack Overflow](http://stackoverflow.com/users/641955/janos) (100k+)
+  and even more on [Code Review](http://codereview.stackexchange.com/users/12390/janos) (100k+),
+  where I used to be an elected moderator in 2015-2018.
 
   <a href="http://stackexchange.com/users/322516/janos"><img src="http://stackexchange.com/users/flair/322516.png" width="208" height="58" alt="profile for janos on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for janos on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-- Codementor --- [https://www.codementor.io/janosgyerik](https://www.codementor.io/janosgyerik)
+- GitHub --- [@janosgyerik](https://github.com/janosgyerik)
 
-  I help programmers with programming and ops questions in one-on-one mentoring sessions on Codementor.
+  I share most of my code openly, because why not. Some have a few-hundred stars, but nothing major.
+
+- Codementor --- [@janosgyerik](https://www.codementor.io/janosgyerik)
+
+  I'm not really active here anymore.
+  I used to help programmers with programming and devops questions in one-on-one mentoring sessions.
 
   <a href="https://www.codementor.io/janosgyerik?utm_source=github&utm_medium=button&utm_term=janosgyerik&utm_campaign=github"><img src="https://cdn.codementor.io/badges/book_session_github.svg" alt="Book session on Codementor" style="max-width:100%" /></a>
 
-- GitHub --- [https://github.com/janosgyerik](https://github.com/janosgyerik)
+- Blog --- [http://janosgyerik.com/blog](http://janosgyerik.com/blog)
 
-  My recent open-source work is hosted on GitHub.
-
-- I tweet as [@janosgyerik](https://twitter.com/janosgyerik) and [@bashoneliners](https://twitter.com/bashoneliners).
-
-- I blog on [http://janosgyerik.com/blog](http://janosgyerik.com/blog)
-
-  This is my *journal of daily hacks*:
-  when I figure out how to do something a bit tricky,
-  I write it down so I don't have to re-re-re-research it again and again.
-
-- [Apps](apps) ---
-  Simple, practical Android apps.
-
-- [Websites](websites) ---
-  Simple, practical websites.
-
-- [Writing](writing) ---
-  Professional writings published here and there.
+  This is my *journal of daily hacks*, a generally very impersonal and dry blog.
+  When I figure out how to do something a bit tricky,
+  I write it down so I don't have to re-research it again and again.
 
 - [SSH public keys](https://github.com/janosgyerik.keys)
 
