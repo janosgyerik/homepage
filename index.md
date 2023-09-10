@@ -12,7 +12,7 @@ I'm passionate about high quality software, domain driven design, and agile.
 
 I run [bashonerliners.com](https://www.bashoneliners.com),
 a collection of high-quality Bash one-liners and snippets with detailed explanations.
-I regularly tweet all new one-liners that land on the site.
+I regularly tweet at [@bashoneliners](https://twitter.com/bashoneliners) all new one-liners that land on the site.
 
 - LinkedIn --- [@janosgyerik](https://www.linkedin.com/in/janosgyerik/)
 
