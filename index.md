@@ -8,21 +8,22 @@ tagline: Journal of a coder
 I like to code and I do it a lot.
 I want to work in green energy or health someday.
 I believe that great software could make a big difference, everywhere, always.
-I'm passionate about high quality software, both in design and in implementation.
+I'm passionate about high quality software, domain driven design, and agile.
+
+I run [bashonerliners.com](https://www.bashoneliners.com),
+a collection of high-quality Bash one-liners and snippets with detailed explanations.
+I regularly tweet all new one-liners that land on the site.
 
 - LinkedIn --- [@janosgyerik](https://www.linkedin.com/in/janosgyerik/)
 
-  I'm not really active here. I only connect with people I actually know.
+  I'm not really active here, and I only connect with people I actually know.
 
-- Twitter --- [@janosgyerik](https://twitter.com/janosgyerik) and also [@bashoneliners](https://twitter.com/bashoneliners).
+- Twitter --- [@janosgyerik](https://twitter.com/janosgyerik)
 
-  [@janosgyerik](https://twitter.com/janosgyerik) is my personal account,
-  and the best place to reach out to me to start a conversation.
+  This is my personal account, the best place to reach out to me and start a conversation.
   I rarely tweet, only when I see something truly compelling to share.
 
-  On [@bashoneliners](https://twitter.com/bashoneliners) I regularly tweet all new one-liners that land on [bashoneliners.com](https://bashoneliners.com).
-
-- Stack Exchange --- [janos](http://stackexchange.com/users/322516)
+- Stack Exchange --- [@janos](http://stackexchange.com/users/322516)
 
   I used to be active on [Stack Overflow](http://stackoverflow.com/users/641955/janos) (100k+)
   and even more on [Code Review](http://codereview.stackexchange.com/users/12390/janos) (100k+),
@@ -34,12 +35,12 @@ I'm passionate about high quality software, both in design and in implementation
 
   I share most of my code openly, because why not. Some have a few-hundred stars, but nothing major.
 
-- Codementor --- [@janosgyerik](https://www.codementor.io/janosgyerik)
+- Codementor --- [@janosgyerik](https://www.codementor.io/@janosgyerik?refer=homepage)
 
   I'm not really active here anymore.
   I used to help programmers with programming and devops questions in one-on-one mentoring sessions.
 
-  <a href="https://www.codementor.io/janosgyerik?utm_source=github&utm_medium=button&utm_term=janosgyerik&utm_campaign=github"><img src="https://cdn.codementor.io/badges/book_session_github.svg" alt="Book session on Codementor" style="max-width:100%" /></a>
+  <a href="https://www.codementor.io/@janosgyerik?refer=badge"><img src="https://cdn.codementor.io/badges/book_session_github.svg" alt="Book session on Codementor" style="max-width:100%" /></a>
 
 - Blog --- [http://janosgyerik.com/blog](http://janosgyerik.com/blog)
 
